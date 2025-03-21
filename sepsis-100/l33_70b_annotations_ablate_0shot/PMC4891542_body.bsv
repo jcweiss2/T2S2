@@ -1,0 +1,42 @@
+mild dyspnea | 0
+adenoid cystic carcinoma in the carina | 0
+carinal resection and reconstruction | 0
+general anesthesia | 0
+tracheal intubation | 0
+right lateral position | 0
+left bronchi and vasculature dissection | 0
+right OLV | 0.33
+PaO2 462 mmHg | 0.33
+FIO2 1.0 | 0.33
+single-lumen endotracheal tube replacement | 0.33
+bronchial blocker placement | 0.33
+left lateral position | 0.67
+left OLV | 0.67
+peak airway pressure 28 cmH2O | 0.67
+PaO2 110 mmHg | 0.67
+FIO2 1.0 | 0.67
+carinal resection | 1
+LMB resection | 1
+airway pressure increase to 35 cmH2O | 1
+SpO2 decrease to 70% | 1
+two-lung ventilation | 1.17
+SpO2 restoration to 100% | 1.17
+RMB resection | 1.33
+anastomosis of RMB and trachea | 1.5
+no air leak at 20 cmH2O | 1.5
+left lung removal | 1.67
+right hemithorax closure | 2
+non-dependent right OLV | 2
+SpO2 decrease below 80% | 2.17
+two-lung ventilation | 2.33
+SpO2 decrease below 90% | 2.5
+left pulmonary artery clamping | 2.67
+SpO2 maintenance at 100% | 3
+left main pulmonary artery ligation | 3
+right thoracotomy closure | 3.33
+PaO2 360 mmHg | 4
+FIO2 1.0 | 4
+left thoracotomy | 4.33
+left pneumonectomy | 5
+tracheal extubation | 6
+patient discharge | 312

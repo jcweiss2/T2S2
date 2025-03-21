@@ -1,0 +1,51 @@
+event,time
+Here is the table of events and timestamps:,
+79 years old ,0.0
+male ,0.0
+hypertension ,0.0
+ischemic heart disease ,0.0
+scheduled for elective TAVR ,0.0
+severe symptomatic aortic stenosis ,0.0
+coronary artery bypass graft surgery ,-11.0
+mitral valve repair ,-11.0
+transthoracic echocardiography ,-11.0
+aortic valve area 0.6 cm2 ,-11.0
+transvalvular max and mean gradients 61 and 33 mm Hg ,-11.0
+left ventricular ejection fraction 45% ,-11.0
+right transcarotid approach ,0.0
+fluoroscopic and transesophageal echocardiographic guidance ,0.0
+TAVR procedure ,0.0
+TAVR procedure duration 1 hour ,1.0
+SAPIEN 3 valve deployed ,1.0
+postprocedural TEE ,1.0
+prosthesis in good position ,1.0
+no visible paravalvular leak ,1.0
+gastric aspiration with orogastric tube ,1.0
+blood-tinged secretions ,1.0
+extubated in the operating room ,1.0
+transferred to the intensive care unit ,1.0
+progressive chest pain ,2.0
+shivering ,2.0
+computed tomography (CT) ,2.0
+pneumomediastinum ,2.0
+right hydropneumothorax ,2.0
+esophageal perforation suspected ,2.0
+right thoracic drain inserted ,2.0
+serosanguinous liquid drained from the pleural space ,2.0
+300 milliliters ,2.0
+esophagogastroscopy ,2.0
+4-cm vertical perforation of the middle third of the esophagus ,2.0
+returned to the operating room ,9.0
+right thoracotomy and repair of an esophageal perforation ,9.0
+lysis of extensive pleural adhesions ,9.0
+esophageal laceration site ,9.0
+large vertebral osteophyte ,9.0
+primary closure of the esophageal wall in two layers ,9.0
+intercostal muscular flap mobilized ,9.0
+three thoracic drains left in place ,9.0
+transferred to the intensive care unit ,9.0
+pneumonia ,9.0
+severe delirium ,9.0
+congestive heart failure with pulmonary edema ,9.0
+withdrawal of care ,30.0
+death ,30.0

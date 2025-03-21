@@ -1,0 +1,71 @@
+event,time
+Here is the table of events and timestamps:,
+age ,65.0
+sex ,0.0
+admitted to the hospital ,0.0
+history of shortness of breath ,-4.0
+fever ,-4.0
+cough ,-4.0
+fatigue ,-4.0
+oxygen saturation (SpO2) ,-4.0
+breath sounds reduced in the lower segments of the lungs ,-4.0
+nasopharyngeal SARS-CoV-2 RT-PCR test positive ,-4.0
+white cell count ,-4.0
+hemoglobin ,-4.0
+platelet count ,-4.0
+Westergren ESR ,-4.0
+interleukine 6 ,-4.0
+С-reactive protein ,-4.0
+ferritin ,-4.0
+D-dimer ,-4.0
+procalcitonin ,-4.0
+treated with dexamethason ,-4.0
+treated with heparin ,-4.0
+treated with tocilizumab ,-4.0
+treated with acetylcysteine ,-4.0
+treated with pantoprazole ,-4.0
+treated with nadroparin calcium ,-4.0
+oxygen supplementation ,-4.0
+chest CT scans ,-4.0
+bilateral peripheral ground-glass attenuation and patchy consolidation ,-4.0
+lung involvement 60%-70% ,-4.0
+positive for SARS-CoV-2 ,-4.0
+negative SARS-CoV-2 test result ,-21.0
+symptoms worsened ,-21.0
+increased temperature ,-21.0
+oxygen saturation (SpO2) decreased to 90% ,-21.0
+treated with linezolid ,-21.0
+treated with imipenem/cilastatin ,-21.0
+daily drainage volume ,-21.0
+pleural effusion with gas bubbles ,-21.0
+focal area of subpleural infiltration with a central cavity of destruction ,-21.0
+air layer up to 47 mm of anteroposterior thickness ,-21.0
+pleural effusion with 25 mm of anteroposterior depth ,-21.0
+air layer up to 19 mm of anteroposterior thickness ,-21.0
+multiple bilateral ground glass infiltrates ,-21.0
+pleural fluid analysis ,-21.0
+exudative lymphocytic-rich effusion ,-21.0
+no growth of acid-fast bacteria (AFB) ,-21.0
+Acinetobacter baumannii cultured ,-21.0
+Pseudomonas aeruginosa cultured ,-21.0
+Klebsiella pneumonia in urine culture ,-21.0
+needle thoracocentesis and new pleural drainage ,-21.0
+air and creamy purulent mass aspirated ,-21.0
+serofibrinous hemorrhagic fluid drawn daily ,-21.0
+chest CT showed air and pleural effusion in the right hemithorax ,-21.0
+diagnosis of pleural empyema ,-21.0
+transferred to the Surgical Department ,-21.0
+right pleural space irrigated with antiseptic solutions ,-21.0
+lung expansion by continuous vacuum aspiration technique ,-21.0
+encapsulated pleural effusion identified ,-16.0
+ultrasound-guided puncture of the effusion ,-16.0
+new drainage of the pleural cavity ,-16.0
+chest CT showed the presence of the encapsulated pleural effusion ,-16.0
+treated with colistimethatum natrium ,-16.0
+treated with imipenem/cilastatin ,-16.0
+discharged from the hospital ,24.0
+oxygen saturation (SpO2) 97% on room air ,24.0
+chest CT showed a small amount of fluid in the right pleural cavity ,24.0
+lab test scores returned to normal range ,24.0
+С-reactive protein 11.7 mg/l ,24.0
+procalcitonin < 0.1 ng/ml ,24.0

@@ -1,0 +1,73 @@
+event,time
+Here is the extracted table of clinical events and timestamps:,
+62 years old ,0.0
+male ,0.0
+admitted to the hospital ,0.0
+bilateral otalgia ,-120.0
+Glasgow Coma Scale (GCS) score 8 ,-120.0
+CRS with nasal polyposis ,-672.0
+functional endoscopic sinus surgery (FESS) with nasal polypectomy ,-672.0
+chronic obstructive pulmonary disease ,0.0
+hypertension ,0.0
+glaucoma ,0.0
+right sided keratoconus treated with a previous corneal graft ,0.0
+hypercholesterolaemia ,0.0
+beclomethasone/formoterol inhaler ,0.0
+salbutamol inhaler ,0.0
+amlodipine ,0.0
+simvastatin ,0.0
+beclometasone dipropionate nasal spray ,0.0
+tachypnoeic ,0.0
+tachycardic ,0.0
+pyrexial ,0.0
+Glasgow Coma Scale (GCS) score 11 ,0.0
+bilateral green purulent rhinorrhea ,0.0
+bilateral proptosis ,0.0
+right sided chemosis ,0.0
+flexible nasendoscopy (FNE) ,0.0
+raised CRP ,0.0
+raised white cell count ,0.0
+raised neutrophil count ,0.0
+low lymphocyte count ,0.0
+raised lactate ,0.0
+pus aspirates collected from both nasal cavities ,0.0
+Streptococcus pneumoniae isolated ,0.0
+contrast-enhanced computed tomography (CT) of the head and sinuses ,1.0
+opacification of the paranasal sinuses ,1.0
+bony erosion of the lateral walls of both ethmoid sinuses ,1.0
+soft tissue bulging into the right orbit ,1.0
+bilateral proptosis ,1.0
+no intracranial abnormality ,1.0
+increasingly combative ,2.0
+confused ,2.0
+aversion to light ,2.0
+lumbar puncture ,2.0
+pale cloudy fluid ,2.0
+extremely cellular specimen ,2.0
+high protein ,2.0
+low glucose ,2.0
+Streptococcus pneumoniae isolated ,2.0
+treatment for sepsis and presumed meningitis initiated ,2.0
+intravenous ceftriaxone ,2.0
+fluticasone nasal spray ,2.0
+xylometazoline hydrochloride nasal spray ,2.0
+regular saline nasal irrigation ,2.0
+admitted to the critical care unit (CCU) ,2.0
+intubated and ventilated ,12.0
+extubated ,192.0
+completed 10-day course of intravenous antibiotics ,240.0
+discharged home ,312.0
+follow-up with the critical care and ENT teams ,312.0
+prescribed betamethasone nasal drops ,312.0
+prescribed fluticasone nasal spray ,312.0
+regular saline nasal irrigation ,312.0
+recovered well ,744.0
+returned to work full time ,744.0
+vivid memories of stay on CCU ,744.0
+no signs of post-traumatic stress disorder ,744.0
+managed medically as an outpatient by the ENT team ,744.0
+"contrast-enhanced magnetic resonance imaging (MRI) of the brain, orbits and postnasal space ",1032.0
+extensive bilateral ethmoid polyposis ,1032.0
+hypertrophied inferior turbinates ,1032.0
+left sided smooth dural enhancement ,1032.0
+Aspergillus and Alternaria specific IgE levels within normal range ,1032.0

@@ -1,0 +1,73 @@
+event,time
+Here is the table of events and timestamps:,
+18 years old ,0.0
+male ,0.0
+admitted to the hospital ,0.0
+fever ,-72.0
+rash ,-72.0
+urinary tract infection ,-120.0
+empirically started on cephalexin ,-120.0
+urine analysis was positive for large leukocyte esterase and bacteria ,-120.0
+culture grew Escherichia coli ,-120.0
+prescribed cephalexin 500 mg three times daily ,-120.0
+started to develop an extensive erythematous rash ,-96.0
+rash developed into sloughing of the skin ,-96.0
+discontinued cephalexin ,-96.0
+transferred to a local burn intensive care unit ,-96.0
+chronic obstuctive pulmonary disease ,-672.0
+type 2 diabetes ,-672.0
+coronary artery disease ,-672.0
+hypertension ,-672.0
+hypothyroidism ,-672.0
+depression ,-672.0
+end-stage renal disease ,-672.0
+hemodialysis ,-672.0
+hydrocodone/acetaminophen ,-672.0
+levothyroxine ,-672.0
+escitalopram ,-672.0
+carvedilol ,-672.0
+guaifenesin ,-672.0
+docusate ,-672.0
+calcitriol ,-672.0
+albuterol ,-672.0
+amiodarone ,-672.0
+difficulty swallowing ,0.0
+intubated ,0.0
+toxic epidermal necrolysis syndrome ,0.0
+blood pressure 81/45 mm Hg ,0.0
+respiratory rate 12 breaths/min ,0.0
+temperature 36.8 °C ,0.0
+white blood cell count 1.5 × 10^3/mm^3 ,0.0
+"platelet count 77,000/µL ",0.0
+serum creatinine 2.12 mg/dL ,0.0
+venous serum lactate 3.1 mmol/L ,0.0
+oxygen saturation 99% on 6 L O2 ,0.0
+pain 9/10 ,0.0
+urine culture from a newly placed indwelling Foley catheter ,0.0
+chest radiograph revealed right pleural effusion with right lower and left basilar opacities ,0.0
+intubated ,0.0
+norepinephrine and vasopressin drips for pressure support ,0.0
+albumin 25% continuous infusion ,0.0
+Lactated Ringer’s 300 mL/h ,0.0
+tetanus–diphtheria toxoids vaccine intramuscularly ,0.0
+gentamicin 120 mg IV ,0.0
+fluconazole 100 mg IV ,0.0
+WBC 5.4 × 10^3/mm^3 ,48.0
+SCr 1.98 mg/dL ,48.0
+venous serum lactate 1.8 mmol/L ,48.0
+random serum gentamicin level 2.4 mg/dL ,48.0
+gentamicin 120 mg IV ,72.0
+supportive continuous renal replacement therapy ,72.0
+fluconazole 200 mg IV every 24 h ,72.0
+Gram’s stain of the tracheal aspirate ,72.0
+heavy growth of pleomorphic Gram-negative rods and diphtheroid-like Gram-positive rods ,72.0
+wide complex tachycardia ,96.0
+amiodarone restarted ,96.0
+gentamicin held ,96.0
+"sloughing of skin over his back, chest, upper extremities, abdomen, bilateral thighs, and buttocks ",120.0
+culture and sensitivity results of the tracheal aspirate ,120.0
+Pseudomonas aeruginosa ,120.0
+"sensitive to all anti-pseudomonal beta-lactams as well as gentamicin, tobramycin, amikacin, and colistin ",120.0
+another 120 mg dose of gentamicin ,120.0
+random gentamicin level returned under 2 mg/dL ,120.0
+expired ,144.0

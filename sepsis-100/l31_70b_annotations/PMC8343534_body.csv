@@ -1,0 +1,64 @@
+event,time
+Here is the extracted table of clinical events and timestamps:,
+64 years old ,0.0
+female ,0.0
+admitted to the hospital ,0.0
+severe headache ,0.0
+right periorbital and mid-facial swelling ,0.0
+fever ,-336.0
+headache ,-336.0
+light pain in the right ear ,-336.0
+purulent secretion from the ear ,-336.0
+swelling and redness of the skin behind the right ear ,-336.0
+tinnitus ,-336.0
+hearing disorder ,-336.0
+diagnosed with right acute mastoiditis ,-336.0
+treated with Amoxicillin ,-336.0
+treated with painkillers ,-336.0
+treated with anti-inflammatory drugs ,-336.0
+symptoms improved slightly ,-336.0
+severe headache ,-192.0
+anorexia ,-192.0
+high fever ,-192.0
+confusion ,-192.0
+presented a medical history of arterial hypertension ,0.0
+treated with ACE inhibitors ,0.0
+marked right facial and periorbital swelling ,0.0
+right blepharoptosis ,0.0
+chemosis ,0.0
+proptosis ,0.0
+visual acuity of 7/12 on her right eye ,0.0
+no visual fields abnormalities ,0.0
+normal intraocular pressures ,0.0
+no relative afferent pupillary defect ,0.0
+normal color vision ,0.0
+no signs of optic disc swelling ,0.0
+febrile ,0.0
+conscious but somnolent ,0.0
+no other neurological deficits ,0.0
+normal cardiovascular examination ,0.0
+normal respiratory examination ,0.0
+elevated inflammatory parameters ,0.0
+normal renal and liver functions ,0.0
+prothrombin G20210A mutation ,0.0
+normal coagulation profile ,0.0
+normal urinalysis ,0.0
+non-opacification of the right cavernous sinus on MRI ,0.0
+received empirically high-dose intravenous Ceftriaxone ,0.0
+received anticoagulation with Enoxaparin ,0.0
+blood cultures positive for Streptococcus pneumoniae ,48.0
+continued antibiotic treatment ,48.0
+developed shortness of breath ,96.0
+reduced oxygen saturation ,96.0
+diagnosed with right lobar pneumonia ,96.0
+referred to the Intensive Care Unit ,96.0
+needed non-invasive mechanical ventilation ,96.0
+antibiotics changed to Amikacin and Piperacillin-Tazobactam ,96.0
+improved symptoms ,120.0
+transferred back to the Service ,168.0
+control contrast-enhanced magnetic resonance angiography ,168.0
+persistence of the lacunar image in the right cavernous sinus ,168.0
+ophthalmological symptoms improved ,168.0
+periorbital swelling diminished ,168.0
+discharged ,336.0
+oral anticoagulant with Acenocoumarol ,336.0

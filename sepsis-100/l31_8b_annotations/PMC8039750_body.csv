@@ -1,0 +1,36 @@
+event,time
+Here is the table of events and timestamps:,
+66 years old ,0.0
+male ,0.0
+diabetes ,-672.0
+obesity ,-672.0
+colonoscopy ,0.0
+positive fecal immunochemical test result ,0.0
+polyps ,0.0
+endoscopic mucosal resection ,0.0
+hot snare ,0.0
+preventive hemoclips ,0.0
+discharged ,0.0
+right abdominal pain ,24.0
+tenderness ,24.0
+rebound tenderness ,24.0
+white blood cell count ,24.0
+C-reactive protein level ,24.0
+blood urea nitrogen level ,24.0
+creatinine ,24.0
+lactic acid ,24.0
+total bilirubin ,24.0
+abdominopelvic computed tomography ,24.0
+multiple air bubbles in the right lateral abdominal muscles ,24.0
+severe infection ,24.0
+broad-spectrum antibiotic therapy ,24.0
+emergency exploratory laparotomy ,44.0
+laparoscopic right hemicolectomy ,44.0
+multiple-organ failure ,44.0
+metabolic acidosis ,44.0
+diagnosis of NF of the abdominal wall muscle ,48.0
+surgical debridement and drainage ,48.0
+imipenem-resistant Acinetobacter baumannii ,72.0
+extended spectrum beta-lactamase negative Escherichia coli ,72.0
+septic shock ,1008.0
+death ,1008.0
