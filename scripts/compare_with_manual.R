@@ -226,7 +226,7 @@ match.tbl %>% select(common.files, pilot.files, pilot.names, man.join.match.join
     rename(Version=pilot.names) %>% 
     filter(keep) %>% #nest(data=-file.name)
     mutate(ae = abs(as.numeric(time.pilot)-as.numeric(time))) %>%
-    mutate(lae = ifelse(is.na(ae), max(ae,na.rm=T)+1,ae+1)) %>%    select(Version, lae) %>%
+    mutate(lae = ifelse(is.na(ae), exp(upper_limit)+1,ae+1)) %>%    select(Version, lae) %>%
     nest(data=-Version) %>%
     mutate(auc = map_dbl(data,
         ~ .x %>% select(field=lae) %>% mutate(field=log(field)) %>%
@@ -332,7 +332,7 @@ match.tbl %>% select(common.files, pilot.files, pilot.names, man.join.match.join
     rename(Version=pilot.names) %>% 
     filter(keep) %>% #nest(data=-file.name)
     mutate(ae = abs(as.numeric(time.pilot)-as.numeric(time))) %>%
-    mutate(lae = ifelse(is.na(ae), max(ae,na.rm=T)+1,ae+1)) %>%
+    mutate(lae = ifelse(is.na(ae), exp(upper_limit)+1,ae+1)) %>%
     mutate(Version = fct_relevel(Version, sort(levels(Version)))) %>%
     mutate(Version = fct_relevel(Version, levels(Version)[c(2,1,3,4)])) %>%
     mutate(Version = fct_recode(Version,
