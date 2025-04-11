@@ -1,0 +1,46 @@
+81 years old | 0
+male | 0
+admitted to hospital | 0
+faeculent vomiting | -24
+change in bowel habit | -504
+right-sided rib pain | -24
+right-sided hip pain | -24
+opiate analgesia | -24
+unintentional weight loss | -24
+atrial fibrillation | -10560
+hypertension | -10560
+laparoscopic cholecystectomy | -10560
+gallstone disease | -10560
+bile spillage | -10560
+stone debris spillage | -10560
+abdominal distension | 0
+generalized abdominal pain | 0
+right flank peritonitis | 0
+right upper quadrant peritonitis | 0
+absent bowel sounds | 0
+empty rectum | 0
+high leucocyte count | 0
+C-reactive protein elevation | 0
+dilated loops of proximal small bowel | 0
+faecal loading | 0
+no pneumoperitoneum | 0
+right sub-hepatic multiloculated collection | 0
+generalized pneumobilia | 0
+emergency laparotomy | 0
+no perforation | 0
+purulent right upper quadrant collection | 0
+microbiological culture | 0
+significant sepsis | 0
+intensive care admission | 0
+broad-spectrum antibiotic therapy | 0
+inotropic support | 0
+A. israelii isolation | 192
+tazobactam and piperacillin treatment | 192
+intravenous Tazocin | 192
+discharged home | 336
+oral penicillin | 336
+raised inflammatory markers | 336
+extra-luminal fluid collection | 1344
+ultrasound-guided drainage | 1344
+further oral penicillin course | 1344
+full recovery | 1344

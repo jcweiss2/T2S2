@@ -1,0 +1,59 @@
+86 years old | 0
+    male | 0
+    peripheral arterial disease | -24000
+    hip replacement surgery | -24000
+    abdominal pain (hypogastrium) | -240
+    burning sensation while urinating | -240
+    asthenia | -240
+    anorexia | -240
+    weight loss (10 kg in 15 days) | -240
+    significant dehydration | 0
+    soft abdomen | 0
+    hypogastric tenderness | 0
+    palpable mass | 0
+    full bladder (800 cm3) | 0
+    urinary catheterization | 0
+    purulence | 0
+    hematuria | 0
+    inflammatory syndrome | 0
+    CRP 378 mg/L | 0
+    leukocytes 107,000/mm3 (neutrophil predominant) | 0
+    Procalcitonin 16 ng/mL |!0
+    acute renal failure (KDIGO III) | 0
+    hyperkalemia 6.86 mmol/l | 0
+    creatinine 1000 μmol/L | 0
+    non-injected abdominopelvic CT scan | 0
+    acute pancreatitis (unclassified) | 0
+    circumferential parietal thickening of bladder | 0
+    inflammatory infiltration of perivesical fat | 0
+    air within bladder wall and lumen (emphysematous cystitis) | 0
+    double antibiotic therapy (ceftriaxone + amikacin) | 0
+    hydration | 0
+    hypotension (84/47 mmHg) | 0
+    tachycardia (112 bpm) | 0
+    respiratory rate 19/min | 0
+    oxygen saturation 96% | 0
+    physiological saline (2 L) | 0
+    transfer to intensive care | 0
+    urosepsis | 0
+    organic acute renal insufficiency | 0
+    new abdominopelvic CT scan (portal time injection) | 24
+    absence of parietal enhancement on left bladder dome (5 cm) | 24
+    necrosis | 24
+    bladder perforation | 24
+    presence of gas in anterior bladder wall and retropubic space | 24
+    unclassified pancreatitis | 24
+    transfer to operating room | 24
+    Fresh Frozen Plasma (2 units) | 24
+    exploratory laparotomy | 24
+    cystoscopy | 24
+    generalized contracture | 24
+    perforated bladder | 24
+    no apparent bladder tumor | 24
+    necrotic areas of bladder | 24
+    pus throughout posterior aspect | 24
+    necrosis on bladder dome | 24
+    total cystectomy | 24
+    admission to intensive care unit | 24
+    pulmonary embolism | 480
+    

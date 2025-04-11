@@ -1,0 +1,90 @@
+19 years old | 0
+female | 0
+admitted to the hospital | 0
+impaired consciousness | 0
+social drinker | 0
+no specific medication history | 0
+no significant travel history | 0
+unremarkable past medical history | 0
+frequent diarrhea | -8760
+abdominal pain | -8760
+diarrheal symptom progressively worsened | -1440
+high fever | -72
+headache | -72
+myalgia | -72
+unstable vital signs | 0
+blood pressure 70/40 mm Hg | 0
+pulse rate 130 beats/min | 0
+body temperature 41.0℃ | 0
+respiratory rate 35/min |#1
+mental status stuporous | 0
+abdomen diffusely tender | 0
+abdomen distended | 0
+no palpable mass | 0
+white blood cell count 21,440/mm3 | 0
+neutrophil 92% | 0
+hemoglobin 13.4 g/dL | 0
+platelet 332,000/µL | 0
+urea 10 mg/dL | 0
+creatinine 1.1 mg/dL | 0
+C-reactive protein 92.9 mg/L | 0
+elevated cardiac troponin I | 0
+elevated creatine kinase-MB | 0
+negative HIV antibody | 0
+negative HBsAg | 0
+negative HCV antibody | 0
+negative anti-nuclear antibody | 0
+unremarkable blood culture | 0
+unremarkable urine culture | 0
+unremarkable stool examination | 0
+sinus tachycardia on ECG | 0
+interstitial pulmonary edema on chest radiograph | 0
+dilated ventricles on echocardiogram | 0
+akinesia of basal to apical inferoseptal | 0
+akinesia of anteroseptal | 0
+akinesia of anterior LV wall | 0
+akinesia of inferior LV wall | 0
+severely impaired systolic function | 0
+ejection fraction 38% | 0
+fulminant myocarditis diagnosis | 0
+acute LV failure diagnosis | 0
+active inflammatory wall thickening in distal ileum | 0
+active inflammatory wall thickening in sigmoid colon | 0
+associated mesenteric hyperemia | 0
+intervening normal ileum segments | 0
+admitted to ICU | 0
+intubation | 0
+ventilator care | 0
+intravenous hydration | 0
+inotropic support with dopamine | 0
+inotropic support with noradrenaline | 0
+inotropic support with dobutamine | 0
+clinical condition improved | 24
+intubation tube removed | 24
+cardiac troponin I decreased to 0.857 ng/mL | 24
+viral antibody titers checked | 24
+coxsackie virus A4 low positive | 24
+coxsackie virus A16 low positive | 24
+coxsackie virus B1 low positive | 24
+coxsackie virus B3 low positive | 24
+adenovirus antibody low positive | 24
+coxsackie virus B4 high positive | 24
+follow-up echocardiogram 1 week later | 168
+LV systolic function markedly improved | 168
+ejection fraction 62% | 168
+discharged | 240
+angiotensin-converting enzyme inhibitors prescribed | 240
+colonoscopy performed four weeks later | 672
+ulceration with stenosis in terminal ileum | 672
+multiple aphthous ulcers in rectum | 672
+non-caseating granulomatous inflammation on biopsy | 672
+Crohn's disease diagnosis | 672
+Crohn's disease activity index 177 | 672
+oral steroids started | 672
+mesalazine started | 672
+abdominal pain improved | 672
+diarrhea improved | 672
+maintenance therapy with mesalazine | 672
+maintenance therapy with azathioprine | 672
+six months later coxsackie virus B4 antibody titer unchanged | 4320
+myocarditis not caused by coxsackie virus infection | 4320

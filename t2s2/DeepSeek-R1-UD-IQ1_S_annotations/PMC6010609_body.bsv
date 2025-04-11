@@ -1,0 +1,26 @@
+61 years old | 0
+    male | 0
+    persistent productive cough | -3600
+    chills | -3600
+    fever | -3600
+    aminophylline | -3600
+    deflazacort | -3600
+    formoterol + budesonide fumarate | -3600
+    amoxicillin + clavulanate potassium | -3600
+    clarithromycin | -3600
+    elevated C-reactive protein | 0
+    leukocytosis | 0
+    segmented 85% | 0
+    lymphopenia | 0
+    BSR elevation | 0
+    centrilobular nodular opacities left lower lobe | 0
+    bronchi with thickened walls | 0
+    facial glass nodular opacities apicoposterior segment upper left lobe | 0
+    small sparse non-calcified nodular opacities bilaterally | 0
+    opacity in fibroatelectasic range medial segment middle lobe | 0
+    absence of lymphadenomegaly | 0
+    absence of pleural effusion | 0
+    Stenotrophomonas maltophilia infection | 0
+    levofloxacin | 0
+    sulfamethoxazole/trimethoprim | 0
+    resolved cough | 360

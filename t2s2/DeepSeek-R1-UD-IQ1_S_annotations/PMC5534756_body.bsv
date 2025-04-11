@@ -1,0 +1,122 @@
+75 years old | 0
+    male | 0
+    admitted to the hospital | 0
+    chronic heart insufficiency | 0
+    dual chamber (DDD type) pacemaker implanted | -70080
+    intermittent symptomatic atrioventricular blockage | -70080
+    arterial hypertension | 0
+    type 2 diabetes mellitus | 0
+    chronic renal insufficiency | 0
+    polyneuropathy | 0
+    progressive dyspnoea | -96
+    antibiotics | -96
+    clinical suspicion of pneumonia | -96
+    elevated inflammatory markers (C reactive protein, leucocytes) | -96
+    furosemide | -96
+    high admission brain natriuretic peptide | -96
+    progression of respiratory insufficiency | -36
+    transferred to the intensive care department (ICU) | -36
+    conscious | 0
+    cooperative | 0
+    tachypnoeic | 0
+    peripheral saturation of 85% on 10 L/min O2 via Hudson mask | 0
+    normotensive (130/70 mm Hg) | 0
+    atrial fibrillation (AF) | 0
+    VVI pacing to 70 bpm | 0
+    negative cardiac biochemistry (troponin I, CK-MB mass, myoglobin) | 0
+    transthoracic echocardiography (TTE) | 0
+    congestive heart failure | 0
+    hypokinetic anteroseptal left ventricular (LV) wall | 0
+    hypokinetic apex | 0
+    ejection fraction (EF) of 38% | 0
+    moderate mitral regurgitation (MR) | 0
+    dilated left atrium (LA) | 0
+    mild aortic regurgitation (AR) | 0
+    moderately dilated right ventricle (RV) | 0
+    tricuspid annular plane systolic excursion (TAPSE) of 23 mm | 0
+    moderate tricuspid regurgitation | 0
+    estimated right-sided pleural effusion of 300–400 mL | 0
+    cardiac output (CO) of 3.5 L/min | 0
+    non-invasive ventilation (PSV 10 mbar, PEEP 6 mbar, FiO2 0.60) | 0
+    diuretics (furosemide continuous infusion 3–5 mg/hour) | 0
+    VVI pacing reset to 90 bpm | 0
+    limited aeration of the right lower lobe with bronchial breathing | 36
+    intubated for exhaustion | 36
+    bronchoscopy | 36
+    excluded atelectasis | 36
+    confirmed tracheobronchitis | 36
+    bronchoalveolar lavage from the right lower lobe | 36
+    norepinephrine infusion (NAD) started at 0.15 µg/kg/min | 36
+    PSV of 14 cmH2O | 36
+    PEEP of 8 cmH2O | 36
+    FiO2 0.50 | 36
+    vasopressor infusion | 36
+    mechanical ventilation | 36
+    persisting loss of aeration of the right lower lobe | 36
+    TTE on VVI 90/min | 36
+    moderate LV dysfunction | 36
+    regional wall motion abnormalities of the anterior wall and apex | 36
+    moderate-to-severe MR into a dilated LA | 36
+    biplanar LA volume indexed to body surface area 80 mL/m2 | 36
+    AF | 36
+    severely dilated RV | 36
+    moderately decreased contractility | 36
+    dilated right atrium | 36
+    estimated PAPs of 50 mm Hg | 36
+    mild AR | 36
+    stroke volume (SV) of 72 mL | 36
+    CO of 6.4 L/min | 36
+    right pleural fluid estimate of 800–1000 mL | 36
+    right pleural tap performed with 12F drain | 36
+    850 mL of transudate evacuated without active suction | 36
+    tachypnoeic | 48
+    increasing oxygen requirements (FiO2 0.80) | 48
+    no signs of pneumothorax | 48
+    decreased blood pressure | 48
+    decreased urine output | 48
+    control TTE | 48
+    elevated LVEDP (lateral mitral E/e' 12–13) | 48
+    moderate-to-severe MR into a dilated LA | 48
+    CW Doppler-based LAP estimate of 27 mm Hg | 48
+    PAPs increased to 57 mm Hg | 48
+    non-collapsing inferior vena cava | 48
+    decreased SV of 56 mL | 48
+    CO of 5.04 L/min | 48
+    worsening lung congestion | 48
+    systolic heart dysfunction after drainage | 48
+    Re-PE diagnosed | 48
+    congestive heart failure | 48
+    elevated heart filling pressures | 48
+    large fluidothorax | 48
+    acute myocardial infarction excluded | 48
+    negative cardiac biochemistry | 48
+    non-diagnostic 12-lead ECG due to VVI pacing | 48
+    regional wall motion abnormalities | 48
+    pulmonary embolism excluded | 48
+    dilated RV with preserved contractility | 48
+    no signs of acute cor pulmonale | 48
+    no changes in CO2 elimination | 48
+    postcapillary pulmonary hypertension in heart failure | 48
+    respiratory insufficiency due to tracheobronchitis or pneumonia | 48
+    positive inflammatory markers | 48
+    increased bronchial secretions | 48
+    fibreoptic bronchoscopy confirmed tracheobronchitis | 48
+    excluded atelectasis | 48
+    pneumothorax excluded | 48
+    pleural sliding | 48
+    B lines | 48
+    lung pulse | 48
+    dobutamine 5.0 µg/kg/min | 48
+    increased CO | 48
+    improved oxygenation | 48
+    weaned off mechanical ventilation | 72
+    extubated | 72
+    continued on Hudson mask | 72
+    FiO2 0.6 | 72
+    discharged to high dependency unit | 96
+    sufficient expectoration | 96
+    without dobutamine | 96
+    antibiotics | 96
+    NAD 0.08 µg/kg/min | 96
+    VVI 90 bpm | 96
+    discharged on day 19 | 456

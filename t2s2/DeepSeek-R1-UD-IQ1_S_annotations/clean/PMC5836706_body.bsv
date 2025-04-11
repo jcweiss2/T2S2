@@ -1,0 +1,59 @@
+75 years old | 0
+male | 0
+hypertension | 0
+hyperlipidaemia | 0
+nephrolithiasis | 0
+admitted to the emergency department | 0
+right flank pain | -48
+dysuria | -168
+urinary frequency | -168
+received antibiotics | 0
+received fluids | 0
+emergency ureteral stent placement | 12
+acute respiratory distress syndrome | 12
+severe hypoxaemia | 12
+transferred to the intensive care unit | 12
+intubated | 12
+started on vasopressors | 12
+dopamine 2 µg/kg/min | 12
+norepinephrine 1 µg/min | 12
+vasopressin 2.4 units/hour | 24
+lactate 5.35 | 24
+blood pressure improvement | 24
+vasopressors tapered | 24
+IVF continued | 24
+broad-spectrum antibiotics continued | 24
+negative cultures | 24
+bluish discolouration of extremities | 48
+capillary refill >3 seconds | 48
+dopplerable radial pulses | 48
+dopplerable dorsalis pedis pulses | 48
+cool skin | 48
+discontinued dopamine | 48
+gangrenous changes to left hand | 96
+gangrenous changes to bilateral feet | 96
+intravenous argatroban 1.5 µg/kg/min | 96
+dialysis for acidosis | 96
+fluid-filled bullae with gangrenous changes | 216
+discharged to nursing home | 216
+necrosis of both feet | 432
+left heel cellulitis | 432
+treated with intravenous antibiotics | 432
+discharged after 6 days | 432
+left hand digits 1,4,5 dry gangrene | 1440
+amputated left hand digits | 1440
+treated for soft tissue infections | 1440
+intravenous antibiotics for 6 weeks | 1440
+Methicillin-resistant Staphylococcus aureus | 1440
+Pseudomonas | 1440
+dry gangrene of both forefeet | 1440
+dry gangrene of plantar mid-feet | 1440
+bilateral transmetatarsal amputations | 1440
+Veraflow wound VAC application | 1680
+split-thickness skin grafts | 8760
+continuing recovery as outpatient | 8760
+goal of full ambulation | 8760
+depressed | 0
+burden to family | 0
+unable to move | 0
+optimistic about walking | 0

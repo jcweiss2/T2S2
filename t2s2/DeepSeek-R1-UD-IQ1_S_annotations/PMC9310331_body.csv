@@ -1,0 +1,96 @@
+event,time
+49 years old , 0  
+    male , 0  
+    presented to the emergency department , 0  
+    dry cough , -168  
+    shortness of breath , -168  
+    nausea , -168  
+    vomiting , -168  
+    tachypneic , 0  
+    tachycardiac , 0  
+    normotensive , 0  
+    hypoxic (O2 saturation 64% on room air) , 0  
+    tested positive for COVID-19 , 0  
+    admitted , 0  
+    decreasing O2 requirements , 0  
+    developed persistent tachycardia , 264  
+    chest pain (right lateral chest) , 264  
+    diagnosed with pulmonary embolism , 264  
+    diagnosed with RV thrombus , 264  
+    transferred to ICU , 264  
+    transferred back to medicine floor , 336  
+    developed dry cough , 336  
+    increased work of breathing , 336  
+    spiking fevers , 336  
+    re-admitted to ICU , 480  
+    respiratory condition progressively worsened , 576  
+    transferred to tertiary referral center , 576  
+    eight-pack-year smoking history , 0  
+    COVID-19 pneumonia , 0  
+    pre-test probability for PE high , 264  
+    secondary bacterial infection considered , 336  
+    reactivation considered , 336  
+    relapse considered , 336  
+    reinfection considered , 336  
+    second PE considered , 336  
+    RT-PCR positive for COVID-19 , 0  
+    chest X-ray showed diffuse patchy bilateral pulmonary opacities , 0  
+    repeat CXR showed extensive bilateral airspace disease , 240  
+    CXRs showed stable extensive bilateral mixed airspace disease , 336  
+    CTPA showed right lower lobe PE , 264  
+    echocardiogram showed dilated right ventricle with mobile echo density (11x12 mm) , 264  
+    received thrombolytic therapy , 264  
+    repeat echocardiogram revealed resolution of RV thrombus , 336  
+    CTPA showed no evidence of new thrombus , 336  
+    venous duplex ultrasound showed no evidence of new thrombus , 336  
+    patient deteriorated clinically , 480  
+    repeat echocardiogram detected second RV thrombus , 480  
+    repeat venous duplex US detected left gastrocnemius vein DVT , 480  
+    placed on nasal cannula , 0  
+    required non-rebreather mask with 15L O2 , 0  
+    prone positioning , 0  
+    O2 saturation improved (64% to 97%) , 0  
+    started on therapeutic subcutaneous enoxaparin (Day 1) , 0  
+    enrolled in sarilumab clinical trial , 0  
+    given sarilumab twice , 0  
+    given methylprednisolone IV for 8 days , 0  
+    subcutaneous enoxaparin stopped , 264  
+    placed on IV heparin drip , 264  
+    given tissue plasminogen activator (tPA) , 264  
+    continuous tPA infusion for 24h , 264  
+    repeat tPA therapy (additional 50mg IV bolus) , 264  
+    transitioned to apixaban , 264  
+    developed worsening cough , 480  
+    severe work of breathing , 480  
+    tachycardia , 480  
+    fever , 480  
+    leukocytosis , 480  
+    started on levofloxacin IV , 480  
+    transferred back to ICU , 480  
+    required intubation , 480  
+    apixaban switched to argatroban IV , 480  
+    started on empiric broad-spectrum antibiotics (piperacillin-tazobactam + vancomycin IV) , 504  
+    microbiology investigations negative , 504  
+    CRP > 500 mg/L , 504  
+    administered tocilizumab IV , 504  
+    transferred to advanced care facility for venovenous ECMO , 576  
+    RV thrombus enlarged , 600  
+    percutaneous thrombectomy performed , 600  
+    tracheostomy performed , 912  
+    decannulated , 1368  
+    imaging studies showed no new thrombotic events , 1368  
+    septic shock , 1368  
+    percutaneous endoscopic gastrostomy tube placement , 2232  
+    discharged to long-term acute care hospital , 2880  
+    passed away , 2928  
+    no known significant past medical history , 0  
+    negative SARS-CoV-2 RT-PCR multiple times , various times  
+    persistently negative SARS-CoV-2 RT-PCR , various times  
+    no new thrombotic events , various times  
+    no improvement in respiratory status , 576  
+    respiratory condition progressively worsened , 600  
+    could not be weaned off ventilator , 912  
+    decannulated from ECMO , 1368  
+    hospital course complicated with septic shock , 1368  
+    discharged to long-term acute care hospital after 4 months , 2880  
+    passed away 3 days after discharge , 2928  

@@ -1,0 +1,101 @@
+80 years old | 0
+male | 0
+institutionalized | 0
+severe dementia | 0
+status post poliomyelitis | 0
+prior alcohol overconsumption | 0
+epilepsy | 0
+chronic urinary catheter | 0
+admitted to the Emergency Room (ER) | 0
+left groin infection | 0
+scrotal infection | 0
+12-hour history of fever | -12
+increasing drowsiness | -12
+6 hours without passing of urine | -6
+urinary catheter missing | 0
+multiple prior ER visits due to catheter removal | -25920
+auto-removal of catheter 3 months prior | -2160
+urethral stricture | -2160
+instructed to evaluate urine production upon changing diapers | -2160
+drowsy | 0
+blood pressure 90/57 mmHg | 0
+pulse 102/min | 0
+respiratory rate 21/min |3
+oxygen saturation 95% | 0
+afebrile (36.10 C) | 0
+paracetamol given | 0
+swollen left groin | 0
+red left groin | 0
+tender left groin | 0
+swollen scrotum | 0
+red scrotum | 0
+tender scrotum | 0
+swollen perineum | 0
+red perineum | 0
+tender perineum | 0
+no signs of gangrene | 0
+lower abdominal pain | 0
+no peritonitis | 0
+normal rectal examination | 0
+residual urinary volume 580 mL | 0
+serum creatinine 2.0 mg/dL | 0
+CRP 360 mg/L | 0
+serum lactate 5.3 mM | 0
+white blood cell count 14,000 cells/μl | 0
+obstruction in urethra | 0
+suprapubic catheter placement | 0
+blood cultures secured | 0
+urine cultures secured | 0
+treatment with piperacillin-tazobactam | 0
+CT-scan | 0
+swelling in perineum | 0
+swelling in scrotum | 0
+no hernia | 0
+no signs of gas in tissues | 0
+decision to limit care | 0
+decision to exclude from intensive care | 0
+decision not to take to operation room | 0
+admitted to ward | 0
+intravenous antimicrobials | 0
+fluid treatment | 0
+inflamed area frequently examined | 0
+borders marked with pen | 0
+systolic blood pressure fluctuated 70-110 mmHg | 48
+pulse normalized | 48
+no fever | 48
+general condition improved | 48
+inflamed area did not expand | 48
+inflamed area did not darken | 48
+blood cultures negative | 24
+ultrasound showing abscess | 48
+general condition deteriorated | 72
+CRP increased to 523 mg/L | 72
+surgical drainage | 96
+metronidazole given | 72
+scrotal incision | 96
+pus removed | 96
+grey, black, yellow necrotic area | 96
+necrosis from perianal perineum | 96
+necrosis behind left testicle | 96
+necrosis towards left base of penis | 96
+necrosis did not affect skin | 96
+left testicle removed | 96
+incision extended towards left base of penis | 96
+necrotic material removed | 96
+perineal urethra exposed | 96
+necrotic material cleared from urethra | 96
+iatrogenic hole in urethra sutured | 96
+normal rectoscopy | 96
+cranial part of wound closed | 96
+lower part left open | 96
+tissue cultures grew Aerococcus urinae | 96
+antimicrobial sensitivity demonstrated | 96
+patient improved | 216
+daily wound care | 216
+piperacillin-tazobactam treatment for 9 days | 216
+per oral ciprofloxacin initiated | 216
+per oral clindamycin initiated | 216
+wound closed | 216
+cavity with no remnant infection | 216
+discharged | 360
+recovery uneventful | 360

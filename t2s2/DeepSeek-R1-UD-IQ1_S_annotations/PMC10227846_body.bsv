@@ -1,0 +1,55 @@
+40 years old | 0
+    lady | 0
+    presented to the emergency room with diffuse abdominal pain | 0
+    medically and surgically free until 8 days before presentation | -192
+    tested positive for pregnancy | -192
+    reassured and sent back home | -192
+    pain persisted | -96
+    vaginal spotting | -96
+    incomplete abortion | -96
+    D&C performed | -96
+    discharged on antibiotics (metronidazole and ceftriaxone) and analgesia | -72
+    symptoms persisted | 0
+    nausea | 0
+    non-bilious vomiting (10 times a day) | 0
+    abdominal distention | 0
+    physical exam revealed abdominal distention | 0
+    rigidity | 0
+    diffuse tenderness | 0
+    guarding | 0
+    severe and stabbing pain in paraumbilical region | 0
+    uterine perforation suspected | 0
+    CT scan of abdomen and pelvis done | 0
+    uterus appeared slightly bulky without gross mural defects | 0
+    rim-enhancing collection above uterus | 0
+    multiple collections in abdomen and pelvis | 0
+    air-fluid level in right perihepatic region | 0
+    extensive pneumoperitoneum | 0
+    small bowel perforation presumed | 0
+    subtle or partially sealed uterine perforation presumed | 0
+    conservative treatment initiated | 0
+    NPO | 0
+    broad-spectrum antibiotics | 0
+    prophylactic PPI | 0
+    vital signs unremarkable except mild tachycardia | 0
+    pigtail catheter inserted into pelvic collection | 0
+    drained 1.2 L purulent fluid | 0
+    follow-up CT scan with oral contrast | 24
+    0.5 cm mural defect in anterior wall of first part of duodenum | 24
+    extravasation of oral contrast into right perihepatic region | 24
+    perforated stress ulcer diagnosed | 24
+    surgical exploration and repair with omental patch | 24
+    no other areas of bowel perforation detected during surgery | 24
+    mild shortness of breath | 0
+    rapid COVID-19 antigen test negative | 0
+    RT-PCR test positive | 24
+    respiratory team consulted | 24
+    appropriate management plan initiated | 24
+    respiratory condition deteriorated | 72
+    vigorous treatment plan applied | 72
+    patient improved with residual mild tachycardia and tachypnea | 72
+    deteriorated again | 144
+    cardiac arrest | 144
+    died | 144
+    
+    

@@ -1,0 +1,51 @@
+48 years old| 0
+male | 0
+referred to the emergency room | 0
+nausea | -96
+diffuse abdominal pain | -96
+general weakness | -96
+anorexia | -96
+indigestion | -96
+hypertension | -8760
+type II diabetes mellitus | -8760
+hyperthyroidism | -8760
+stopped medications for hypertension | -8760
+stopped medications for diabetes mellitus | -8760
+stopped medications for hyperthyroidism | -8760
+hypoactive bowel sounds | 0
+direct tenderness in the epigastric area | 0
+white blood cell counts 12.5 × 103/µL | 0
+erythrocyte sedimentation rate 38 mm/h | 0
+C-reactive protein 16.93 mg/dL | 0
+free T4 exceeded normal range | 0
+T3 exceeded normal range | 0
+T4 exceeded normal range | 0
+thyroid stimulating hormone below normal range | 0
+peritonitis due to gastric ulcer perforation | 0
+gastric malignancy with suspected peritoneal carcinomatosis | 0
+body temperature increased to 41.3 °C | 48
+thyroid storm score peaked at 90 points | 48
+pulse rate 138/min | 48
+irritable | 48
+Glasgow Coma Scale score E3V1M5 | 48
+severe pain | 48
+oral propylthiouracil 800 mg daily | 48
+propylthiouracil enema 400 mg | 48
+intravenous glucocorticoids 40 mg | 48
+oral acetaminophen 650 mg | 48
+oral Lugol’s solution 1.5 mL | 48
+bladder irrigation with cold saline | 48
+hypothermic blanket application | 48
+increased propylthiouracil dose to 1200 mg/d | 72
+oral propylthiouracil dose fixed at 200 mg q6h | 96
+Lugol’s solution 0.5 mL q8h | 96
+referred to general ward | 216
+administration of oral propylthiouracil 200 mg four times daily | 216
+tapering of glucocorticoid therapy | 216
+vital signs stable | 168
+clear mental status | 96
+oral propylthiouracil decreased to 200 mg three times daily | 360
+discharged | 696
+asymptomatic status | 696
+stable vital signs | 696
+prescribed oral propylthiouracil 200 mg three times daily | 696

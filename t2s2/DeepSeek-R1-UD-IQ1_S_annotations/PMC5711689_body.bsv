@@ -1,0 +1,102 @@
+40 years old | 0
+    male | 0
+    referred to the hospital for paroxysmal atrial fibrillation with palpitation | 0
+    rheumatoid arthritis | -70080
+    immunosuppressive medication | -70080
+    prednisolone (20 mg/day) | -70080
+    hydroxychloroquine (300 mg/day) | -70080
+    failed anti-arrhythmic therapy with flecainide | -768
+    failed anti$arrhythmic therapy with propanone | -768
+    radiofrequency catheter ablation performed | -768
+    general anesthesia with mechanical ventilation | -768
+    3-dimensional navigation system used | -768
+    steerable irrigation tip ablation catheter used | -768
+    electrical isolation of pulmonary veins performed | -768
+    bi-antral ablation | -768
+    bi-carinal ablation | -768
+    esophageal temperature monitoring unavailable | -768
+    intracardiac echocardiography unavailable | -768
+    ablation power set to 30 watts for left atrial anterior wall | -768
+    ablation power set to 25 watts for posterior wall | -768
+    temperature cutoff of 40°C | -768
+    lower impedance cutoff of 50 ohms | -768
+    upper impedance cutoff of 250 ohms | -768
+    radiofrequency ablation performed in atrial fibrillation | -768
+    ablation guided by changes in pulmonary vein potentials | -768
+    radiofrequency energy delivered for no more than 40 seconds per ablation point | -768
+    total procedure time 7 hours and 10 minutes | -768
+    total left atrial ablation time 2 hours and 6 minutes | -768
+    left-side pulmonary vein isolation ablation time 42 minutes | -768
+    right-side pulmonary vein isolation ablation time 36 minutes | -768
+    left-side posterior wall ablation time 13 minutes | -768
+    linear ablation at site of greatest proximity to esophagus | -768
+    ablation not interrupted by increased temperature or impedance | -768
+    pulmonary veins reconnected after isoproterenol infusion | -768
+    additional ablations performed for 48 minutes | -768
+    complete pulmonary vein isolation achieved | -768
+    cavotricuspid isthmus ablation performed | -768
+    no acute complications post-ablation | -768
+    persistent retrosternal pain | -672
+    fentanyl-patch application | -672
+    intermittent morphine injections | -672
+    pantoprazole (40 mg/day) administered | -672
+    symptomatic atrial fibrillation recurrence 3 days post-ablation | -648
+    bisoprolol (2.5 mg/day) administered | -648
+    flecainide (150 mg/day) administered | -648
+    discharged after 5 days | -624
+    recurring symptomatic atrial fibrillation 9 days post-ablation | -408
+    mild persistent chest pain | -408
+    paroxysmal palpitation | -408
+    emergency room visit 9 days post-ablation | -408
+    chest pain aggravated by deep inspiration and coughing | -408
+    patient remained prone | -408
+    no odynophagia | -408
+    fever of 38°C | -408
+    severe chills | -408
+    leukocytosis (15,180/µL) | -408
+    normal sinus rhythm on ECG | -408
+    no significant ST-segment changes | -408
+    no significant QRS voltage changes | -408
+    normal cardiac troponin-I | -408
+    normal C-reactive protein | -408
+    no cardiomegaly on chest X-ray | -408
+    no pleural effusion on chest X-ray | -408
+    no abnormal pericardial fluid collection on echocardiography | -408
+    chest CT showing small air bubbles in pericardial space | -408
+    esophageal perforation suspected | -408
+    admitted to sub-intensive care unit | -408
+    radiologic signs of esophageal injury not noted | -408
+    allowed small sips of water | -408
+    broad-spectrum antibiotics administered | -408
+    sepsis development | -336
+    multi-organ failure | -336
+    increased pericardial effusion | -336
+    increased pleural effusion | -336
+    large air bubbles in pericardial space on chest X-ray | -336
+    esophagography confirming contrast agent leakage into pericardial space | -336
+    no contrast agent leakage into left atrium | -336
+    no clinical signs of left atrial-esophageal fistula | -336
+    pericardiostomy performed | -336
+    chest tubing performed | -336
+    pericardial drainage tube inserted | -336
+    no active bleeding from left atrium | -336
+    no neurologic signs from systemic air embolism | -336
+    fever resolved post-drainage | -312
+    general condition improved post-drainage | -312
+    conservative management continued | -312
+    strict fasting | -312
+    fluid replacement | -312
+    broad-spectrum antibiotic therapy | -312
+    continuous drainage of pericardial effusion | -312
+    continuous drainage of pleural effusion | -312
+    total parenteral nutrition | -312
+    recovery from sepsis | -288
+    recovery from multi-organ failure | -288
+    follow-up esophagography showing no contrast leakage | -288
+    dietary intake restarted | -288
+    gradual increase in dietary intake | -288
+    follow-up chest CT showing improving mediastinitis | -288
+    discharged 28 days post-pericardiostomy | 0
+    recurrence of symptomatic atrial fibrillation suppressed | 0
+    antiarrhythmic therapy stopped 3 months post-ablation | 2160
+    no further complications | 0

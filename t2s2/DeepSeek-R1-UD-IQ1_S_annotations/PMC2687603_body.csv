@@ -1,0 +1,76 @@
+event,time
+55-year-old woman ,0
+    presented with fever ,0
+    worked as a car saleswoman in Pennsylvania ,-24
+    arrived in Seoul ,-24
+    suffered from RA ,-175200
+    treated with prednisolone ,-175200
+    treated with methotrexate ,-175200
+    treated with etanercept ,-175200
+    received subcutaneous etanercept ,-175200
+    noticed progressive fatigue ,-2160
+    noticed malaise ,-2160
+    noticed anorexia ,-2160
+    noticed oral bleeding ,-2160
+    weight loss of 10 kg ,-2160
+    body temperature 37.5℃ ,0
+    blood pressure 120/80 mmHg ,0
+    pulse rate 104 beats per minute ,0
+    respiratory rate 18 breaths per minute ,0
+    chronically ill appearance ,0
+    pale conjunctiva ,0
+    oral ulcer ,0
+    advanced multiple symmetrical joint deformities ,0
+    fine rales on both lower lung fields ,0
+    no murmur ,0
+    hemoglobin 7.7 g/dL ,0
+"    platelet count 40,000/mm³ ",0
+"    white blood cell count 3,000/mm³ ",0
+    granulocytes 65% ,0
+    lymphocytes 26% ,0
+    monocytes 18.3% ,0
+    aspartate aminotransferase 447 IU/L ,0
+    alanine aminotransferase 113 IU/L ,0
+    albumin 2.4 g/dL ,0
+"    rheumatoid factor 2,180 IU/mL ",0
+    antimycoplasma antibodies negative ,0
+    anti-HIV antibodies negative ,0
+    chest radiography nodular opacities ,0
+    CT scan abdomen enlarged lymph nodes ,0
+    complained of dyspnea ,96
+    oxygen saturation below 80% ,96
+    intubated ,96
+    transferred to ICU ,96
+    pulmonary hemorrhage suspected ,96
+    chest radiography diffuse consolidation ,96
+    CT scan chest diffuse consolidation ,96
+    transthoracic echocardiography minimal pericardial effusion ,96
+    diffuse hypokinesia ,96
+    LV ejection fraction 36% ,96
+    bone marrow hypocellular marrow ,96
+    bone marrow no maturation arrest ,96
+    bronchoscopy mucosal injection ,96
+    bronchoscopy fold thickening ,96
+    no definite focus of bleeding ,96
+    blood culture negative ,96
+    endotracheal culture bacteria negative ,96
+    endotracheal culture fungus negative ,96
+    endotracheal culture mycobacteria negative ,96
+    intravenous immunoglobulin ,96
+    solucortef maintained ,96
+    azithromycin started ,96
+    ceftriaxone started ,96
+    amikacin started ,96
+    meropenem started ,240
+    ciprofloxacin started ,240
+    condition improved ,240
+    chest radiograph complete resolution ,960
+    follow-up echocardiography normal LV systolic function ,960
+    ejection fraction 70% ,960
+    endotracheal aspiration adenovirus positive ,960
+    discharged ,960
+    maintained prednisolone ,960
+    celecoxib ,960
+    hydroxychloroquine sulfate ,960
+    methotrexate ,960
+    remained well without aggravating arthralgia ,960

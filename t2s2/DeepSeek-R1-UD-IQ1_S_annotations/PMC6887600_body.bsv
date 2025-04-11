@@ -1,0 +1,209 @@
+66 years old | 0
+    female | 0
+    admitted to the hospital | 0
+    chills | -48
+    fever | -48
+    pharynx pain | -48
+    chest tightness | -48
+    headache | -48
+    acute upper respiratory tract infection | 0
+    type 2 diabetes mellitus | -35040
+    temperature 39.1 °C | 0
+    pulse rate 125 beats per min | 0
+    respiratory rate 24 breaths/min | 0
+    blood pressure 110/68 mmHg | 0
+    leukocyte count 9900/μL | 0
+    segmented neutrophils 88% | 0
+    elevated erythrocyte sedimentation rate 79 mm/h | 0
+    increased C-reactive protein 42.9 mg/dL | 0
+    intravenous amoxicillin | 24
+    intravenous levofloxacin | 24
+    intravenous ribavirin | 24
+    temperature 39.0 °C | 48
+    gram-positive cocci | 48
+    intravenous teicoplanin | 48
+    intravenous moxifloxacin | 48
+    temperature lowered | 120
+    dyspnea worsened | 120
+    respiratory arrest | 120
+    cardiac arrest | 120
+    loss of consciousness | 120
+    systemic cyanosis | 120
+    arterial partial pressure of carbon dioxide 52 mmHg | 120
+    arterial partial pressure of oxygen 57 mmHg | 120
+    pH 7.35 | 120
+    cardiopulmonary resuscitation | 120
+    intravenous epinephrine | 120
+    emergency tracheal intubation | 120
+    simple breathing bag | 120
+    regained consciousness | 120
+    restored spontaneous rhythm | 120
+    transferred to Respiratory Intensive Care Unit | 120
+    Kocuria kristinae isolated from blood | 120
+    sepsis | 120
+    intravenous vancomycin | 120
+    intravenous piperacillin-tazobactam | 120
+    mechanical ventilation withdrawn | 144
+    extubated | 144
+    chest radiograph normal | 144
+    arterial blood gas analysis met weaning criteria | 144
+    dyspnea | 192
+    heart rate slowed | 192
+    respiratory rate slowed | 192
+    loss of consciousness | 192
+    arterial partial pressure of carbon dioxide 82 mmHg | 192
+    arterial partial pressure of oxygen 259 mmHg | 192
+    pH 7.06 | 192
+    emergency tracheal intubation | 192
+    mechanical ventilation | 192
+    acute airway obstruction | 192
+    respiratory secretions less | 192
+    radiological examination normal | 192
+    lumbar puncture | 192
+    cerebrospinal fluid leukocyte count 350/μL | 192
+    lymphocytes 75% | 192
+    increased protein level 132 mg/dL | 192
+    intracranial infection | 192
+    cerebrospinal fluid culture negative | 192
+    CT scan of neck soft tissue swelling | 216
+    occlusion of nasopharyngeal and oropharyngeal cavity | 216
+    flexible bronchoscopy | 216
+    edema of nasopharynx and oropharynx mucosa | 216
+    MRI soft tissue swelling and thickening | 312
+    stenosis of nasopharynx | 312
+    stenosis of oropharynx | 312
+    stenosis of upper airway | 312
+    retropharyngeal abscess | 312
+    incision and drainage of retropharyngeal abscess | 336
+    inflammatory necrosis | 336
+    granulation tissue | 336
+    pus culture negative | 336
+    MRI stenosis alleviated | 336
+    discharged | 432
+    asymptomatic | 16896
+    no recurrence of retropharyngeal abscess | 16896
+    no cough | -48
+    no sputum | -48
+    no wheezing | -48
+    no dysphagia | -48
+    no hoarseness | -48
+    no weight loss | -48
+    no edema of lower extremities | -48
+    no clubbing | 0
+    no icterus | 0
+    no generalized lymphadenopathy | 0
+    no respiratory system abnormalities | 0
+    no cardiovascular system abnormalities | 0
+    no gastrointestinal system abnormalities | 0
+    no nervous system abnormalities | 0
+    no cervical tuberculosis | 312
+    no history of oropharyngeal trauma | 0
+    no foreign-body ingestion | 0
+    no acid-fast staining in biopsy | 336
+    no Cryptococcus in cerebrospinal fluid | 192
+    no acid-fast bacilli in pus or sputum | 336
+
+    66 years old | 0
+    female | 0
+    admitted to the hospital | 0
+    chills | -48
+    fever | -48
+    pharynx pain | -48
+    chest tightness | -48
+    headache | -48
+    acute upper respiratory tract infection | 0
+    type 2 diabetes mellitus | -35040
+    temperature 39.1 °C | 0
+    pulse rate 125 beats per min | 0
+    respiratory rate 24 breaths/min | 0
+    blood pressure 110/68 mmHg | 0
+    leukocyte count 9900/μL | 0
+    segmented neutrophils 88% | 0
+    elevated erythrocyte sedimentation rate 79 mm/h | 0
+    increased C-reactive protein 42.9 mg/dL |2 0
+    intravenous amoxicillin | 24
+    intravenous levofloxacin | 24
+    intravenous ribavirin | 24
+    temperature 39.0 °C | 48
+    gram-positive cocci | 48
+    intravenous teicoplanin | 48
+    intravenous moxifloxacin | 48
+    temperature lowered | 120
+    dyspnea worsened | 120
+    respiratory arrest | 120
+    cardiac arrest | 120
+    loss of consciousness | 120
+    systemic cyanosis | 120
+    arterial partial pressure of carbon dioxide 52 mmHg | 120
+    arterial partial pressure of oxygen 57 mmHg | 120
+    pH 7.35 | 120
+    cardiopulmonary resuscitation | 120
+    intravenous epinephrine | 120
+    emergency tracheal intubation | 120
+    simple breathing bag | 120
+    regained consciousness | 120
+    restored spontaneous rhythm | 120
+    transferred to Respiratory Intensive Care Unit | 120
+    Kocuria kristinae isolated from blood | 120
+    sepsis | 120
+    intravenous vancomycin | 120
+    intravenous piperacillin-tazobactam | 120
+    mechanical ventilation withdrawn | 144
+    extubated | 144
+    chest radiograph normal | 144
+    arterial blood gas analysis met weaning criteria | 144
+    dyspnea | 192
+    heart rate slowed | 192
+    respiratory rate slowed | 192
+    loss of consciousness | 192
+    arterial partial pressure of carbon dioxide 82 mmHg | 192
+    arterial partial pressure of oxygen 259 mmHg | 192
+    pH 7.06 | 192
+    emergency tracheal intubation | 192
+    mechanical ventilation | 192
+    acute airway obstruction | 192
+    respiratory secretions less | 192
+    radiological examination normal | 192
+    lumbar puncture | 192
+    cerebrospinal fluid leukocyte count 350/μL | 192
+    lymphocytes 75% | 192
+    increased protein level 132 mg/dL | 192
+    intracranial infection | 192
+    cerebrospinal fluid culture negative | 192
+    CT scan of neck soft tissue swelling | 216
+    occlusion of nasopharyngeal and oropharyngeal cavity | 216
+    flexible bronchoscopy | 216
+    edema of nasopharynx and oropharynx mucosa | 216
+    MRI soft tissue swelling and thickening | 312
+    stenosis of nasopharynx | 312
+    stenosis of oropharynx | 312
+    stenosis of upper airway | 312
+    retropharyngeal abscess | 312
+    incision and drainage of retropharyngeal abscess | 336
+    inflammatory necrosis | 336
+    granulation tissue | 336
+    pus culture negative | 336
+    MRI stenosis alleviated | 336
+    discharged | 432
+    asymptomatic | 16896
+    no recurrence of retropharyngeal abscess | 16896
+    no cough | -48
+    no sputum | -48
+    no wheezing | -48
+    no dysphagia | -48
+    no hoarseness | -48
+    no weight loss | -48
+    no edema of lower extremities | -48
+    no clubbing | 0
+    no icterus | 0
+    no generalized lymphadenopathy | 0
+    no respiratory system abnormalities | 0
+    no cardiovascular system abnormalities | 0
+    no gastrointestinal system abnormalities | 0
+    no nervous system abnormalities | 0
+    no cervical tuberculosis | 312
+    no history of oropharyngeal trauma | 0
+    no foreign-body ingestion | 0
+    no acid-fast staining in biopsy | 336
+    no Cryptococcus in cerebrospinal fluid | 192
+    no acid-fast bacilli in pus or sputum | 336

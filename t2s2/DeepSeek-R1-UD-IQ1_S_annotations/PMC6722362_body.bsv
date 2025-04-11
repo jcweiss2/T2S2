@@ -1,0 +1,68 @@
+42 years old | 0
+    woman | 0
+    anxiety | 0
+    obesity (BMI 31 kg/m²) | 0
+    transferred to hepatobiliary transplant facility | 0
+    encephalopathy resistant to treatment with lactulose | 0
+    minimally arousable | 0
+    seizures | 0
+    intubated | 0
+    Roux-en-Y gastric bypass | -8760
+    dyspepsia | -8760
+    nausea | -8760
+    vomiting | -8760
+    poor oral intake | -8760
+    personality changes (irritability) | -8760
+    buspirone started | -8760
+    buspirone discontinued | -4320
+    no medications for 3 months before hospitalization | -2160
+    irritability progressed to confusion | -1296
+    lethargy | -1296
+    confusion became constant | -1296
+    lethargy became constant | -1296
+    sleeping most of the day | -168
+    difficulty remembering simple facts | -168
+    emergency department presentation | -168
+    hyperammonemia | 0
+    transaminitis | 0
+    no known liver disease | 0
+    no alcohol consumption | 0
+    liver biopsy (2 months prior) | -1296
+    chronic periportal inflammation | -1296
+    moderate macrosteatosis | -1296
+    acetaminophen level negative | 0
+    urine drug screen negative | 0
+    brain CT unremarkable | 0
+    abdominal/pelvic CT showed fatty liver | 0
+    blood cultures collected | 0
+    urine cultures collected | 0
+    intravenous thiamine started | 0
+    rectal lactulose started | 0
+    admitted to ICU | 0
+    Wilson disease excluded | 0
+    hemochromatosis excluded | 0
+    viral hepatitis excluded | 0
+    autoimmune hepatitis excluded | 0
+    urea cycle disorder suspicion | 0
+    Hepatology consulted | 0
+    polymicrobial bacteremia (E. coli, MSSA, Enterococcus faecalis) | 72
+    Enterococcus species in urine | 72
+    vancomycin started | 72
+    piperacillin/tazobactam started | 72
+    sodium benzoate/sodium phenylacetate started | 72
+    rifaximin started | 72
+    zinc started | 72
+    arginine started | 72
+    supplemental parenteral lipids started | 72
+    supplemental glucose started | 72
+    started following commands | 96
+    extubated | 96
+    ammonia normalized | 168
+    liver enzymes normalized | 168
+    mentation returned to baseline | 168
+    discharged home | 168
+    protein-restricted diet instructed | 168
+    outpatient hepatology follow-up | 168
+    genetic counseling advised | 168
+    
+    

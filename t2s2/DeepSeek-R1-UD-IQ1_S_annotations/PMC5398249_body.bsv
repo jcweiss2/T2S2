@@ -1,0 +1,108 @@
+50 years old|0
+    male|0
+    end-stage renal disease secondary to hypertension|0
+    30-year history of smoking|0
+    preoperative pulmonary assessment|0
+    preoperative cardiac assessment|0
+    chest x-ray revealed bilateral interstitial opacities|0
+    Karnofsky performance status score 90|0
+    cytomegalovirus IgG negative|0
+    deceased donor kidney transplantation|0
+    surgery uncomplicated|0
+    cold ischemic time 11 hours 59 minutes|0
+    warm ischemic time 63 minutes|0
+    immediate post-operative period uncomplicated|0
+    immediate graft function|0
+    basiliximab 0.2 mg given on day of transplantation|0
+    basiliximab 0.2 mg given on postoperative day 4|96
+    valganciclovir 900 mg started|0
+    sulfamethoxazole/trimethoprim 800/160 mg started|0
+    methylprednisolone 250 mg started|0
+    tacrolimus 2 mg started|0
+    MMF 1000 mg started|0
+    discharged on postoperative day 5|120
+    tacrolimus 2-4 mg once daily continued|120
+    tacrolimus trough levels 12.8-21.4 ng/mL|120
+    methylprednisolone 250 mg on postoperative day 1|24
+    methylprednisolone 250 mg on postoperative day 2|48
+    prednisone 80 mg on postoperative day 3|72
+    prednisone 60 mg on postoperative day 4|96
+    prednisone 40 mg on postoperative day 5|120
+    prednisone 30 mg on postoperative day 6|144
+    prednisone 20 mg on postoperative day 7|168
+    presented to emergency department with shortness of breath|720
+    presented to emergency department with cough|720
+    respiratory condition deteriorated|720
+    arterial blood gas pH 7.33|720
+    arterial blood gas pO2 61 mm Hg|720
+    arterial blood gas pCO2 38 mm Hg|720
+    arterial blood gas HCO3 18.9 mEq/L|720
+    admitted to intensive care unit|720
+    intubated|720
+    CXR diffuse airspace disease|720
+    CT patchy ground-glass opacities|720
+    interlobular septal thickening|720
+    bronchiectasis|720
+    bronchoscopy unremarkable|720
+    bronchoalveolar lavage samples negative for microbiologic cultures|720
+    stains negative for aspergillus|720
+    stains negative for pneumocystis pneumonia|720
+    stains negative for CMV|720
+    stains negative for legionella|720
+    stains negative for mycobacterium|720
+    PCR negative for CMV|720
+    PCR negative for influenza A and B|720
+    PCR negative for respiratory syncytial virus|720
+    PCR negative for rhinovirus|720
+    PCR negative for adenovirus|720
+    immunologic markers negative|720
+    echocardiogram ejection fraction 65%|720
+    echocardiogram no right heart strain|720
+    cardiac catheterization unremarkable|720
+    cardiac index 4.5 L/min/m²|720
+    mean pulmonary arterial pressure 18 mm Hg|720
+    pulmonary capillary wedge pressure 15 mm Hg|720
+    central venous pressure 5 mm Hg|720
+    diagnosis of ARDS secondary to infection considered|720
+    vancomycin 1.5 g started|720
+    cefepime 1 mg started|720
+    oseltamivir 150 mg started|720
+    tacrolimus discontinued|720
+    MMF discontinued|720
+    prednisone 20 mg changed to methylprednisone 100 mg every 8 hours|720
+    aggressive diuresis with furosemide initiated|720
+    extubation two days later|792
+    arterial blood gas post-extubation pO2 89.8 mm Hg|792
+    pCO2 33.7 mm Hg|792
+    pH 7.44|792
+    HCO3 22.7 mmol/L|792
+    arterial blood gas improved pO2 101 mm Hg|864
+    pCO2 38.3 mm Hg|864
+    pH 7.42|864
+    HCO3 24.1 mmol/L|864
+    MMF resumed|864
+    respiratory distress after two doses of MMF|864
+    condition deteriorated over two days|864
+    severe hypoxia pO2 44.5 mm Hg|936
+    pCO2 36.5 mm Hg|936
+    pH 7.48|936
+    HCO3 26.8 mmol/L|936
+    re-intubation|936
+    immunosuppressive drugs discontinued except methylprednisone|936
+    elevated airway pressures|936
+    inability to decrease FiO2 below 90%|936
+    open lung biopsy performed|936
+    interstitial fibrosis|936
+    no normal alveolar parenchyma|936
+    thickened alveolar walls due to diffuse fibrosis|936
+    no granulomatous disease|936
+    no malignancy|936
+    no graft versus host disease|936
+    stains negative for CMV|936
+    stains negative for herpes simplex virus-1|936
+    gram-negative sepsis developed|936
+    died|1344
+    lung autopsy intra-alveolar hemorrhages|1344
+    interstitial fibrosis|1344
+    thickened alveolar septa|1344
+    

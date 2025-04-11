@@ -1,0 +1,102 @@
+40 years old | 0
+    male | 0
+    severe left-sided abdominal pain | 0
+    nausea | 0
+    vomiting | 0
+    pain began in the groin | -120
+    took a large step to avoid tripping | -120
+    fevers | -120
+    rigors | -120
+    dysuria | -120
+    dark-colored urine | -120
+    temperature of 103.3 F | 0
+    pulse 160 beats/min | 0
+    blood pressure 102/71 mm Hg | 0
+    respiratory rate of 28 | 0
+    oxygen saturation 92% | 0
+    marked tenderness over the left abdomen | 0
+    flank tenderness | 0
+    left costovertebral angle tenderness | 0
+    no overlying erythema | 0
+    no warmth of the skin | 0
+    abdomen mildly distended | 0
+    no hepatosplenomegaly | 0
+    no rebound tenderness | 0
+    no guarding | 0
+    WBC count of 8,600/µl | 0
+    serum creatinine of 2.7 mg/dL | 0
+    total bilirubin of 1.8 mg/dL | 0
+    alanine aminotransferase 66 U/L | 0
+    urinalysis unremarkable | 0
+    blood cultures taken | 0
+    empiric piperacillin-tazobactam | 0
+    presumed intra-abdominal sepsis | 0
+    pyelonephritis | 0
+    retroperitoneal fluid collection | 0
+    fluid collection medial to the left internal oblique muscle | 0
+    fluid extending into the pelvic extraperitoneal space | 0
+    fluid extending into the medial paraspinous musculature | 0
+    fluid tracked along fascial planes | 0
+    associated fascial edema | 0
+    no abnormalities of the kidneys | 0
+    no abnormalities of the intestines | 0
+    observed in the intensive care unit | 0
+    tachycardia persisted | 0
+    pain persisted | 0
+    frequent febrile episodes | 0
+    WBC increased to over 15,000/µl | 0
+    hemodynamically stable | 0
+    breathing comfortably on room air | 0
+    blood cultures grew group A streptococcus | 0
+    antibiotic changed to ceftriaxone | 0
+    antibiotic changed to clindamycin | 0
+    abdomen less distended | 0
+    parasthesia on the left abdomen | 0
+    parasthesia on the flank | 0
+    parasthesia on the groin | 0
+    pitting edema of the involved area | 0
+    no erythema | 0
+    no warmth | 0
+    no bullae formation | 0
+    repeat CT scan on hospital day five | 120
+    persistence of fluid along the left flank musculature | 120
+    persistence of fluid along fascial planes | 120
+    GAS bacteremia | 0
+    invasive soft-tissue infection | 0
+    systemic toxicity | 0
+    azotemia | 0
+    liver involvement | 0
+    necrotizing fasciitis | 0
+    toxic shock syndrome | 0
+    monitored closely in the intensive care unit | 0
+    surgery team hesitant to explore the area | 0
+    hemodynamically stable | 0
+    not perilously ill | 0
+    general surgery consultants evaluated | 0
+    no plans for operation | 0
+    remained febrile | 0
+    continued to have parasthesia | 0
+    drainage necessary | 0
+    interventional radiology consultants placed drainage catheter | 0
+    drainage catheter placed under CT guidance | 0
+    turbid yellow fluid obtained | 0
+    cell count of 31,400 WBC | 0
+    gram stain showed many PMNs with no organisms | 0
+    cultures yielded no growth | 0
+    immediate pain relief | 0
+    fever resolution | 0
+    drain output brisk | 0
+    drain output persisted for one week | 168
+    CT scan showed significant improvement in fluid | 168
+    complete renal recovery | 0
+    bilirubin normalized | 0
+    alanine aminotransferase normalized | 0
+    discharged | 168
+    home infusion of ceftriaxone | 168
+    initial ESR elevated | 0
+    continued on therapy for six weeks | 168
+    follow-up CT after eight weeks | 1344
+    near resolution of fascial edema | 1344
+    near resolution of fluid | 1344
+    full recovery | 1344
+    

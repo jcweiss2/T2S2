@@ -1,0 +1,107 @@
+71 years old|0
+male|0
+rheumatic heart disease|0
+hypertension|0
+chronic kidney disease|0
+admitted for workup of anemia and weight loss|0
+gradual, painless decline in vision of both eyes|-2880
+no history of eye redness|0
+no photophobia|0
+no floaters|0
+no flashes|0
+no scotoma|0
+no previous history of eye trauma|0
+no previous history of eye surgery|0
+raw milk ingestion|0
+visual acuity 6/200 right eye|0
+visual acuity 20/200 left eye|0
+intraocular pressure 13 mmHg right eye|0
+intraocular pressure 15 mmHg left eye|0
+normal external examination|0
+normal extra-ocular movements|0
+reactive pupils|0
+no relative afferent pupillary defect|0
+deep and quiet anterior chamber right eye|0
+3 mm pinkish hypopyon left eye|0
+iris pigments on surface of lens left eye|0
+irregular pupil left eye|0
+posterior synechiae left eye|0
+nuclear sclerotic cataract both eyes|0
+multiple corneal scars both eyes|0
+obscured dilated fundus exam|0
+ordered systemic work-up for infectious and inflammatory etiologies|0
+negative blood cultures|0
+negative sputum cultures|0
+negative urine cultures|0
+negative acid-fast bacilli cultures|0
+negative Brucella titer|0
+flat retina on B-Scan ultrasonography|0
+no vitritis on B-Scan ultrasonography|0
+no subretinal infiltrate on B-Scan ultrasonography|0
+poor view fundus photos and fluorescein angiography due to cataract|0
+floating cells in anterior chamber on ultrasound biomicroscopy|0
+hypopyon on ultrasound biomicroscopy|0
+started prednisolone acetate 1% drops|0
+started cyclopentolate 0.5% drops|0
+left cataract extraction|0
+intraoperative diagnostic paracentesis|0
+atypical lymphoid cells in aqueous fluid|0
+immunohistochemical staining consistent with T-cell lymphoma|0
+flow cytometry analysis positive for CD5, CD3, CD2, CD8, CD56|0
+aberrant loss of CD4 and CD7|0
+no expression of CD10 and CD34|0
+alpha and beta T-cell receptor positive|0
+gamma T-cell receptor negative|0
+diagnosis of T-cell lymphoma|0
+postoperative visual acuity counting fingers at 3 feet both eyes|24
+normal intraocular pressure both eyes|24
+reforming pinkish hypopyon left anterior chamber|24
+IOL in place|24
+hazy view right fundus exam due to cataract|24
+whitish retinal infiltrate left eye|24
+ordered radiologic investigations by oncology team|0
+chest x-ray showing pulmonary edema|0
+unremarkable chest x-ray for tuberculosis or sarcoidosis|0
+heterogeneous liver on ultrasound|0
+no liver mass lesion|0
+large heterogeneous left adrenal mass on CT CAP|0
+suspicious for invasion|0
+consistent with malignancy|0
+no other suspicious lesions|0
+ultrasound guided biopsy of adrenal mass|0
+atypical lymphoid cells with blastoid features in adrenal biopsy|0
+tumor cells expressed CD3|0
+no expression of CD20|0
+confirmed diagnosis of T-cell lymphoma|0
+consulted haemato-oncology team|0
+recommended lumbar puncture|0
+recommended PET scan of brain and orbit|0
+agreed chemotherapy regimen|0
+treated with CVP|0
+lumbar puncture done|168
+negative cerebrospinal fluid for malignancy|168
+bone marrow biopsy done|168
+negative for malignancy|168
+PET scan brain and orbit showing increased uptake in right nasal and ethmoidal sinuses|168
+PET scan pelvis showing high uptake in scrotum and testicles|168
+supported metastatic involvement by ultrasonography|168
+local radiotherapy added to treatment plan|168
+guarded prognosis explained|168
+chemotherapy continued|168
+deterioration after two cycles of chemotherapy|672
+developed atrial fibrillation|672
+stabilized and transferred to Medical Intensive Care Unit|672
+ophthalmic bedside follow up visits|672
+collapsed and became unresponsive|720
+impalpable pulse|720
+cardiopulmonary resuscitation started|720
+advanced trauma life support protocols started|720
+intubated|720
+deeply comatose with GCS 6/15|720
+developed sepsis|720
+treated with antibiotics|720
+chemotherapy and radiation on hold|720
+continued deterioration|720
+GCS 3/15|720
+Do not attempt resuscitation|720
+passed away|720

@@ -1,0 +1,136 @@
+22 years old| 0
+male| 0
+admitted to the hospital| 0
+fever| -96
+myalgia| -96
+arthralgia| -96
+sore throat| -96
+vomiting| -48
+diarrhea| -48
+fever of 38.4°C| 0
+pulse 89 beats per minute| 0
+blood pressure 77/34 mmHg| 0
+respiratory rate 18 breaths per minute| 0
+oxygen saturations 98%| 0
+cool peripheries| 0
+normal heart sounds| 0
+no added sounds| 0
+no evidence of fluid overload| 0
+normal haemoglobin (148 g/L)| 0
+mild thrombocytopaenia (146×10⁹/L)| 0
+leukocytosis (22.87×10⁹/L)| 0
+predominant neutrophilia (13.61×10⁹/L)| 0
+monocytosis (2.88×10⁹/L)| 0
+lymphopaenia (0.82×10⁹/L)| 0
+normal eosinophils (0.17×10⁹/L)| 0
+normal basophils (0.04×10⁹/L)| 0
+acute kidney injury (creatinine 333 μmol/L)| 0
+urea 22.2 mmol/L| 0
+mildly deranged liver function tests| 0
+bilirubin 22 μmol/L| 0
+AST 123 U/L| 0
+ALT 46 U/L| 0
+GGT 19 U/L| 0
+ALP 154 U/L| 0
+high-sensitivity troponin T 4550 ng/L| 0
+elevated NT-proBNP 1485 pmol/L| 0
+C-reactive protein 415 mg/L| 0
+lactate 3.6 mmol/L| 0
+mild hyponatraemia (129 mmol/L)| 0
+potassium 3.7 mmol/L| 0
+sinus rhythm with right-axis deviation| 0
+diffuse ST-segment elevation| 0
+unremarkable chest radiograph| 0
+septic shock| 0
+presumed viral illness| 0
+myocarditis| 0
+acute kidney injury| 0
+metabolic acidosis| 0
+worsening shock| 0
+intensive care unit admission| 24
+vasopressor support| 24
+noradrenaline| 24
+dobutamine| 24
+empiric broad-spectrum antibiotics| 24
+high-dose intravenous dexamethasone| 24
+clinical improvement| 24
+biochemical improvement| 24
+transthoracic echocardiography| 24
+severe global left ventricular systolic impairment (EF 35%)| 24
+normal LV size| 24
+normal LV wall thickness| 24
+moderate right ventricular systolic impairment| 24
+no significant valvular pathology| 24
+no pericardial effusion| 24
+endomyocardial biopsy| 24
+interstitial lymphocytes| 24
+oedema| 24
+no myonecrosis| 24
+no giant cells| 24
+no eosinophils| 24
+no granulomas| 24
+no fibrosis| 24
+negative stains for amyloid and iron| 24
+possible myocarditis| 24
+cardiac MRI performed| 96
+improved cardiac function| 96
+high myocardial T2 signal| 96
+myocardial oedema| 96
+circumferential late gadolinium enhancement| 96
+subepicardial distribution| 96
+acute myocarditis| 96
+transition to oral steroid therapy attempted (Day 10)| 240
+clinical deterioration| 240
+biochemical deterioration| 240
+mild hypotension| 240
+fever| 240
+chest pain| 240
+rising inflammatory markers| 240
+reinstatement of i.v. steroid| 240
+transition to oral steroid therapy attempted (Day 14)| 336
+clinical deterioration| 336
+biochemical deterioration| 336
+reinstatement of i.v. steroid| 336
+iron studies| 288
+markedly elevated ferritin (20,233 μg/L)| 288
+low glycosylated ferritin percentage (5%)| 288
+exclusion of infectious causes| 0
+exclusion of immunological causes| 0
+negative ANA| 0
+negative rheumatoid factor| 0
+bone marrow biopsy| 0
+no haemophagocytic lymphohistiocytosis| 0
+mild extensor tendon oedema| 360
+bilateral knee joint effusions| 360
+synovial thickening| 360
+new maculopular rash| 384
+maculopapular rash over neck| 384
+maculopapular rash over face| 384
+maculopapular rash over back| 384
+maculopapular rash progressing to arms| 384
+maculopapular rash progressing to trunk| 384
+no skin peeling| 384
+no oral mucosa involvement| 384
+skin biopsy| 384
+cutaneous manifestation of Still’s disease| 384
+no delayed drug reaction| 384
+no lymphadenopathy| 384
+no organomegaly| 384
+pulsed i.v. methylprednisolone| 408
+tocilizumab infusion (4 mg/kg)| 408
+clinical improvement| 408
+biochemical improvement| 408
+transitioned to oral prednisone 100 mg| 552
+discharged home| 600
+tapering oral prednisone course| 600
+clinical relapse| 888
+biochemical relapse| 888
+second tocilizumab infusion (4 mg/kg)| 984
+recurrent symptoms prior to second infusion| 984
+tocilizumab dose escalation to 8 mg/kg| 1512
+biochemical remission| 1512
+ceased prednisone| 4320
+continued monthly tocilizumab infusions| 4320
+transitioned to fortnightly subcutaneous adalimumab| 7200
+repeat cardiac MRI| 12960
+no evidence of on-going inflammation| 12960

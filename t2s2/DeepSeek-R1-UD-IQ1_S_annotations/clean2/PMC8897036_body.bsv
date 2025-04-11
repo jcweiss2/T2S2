@@ -1,0 +1,98 @@
+69 years old | 0
+woman | 0
+nonischemic dilated cardiomyopathy | 0
+left ventricular ejection fraction of 35% | 0
+recovered LVEF with guideline-directed medical therapy | -168
+recovered LVEF with cardiac resynchronization therapy | -168
+presented with 1 week of fever | -168
+presented with 1 week of chills | -168
+presented with 1 week of diarrhea | -168
+presented with 1 week of worsening dyspnea | -168
+signs of shock | 0
+symptoms of shock | 0
+signs of end-organ hypoperfusion | 0
+symptoms of end-organ hypoperfusion | 0
+differential diagnoses: acute coronary syndrome | 0
+differential diagnoses: fulminant myocarditis | 0
+differential diagnoses: septic shock | 0
+differential diagnoses: COVID-19 infection | 0
+differential diagnoses: acute pulmonary embolism | 0
+differential diagnoses: acute aortic syndrome | 0
+negative SARS CoV-2 polymerase chain reaction testing | 0
+elevated Coxsackie B virus titer to 1:320 | 0
+transthoracic echocardiogram: LVEF of 20% | 0
+transthoracic echocardiogram: severe right ventricular dysfunction | 0
+transthoracic echocardiogram: severe mitral regurgitation | 0
+right heart catheterization: RA pressure of 6 mm Hg | 0
+right heart catheterization: RV pressure of 32/9 mm Hg | 0
+right heart catheterization: PA pressure of 30/20/25 mm Hg | 0
+right heart catheterization: pulmonary capillary wedge pressure of 22 mm Hg | 0
+right heart catheterization: V waves of 30 mm Hg | 0
+right heart catheterization: left ventricular end diastolic pressure of 32 mm Hg | 0
+right heart catheterization: cardiac output of 3.3 L/min | 0
+right heart catheterization: cardiac index of 1.95 L/min/m2 | 0
+electrocardiogram: markedly low voltage | 0
+electrocardiogram: ventricular paced rhythm | 0
+coronary angiogram: nonobstructive coronary artery disease | 0
+acute cardiogenic shock | 0
+incessant ventricular arrhythmia | 0
+endomyocardial biopsy on hospital day 12 | 288
+treated with empiric high-dose steroids | 288
+methylprednisolone 1 g | 288
+endomyocardial biopsy results nondiagnostic | 288
+worsening cardiovascular status | 288
+positive viral titers | 288
+high suspicion for myocarditis | 288
+evidence of Coxsackie B virus | 0
+immunosuppression | 0
+intravenous lidocaine | 336
+amiodarone | 336
+procainamide drips | 336
+critical cardiogenic shock | 0
+refractory arrhythmias | 0
+escalated to venoarterial-ECMO | 336
+axillary LV-aortic microaxial pump | 336
+hemodynamics: RA pressure 11 mm Hg | 336
+hemodynamics: PA pressure 22/18/19 mm Hg | 336
+hemodynamics: pulmonary capillary wedge pressure 20 mm Hg | 336
+hemodynamics: mixed venous saturation 78% | 336
+ECMO flow 4 L | 336
+LV-aortic pump flow 1.4 L | 336
+refractory cardiogenic shock | 0
+electrical instability | 0
+transferred for consideration of durable mechanical support | 360
+transferred for consideration of OHT | 360
+preliminary evaluation: no major contraindications to heart transplantation | 360
+team opted to continue temporary mechanical circulatory support | 360
+concern about low PA pulsatility precipitating thrombus formation | 360
+PA outflow cannula added through right internal jugular vein | 360
+progressive multiorgan system dysfunction | 360
+escalation to surgical temporary biventricular assist device | 360
+oxygenator | 360
+drainage cannulas in RA | 360
+drainage cannulas in LV apex | 360
+reinfusion cannula in ascending aorta | 360
+expedited evaluation for durable mechanical circulatory support | 432
+expedited evaluation for OHT | 432
+urgently listed for OHT | 432
+surgically implanted VAD support | 432
+underwent OHT | 480
+postoperative support: dobutamine 10 μg/kg/min | 480
+postoperative support: norepinephrine 2 μg/min | 480
+postoperative support: inhaled nitric oxide 20 ppm | 480
+vasopressors weaned | 480
+inotropes weaned | 480
+inhaled nitric oxide weaned | 480
+extubated | 480
+pathologic examination consistent with GCM | 480
+myocarditis with infiltrate of lymphocytes | 480
+mononuclear cells | 480
+scattered eosinophils | 480
+multinucleate giant cells | 480
+healing fibrosis approximately 2 weeks old | 480
+no major contraindications to heart transplantation | 360
+no mechanical circulatory support postoperatively | 480
+no relationships relevant to contents of paper | 480
+compliance with human studies committees | 480
+compliance with animal welfare regulations | 480
+compliance with FDA guidelines | 480

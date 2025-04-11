@@ -1,0 +1,95 @@
+68 years old | 0
+male | 0
+admitted to the hospital | 0
+fever | 0
+dyspnoea | 0
+dysarthria | 0
+MSSA endocarditis of aortic bioprosthesis | 0
+secondary haemorrhagic stroke | 0
+septic embolus | 0
+intravenous antibiotics | 0
+discharged | 24
+neurological rehabilitation | 24
+admission to emergency department | -96
+recurrent wide QRS complex tachycardia | -96
+multiple synchronized electrical cardioversions | -96
+no response to intravenous adenosine | -96
+emergent electrophysiology study | -84
+atrioventricular nodal catheter ablation | -84
+incessant junctional ectopic tachycardia | -84
+temporary pacemaker insertion | -84
+recurrent JET | -432
+redo catheter ablation | -432
+permanent pacemaker insertion | -288
+pacemaker interrogation | 0
+biological aortic valve replacement | -175200
+severe aortic stenosis | -175200
+right coronary artery disease | -175200
+persistent atrial fibrillation | -175200
+hospitalized for MSSA endocarditis | -672
+Wernicke’s aphasia | -672
+treated conservatively by intravenous antibiotics | -672
+cefazolin | -672
+rifampicin | -672
+cardiac surgery contra-indicated | -672
+transferred to neighbouring hospital | -672
+palpitations | -120
+no chest pain | -120
+afebrile | -120
+heart rate 240 b.p.m. | -120
+blood pressure 105/70 mmHg | -120
+respiratory rate 22 breaths/min | -120
+saturation 93% | -120
+normal lactate levels | -120
+no electrolyte abnormality | -120
+slightly elevated inflammatory markers | -120
+white blood cells 11 G/L | -120
+C-reactive protein 45 mg/L | -120
+ECG regular wide QRS complex tachycardia | -120
+right bundle branch block pattern | -120
+vagal manoeuvers | -120
+adenosine injection ineffective | -120
+haemodynamic instability | -120
+synchronized electrical cardioversion | -120
+asystole | -120
+advanced cardiac life support | -120
+cardiopulmonary resuscitation | -120
+adrenaline injections | -120
+spontaneous circulation resumed | -120
+intubated | -120
+ECG long PR intervals | -120
+2:1 AVB | -120
+transthoracic echocardiogram normal left ventricular ejection fraction | -120
+aortic bioprosthesis without dysfunction | -120
+dilation of right sinus of Valsalva | -120
+pseudoaneurysm | -120
+admitted to intensive care unit | -120
+multiple recurrences of tachycardia | -120
+repeated synchronized electrical cardioversion | -120
+increasing need for vasopressor drugs | -120
+urgently transferred to electrophysiology lab | -120
+temporary wire inserted in right ventricle | -120
+tachycardia recurred | -120
+wire pulled back to right atrium | -120
+ventriculoatrial dissociation | -120
+overdrive pacing ineffective | -120
+synchronized shocks ineffective | -120
+Amiodarone 300 mg iv administered | -120
+no effect | -120
+emergency catheter ablation performed | -120
+radiofrequency energy applied | -120
+tachycardia stopped | -120
+temporary pacing via right jugular venous access | -120
+arrhythmia recurred transiently | -480
+slower rate 180 b.p.m. | -480
+better tolerated | -480
+redo ablation performed | -480
+no induction of arrhythmia | -480
+His potential not visible | -480
+ablation performed at previous site | -480
+blood cultures negative | -480
+remained afebrile | -480
+implantation of permanent pacemaker | -288
+pacemaker interrogation at 3 months | 0
+ejection fraction 65-70% | 0
+capable of walking and climbing stairs with assistance | 0

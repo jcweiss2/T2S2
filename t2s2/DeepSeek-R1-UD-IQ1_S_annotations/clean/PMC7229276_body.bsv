@@ -1,0 +1,102 @@
+90 years old| 0
+man | 0
+admitted to the emergency department | 0
+impaired consciousness | 0
+respiratory failure | 0
+unconscious | 0
+found in bathtub | 0
+chronic cerebral infarct | 0
+Glasgow Coma Scale E1 V1 M3 | 0
+body temperature 36.1°C | 0
+blood pressure 154/110 mmHg | 0
+pulse rate 113/min | 0
+respiratory rate 24 breaths/min | 0
+SpO2 60% | 0
+non-rebreather mask | 0
+poor inflation of the right chest | 0
+diminished respiratory sounds in the right lower lung | 0
+intubated with SLT | 0
+hypoxemia | 0
+blood pressure drop | 0
+septic shock | 0
+pneumonia | 0
+1000 mL crystalloid fluid administered | 0
+piperacillin/tazobactam | 0
+azithromycin | 0
+noradrenalin 0.3 μg/kg/min | 0
+vasopressin 1 unit/hour | 0
+hydrocortisone 100 mg | 0
+dobutamine | 0
+reduced cardiac output | 0
+chest radiography | 0
+computed tomography | 0
+right middle and lower lung infiltrates | 0
+no abnormality in left lung | 0
+arterial blood gas analysis | 0
+PaO2 64 mmHg | 0
+PaCO2 53 mmHg | 0
+pH 7.10 | 0
+ventilator set to assist-control mode | 0
+FiO2 1.0 | 0
+PEEP 15 cmH2O | 0
+inspiratory pressure 10 cmH2O | 0
+tidal volume 610 mL | 0
+minute ventilation 15 L/min | 0
+unilateral distension of left thorax | 0
+right thorax not fully elevate | 0
+aeration of affected lung not improved | 0
+non-affected lung overinflated | 0
+ECMO consideration | 0
+ILV decision | 0
+SLT replaced with DLT | 6
+temporary oxygenation | 6
+left lateral decubitus position | 6
+neuromuscular blocking agent | 6
+left lung ventilator settings | 6
+right lung ventilator settings | 6
+ILV started | 6
+PaO2 improved to 103 mmHg | 6
+FiO2 right 1.0 | 6
+FiO2 left 0.6 | 6
+mean arterial blood pressure increased | 6
+NAD reduction | 6
+DOB reduction | 6
+continuous hemodiafiltration | 6
+mixed respiratory-metabolic acidosis | 6
+pH 7.16 | 6
+PaCO2 50 mmHg | 6
+HCO3− 17 mmol/L | 6
+arterial blood gas analysis at 25 hours | 25
+PaO2 75 mmHg | 25
+FiO2 right 0.5 | 25
+FiO2 left 0.5 | 25
+arterial blood gas analysis at 45 hours | 45
+PaO2 94 mmHg | 45
+FiO2 right 0.5 | 45
+FiO2 left 0.4 | 45
+dynamic compliance difference reduced | 45
+right dynamic compliance 16 mL/cmH2O | 45
+left dynamic compliance 20 mL/cmH2O | 45
+pulmonary infiltrates decrease | 45
+ILV discontinued | 45
+conventional two-lung ventilation started | 45
+arterial blood gas analysis at 55 hours | 55
+PaO2 87 mmHg | 55
+PaCO2 41 mmHg | 55
+pH 7.33 | 55
+ventilator settings | 55
+FiO2 0.4 | 55
+PEEP 8 cmH2O | 55
+inspiratory pressure 12 cmH2O | 55
+tidal volume 410 mL | 55
+vasopressors discontinued | 55
+continuous hemodiafiltration discontinued | 55
+DLT replaced with SLT | 81
+no collapse of right lung | 81
+no deterioration in oxygenation | 81
+ventilator set to pressure support mode | 81
+FiO2 0.3 | 81
+PEEP 8 cmH2O | 81
+inspiratory pressure 8 cmH2O | 81
+extubated | 147
+transferred to rehabilitation center | 147

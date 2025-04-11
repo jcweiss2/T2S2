@@ -1,0 +1,78 @@
+62 years old | 0
+    male | 0
+    presented to the ED | 0
+    dental pain | -120
+    right buccal facial swelling | -120
+    attended GDP 3 days previously | -72
+    prescription for amoxicillin | -72
+    prescription for metronidazole | -72
+    infection worsening | -72
+    able to tolerate oral fluids | 0
+    trismus | -24
+    voice changes | -24
+    dysphagia | -24
+    returned to GDP | 0
+    referred to ED | 0
+    medical history of stroke 3 years ago | -26208
+    diet-controlled type 2 diabetes mellitus | -26208
+    hypertension | -26208
+    chronic alcohol abuse | -26208
+    non-smoker | 0
+    trismus on examination | 0
+    maximal mouth opening of 15 mm | 0
+    right facial swelling from infratemporal fossa to submandibular region | 0
+    unable to examine oropharynx directly | 0
+    right mandibular second molar tender to percussion | 0
+    firm collection palpated buccally | 0
+    NEWS of 0 | 0
+    Glasgow Coma Scale of 15 | 0
+    triaged into minors section | 0
+    blood tests confirmed acute inflammatory condition | 0
+    haemoglobin level of 119 g/L | 0
+    white cell count of 17.1×10^9/L | 0
+    neutrophil count of 9.5×10^9/L | 0
+    platelet count of 575×10^9/L | 0
+    urea and electrolytes normal | 0
+    CRP of 145 | 0
+    orthopantogram showed periapical radiolucencies | 0
+    CT neck showed large collection in deep peritonsillar and parapharyngeal spaces | 0
+    CT showed superficial component buccal to mandible | 0
+    diagnosis of odontogenic parapharyngeal abscess | 0
+    surgical exploration arranged | 0
+    intravenous co-amoxiclav | 0
+    intravenous dexamethasone | 0
+    awake fibre-optic intubation | 0
+    examination under anesthesia showed improved mouth opening of 50 mm | 0
+    parapharyngeal swelling | 0
+    extension to soft palate crossing midline | 0
+    lower right second and third molar teeth extracted | 0
+    intraoral incision made | 0
+    buccal space explored | 0
+    submandibular space explored | 0
+    submasseteric space explored | 0
+    masticator space explored | 0
+    parapharyngeal space explored | 0
+    copious pus released | 0
+    intraoral drain placed buccally | 0
+    recovered in intensive care | 48
+    extubated | 48
+    transferred to head and neck ward | 48
+    developed breathing difficulties | 48
+    tired | 48
+    sweaty | 48
+    using accessory muscles to breathe | 48
+    respiratory rate of 24 | 48
+    oxygen saturations 82% on room air | 48
+    improved to 96% on high flow oxygen | 48
+    breath sounds clear | 48
+    diagnosed with type 1 respiratory failure | 48
+    transferred to surgical high dependency unit | 48
+    chest radiograph clear | 48
+    ECG clear | 48
+    CT pulmonary angiogram clear | 48
+    respiratory failure due to airway oedema | 48
+    regular chest physiotherapy | 48
+    reviewed by speech and language team | 48
+    effective, safe cough | 48
+    made a good recovery | 72
+    discharged | 72

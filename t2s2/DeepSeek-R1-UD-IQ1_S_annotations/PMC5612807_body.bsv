@@ -1,0 +1,84 @@
+90 years old | 0
+    male | 0
+    hypertension | 0
+    atrial fibrillation | 0
+    mild dementia | 0
+    admitted to the hospital | 0
+    abdominal pain (3 weeks prior) | -504
+    nausea | 0
+    vomiting | 0
+    diarrhea | 0
+    acute worsening of abdominal pain (few hours prior) | -3
+    no history of abdominal operations | 0
+    on antihypertensive medications | 0
+    no anticoagulants | 0
+    no tobacco use | 0
+    no ethanol use | 0
+    no drug use | 0
+    normal colonoscopy a few years prior | -26208 (approximated -3 years)
+    acute distress | 0
+    diaphoresis | 0
+    temperature 96.6°F | 0
+    heart rate 117 bpm | 0
+    blood pressure 126/72 mmHg | 0
+    irregularly irregular heart rhythm | 0
+    soft abdomen | 0
+    distended abdomen | 0
+    left lower quadrant tenderness | 0
+    hematocrit 49.1% | 0
+    hemoglobin 16.1 g/dL | 0
+    white count 7.3 K/uL | 0
+    creatinine 1.53 mg/dL |0
+    potassium 3.1 mmol/L | 0
+    albumin 3.8 g/dL | 0
+    normal liver function tests | 0
+    normal INR | 0
+    CT showing mesenteric inflammation | 0
+    pneumoperitoneum | 0
+    sigmoid diverticula with inflammation | 0
+    admitted to ICU | 0
+    intravenous fluids | 0
+    serial abdominal exams | 0
+    indwelling bladder catheter | 0
+    broad-spectrum antibiotics | 0
+    initial response to fluids and antibiotics | 0
+    tachycardia development | 0
+    localized to diffuse abdominal tenderness | 0
+    exploratory laparotomy | 0
+    large peritoneal fluid | 0
+    redundant sigmoid | 0
+    uninflamed sigmoid diverticula | 0
+    normal appendix | 0
+    normal cecum | 0
+    normal right colon | 0
+    jejunum adherent to left colon | 0
+    multiple jejunal diverticula | 0
+    perforated jejunal diverticulum | 0
+    small bowel resection | 0
+    hand-sewn anastomosis | 0
+    recovery well post-operation | 0
+    discharge to skilled nursing facility | 168 (postoperative day 7)
+    no malignancy on pathology | 0
+    multiple jejunal diverticula confirmed | 0
+    perforated jejunal diverticulum confirmed | 0
+    no enterolith | 0
+    diagnosis of perforated jejunal diverticula | 0
+    diagnosis of sigmoid diverticulitis (initial) | 0
+    hemodynamic stability | 0
+    focal tenderness (initial) | 0
+    failure of conservative therapy | 0
+    pneumoperitoneum on CT | 0
+    bowel wall thickening | 0
+    mesenteric inflammation | 0
+    jejunal diverticula adjacent to sigmoid | 0
+    management according to Hinchey's classification | 0
+    serial abdominal exams in ICU | 0
+    initial response to treatment | 0
+    subsequent decompensation | 0
+    operative intervention decision | 0
+    laparotomy findings | 0
+    resection of perforated diverticulum | 0
+    anastomosis performed | 0
+    post-operative recovery | 0
+    patient discharge | 168
+    

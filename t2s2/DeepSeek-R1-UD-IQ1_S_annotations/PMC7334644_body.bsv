@@ -1,0 +1,172 @@
+60 years old | 0  
+    hypertensive | 0  
+    diabetic | 0  
+    Asian | 0  
+    male | 0  
+    admitted | 0  
+    recent onset fever (38.6 °C) | 0  
+    persistent productive cough | 0  
+    chest pain | 0  
+    myalgias | 0  
+    fatigue | 0  
+    respiratory distress | 0  
+    past history of TB | 0  
+    unprotected contact with cousin | -672  
+    cousin recently recovered from COVID-19 | -672  
+    decreased breath sounds at lung bases | 0  
+    saturation of peripheral oxygen (SpO2) 72% | 0  
+    no respiratory distress | 0  
+    portable chest X-ray bilateral interstitial infiltrates | 0  
+    electrocardiogram normal | 0  
+    cardiac enzymes normal | 0  
+    coagulation profile normal | 0  
+    echocardiography normal | 0  
+    lymphocytopenia (0.59 × 10⁹/L) | 0  
+    increased C-reactive protein (243.3 mg/liter) | 0  
+    increased lactate dehydrogenase (944 units/liter) | 0  
+    increased ferritin (876 ng/ml) |6 0  
+    admission chest CT diffuse bilateral ground-glass opacities | 0  
+    nasopharyngeal swabs confirmed COVID-19 | 0  
+    admitted to isolation chamber | 0  
+    full diagnostic work-up | 0  
+    higher level of respiratory support via HFNC | 0  
+    awake prone positioning (16–20 hours daily) | 0  
+    ROX maintained over 6 for 48 hours | 0  
+    empiric therapy with lopinavir/ritonavir | 0  
+    empiric therapy with ribavirin | 0  
+    dexamethasone | 0  
+    prophylactic anticoagulation | 0  
+    NAAT on sputum specimens revealed Mycobacterium tuberculosis | 0  
+    started on isoniazid | 0  
+    started on pyridoxal phosphate | 0  
+    started on rifampicin | 0  
+    started on pyrazinamide | 0  
+    started on ethambutol | 0  
+    no side effects | 0  
+    ratio of partial arterial pressure of oxygen to fractional inspired concentration of oxygen >250 | 168  
+    HFNC discontinued | 288  
+    awake prone positioning discontinued | 288  
+    oxygen therapy (2–4 L) administered | 288  
+    oxygen supportive care discontinued | 384  
+    RT-PCR test negative | 480  
+    microbiology negative | 480  
+    discharged to home isolation | 648  
+    followed-up by outreach team | 648  
+    increased inflammation biomarkers | 0  
+    lymphocytopenia | 0  
+    extensive lung parenchymal disease | 0  
+    poor prognosis | 0  
+    drug-susceptible TB | 0  
+    standard first-line regimen | 0  
+    combination of anti-TB therapy and antiviral treatment | 0  
+    risk for side-effects | 0  
+    no side-effects recorded | 0  
+    uneventful recovery | 648  
+    application of HFNC effective | 0  
+    application of awake prone positioning effective | 0  
+    increased C-reactive protein | 0  
+    increased lactate dehydrogenase | 0  
+    increased ferritin | 0  
+    lymphocytopenia upon admission | 0  
+    laboratory abnormalities | 0  
+    correlation with TB uncertain | 0  
+
+Alright, so I need to extract clinical events and their timestamps from this case report. The admission event is at timestamp 0, and everything else should be calculated relative to that. If there's no specific time given, I have to estimate based on surrounding info. 
+
+First, the patient is a 60-year-old male with hypertension and diabetes. He's admitted in March 2020 to the emergency department. His symptoms include recent onset fever, cough, chest pain, myalgias, fatigue, and respiratory distress. Since he was admitted, these symptoms should be at timestamp 0. 
+
+He has a past history of TB, which is mentioned at admission, so that's also timestamp 0. He had unprotected contact with his cousin who recently recovered from COVID-19. The case says "recently recovered," but no exact time. The cousin's recovery is mentioned as part of the history, so I might need to approximate. Maybe a few weeks before admission? If the contact was a few weeks prior, let's say 4 weeks, that's 672 hours before admission, so timestamp -672. 
+
+On physical exam, decreased breath sounds, SpO2 72%, but no respiratory distress. Chest X-ray and CT findings are at admission, so those are 0. Lab results like lymphocytopenia, increased CRP, LDH, ferritin—all at admission, so 0. 
+
+Confirmed COVID-19 via RT-PCR at admission, so 0. He's admitted to an isolation chamber, starts treatments like HFNC, prone positioning, meds (lopinavir/ritonavir, ribavirin, dexamethasone, anticoagulation). All these start at admission, so 0. 
+
+The NAAT test for TB comes back positive, leading to starting TB drugs (isoniazid, rifampicin, etc.) also at 0. No side effects noted, so that's 0. 
+
+Later events: His oxygenation index stays >250 for the first week (168 hours). HFNC and prone positioning stop after 12 days (288 hours). Oxygen therapy continues for four more days (so 12 days + 4 days = 16 days, 384 hours). Oxygen stopped at day 16 (384). RT-PCR negative on day 20 (480). Discharged on day 27 (648). Follow-up also at 648. 
+
+Other discussions mention increased inflammation biomarkers and lymphocytopenia at admission, so those are 0. The effective use of HFNC and prone positioning is noted, but that's part of the treatment, so timestamp 0. 
+
+I need to make sure all events are captured, even those in the discussion. Some like "drug-susceptible TB" and "standard first-line regimen" are part of the treatment started at admission, so 0. The combination therapy's risk is mentioned but no side effects, so those are 0. 
+
+I might have missed some events, like the initial unprotected contact. The case says "recently recovered" but no exact time. Assuming contact happened a few weeks before, I used 4 weeks (-672). Also, the RT-PCR negative and discharge are after admission, so positive timestamps. 
+
+I need to separate conjunctions, like "fever and rash" into separate events. Here, symptoms are listed together but should be split. However, in this case, symptoms are listed as separate already. 
+
+Checking the example provided, events like "fever" and "rash" were split. Here, similar approach: each symptom is separate. The case mentions "recent onset fever (38.6 °C), persistent productive cough, chest pain, myalgias, fatigue and respiratory distress." Each should be separate events with timestamp 0. 
+
+I think I got all events. Let me list them out with their timestamps.
+</think>
+
+60 years old | 0  
+hypertensive | 0  
+diabetic | 0  
+Asian | 0  
+male | 0  
+admitted | 0  
+recent onset fever (38.6 °C) | 0  
+persistent productive cough | 0  
+chest pain |, 0  
+myalgias | 0  
+fatigue | 0  
+respiratory distress | 0  
+past history of TB | 0  
+unprotected contact with cousin | -672  
+cousin recently recovered from COVID-19 | -672  
+decreased breath sounds at lung bases | 0  
+saturation of peripheral oxygen (SpO2) 72% | 0  
+no respiratory distress | 0  
+portable chest X-ray bilateral interstitial infiltrates | 0  
+electrocardiogram normal | 0  
+cardiac enzymes normal | 0  
+coagulation profile normal | 0  
+echocardiography normal | 0  
+lymphocytopenia (0.59 × 10⁹/L) | 0  
+increased C-reactive protein (243.3 mg/liter) | 0  
+increased lactate dehydrogenase (944 units/liter) | 0  
+increased ferritin (876 ng/ml) | 0  
+admission chest CT diffuse bilateral ground-glass opacities | 0  
+nasopharyngeal swabs confirmed COVID-19 | 0  
+admitted to isolation chamber | 0  
+full diagnostic work-up | 0  
+higher level of respiratory support via HFNC | 0  
+awake prone positioning (16–20 hours daily) | 0  
+ROX maintained over 6 for 48 hours | 0  
+empiric therapy with lopinavir/ritonavir | 0  
+empiric therapy with ribavirin | 0  
+dexamethasone | 0  
+prophylactic anticoagulation | 0  
+NAAT on sputum specimens revealed Mycobacterium tuberculosis | 0  
+started on isoniazid | 0  
+started on pyridoxal phosphate | 0  
+started on rifampicin | 0  
+started on pyrazinamide | 0  
+started on ethambutol | 0  
+no side effects | 0  
+ratio of partial arterial pressure of oxygen to fractional inspired concentration of oxygen >250 | 168  
+HFNC discontinued | 288  
+awake prone positioning discontinued | 288  
+oxygen therapy (2–4 L) administered | 288  
+oxygen supportive care discontinued | 384  
+RT-PCR test negative | 480  
+microbiology negative | 480  
+discharged to home isolation | 648  
+followed-up by outreach team | 648  
+increased inflammation biomarkers | 0  
+lymphocytopenia | 0  
+extensive lung parenchymal disease | 0  
+poor prognosis | 0  
+drug-susceptible TB | 0  
+standard first-line regimen | 0  
+combination of anti-TB therapy and antiviral treatment | 0  
+risk for side-effects | 0  
+no side-effects recorded | 0  
+uneventful recovery | 648  
+application of HFNC effective | 0  
+application of awake prone positioning effective | 0  
+increased C-reactive protein | 0  
+increased lactate dehydrogenase | 0  
+increased ferritin | 0  
+lymphocytopenia upon admission | 0  
+laboratory abnormalities | 0  
+correlation with TB uncertain | 0

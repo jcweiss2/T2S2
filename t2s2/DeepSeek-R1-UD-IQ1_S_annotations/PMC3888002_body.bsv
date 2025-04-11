@@ -1,0 +1,67 @@
+48 years old| 0
+    female| 0
+    diabetes| 0
+    coronary artery disease| 0
+    psoriasis| 0
+    acute onset of diffuse abdominal pain| -48
+    tachycardic| 0
+    heart rate of 130| 0
+    hypotensive| 0
+    blood pressure of 78/45| 0
+    afebrile| 0
+    alert| 0
+    oriented to person| 0
+    oriented to place| 0
+    oriented to time| 0
+    resuscitated| 0
+    intravenous fluids| 0
+    blood pressure responded appropriately| 0
+    heart rate responded appropriately| 0
+    initial labs showed normal WBC level of 8.3 thou/mcL| 0
+    acidotic| 0
+    pH of 7.29| 0
+    lactic acid level of 3.5 mmol/l| 0
+    acute abdominal series obtained| 0
+    free air below the right hemidiaphragm| 0
+    distended abdomen| 0
+    tenderness| 0
+    guarding| 0
+    signs of peritonitis| 0
+    exploratory laparotomy| 0
+    repair of perforated viscus| 0
+    vital signs stabilized| 0
+    decision to obtain CT scan| 0
+    CT scan obtained| 0
+    no perforated viscus| 0
+    splenic abscess| 0
+    ruptured splenic abscess| 0
+    pneumoperitoneum| 0
+    increasingly confused| 0
+    vital signs deteriorated| 0
+    worsening sepsis| 0
+    taken to operating room| 0
+    laparoscopic splenectomy attempted| 0
+    converted to laparotomy| 0
+    splenectomy| 0
+    gross contamination of the abdomen| 0
+    abdominal compartment copiously irrigated| 0
+    abdomen closed| 0
+    surgery without complications| 0
+    continued on antibiotics| 0
+    taken to intensive care unit| 0
+    post-operative care| 0
+    splenic abscess grew Prevotella intermedia| 0
+    blood cultures negative| 0
+    full work-up for source of splenic abscess| 0
+    transesophageal echocardiogram performed| 0
+    negative for masses| 0
+    negative for thrombus| 0
+    negative for vegetation| 0
+    panorex performed| 0
+    negative panorex| 0
+    reported tooth pain 1 week prior to admission| -168
+    deemed stable for discharge| 240
+    returned to clinic| 336
+    splenectomy vaccinations| 336
+    no conflicts of interest| 0
+    no financial funding| 0

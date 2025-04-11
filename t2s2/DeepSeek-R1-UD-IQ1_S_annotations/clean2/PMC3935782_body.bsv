@@ -1,0 +1,70 @@
+44 years old | 0
+female | 0
+presented to the emergency department | 0
+left groin redness | -72
+left groin pain | -72
+left groin swelling | -72
+inner thigh redness | -72
+inner thigh pain | -72
+inner thigh swelling | -72
+fever | -72
+chills | -72
+vomiting | -72
+treated with intravenous vancomycin | -48
+treated for cellulitis | -48
+discharged from urgent care | -24
+presented to the ED within 24 hours of discharge | 0
+initial ED vitals | 0
+afebrile | 0
+normotensive | 0
+tachycardia | 0
+mild tachypnea | 0
+left inner thigh induration | 0
+left groin induration | 0
+induration measuring 12 cm × 12 cm | 0
+morbidly obese | 0
+BMI >45 kg/m² | 0
+crepitus difficult to appreciate | 0
+initial labs | 0
+lactate 3.5 mmol/L | 0
+WBC 18.2 × 10³ per mm³ | 0
+hemoglobin 12.3 g/dL | 0
+sodium 136 mmol/dL | 0
+glucose 225 mg/dL | 0
+creatinine 1.8 mg/dL | 0
+LRINEC score of 6 | 0
+CRP excluded | 0
+bedside ultrasound performed | 0
+subcutaneous thickening | 0
+subcutaneous air | 0
+fascial fluid | 0
+STAFF findings | 0
+started on intravenous vancomycin | 0
+started on piperacillin/tazobactam | 0
+surgery consulted | 0
+taken to the operating room | 0
+presumed necrotizing fasciitis | 0
+underwent operative debridement | 0
+excision of 15 cm × 23 cm of tissue | 0
+extensive washout | 0
+admitted to surgical intensive care unit | 0
+septic shock | 0
+requiring vasopressors | 0
+ventilator dependence | 0
+underwent repeat washouts | 24
+underwent minor debridements | 24
+lactate normalization | 24
+down-trending WBC to 13.5 × 10³ per mm³ | 72
+extubated | 120
+transferred to step-down unit | 120
+plastic surgery consulted | 120
+evaluated for possible skin graft | 120
+underwent 4 additional operative washouts | 120
+deemed poor graft candidate | 120
+wound V.A.C. device placed | 216
+transferred to plastic surgery service | 216
+decision to forgo skin graft | 216
+fully ambulatory | 672
+discharged home | 672
+subsequently received skin graft | 672
+recovering well | 672

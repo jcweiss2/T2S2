@@ -1,0 +1,57 @@
+66 years old | 0
+    female | 0
+    endometrial cancer | -192
+    chemotherapy | -192
+    doxorubicin | -192
+    cisplatin | -192
+    neutropenic fever | 0
+    pancytopenia | 0
+    admitted to the hospital | 0
+    broad-spectrum antibiotics | 0
+    hypoxic respiratory failure | 72
+    intubation | 72
+    endotracheal tube diameter 8.0 mm | 72
+    acute pulmonary edema | 72
+    septic shock | 72
+    minute ventilation suddenly dropped | 84
+    suctioning endotracheal tube | 84
+    mildly blood-tinged material | 84
+    chest radiography no change | 84
+    chest radiography completely opacified left hemithorax | 96
+    no breath sounds over left chest | 96
+    platelets 38,000/µL | 96
+    flexible bronchoscopy | 96
+    large blood clot obstructing left main bronchus | 96
+    bronchoscopic lavage | 96
+    forceps extraction | 96
+    unsuccessful removal attempts | 96
+    cryoprobe application | 96
+    frozen for 10 seconds | 96
+    blood clot attached to probe | 96
+    successful removal in four pieces | 96
+    follow-up chest X-ray significant improvement | 96
+    fifteen minutes required for removal | 96
+    no further obstructive events | 96
+    repeat bronchoscopic evaluation | 528
+    no evidence of clot | 528
+    airways patent | 528
+    recovered from septic shock | 528
+    discharged from hospital | 576
+
+Alright, let's dive into this case report and figure out the events and their timestamps. The patient is a 66-year-old female with endometrial cancer. She received chemotherapy with doxorubicin and cisplatin 8 days before admission, which translates to -192 hours (8 days * 24 hours/day = 192).
+
+She was admitted to the hospital for neutropenic fever and pancytopenia, so those are at time 0. The treatment with broad-spectrum antibiotics starts right away, also timestamp 0.
+
+Three days after admission (72 hours), she developed hypoxic respiratory failure, leading to intubation. Events here include the endotracheal tube diameter, acute pulmonary edema, and septic shock, all at +72 hours.
+
+During mechanical ventilation, the minute ventilation dropped suddenly. The text mentions that this happened during mechanical ventilation, which started after intubation. Since intubation was at +72 hours, the drop in ventilation would be a bit later. The case report mentions that this occurred and then 12 hours later the chest X-ray showed the opacified left hemithorax. So the sudden drop in ventilation would be around +72 + 12 hours = +84 hours. Suctioning the endotracheal tube and finding blood-tinged material also occur here.
+
+The next morning, 12 hours after the initial event, the chest radiography shows the opacified left hemithorax at +96 hours. Auscultation revealing no breath sounds over the left chest and the platelet count of 38,000/µL also happen at this time.
+
+Flexible bronchoscopy revealing the blood clot, attempts at removal with lavage and forceps, unsuccessful attempts, and then using the cryoprobe all happen at +96 hours since they follow the radiography findings. The successful removal, follow-up X-ray improvement, and no further obstructive events are also at +96.
+
+The repeat bronchoscopic evaluation 2 weeks later (14 days * 24 = 336 hours) would be at +336 hours, but the discharge happened on the 24th day (24 * 24 = 576 hours). However, the case report says the repeat was 2 weeks after the clot removal, which occurred at +96 hours. So 2 weeks after +96 would be +96 + (14*24)= +96 + 336 = +432 hours. But the discharge was on day 24, which is 24*24=576 hours. So recovered from septic shock and discharge are at +576.
+
+Wait, in the case report, the repeat bronchoscopy was 2 weeks later, and she was discharged on the 24th day. Let's check the timeline:
+
+- Admission day 0.

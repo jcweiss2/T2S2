@@ -1,0 +1,57 @@
+72 years old | 0
+    man | 0
+    gastric cancer | 0
+    recurrent lymph node metastases | 0
+    admitted to Saiseikai Sendai Hospital | 0
+    chemotherapy for gastric cancer | 0
+    distal gastrectomy | -17040
+    right hepatic lobectomy | -17040
+    advanced gastric cancer | -17040
+    liver metastases | -17040
+    paraaortic lymph node metastases re-grown | -504
+    combination chemotherapy of paclitaxel and S-1 | -504
+    chemotherapy regime changed to docetaxel | -504
+    first administration of docetaxel | -168
+    short term hospitalization | -168
+    second treatment of docetaxel | 0
+    admission | 0
+    well-being | 0
+    blood chemistry data | 0
+    no inflammatory disease | 0
+    abdominal CT | 0
+    no metastasis | 0
+    no abscesses in the liver | 0
+    docetaxel 95 mg infused intravenously | 0
+    methyl prednisone 8 mg pretreatment | 0
+    high-grade fever | 24
+    low blood pressure | 24
+    white blood cell count 13,550/L | 24
+    red blood cell count 2,420,000/L | 24
+    blood platelet count 109,000/L | 24
+    aspartate aminotransferase 1,112 IU/L | 24
+    alanine aminotransferase 774 IU/L | 24
+    CRP 4.6 mg/dl | 24
+    septicemia unknown etiology | 24
+    continuous dopamine infusion | 24
+    broad-band antibiotics | 24
+    serious liver dysfunction | 48
+    serious renal dysfunction | 48
+    sepsis suspected | 48
+    leucocytosis | 48
+    high C-reactive protein | 48
+    origin of sepsis not identified | 48
+    intensive care | 48
+    hemodialysis | 48
+    respiratory support | 48
+    death | 120
+    blood bacterial culture positive E. coli | 120
+    autopsy | 120
+    no myelo-suppression | 120
+    residual lymph node metastases | 120
+    multiple occult liver abscesses | 120
+    gram-negative rods | 120
+    fungi | 120
+    fatal E. coli septicemia | 120
+    immuno compromised host | 120
+    anticancer drug treatment | 120
+    

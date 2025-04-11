@@ -1,0 +1,98 @@
+33 years old | 0
+female | 0
+injection drug use (IDU) | -12096
+untreated chronic hepatitis C infection | -12096
+presented to an outside emergency department (ED) in October 2019 | -72
+fever | -72
+pruritic lesion adjacent to the right eye | -72
+lesion became erythematous | -72
+lesion became warm | -72
+lesion became tender | -72
+febrile (39.4°C) | -72
+right-sided periorbital edema | -72
+tender to palpation | -72
+white blood cell count (WBC) 17.0 × 10^6 cells/L | -72
+80.3% neutrophils on differential count | -72
+computed tomography (CT) of the head and neck with contrast | -72
+preseptal cellulitis | -72
+no abscess | -72
+IV vancomycin | -72
+IV ceftriaxone | -72
+discharged herself shortly after admission | -72
+methicillin-resistant Staphylococcus aureus (MRSA) isolated from admission peripheral blood culture | -72
+presented to an outside facility again | -240
+headache | -240
+facial pain | -240
+shortness of breath | -240
+pain everywhere | -240
+transferred to our facility | -240
+alert but oriented only to self | 0
+blood pressure 137/79 mmHg | 0
+heart rate 82 beats per minute | 0
+temperature 37.6°C | 0
+respiratory rate 26 breaths per minute | 0
+oxygen saturation 97% on room air | 0
+bilateral severe eyelid edema | 0
+chemosis | 0
+right-sided peripheral facial droop | 0
+no other focal neurological findings | 0
+no nuchal rigidity | 0
+normal cardiac findings | 0
+diffuse rhonchi in all lung fields | 0
+WBC 31.3 × 10^6 cells/L | 0
+91% neutrophils | 0
+C-reactive protein 409.9 mg/L | 0
+erythrocyte sedimentation rate 97 mm/h | 0
+peripheral blood cultures grew MRSA in aerobic bottles | 0
+peripheral blood cultures grew MRSA in anaerobic bottles |)
+peripheral blood cultures grew MRSA in anaerobic bottles | 0
+minimum inhibitory concentrations (MICs) demonstrated resistance to oxacillin (MIC > 2 μg/mL) | 0
+susceptibility to clindamycin | 0
+susceptibility to erythromycin | 0
+susceptibility to gentamicin | 0
+susceptibility to vancomycin (MIC = 1 μg/mL) | 0
+susceptibility to daptomycin (MIC = 0.5 μg/mL) | 0
+urine drug screen positive for opiates | 0
+urine drug screen positive for cocaine | 0
+CT of the head without contrast | 0
+CT perfusion | 0
+CT angiogram (CTA) of the head and neck | 0
+CT of the face with contrast | 0
+magnetic resonance imaging (MRI) with and without contrast | 0
+bilateral facial cellulitis | 0
+preseptal cellulitis | 0
+postseptal (orbital) cellulitis | 0
+worse on the right side | 0
+septic thrombophlebitis in multiple bilateral facial veins | 0
+thrombosis in bilateral cavernous sinuses | 0
+thrombosis in multiple dural sinuses | 0
+thrombosis in bilateral IJVs | 0
+catheter cerebral arteriography demonstrated bilateral internal carotid artery (ICA) stenosis | 0
+stenosis likely secondary to endarteritis in the petrous sections | 0
+MRI of the brain with and without contrast demonstrated infarcts involving right lateral hemipons | 0
+infarcts involving bilateral cerebral hemispheres in the watershed of the ACA/MCA vascular territories | 0
+CT of the chest with contrast revealed innumerable solid nodules across all lobes | 0
+central cavitary components concerning for septic emboli | 0
+transthoracic echocardiogram (TTE) did not demonstrate valvular vegetations | 0
+admitted to the medical intensive care unit | 0
+IV vancomycin for MRSA coverage | 0
+anticoagulated with heparin | 0
+extensive venous sinus thrombosis | 0
+worsening ventriculitis | 0
+ACA/MCA watershed infarcts | 0
+stenosis of bilateral ICAs | 0
+neurosurgery to place a stent in right ICA | 24
+lumbar puncture performed | 24
+cerebrospinal fluid culture grew MRSA | 24
+ongoing treatment with IV vancomycin | 24
+blood cultures continued to grow MRSA | 24
+IV daptomycin added empirically | 24
+attempted intensification therapy | 24
+progressive clinical deterioration | 24
+persistence of MRSA bacteremia | 24
+continuing signs of sepsis | 24
+poor neurological prognosis | 24
+goals-of-care discussion held with family | 24
+comfort care initiated | 24
+transfer to hospice arranged | 24
+died | 504

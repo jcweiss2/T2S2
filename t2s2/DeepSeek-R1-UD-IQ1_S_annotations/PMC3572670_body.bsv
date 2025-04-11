@@ -1,0 +1,141 @@
+60 years old|0
+    woman|0
+    diabetes mellitus|0
+    fever|0
+    pain in the throat|0
+    skin rash|0
+    antibiotics|-168
+    high CRP|-168
+    high sedimentation rate (SR)|-168
+    fever persisted|0
+    admitted to hospital|0
+    high P-CRP|0
+    high B-leukocytes|0
+    suspicion of underlying bacterial infection|0
+    intravenous antibiotic with cefotaxime|0
+    deterioration|0
+    low systolic blood pressure|0
+    confusion|0
+    intensive skin rash on arms|0
+    intensive skin rash on legs|0
+    intensive skin rash on chest/abdomen|0
+    fever|0
+    admitted to the intensive care unit|0
+    high ferritin level (145,000 µg/L)|0
+    Still's disease suspected|0
+    disseminated intravascular coagulation (DIC)|0
+    high PK-INR|0
+    high APT|0
+    elevated fibrin D-dimers|0
+    successively low fibrinogen|0
+    high CRP (237 mg/L)|0
+    high blood sedimentation rate (110 mm/h)|0
+    anemia (89 g/L)|0
+    thrombocytopenia (70 × 10^9/L)|0
+    leukopenia (3.1 × 10^9/L)|0
+    Procalcitonin (35 µg/L)|0
+    changed to meropenem|0
+    changed to gensumycin|0
+    changed to fluconazole|0
+    no significant improvement|0
+    high triglyceride values|0
+    soluble CD25R (IL-2R-alpha) exceeded 2,400 kU/L|0
+    five of eight criteria for HLH|0
+    diagnosis confirmed|0
+    several biopsies performed|0
+    bone-marrow biopsy slight alterations of maturity in megakaryocytes|0
+    bone-marrow biopsy slight alterations of maturity in erythropoiesis|0
+    no signs of lymphoma|0
+    no signs of malignancies|0
+    initial phase of myelodysplastic syndrome could not be excluded|0
+    later bone-marrow biopsies could not confirm myelodysplastic syndrome|0
+    biopsy of the skin non-specific inflammation with edema|0
+    biopsy of the skin infiltrations of lymphocytes round blood vessels|0
+    no signs of vasculitis|0
+    no signs of necroses|0
+    no signs of granulomas|0
+    18F-FDG PET/CT scan|0
+    symmetrical and bilateral uptakes in lymph nodes of the neck|0
+    symmetrical and bilateral uptakes in mediastinum|0
+    symmetrical and bilateral uptakes in lung hili|0
+    symmetrical and bilateral uptakes in liver hilum|0
+    symmetrical and bilateral uptakes along a. iliaca externa|0
+    symmetrical and bilateral uptakes in inguinal regions|0
+    symmetrical and bilateral uptakes in the spleen|0
+    strongest uptake in lymph nodes of the neck|0
+    strongest uptake in the spleen|0
+    no antibodies against parvovirus B19|0
+    no antibodies against HIV|0
+    no antibodies against HHV 6|0
+    no antibodies against HHV 8|0
+    no antibodies against influenza A|0
+    no antibodies against influenza B|0
+    no antibodies against adenovirus|0
+    no antibodies against coronavirus|0
+    no antibodies against RSV A|0
+    no antibodies against RSV B|0
+    nasopharynx negative for rhinovirus|0
+    nasopharynx negative for parainfluenza 1|0
+    nasopharynx negative for parainfluenza 2|0
+    nasopharynx negative for parainfluenza 3|0
+    nasopharynx negative for RSV A|0
+    nasopharynx negative for RSV B|0
+    elevated IgG against HSV|0
+    elevated IgG against VZV|0
+    IgM-negative against HSV|0
+    IgM-negative against VZV|0
+    no pre-existing clinical features of chronic active EBV infection|0
+    EBNA IgG present|0
+    EBV load of 2,400 copies/mL in whole blood|0
+    new assessment of EBV IgG negative 7 days later|168
+    no bacterial infection found|0
+    no fungal infection found|0
+    repeated cultures from urine negative|0
+    repeated cultures from blood negative|0
+    repeated cultures from sputum negative|0
+    repeated cultures from bone-marrow negative|0
+    geneticist consultation: X-linked proliferative syndrome improbable|0
+    patient's age indicates familiar form of HLH unlikely|0
+    clinical presentation not typical for morbus Still|0
+    no other rheumatologic disease|0
+    no malignancy confirmed|0
+    treatment with prednisolone 60 mg|0
+    treatment with dexamethasone 16.5 mg|0
+    duration of therapy 3 months 17 days|0
+    dose gradually decreased|0
+    therapy discontinued|0
+    very good response to steroid therapy|0
+    no treatment with etoposide|0
+    no treatment with cyclosporine|0
+    clinical condition improved after 2 weeks|336
+    fever disappeared|336
+    blood pressure improved|336
+    general condition improved|336
+    skin rash decreased|336
+    hemoglobin increased from 89 g/L to 126 g/L|336
+    platelets increased from 70 × 10^9/L to 188 × 10^9/L|336
+    ferritin decreased from 145,000 to 18,000 µg/L|336
+    intense fatigue|336
+    admitted to rehabilitation unit|336
+    improvement of general condition|336
+    normalized plasma ferritin|0
+    no signs of HLH activation|0
+    feeling well|0
+    serological evidence of prior EBV infection|0
+    fulminant syndrome with sepsis-like pattern|0
+    disseminated intravascular coagulation|0
+    needed intensive care|0
+    treated with broad-spectrum antibiotics|0
+    treated with antifungals|0
+    good clinical response to steroids|0
+    extreme elevation of procalcitonin|0
+    high cytokine storm|0
+    fulfilled criteria for HLH|0
+    PCR positive for EBV during acute phase|0
+    reactivated previous EBV infection|0
+    positive EBNA|0
+    HLH diagnosis early|0
+    proper treatment given|0
+    patient survived|0
+    no similar cases reported in Sweden|0
+    

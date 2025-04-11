@@ -1,0 +1,46 @@
+88 years old | 0
+    male | 0
+    brought to emergency room | 0
+    right hemiparesis | 0
+    aphasia | 0
+    transient ischemic attack | -52560
+    atrial fibrillation | -52560
+    hypertension | -52560
+    hyperlipidemia | -52560
+    gout | -52560
+    chronic renal insufficiency | -52560
+    old basal ganglia lacunar infarct | -52560
+    medication including antiplatelet agent | -52560
+    not administered medication for permanent atrial fibrillation | -52560
+    mild drowsy | 0
+    not communicated | 0
+    right hemiparesis grade IV | 0
+    no gaze deviation | 0
+    no visual field defect | 0
+    multiple small cortical infarcts in left middle cerebral artery territory | 0
+    atrial fibrillation with rapid ventricular rhythm | 0
+    moderate aortic valve regurgitation | 0
+    left atrial enlargement | 0
+    normal ejection fraction | 0
+    no thrombus observed | 0
+    treatment with heparin | 0
+    treatment with digoxin | 0
+    digoxin stopped | 168
+    heart rate less than 40/min | 168
+    anticoagulation stopped | 168
+    gross hematuria | 168
+    intubation | 432
+    purulent sputum | 432
+    severe stridor | 432
+    epiglottitis | 432
+    right-sided weakness progressed to hemiplegia grade III | 432
+    consciousness decreased to stuporous state | 720
+    eyeball deviated to right side | 720
+    left side hemiparesis grade I | 720
+    right-sided diffuse subcortical infarcts of middle cerebral artery territory | 720
+    atrial fibrillation converted to normal sinus rhythm | 720
+    normal cardiac enzymes | 720
+    follow-up echocardiogram not different | 720
+    normal sinus rhythm sustained | 720
+    died due to sepsis | 1080
+    

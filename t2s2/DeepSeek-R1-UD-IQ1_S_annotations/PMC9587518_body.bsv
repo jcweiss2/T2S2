@@ -1,0 +1,107 @@
+38 years old | 0
+    primigravida | 0
+    uterine fibroids | 0
+    admitted to a university hospital | 0
+    superimposed preeclampsia | 0
+    28 weeks of gestation | 0
+    laparoscopic myomectomy at 33 years of age | -12096
+    no history of uterine instrumentation | 0
+    transvaginal ultrasonography (US) | -1680
+    natural conception | -1680
+    uterine fibroid approximately 8 cm × 5 cm | -1680
+    multiple other fibroids | -1680
+    12th week of gestation | -3360
+    methyldopa | -3360
+    chronic gestational hypertension | -3360
+    blood pressure of 220/120 mmHg | 0
+    pulse rate of 100 bpm | 0
+    temperature of 36.5 °C | 0
+    urine protein/creatinine ratio was 7.39 g/gCr | 0
+    chest X-ray showed bilateral butterfly shadows | 0
+    calcium-channel antagonist | 0
+    magnesium sulfate | 0
+    unmanageable blood pressure | 24
+    emergency cesarean section (CS) | 24
+    lower transverse uterine incision | 24
+    myomectomy could not be performed | 24
+    increased bleeding risk | 24
+    postoperative intensive care | 24
+    antihypertensive drugs | 24
+    diuretics | 24
+    control blood pressure | 24
+    fluid balance | 24
+    ninth postoperative day | 216
+    body temperature rose to 38.2 °C | 216
+    shivering | 216
+    fever nearly 38 °C each day | 216
+    fever did not last for 2 hours | 216
+    no apparent signs of infection | 216
+    discharged on the 14th postoperative day | 336
+    fever resolved after urination | 336
+    uncomplicated cystitis | 336
+    observed closely without antibiotics | 336
+    16 days after CS | 384
+    visited the emergency room | 384
+    high fever | 384
+    shivering | 384
+    tachycardia at 120 beats per minute | 384
+    blood pressure of 120/80 mmHg | 384
+    temperature of 40.2 °C | 384
+    white blood cell count was × 106/ml | 384
+    neutrophils were 90% | 384
+    C-reactive protein (CRP) was 31 mg/dL | 384
+    no uterine tenderness | 384
+    no malodor of discharge | 384
+    computer tomography (CT) showed degenerated 8-cm-sized fibroid | 384
+    no apparent abscess formation | 384
+    piperacillin-tazobactam | 384
+    4.5 g every 8 h | 384
+    vaginal discharge culture showed Gardnerella vaginosis | 384
+    no organisms in blood and urine cultures | 384
+    five days after initiation of antibiotics | 576
+    fever remained around 39 °C | 576
+    blood culture | 576
+    urine culture | 576
+    vaginal culture | 576
+    all cultures negative | 576
+    lumbar spinal MRI | 576
+    echocardiography | 576
+    rule out spondylitis | 576
+    rule out endocarditis | 576
+    pelvic MRI | 576
+    determine degenerative condition of fibroids | 576
+    US and CT could not rule out infection | 576
+    MRI showed 12-cm fibroid with edematous changes | 576
+    increased diffusion-weighted image (DWI) signal | 576
+    ten days of broad-spectrum antimicrobial therapy | 624
+    failed to resolve fever | 624
+    CT and MRI could not rule out infection | 624
+    decision to perform myomectomy | 624
+    surgery performed 31 days after CS | 744
+    22 days after fever onset | 744
+    laparotomy | 744
+    no abscess observed | 744
+    clear abdominal fluid | 744
+    uterine surface was smooth | 744
+    incision at bottom of uterine fundus | 744
+    yellow-greenish odorless fluid | 744
+    degenerated myoma removed | 744
+    histopathology confirmed degenerated leiomyoma | 744
+    neutrophilic invasion | 744
+    necrotic lesions | 744
+    Metamycoplasma hominis detected | 744
+    M. hominis not detected in ascites fluid | 744
+    M. hominis not detected in myometrium tissue | 744
+    M. hominis not detected in degenerated myoma tissue | 744
+    excellent clinical course after surgery | 744
+    no fever | 744
+    discharged on sixth postoperative day | 816
+    oral levofloxacin | 816
+    continued for one week | 816
+    patient remained stable | 816
+    symptom-free | 816
+    blood samples one month postpartum | 1488
+    no signs of infection | 1488
+    ultrasound examination | 1488
+    no abscess | 1488
+    no hematoma formation | 1488

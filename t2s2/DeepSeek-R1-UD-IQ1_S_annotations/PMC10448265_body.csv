@@ -1,0 +1,107 @@
+event,time
+34 years old ,0
+    male ,0
+    admitted to the Internal Medicine Department ,0
+    increasing edema of the whole body ,0
+    poor hygiene ,0
+    not taking any medications ,0
+    past medical history: cirrhosis in alcohol use disorder ,0
+    hypertension ,0
+    hepatitis B ,0
+    macrocytic anemia ,0
+    moderate mitral valve regurgitation ,0
+    previous Clostridium Difficile infection ,0
+    stage 2 hypertensive chronic kidney disease ,0
+    previous episodes of acute renal failure ,0
+    sepsis ,0
+    extensive edema of the lower body ,0
+    conscious ,0
+    verbal-logical contact preserved ,0
+    wheezing ,0
+    rhonchi over lung fields ,0
+    dullness at base of left lung ,0
+    loud mitral regurgitation murmur ,0
+    blood pressure 120/80 mmHg ,0
+    heart rate 100 bpm ,0
+    body temperature 38.0°C ,0
+    WBC 10.0 × 10³/ul ,0
+    HBG 8.1 g/dl ,0
+    HCT 25.6% ,0
+    PLT 139 × 10³/ul ,0
+    CRP 124 mg/l ,0
+    creatinine 1.83 mg/dl ,0
+    potassium 4.10 mmol/l ,0
+    sodium 130 mmol/l ,0
+    albumin 2.5 g/dl ,0
+    ALT 49 u/l ,0
+    AST 110 u/l ,0
+    INR 1.33 ,0
+    chest X-ray showed fluid in pleural cavity ,0
+    CT abdomen/pelvis showed extensive edema ,0
+    CT abdomen/pelvis negative for abscess ,0
+    echocardiogram confirmed mitral regurgitation ,0
+    preserved ejection fraction ,0
+    initial empiric antibiotic therapy with Ceftazidime ,0
+    modified antibiotic therapy to Imipenem/Cilastatin and Vancomycin ,0
+    blood cultures grew Staphylococcus Epidermidis ,0
+    wound cultures grew multiple pathogens ,0
+    skin cultures collected four times ,0
+    antibiotic dosage adjusted to GFR and dialysis ,0
+    antibiotic therapy continued throughout hospitalization ,0
+    started on TPN on 3rd day ,72
+    vasopressor support with Norepinephrine ,0
+    MAP goal ≥65 ,0
+    Enterobacter Cloacae +++ ,0
+    Escherichia Coli +++ ,0
+    Enterococcus Faecalis + ,0
+    sensitive to Imipenem and Gentamicin ,0
+    Enterococcus Faecium VRE +1 ,0
+    Klebsiella Pneumoniae ESBL +++ ,0
+    Acinetobacter Baumannii +++ ,0
+    Proteus Vulgaris +++ ,0
+    sensitive to Gentamicin ,0
+    sensitive to Imipenem ,0
+    sensitive to Ceftazidime ,0
+"    edema of lower abdomen, scrotum, limbs ",0
+    petechiae ,0
+    bursting blisters oozing serous content ,0
+    secondary necrotic changes ,0
+    pain with movement and palpation ,0
+    diagnosis of Fournier's Gangrene ,0
+    transfer to surgical ward ,0
+    prolonged septic shock ,0
+    acute renal failure ,0
+    minimal urine production ,0
+    first session of CVVHD initiated on day 5 ,120
+    four sessions of hemodialysis ,0
+    two sessions before first necrosectomy ,0
+    two sessions after first necrosectomy ,0
+    first necrosectomy on day 7 ,168
+    removal of necrotic skin and subcutaneous tissue ,168
+    scored 7 on FGSI ,168
+    second necrosectomy on day 16 ,384
+    application of sterile dressing with antiseptic solutions ,384
+    transported to quaternary care center for HBOT ,384
+    13 sessions of HBOT over 7 days ,384
+    episode of epistaxis treated with anterior tamponade ,0
+    transferred back to community hospital ,528
+    NPWT started ,528
+    NPWT applied on lower abdomen and thighs ,528
+    further removal of devitalized tissue ,528
+    NPWT fully sealed for 3 days ,528
+    serous-blood discharge from wound ,528
+    negative pressure device set to intermittent mode ,528
+    NPWT deployed for 16 days ,528
+    foam changed 4 times ,528
+    standard sterile dressings impregnated with agents ,720
+    granulation tissue achieved ,720
+    qualified for skin transplant ,720
+    condition worsened on day 33 ,792
+    CRP and leukocytes increased ,792
+    blood cultures positive for Escherichia Coli ,792
+    urine cultures positive for Escherichia Coli ,792
+    urosepsis ,792
+    antibiotic therapy with Imipenem ,792
+    vasopressor support ,792
+    sudden cardiac arrest ,792
+    patient death ,960

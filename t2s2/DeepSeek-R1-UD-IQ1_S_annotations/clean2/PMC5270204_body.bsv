@@ -1,0 +1,97 @@
+8.0kg | 0
+nine-month-old | 0
+male | 0
+admitted to the hospital | 0
+intermittent pyrexia | -672
+irritability | -672
+coryzal symptoms | -672
+upper respiratory tract infection | -672
+urticarial rash | -336
+food allergy | -336
+vomiting | -336
+pallor | -336
+weight loss | -336
+oral Augmentin | -672
+irritable child | 0
+pale | 0
+febrile at 38.5°C | 0
+oxygen saturation 95% | 0
+pulse rate 152 beats per minute | 0
+grade 2/6 ejection systolic murmur | 0
+tachypnoeic | 0
+respiratory rate 65 breaths per minute | 0
+bilateral subcostal recessions | 0
+4cm tender hepatomegaly | 0
+intravenous ceftriaxone | 0
+normocytic normochromic anaemia | 0
+haemoglobin level 7.6g/dl | 0
+leucocytosis 21.8×109/l | 0
+lymphocytosis 12×109 | 0
+normal platelet count | 0
+cerebrospinal fluid sterile | 0
+mild pleocytosis | 0
+normal protein concentration | 0
+sterile blood cultures | 0
+sterile urine cultures | 0
+C-Reactive Protein 144 | 0
+Erythrocyte Sedimentation Rate 115mm/hr | 0
+normal liver function tests | 0
+normal renal function tests | 0
+no disseminated intravascular coagulation | 0
+homogenous hepatomegaly | 0
+small right pleural effusion | 0
+no cardiomegaly | 0
+giant aneurysm of left anterior descending artery | 0
+thrombus formation | 0
+left main coronary dilated 5mm | 0
+left circumflex artery dilated 9mm | 0
+right coronary artery dilated 4mm | 0
+situs solitus | 0
+levocardia | 0
+concordant atrioventricular connections | 0
+inferior vena cava drainage into right atrium | 0
+superior vena cava drainage into right atrium | 0
+pulmonary veins drainage into left atrium | 0
+left-sided aortic arch | 0
+no coarctation | 0
+no patency of the ductus arteriosus | 0
+small pericardial effusion | 0
+moderate mitral regurgitation | 0
+dilatation of the left atrium | 0
+mild pulmonary regurgitation | 0
+mild tricuspid regurgitation | 0
+patent foramen ovale | 0
+atypical Kawasaki disease | 0
+intravenous immunoglobulin (IVIG) | 0
+high dose aspirin therapy | 0
+packed red cells transfusion | 0
+Hb 6.5g/dl | 0
+transfer to Neonatal Intensive Care Unit | 0
+febrile despite IVIG | 0
+methylprednisolone response | 0
+no concomitant aneurysms in Circle of Willis | 0
+no renal vasculature aneurysms | 0
+diuretics | 0
+aspirin | 0
+heparinisation | 0
+warfarin | 0
+clinical condition resolving steadily | 0
+discharged | 432
+Prednisolone 12mg daily | 432
+Aspirin 80mg every 6 hours | 432
+Furosemide 8mg twice a day | 432
+Spironolactone 8mg twice a day | 432
+Warfarin 1mg daily | 432
+normal development | 432
+developmental milestones satisfactory | 432
+weight 12.0 kg | 432
+increased aneurysm size to 11mm by 30mm | 432
+left main coronary artery dilated 4mm | 432
+right main coronary artery 2.5mm | 432
+proximal aneurysm 6.5mm | 432
+good systolic function | 432
+decent pulsatility of the abdominal aorta | 432
+no diastolic tail | 432
+no reverse flow | 432
+intact interventricular septum | 432
+coronary dilatation confirmed on CT scan | 432

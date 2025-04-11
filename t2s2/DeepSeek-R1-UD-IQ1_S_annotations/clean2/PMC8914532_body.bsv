@@ -1,0 +1,75 @@
+43 years old | 0
+male | 0
+African American | 0
+admitted to the hospital | 0
+HIV | 0
+nonadherence to antiretroviral therapy | 0
+chronic hepatitis B infection | 0
+progressive confusion | -168
+fevers | -168
+upper respiratory symptoms | -168
+rhinorrhea | -168
+denies cough | -168
+denies shortness of breath | -168
+denies chest pain | -168
+denies headache | -168
+denies abdominal pain | -168
+febrile 38.4℃ | 0
+tachycardic 150 bpm | 0
+cachexia | 0
+oral thrush | 0
+non-blanching maculopapular rashes | 0
+confusion | 0
+somnolence | 0
+pancytopenia | 0
+WBC 1.6×10³/mm³ | 0
+neutrophils 79.8% | 0
+lymphocytes 9.8% | 0
+monocytes 9.8% | 0
+hemoglobin 11.8 g/dL | 0
+platelets 46×10³/mm³ | 0
+acute kidney injury | 0
+creatinine 1.74 mg/dl | 0
+lactate 2.7 mg/dl | 0
+AST 68 IU/L | 0
+ALT 26 IU/L | 0
+HIV viral load 1.26 million copies/mL | 0
+CD4 count <10 | 0
+reactivated HBV | 0
+negative HBcAb IgM | 0
+positive HBcAb IgG | 0
+positive HBsAg | 0
+negative HBsAb | 0
+HBV viral load 234 million IU/mL | 0
+empiric meningitis treatment | 0
+vancomycin | 0
+ceftriaxone | 0
+acyclovir | 0
+ampicillin | 0
+fluconazole | 0
+LP unremarkable | 0
+cryptococcal meningitis ruled out | 0
+seizures | 96
+intubation | 96
+transfer to ICU | 96
+persistent high grade fever | 96
+worsening liver function tests | 96
+pancytopenia | 96
+HLH considered | 96
+ferritin 7440.7 ng/mL | 96
+elevated triglycerides 243 mg/dL | 96
+elevated fibrinogen 581 mg/dL | 96
+sIL-2R 1192.5 pg/mL | 96
+HScore 218 | 96
+bone marrow biopsy unremarkable | 96
+dexamethasone initiated | 168
+dolutegravir | 168
+emtricitabine-tenofovir alafenamide | 168
+improved ferritin | 504
+improved fever | 504
+improved clinical status | 504
+discharged | 504
+dexamethasone taper | 504
+outpatient follow-up | 3024
+HIV viral load 130 copies/mL | 3024
+HBV viral load 450,000 copies/mL | 3024

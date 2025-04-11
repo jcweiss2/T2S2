@@ -1,0 +1,56 @@
+21 years old | 0  
+    male | 0  
+    admitted to the intensive care unit | 0  
+    acute hypoxic/hypercapnic respiratory failure | 0  
+    acute kidney injury | 0  
+    septic shock | 0  
+    heroin use | 0  
+    methicillin-susceptible Staphylococcus aureus pneumonia | 0  
+    worsening hypoxia | 0  
+    respiratory acidosis | 0  
+    intubated | 0  
+    propofol induction | 0  
+    creatinine increased to 1.8 mg/dl | 24  
+    urine sediment evaluation revealed bright pink pellet | 24  
+    light microscopy showed many amorphous crystals | 24  
+    acidified urine | 24  
+    alkalized urine | 24  
+    polychromatic birefringence rhomboid uric acid crystallization | 24  
+    amorphous urate crystals | 24  
+    i.v. fluids | 24  
+    serum creatinine returned to baseline | 72  
+    extubated | 96  
+    discharged | 120  
+    no previous medical history | 0  
+    body mass index 28.2 | 0  
+    pink urine syndrome | 24  
+    uric acid crystallization | 24  
+    propofol anesthesia | 0  
+    low urine pH | 24  
+    acidification | 24  
+    alkalinization | 24  
+    no AKI | 24  
+    no shortness of breath | 0  
+    denies chest pain | 0  
+    respiratory distress syndrome | 0  
+    acute alcohol toxicity | 0  
+    no history of diabetes | 0  
+    no history of hypertension | 0  
+    no history of hypercholesterolemia | 0  
+    no history of OSA | 0  
+    no history of CHF | 0  
+    no history of depression | 0  
+    no history of carpal tunnel syndrome | 0  
+    no history of liver cirrhosis | 0  
+    no history of nephrolithiasis | 0  
+    no history of valerian extract overdose | 0  
+    no history of ulnar nerve injury | 0  
+    no history of spontaneous bacterial peritonitis | 0  
+    no history of hepatic encephalopathy | 0  
+    no history of upper gastrointestinal bleeding | 0  
+    no history of alcohol abuse | 0  
+    no history of gout | 0  
+    no history of uric acid stone formation | 0  
+    no history of familial renal hypouricemia | 0  
+    no history of hypoxanthine-guanine phosphoribosyltransferase deficiency | 0  
+

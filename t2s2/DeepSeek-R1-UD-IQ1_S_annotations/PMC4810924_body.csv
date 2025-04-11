@@ -1,0 +1,112 @@
+event,time
+5 years old ,0.0
+    diagnosed with Crohn's disease ,-105120.0
+    older brother with Crohn's disease ,-105120.0
+    bronchiolitis episodes ,-105120.0
+    anti-tumor necrosis factor drug (infliximab) ,-2928.0
+    protein-losing enteropathy ,-2928.0
+    recurrent intestinal pseudo-obstruction ,-2928.0
+    admitted to hospital ,0.0
+    abdominal pain ,0.0
+    bloody stool ,0.0
+    gangrenous bowel ,0.0
+    ascending colon removed ,0.0
+    developed pneumonia ,24.0
+    ARDS ,24.0
+    PaO2/FiO2 <100 ,24.0
+    ventilated ,24.0
+    lung protective ventilation strategy ,24.0
+    fever ,24.0
+    hypotension ,24.0
+    tachycardia ,24.0
+    tachypnea ,24.0
+    bilateral crackles ,24.0
+    arterial blood pH: 7.10 ,24.0
+    pCO2: 55 ,24.0
+    pO2: 95 ,24.0
+    HCO3: 17 ,24.0
+    BE: −7 ,24.0
+    O2 saturation: 98% ,24.0
+    lactate: 6.8 ,24.0
+    hemoglobin: 9.9 g/dL ,24.0
+"    white blood cell count: 19,300/mm3 ",24.0
+"    platelets: 61,000/mm3 ",24.0
+    increased neutrophil band count ,24.0
+    CRP: 10 mg/dL ,24.0
+    procalsitonin: 100 ng/mL ,24.0
+    chest radiography diffuse infiltration ,24.0
+    chest radiography consolidation ,24.0
+    antibiotics initiated ,24.0
+    vasopressors initiated ,24.0
+    Pseudomonas aeruginosa in tracheal culture ,24.0
+    Pseudomonas aeruginosa in blood culture ,24.0
+    oliguric renal failure ,24.0
+    continuous venovenous hemodialysis ,24.0
+    fever subsided ,264.0
+    laboratory findings back to normal ,264.0
+    CRP not back to normal ,264.0
+    cultures sterile ,264.0
+    general well-being ,264.0
+    weaning attempt failed ,336.0
+    re-intubated ,336.0
+    restrictive pattern with low compliance ,336.0
+    HRCT interlobular septal thickening ,336.0
+    HRCT air bronchograms ,336.0
+    HRCT consolidated areas ,336.0
+    HRCT bronchiectasia ,336.0
+    HRCT ground glass opacities ,336.0
+    neutrophilic infiltration in tracheal aspirates ,336.0
+    negative mycobacterium tuberculosis ,336.0
+    negative viral respiratory organisms ,336.0
+    normal immunological profile ,336.0
+    tracheostomy performed ,552.0
+    prednisolone initiated ,552.0
+    clinical condition improved ,648.0
+    pulmonary functions improved ,648.0
+    CRP returned to normal ,648.0
+    discharged from PICU ,768.0
+    no mechanical ventilator support ,768.0
+    tracheostomy present ,768.0
+    bronchiolitis episodes in past ,-105120.0
+    no PFT applied ,-105120.0
+    no BHR determined ,-105120.0
+    no subclinical alterations detected ,-105120.0
+    no histopathological examination ,336.0
+    parental disapproval for bronchoscopy ,336.0
+    no conflicts of interest ,0.0
+  Final Answer,
+5 years old ,0.0
+diagnosed with Crohn's disease ,-105120.0
+older brother with Crohn's disease ,-105120.0
+bronchiolitis episodes ,-105120.0
+anti-tumor necrosis factor drug (infliximab) ,-2928.0
+protein-losing enteropathy ,-2928.0
+recurrent intestinal pseudo-obstruction ,-2928.0
+admitted to hospital ,0.0
+abdominal pain ,0.0
+bloody stool ,0.0
+gangrenous bowel ,0.0
+ascending colon removed ,0.0
+developed pneumonia ,24.0
+ARDS ,24.0
+PaO2/FiO2 <100 ,24.0
+ventilated ,24.0
+lung protective ventilation strategy ,24.0
+fever ,24.0
+hypotension ,24.0
+tachycardia ,24.0
+tachypnea ,24.0
+bilateral crackles ,24.0
+arterial blood pH: 7.10 ,24.0
+pCO2: 55 ,24.0
+pO2: 95 ,24.0
+HCO3: 17 ,24.0
+BE: −7 ,24.0
+O2 saturation: 98% ,24.0
+lactate: 6.8 ,24.0
+hemoglobin: 9.9 g/dL ,24.0
+"white blood cell count: 19,300/mm3 ",24.0
+"platelets: 61,000/mm3 ",24.0
+increased neutrophil band count ,24.0
+CRP: 10 mg/dL ,24.0
+procalcitoni,

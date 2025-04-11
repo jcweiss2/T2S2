@@ -1,0 +1,94 @@
+31 years old | 0
+male | 0
+worked in chloralkali mercury electrolysis plant | -1440
+fatigue | -1440
+dizziness | -1440
+profuse sweating | -1440
+tremor of hands | -1440
+tremor of calves | -1440
+burning sensation in the feet | -1440
+freezing sensation in the feet | -1440
+maculopapular rash on extremities | -1440
+maculopapular rash on body | -1440
+diagnosed by family doctor | -1440
+treated by family doctor | -1440
+diagnosed by occupational medicine physician | -1440
+treated by occupational medicine physician | -1440
+hospitalized in regional hospital | -1440
+elevated liver transaminases | -1440
+enlarged liver | -1440
+nonsignificant hyponatremia | -1440
+excluded acute mercury vapor poisoning | -1440
+admitted to university hospital | 0
+dizziness | 0
+tremor | 0
+ataxia | 0
+dysarthria | 0
+dysphagia | 0
+urinary retention | 0
+stool retention | 0
+diminished deep tendon reflexes | 0
+hyponatremia (126 mmol/L) | 0
+unremarkable medical history | 0
+denied tobacco use | 0
+denied alcohol use | 0
+denied illicit drug use | 0
+encephalopathy | 0
+polyradiculoneuropathy of unknown etiology | 0
+urine mercury test sent | 0
+extensive neuro-diagnostic tests performed | 0
+increased extremity paresthesias | 24
+burning sensation of the soles | 24
+peripheral facial nerve neuropathy | 24
+progressive lower extremity weakness | 24
+antiviral treatment used | 24
+antibiotic treatment used | 24
+intravenous immunoglobulin treatment used | 24
+acute respiratory failure developed | 672
+intubated | 672
+mechanical ventilation started | 672
+urine mercury level result received (317.2 µg/L) | 672
+chelation therapy with penicillamine started | 672
+transferred to ICU | 672
+continuous venovenous hemodiafiltration for 9 days | 672
+DMPS 250 mg IV every 12 hours for 4 days | 672
+crackles of subcutaneous emphysema palpable on neck | 672
+pneumomediastinum detected on chest X-ray | 672
+pneumomediastinum confirmed by CT scan | 672
+subcutaneous emphysema of the neck | 672
+atelectasis | 672
+consolidation in lower segments of left lung | 672
+thick purulent secretions in bronchi | 672
+no signs of damage to bronchi | 672
+no signs of damage to esophagus | 672
+mechanical ventilation used for almost 5 months | 672
+weaned off ventilator | 3600
+control CT scan performed 2 weeks later | 840
+complete resolution of pneumomediastinum | 840
+complete resolution of subcutaneous emphysema | 840
+progression of pneumonia in left lung | 840
+septic shock developed | 840
+multiresistant Acinetobacter baumannii cultured | 840
+limb weakness progressed to almost complete tetraplegia | 840
+flaccid paralysis remained unchanged for 3.5 months | 840
+moderate movements of the head preserved | 840
+moderate movements of the shoulder girdle preserved | 840
+slight flexion of fingers of right hand preserved | 840
+persistent diarrhea | 840
+recurrent Pseudomonas urinary tract infections | 840
+multiple urinary calculi formed | 840
+drenching sweats | 840
+profound hypovolemia | 840
+transient loss of consciousness | 840
+intravenous spironolactone added to penicillamine treatment | 2160
+tetraplegia began to subside | 2160
+able to move all extremities | 2160
+stand by bedside with assistance | 2160
+weaned off ventilator again | 2160
+tracheostomy tube removed | 2160
+EMG showed significant improvement in peripheral nerves of arms | 2160
+persistent severe polyneuropathy in lower extremities | 2160
+mercury urine concentration decreased to normal level | 2160
+return to normal gastrointestinal functioning | 2160
+return to normal urinary functioning | 2160
+discharged home after 196 days | 4704

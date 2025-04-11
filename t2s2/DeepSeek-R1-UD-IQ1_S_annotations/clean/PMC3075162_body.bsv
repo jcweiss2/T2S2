@@ -1,0 +1,120 @@
+46 years old| 0
+male| 0
+diagnosed with tropical chronic pancreatitis| -172080
+oral pancreatic enzyme therapy| -172080
+exocrine pancreatic insufficiency| -172080
+developed non-insulin-dependent diabetes mellitus| -171240
+glucotrol (glipizide) 5 mg daily| -171240
+steady midepigastric pain| 0
+pain dull in nature| 0
+pain radiating through back| 0
+pain exacerbated by food intake| 0
+recurrent pain since tropical pancreatitis diagnosis| 0
+hospitalized for pain control with narcotics| 0
+discharged| 48
+returned complaining of continuing epigastric pain| 72
+pain gradually increased in intensity| 72
+nausea| 72
+vomiting| 72
+no documented fever| 72
+CT scan performed in emergency department| 72
+fatty atrophy of pancreatic head and uncinate process| 72
+pancreatic duct filled with large calcifications| 72
+obstruction at level of neck| 72
+marked upstream ductal dilatation of 1.5 cm| 72
+admitted for management of pain secondary to chronic pancreatitis| 72
+presented to medical center in India with similar pain and fever| -1464
+underwent CT scan of abdomen| -1464
+chronic atrophic calcific pancreatitis| -1464
+dilated pancreatic duct (7 mm)| -1464
+intraductal calculi| -1464
+ERCP performed| -1464
+confirmed findings on pancreatography| -1464
+medically managed| -1464
+discharged to return for removal of ductal stones| -1464
+developed fever (102°F)| 72
+chills| 72
+rigors| 72
+severe sepsis| 72
+septic shock| 72
+transferred to medical intensive care unit| 72
+intubated for hypoxemic respiratory failure| 72
+clinical parameters consistent with acute respiratory distress syndrome| 72
+multiorgan failure| 72
+administration of broad-spectrum antibiotics| 72
+vasopressor support| 72
+activated recombinant human protein C| 72
+ultrasound of abdomen| 72
+markedly dilated pancreatic duct (1.9 cm)| 72
+8.7 × 7.6 mm calculus within duct| 72
+pancreas diffusely echogenic| 72
+common bile duct prominent| 72
+no obvious obstructing calculi| 72
+emergency ERCP performed| 72
+major papilla of Vater visualized expelling frank pus| 72
+no evidence of papillitis| 72
+no tumor| 72
+no previous sphincterotomy| 72
+orifice probed with cannula tip| 72
+evacuation of more than 5 ml yellow pus| 72
+fluid could not be aspirated through cannula for culture| 72
+cholangiogram obtained| 72
+normal biliary tree without stones| 72
+pancreatogram showed marked dilatation of main pancreatic duct| 72
+single distal calculus| 72
+guide wire introduced into pancreatic duct| 72
+approximately 20 ml pus evacuated during duct manipulation| 72
+selective cannulation achieved| 72
+5-cm-long 5 F stent placed into pancreatic duct| 72
+no more pus draining| 72
+decision to pull stent out| 72
+assumed ASPD secondary to intraductal calculus| 72
+reevaluation with contrast enhanced CT scan of abdomen| 96
+inflammatory changes within fat surrounding body and tail of pancreas| 96
+edema| 96
+diminished dilatation of pancreatic duct| 96
+calculus showing distal migration towards sphincter of Oddi| 96
+no evidence of pancreatic necrosis| 96
+no fluid collection| 96
+bilateral moderate pleural effusions| 96
+dramatic signs of clinical improvement| 120
+stabilization of hemodynamic parameters| 120
+blood cultures grew Klebsiella ornithinolytica| 120
+antibiotics sensitive| 120
+extubated| 120
+transferred from intensive care unit| 120
+completed antibiotic course| 264
+discharged home| 264
+follow-up examinations at 1 month| 720
+follow-up examinations at 3 months| 2160
+no further complications| 2160
+no history of alcohol consumption| 0
+tropical calcific pancreatitis| 0
+septicemia| 72
+acute suppuration of pancreatic duct| 72
+obstructing intraductal stones| 72
+Klebsiella ornithinolytica septicemia| 72
+absence of infected necrosis| 72
+absence of pancreatic abscess| 72
+diabetes mellitus| 0
+chronic pancreatitis| 0
+pancreatic ductal obstruction| 0
+instrumentation of ampulla of Vater| -1464
+contaminated duodenal contents reflux into pancreatic duct| -1464
+bacterial overgrowth distal to obstruction| 72
+suppuration| 72
+secondary septicemia| 72
+drainage of pancreatic duct with endoscopic intervention| 72
+intraductal pancreatic stones| 72
+bacterial infection| 72
+infectious pancreatitis| 72
+pancreatic sepsis| 72
+differential diagnosis| 72
+immediate drainage critical| 72
+no evidence of previous sphincterotomy| 72
+no evidence of tumor| 72
+no infected necrotic tissue| 72
+no coexisting pancreatic abscess| 72
+no pancreatic necrosis| 96
+no obstructing calculi in common bile duct| 72
+no further complications at follow-up| 2160

@@ -1,0 +1,90 @@
+29 years old | 0
+    male | 0
+    admitted to the Emergency Department | 0
+    penetrating stab wound to the anterior left second intercostal space | 0
+    2 cm medial to the mid-clavicular line | 0
+    right tibia-fibula fracture | -1344
+    intra-medullary nailing | -1344
+    haemodynamically unstable | 0
+    grade 3 haemorrhagic shock | 0
+    resuscitation | 0
+    transient fluid responder | 0
+    left-sided intercostal drain inserted | 0
+    large haemothorax | 0
+    heart rate 100 | 0
+    respiratory rate 14 | 0
+    saturating at 95% on room air | 0
+    blood pressure 101/64 | 0
+    no angina | 0
+    no features of cardiac failure | 0
+    no central cyanosis | 0
+    no bruits | 0
+    no murmurs | 0
+    no ST abnormalities | 0
+    no rhythm abnormalities | 0
+    chronic septic hardware of the right lower limb | 0
+    not formally assessed by an orthopaedic service | 0
+    microbiological workup deferred | 0
+    methicillin-resistant Staphylococcus aureus screening | 0
+    antibiotic prophylaxis | 0
+    broad-spectrum coverage | 0
+    Focused Assessment with Sonography for Trauma scan | 0
+    1 cm pericardial effusion | 0
+    contrasted computed tomographical scan ordered | 0
+    transthoracic cardiac ECHO ordered | 0
+    right ventricular outflow tract injury | 0
+    pulmonary valve injury | 0
+    suspected thrombus | 0
+    small aortic root injury | 0
+    small pseudo#8211;aneurysm | 0
+    intimal flap | 0
+    injury tract extended to medial superior vena cava | 0
+    high index of suspicion for SVC injury | 0
+    no valvulopathies | 0
+    no flow reversal | 0
+    no shunting | 0
+    no regional wall motion abnormalities | 0
+    no tamponade | 0
+    no features of infective endocarditis | 0
+    preserved left ventricular ejection fraction | 0
+    large dense lesion beneath pulmonary valve | 0
+    beat to beat movement | 0
+    highly suggestive of a clot | 0
+    normal renal function | 0
+    normal liver function | 0
+    normocytic normochromic anaemia | 0
+    haemoglobin 10.9 | 0
+    normal prothrombin time | 0
+    normal partial thromboplastin time | 0
+    intubated under general anaesthesia | 0
+    single lumen endotracheal tube | 0
+    femoral cardiopulmonary bypass initiated | 0
+    median sternotomy performed | 0
+    no active bleeding | 0
+    aorta clamped | 0
+    heart arrested with cold blood cardioplegia | 0
+    cardioplegia administered every 20 minutes | 0
+    large clot found in medial wall of RVOT | 0
+    clot removed | 0
+    RVOT repaired with continuous 3/0 prolene sutures | 0
+    aorta opened via transverse ‘J’ incision | 0
+    0.5 cm laceration in aortic wall | 0
+    repaired primarily | 0
+    plane between main pulmonary artery and ascending aorta dissected | 0
+    right coronary artery not injured | 0
+    contralateral side of ascending aorta defect | 0
+    small point injury to base of SVC | 0
+    both primarily repaired | 0
+    good correlation with intra#8211;operative findings | 0
+    no other intra#8211;operative injuries | 0
+    weaned off cardiopulmonary bypass | 0
+    closure of femoral cannulation site | 0
+    sternum closure performed | 0
+    remained intubated | 0
+    transported to intensive care unit | 0
+    complete recovery | 0
+    no residual thrombus | 0
+    no intracardiac shunt at early follow#8211;up | 0
+    no cardiac sequelae at 30#8211;day follow#8211;up | 0
+    no respiratory sequelae at 30#8211;day follow#8211;up | 0
+    no neurological sequelae at 30#8211;day follow#8211;up | 0

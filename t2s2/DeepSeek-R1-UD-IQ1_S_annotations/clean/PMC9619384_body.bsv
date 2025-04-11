@@ -1,0 +1,106 @@
+30 years old | 0
+primigravida woman | 0
+admitted for labor induction | 0
+intrauterine fetal death | 0
+true umbilical cord knot | 0
+administration of mifepristone | 0
+administration of misoprostol | 0
+epidural catheter placement | 0
+normal blood pressure | 0
+normal oxygenation level | 0
+normal body temperature | 0
+dizziness | 0
+emesis | 0
+convulsive seizure | 0
+magnesium administration | 0
+cardiorespiratory arrest | 0
+cardiopulmonary resuscitation | 0
+pulseless electrical activity | 0
+return of spontaneous circulation | 0
+postpartum hemorrhage anticipated | 0
+blood products ordered | 0
+ST-elevation in II, III, aVF, V6 | 0
+inferolateral STEMI | 0
+forceps delivery | 0
+severe postpartum hemorrhage | 0
+suspected AFE diagnosis | 0
+poor transthoracic image quality | 0
+transesophageal echocardiography | 0
+hyperkinetic left ventricle | 0
+hypokinesia to akinesia of inferior wall | 0
+normal right ventricle | 0
+no aortic dissection | 0
+no valvular heart disease | 0
+DIC confirmed | 0
+platelets 97×109/L | 0
+D-dimers 4154 ng/L | 0
+prothrombin time not quantifiable | 0
+fibrinogen level 0.35 g/L | 0
+fibrinogen infusion | 0
+human coagulation factor XIII infusion | 0
+prothrombin concentrate complex infusion | 0
+tranexamic acid administration | 0
+thrombocytes transfusion | 0
+packed red blood cells transfusion | 0
+oxytocin administration | 0
+adequate uterine contraction | 0
+Bakri balloon installation | 0
+full-body computed tomography scan | 0
+no occult bleeding complications | 0
+no pulmonary embolism | 0
+coronary angiography not performed | 0
+ST-segment resolution | 0
+hs-cTnT 135 ng/L | 0
+CK-MB 3.6 μg/L | 0
+hs-cTnT peak 6535 ng/L | 0
+CK-MB peak 49.7 μg/L | 0
+low-dose aspirin administration | 0
+lisinopril administration | 0
+prophylactic heparin therapy | 0
+extubation | 0
+normal oxygenation post-extubation | 0
+disorientation | 0
+neurological recovery | 0
+no residual neurological impairment | 0
+vasoactive agents tapered off | 0
+volume substitution | 0
+transthoracic echocardiography | 48
+normal LV chamber dimension | 48
+mildly reduced LVEF 51% | 48
+akinesia of inferior wall | 48
+hypokinesia in inferolateral segments | 48
+normal right ventricle | 48
+no pulmonary hypertension | 48
+cardiac MRI | 2160
+preserved LVEF 55% | 2160
+inferior and inferolateral akinesia | 2160
+transmural myocardial scarring | 2160
+benign coronary variant | 2160
+no inducible ischemia | 2160
+aspirin continued | 2160
+lisinopril continued | 2160
+cardiac rehabilitation | 2160
+follow-up at 6 months | 4320
+regular physical exercise | 4320
+no symptoms | 4320
+improved LV function | 4320
+GLS −24% | 4320
+mid inferolateral hypokinetic area | 4320
+uneventful pregnancy | 12960
+delivery 18 months post-incident | 12960
+no recurrent AFE | 12960
+no fever | 0
+no clinical signs of infection | 0
+no elevated inflammatory markers | 0
+no septic shock | 0
+no anaphylactic shock | 0
+no atherosclerotic coronary artery disease | 0
+no occult bleeding | 0
+no pulmonary embolism on CT | 0
+no aortic dissection on echo | 0
+no valvular heart disease on echo | 0
+no inducible ischemia on MRI | 0
+no vasoactive agents needed | 0
+no recurrent STEMI | 4320
+no recurrent DIC | 4320
+no subsequent pregnancy complications | 12960

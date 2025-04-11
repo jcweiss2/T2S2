@@ -1,0 +1,72 @@
+83 years old | 0  
+    woman | 0  
+    admitted to Cantonal Swiss Hospital | 0  
+    abdominal pain | -120  
+    hematochezia | -48  
+    asthenia | -168  
+    total excision of cutaneous squamous cell carcinoma (cSCC) in the right frontotemporal region | -17520  
+    recurrence of squamous cell carcinoma in the metastatic form of the right parotid gland | -8760  
+    radiation therapy | -8760  
+    persistent heterogeneous lesion within the right lobe of the right parotid gland | -8760  
+    rounded hypodense structure of 3 cm in the pelvic cavity | -8760  
+    insulin-dependent type 2 diabetes | 0  
+    hypertension | 0  
+    rhythmic and valvular heart disease | 0  
+    chronic renal failure (KDIGO stage G3a) | 0  
+    polymyalgia rheumatica | 0  
+    cholecystectomy | 0  
+    hysterectomy | 0  
+    oophorectomy | 0  
+    minor orthopedic surgeries | 0  
+    metoprolol | 0  
+    apixaban | 0  
+    prednisone 5 mg once daily | 0  
+    low blood pressure of 85/35 mmHg | 0  
+    pulse rate of 66 beats per minute | 0  
+    guarding | 0  
+    rebound tenderness of the lower abdomen | 0  
+    empty rectal ampulla | 0  
+    no blood found | 0  
+    plasma creatinine level of 240 umol/l | 0  
+    white blood cell count of 15 G/l | 0  
+    hemoglobin level of 86 g/l | 0  
+    C-reactive protein level of 68 mg/l | 0  
+    hyperlactatemia of 4.5 mmol/l | 0  
+    numerous extraluminal air bubbles | 0  
+    fat stranding opposite the right colonic angle | 0  
+    intra-abdominal free fluid | 0  
+    intestinal perforation | 0  
+    resuscitation with fluids | 0  
+    high-dose proton pump inhibitor (PPI) therapy | 0  
+    antibiotic treatment (piperacillin-tazobactam) | 0  
+    blood cultures collected | 0  
+    emergency exploratory laparotomy | 0  
+    generalized purulent peritonitis | 0  
+    ileocecal valve | 0  
+    ileum with a 4 cm perforation | 0  
+    local fecal peritonitis | 0  
+    no macroscopic peritoneal or hepatic metastases | 0  
+    segmental resection of the affected ileum (20 cm) | 0  
+    intraoperative hemodynamic instability | 0  
+    damage control surgical approach | 0  
+    two intestinal stumps closed intra-abdominal | 0  
+    second-look laparotomy scheduled within 24–48 h | 0  
+    non-keratinizing squamous cell carcinoma, acantholytic variant | 0  
+    P16[−] | 0  
+    small intestinal wall perforated | 0  
+    fibrinoleukocytic peritonitis | 0  
+    venous invasion | 0  
+    lymph node identified in the mesenteric adipose tissue without malignancy | 0  
+    blood cultures positive for Klebsiella pneumoniae | 0  
+    peritoneal fluid positive for Klebsiella pneumoniae, Escherichia coli, Bacteroides sp., Bacteroides thetaiotaomicron, Bacteroides vulgatus | 0  
+    admitted to the Intensive Care Unit | 0  
+    severe septic shock | 0  
+    aggressive fluid resuscitation | 0  
+    continuous norepinephrine support up to 0.5 micrograms/kg/min | 0  
+    broad-spectrum antibiotic (Piperacillin-Tazobactam followed by Meropenem) | 0  
+    corticoid administration | 0  
+    remained in shock requiring high norepinephrine doses | 0  
+    decision not to pursue further treatment | 0  
+    second-look laparotomy not performed | 0  
+    death | 0  
+

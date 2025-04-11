@@ -1,0 +1,64 @@
+event,time
+25-year-old ,0.0
+    primigravida ,0.0
+    pregnancy ,0.0
+    uncomplicated ,0.0
+    well before delivery ,0.0
+    hospital attendance ,0.0
+    spontaneous onset of labor ,0.0
+    fetal distress ,-2.0
+    second stage of labor ,-2.0
+    ventouse-assisted delivery ,-1.0
+    male infant born ,0.0
+    birth weight 3940 grams ,0.0
+    immediate resuscitation ,0.0
+    mask ventilation ,0.0
+    intubated ,8.0
+    poor respiratory effort ,8.0
+    transferred to NICU ,8.0
+    SIPPV ,8.0
+    minimal pressures ,8.0
+    no additional oxygen requirement ,8.0
+    empirical antibiotics ,8.0
+    early-onset sepsis ,8.0
+    gentamicin ,8.0
+    benzyl penicillin ,8.0
+    respiratory support weaned ,13.5
+    extubated ,13.5
+    neutropenia ,18.0
+    left shift ,18.0
+    CRP elevated ,18.0
+    procalcitonin elevated ,18.0
+    lumbar puncture ,23.0
+    normal cell count ,23.0
+    negative for pathogens ,23.0
+    placental eSwab ,23.0
+    pure growth ,23.0
+    Gram-negative diplococci ,23.0
+    MALDI-TOF ,23.0
+    Neisseria meningitidis ,23.0
+    PCR ctrA ,23.0
+    PCR porA ,23.0
+    PCR serogroups ,23.0
+    serogroup W CC11 ,23.0
+    blood cultures negative ,29.0
+    heel-prick blood ,5.5
+    N. meningitidis DNA ,5.5
+    no maternal antibiotics ,0.0
+    funisitis ,23.0
+    chorioamnionitis ,23.0
+    ascending infection ,23.0
+    maternal inflammatory response ,23.0
+    fetal inflammatory response ,23.0
+    benzylpenicillin dosage decreased ,13.5
+    cefotaxime ,13.5
+    5-day course ,13.5
+    clinical improvement ,13.5
+    maternal leucocytosis ,-2.5
+    neutrophil count elevated ,-2.5
+    mother well postpartum ,0.0
+    baby discharged ,192.0
+    contact tracing ,192.0
+    chemoprophylaxis ,192.0
+    vaccination ,192.0
+    counseling ,192.0

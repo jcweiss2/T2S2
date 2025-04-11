@@ -1,0 +1,68 @@
+42 years old | 0
+male | 0
+presented to the emergency department | 0
+upper abdomen paroxysmal cramp | -168
+five-year history of multiple kidney stones | -43200
+admitted to the Department of Urology Surgery | 0
+suspicion of renal colic | 0
+excreted a large amount of tarry stool | 48
+coffee-ground emesis | 48
+blood pressure dropped | 48
+received blood transfusion | 48
+received rehydration | 48
+transferred to the Intensive Care Unit | 48
+bedside upper gastrointestinal endoscopy performed | 48
+duodenal ulcer with adherent clot | 48
+freely oozing (Forrest-Ib) | 48
+intragastric local instillation of norepinephrine | 48
+intragastric local instillation of epinephrine | 48
+eight hours later | 56
+excreted a large amount of tarry stools | 56
+vomited copious amount of coffee-ground material | 56
+emergent subtotal gastrectomy | 56
+Billroth II gastrointestinal anastomosis | 56
+heart rate became rapid (132-144 beats per minute) | 96
+central venous pressure dropped | 96
+blood hemoglobin decreased | 96
+abdominal circumference increased | 96
+ultrasound examination detected hematocele in left upper quadrant | 96
+still active bleeding | 96
+gastroduodenal artery embolization | 96
+serum calcium level elevated (2.98 mmol/L) | 96
+low serum phosphorus level (0.5 mmol/L) | 96
+serum creatinine level 286 µmol/L | 96
+plasma parathyroid hormone (PTH) level elevated (468.67 pg/ml) | 96
+neck computed tomography (CT) scan with contrast showed two enhancing masses | 96
+CT imaging studies of the head and abdomen performed | 96
+no abnormalities | 96
+diagnosis of primary hyperparathyroidism | 96
+severe abdominal pain | 96
+tenderness | 96
+guarding | 96
+rebound pain upon abdominal palpation | 96
+heart rate rapid (150-160 beats per minute) | 96
+leucocyte count in blood high (18.57 × 10^9/L) | 96
+white blood cell count of peritoneal drainage fluid 111005 × 10^6 | 96
+severe abdominal cavity infection | 96
+peritonitis | 96
+sepsis | 96
+intravenous antibiotics (imipenem 1 g every 8 hours) | 96
+intravenous antibiotics (tigecycline 50 mg every 12 hours) | 96
+creatinine level increased to 560 µmol/L | 96
+continuous renal replacement therapy (CRRT) | 96
+elective surgical exploration | 432
+excision of the parathyroid adenoma | 432
+histology of the two parathyroid glands revealed typical parathyroid adenoma | 432
+PTH level normalized (6.29 pg/ml) | 432
+calcium level decreased rapidly (2.24 mmol/L) | 432
+transferred to the general ward | 528
+three months after parathyroidectomy | 2160
+PTH level 74.97 pg/ml | 2160
+calcium level 2.05 mmol/L | 2160
+serum creatinine level decreased to 175 µmol/L | 2160
+eight months follow-up | 5760
+PTH level 101.84 pg/ml | 5760
+calcium level 2.17 mmol/L | 5760
+denied any digestive tract symptoms | 5760
+no abdominal pain | 5760
+no diarrhea | 5760

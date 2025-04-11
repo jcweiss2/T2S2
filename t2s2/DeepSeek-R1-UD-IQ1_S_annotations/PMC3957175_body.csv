@@ -1,0 +1,71 @@
+event,time
+18 years old ,0
+    female ,0
+    admitted to the emergency room ,0
+    attempted suicide ,-24
+    paraquat consumed ,-24
+    residence ,-24
+    managed at local hospital ,-24
+    intravenous fluids ,-24
+    antiemetic ,-24
+    H2 blockers ,-24
+    brought to our hospital ,0
+    difficulty opening mouth ,0
+    decreased urine output ,0
+    no vomiting ,0
+    no loose stools ,0
+    no abdominal pain ,0
+    no seizures ,0
+    no fever ,0
+    conscious ,0
+    oriented ,0
+    neck edema ,0
+    mucosal erosion of tongue ,0
+    mucosal erosion of palate ,0
+    mucosal erosion of lips ,0
+    oral bleeding ,0
+    pulse rate 98 beats per min ,0
+    regular pulse ,0
+    blood pressure 130/80 mmHg ,0
+    respiratory rate 22 per min ,0
+    normal cardiovascular system ,0
+    difficulty breathing ,0
+    no added respiratory sounds ,0
+    pupils bilaterally equal ,0
+    pupils reactive to light ,0
+    intubated ,0
+    laryngeal edema ,0
+    gastric lavage ,0
+    charcoal given ,0
+    elective ventilation ,0
+    intensive care unit admission ,0
+    intravenous fluids (ICU) ,0
+    antiemetic (ICU) ,0
+    chest X-ray left lower zone infiltrate ,0
+    high serum urea (221 mg/dL) ,0
+    high creatinine (8.78 mg/dL) ,0
+    serum urea reduction ,24
+    creatinine reduction ,24
+    dialysis ,24
+    sterile blood culture ,0
+    sterile urine culture ,0
+    normal thyroid function ,0
+    normal liver function ,0
+    normal urine examination ,0
+    ultrasound bilateral grade I kidney changes ,0
+    normal 2D echo ,0
+    normal ECG ,0
+    upper GI endoscopy corrosive injury esophagus ,0
+    upper GI endoscopy corrosive injury proximal stomach ,0
+    endotracheal culture Klebsiella pneumoniae ,0
+    intravenous methylprednisolone 1g ,0
+    IV cyclophosphamide 750 mg ,0
+    IV dexamethasone 5 mg ,0
+    IV N-acetylcysteine 2g stat ,0
+    IV N-acetylcysteine 1g TID ,0
+    vitamin C 6g/day IV ,0
+    vitamin E 2 tabs QID ,0
+    no response to treatment ,264
+    expired ,288
+    septicemia ,288
+    respiratory failure ,288

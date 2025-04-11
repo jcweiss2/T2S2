@@ -1,0 +1,38 @@
+55 years old | 0
+man | 0
+sought care at the emergency department | 0
+road traffic accident | 0
+multiple tissue injuries | 0
+loss of consciousness | 0
+ultrasound revealed right lobe liver injury | 0
+computed tomographic scan demonstrated subarachnoid hemorrhages | 0
+multiple contusions | 0
+intensive care unit | 0
+developed high-grade fever | 48
+total leukocyte count indicated sepsis | 48
+erythrocyte sedimentation rate indicated sepsis | 48
+blood culture showed growth of smooth, nonpigmented mucoid colonies on blood agar | 48
+blood culture showed growth of smooth, nonpigmented mucoid colonies on MacConkey agar | 48
+colonies indistinguishable from Klebsiella spp. | 48
+Gram staining revealed Gram-positive cocci in clusters | 48
+catalase positive | 48
+negative for tube coagulase | 48
+negative for mannitol fermentation | 48
+negative for ornithine decarboxylase | 48
+strain identified as S. haemolyticus | 48
+confirmed by amplification of the 16S rRNA gene | 48
+antimicrobial susceptibility showed resistance to penicillin | 48
+antimicrobial susceptibility showed resistance to cefoxitin | 48
+antimicrobial susceptibility showed resistance to gentamicin | 48
+antimicrobial susceptibility showed resistance to erythromycin | 48
+antimicrobial susceptibility showed resistance to clindamycin | 48
+minimum inhibitory concentration for linezolid (32 μg/mL) | 48
+minimum inhibitory concentration for vancomycin (1 μg/mL) | 48
+vancomycin sensitive | 48
+linezolid resistant | 48
+linezolid resistance mediated by cfr gene detected by PCR | 48
+treated with vancomycin | 72
+died | 72
+infection attributed to higher virulence of mucoid strain | 72
+other comorbidities | 72
+no history of exposure to linezolid | 72

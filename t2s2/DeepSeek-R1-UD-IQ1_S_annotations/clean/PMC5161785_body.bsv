@@ -1,0 +1,110 @@
+48 years old|0
+male|0
+intravenous (IV) drug abuse|0
+methadone treatment|0
+untreated chronic hepatitis C infection|0
+poorly controlled diabetes mellitus|0
+acute bilateral lower extremity pain|-3
+pain severe|0
+pain continuous|0
+denied history of trauma|0
+denied fever|0
+denied chills|0
+denied skin rashes|0
+denied joint pain|0
+past history negative for atrial fibrillation|0
+past history negative for peripheral artery disease|0
+past history negative for blood clots|0
+past history negative for malignancies|0
+non-smoker|0
+last IV drug use was several months ago|0
+alert|0
+oriented|0
+afebrile|0
+hemodynamically stable|0
+BP 152/84 mm Hg|0
+heart rate (HR) 112/min|0
+temperature (T) 97.9 F|0
+both feet pale|0
+both feet cold|0
+normal range of motion|0
+bilateral femoral pulses were 2 +|0
+pedal pulses absent|0
+gross motor intact|0
+sensory function intact|0
+white blood count of 12,900/µL|0
+hemoglobin of 10 g/dL|0
+platelet count of 144,000/µL|0
+blood glucose of 345 mg/dL|0
+normal renal function test|0
+normal liver function test|0
+normal thyroid function test|0
+normal coagulation profile|0
+sinus tachycardia|0
+prolonged QTc of 556|0
+no atrial fibrillation|0
+CT angiogram of abdomen revealed multiple splenic infarctions|0
+CT angiogram of abdomen revealed bilateral renal infarctions|0
+CT angiogram of pelvis showed occlusion of left common iliac|0
+CT angiogram of pelvis showed occlusion of left popliteal tibial|0
+CT angiogram of pelvis showed occlusion of right common femoral|0
+CT angiogram of pelvis showed occlusion of right popliteal tibial arteries|0
+emergency embolectomy|0
+embolectomies involving multiple arteries|0
+bilateral lower extremity arterial tissue plasminogen activator (tPA) infusion|0
+intra procedure hypoxemic respiratory failure|0
+could not be extubated|0
+transferred to the intensive care unit|0
+ventilator support|0
+TTE performed|0
+large 1.2 cm highly mobile vegetation attached to the anterior mitral valve leaflet|0
+eccentric posteriorly directed severe mitral regurgitation|0
+transesophageal echocardiogram revealed small pulmonic valve vegetation|0
+patent foramen ovale|0
+blood cultures sent|0
+started on broad spectrum antibiotics|0
+CT of the brain demonstrated 10-mm area suspicious for cerebral infarct in the right frontal lobe|0
+bilateral carotid duplex unremarkable|0
+HIV 1 and 2 antibodies non-reactive|0
+Rapid Plasma Reagin (RPR) non-reactive|0
+antiphospholipid antibodies negative|0
+Beta-2 glycoprotein antibodies negative|0
+emergency cardiac catheterization done|0
+troponin elevation|0
+100% embolic occlusion of the mid left posterior descending artery|0
+preliminary blood cultures negative for any bacterial growth|0
+embolectomy specimen examined histologically|0
+organizing blood clot|0
+abundant fungal organisms arranged in parallel arrays|0
+fungal elements characterized by wide hyphae|0
+lack of distinctive septa|0
+morphologic features most consistent with Mucorales|0
+fungal cultures sent|0
+empiric liposomal amphotericin B added|0
+cardiothoracic surgery consulted|0
+acute upper gastrointestinal bleeding|0
+urgent gastroenterology evaluation|0
+esophagogastroduodenoscopy|0
+3-cm friable pedunculated polypoid mass within the gastric antrum|0
+diffuse gastritis/gastropathy|0
+no active bleeding|0
+mass biopsied|0
+concern for malignancy|0
+continued to deteriorate|0
+ventilator-dependent respiratory failure|0
+multi-organ dysfunction|0
+biopsy of the gastric mass negative for malignancy|0
+reconsideration of valve replacement surgery not entertained|0
+high-risk candidate|0
+bacterial cultures negative|0
+fungal cultures negative|0
+transiently weaned off ventilator support|0
+recurrent respiratory distress|0
+re-intubation|0
+repeat TTE showed increased mitral valve vegetation size|0
+additional vegetation on the posterior valve leaflet|0
+critical condition of the patient|0
+refractory shock|0
+multi-organ failure|0
+family decided to go on comfort care|0
+passed away on the 18th day of hospitalization|432

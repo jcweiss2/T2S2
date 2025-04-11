@@ -1,0 +1,205 @@
+29 years old | 0  
+    male | 0  
+    admitted to intensive care unit | 0  
+    persistent fever | -336  
+    swelling of right knee joint | -240  
+    pain of right knee joint | -240  
+    right knee fracture | - (no specific time provided; assumed historical and not relevant to current admission timeline)  
+    fever with chills | -336  
+    drenched in the rain | -336  
+    took 999® cold particles | -336  
+    drop in body temperature | -336  
+    swelling of right knee joint | -240  
+    pain of right knee joint | -240  
+    shortness of breath | -240  
+    fatigue after physical activity | -240  
+    oliguria | 0  
+    frothy urine | 0  
+    foul-smelling urine | 0  
+    hypothermia 37°C | 0  
+    heart rate 100 beats/min | 0  
+    respiratory rate 20 breaths/min | 0  
+    blood pressure 138/80 mmHg | 0  
+    laboratory tests indicative of infection | 0  
+    ultrasound color doppler showing cavity effusion | 0  
+    synovial thickening in right knee joint | 0  
+    thoracic CT showing pneumonia | 0  
+    hepatic cyst in S7 segment | 0  
+    empiric antibiotic therapy (IV piperacillin/tazobactam) | 0  
+    blood cultures collected | 0  
+    cavity effusion sample obtained (day 2) | 24  
+    cavity effusion culture results: yellow color | 24  
+    WBC+++/HP | 24  
+    RBC 1–3/HP | 24  
+    turbidity | 24  
+    persistent fever (peak 39.5°C) (day 3) | 72  
+    little clinical improvement | 72  
+    treatment upgraded to carbapenems (biapenem) | 72  
+    empiric gram-positive coverage (IV vancomycin) added | 72  
+    blood culture positive for Klebsiella pneumoniae (day 5) | 120  
+    microbiology lab tests positive for hvKP (string test) | 120  
+    right knee effusion culture negative | 120  
+    antibiotic sensitivity testing results | 120  
+    antifungal drugs (voriconazole) combined | 168  
+    urine culture Candida albicans | 168  
+    persistent fever (peak 40.6°C) | 168  
+    inflammatory markers elevated | 168  
+    antimicrobial therapy changed to meropenem and RFP | 168  
+    vancomycin discontinued | 168  
+    voriconazole discontinued | 168  
+    clinical improvement (3 days after therapy change) | 192  
+    afebrile | 192  
+    discharged after two weeks (day 14) | 336  
+    meropenem and RFP treated for 10 days | 240  
+    hyperglycemia (blood glucose 15.37 mmol/L) | 0  
+    high WBC count (13.5×10^9/L) | 0  
+    elevated neutrophil percentage (85.9%) | 0  
+    hemoglobin 129 g/L | 0  
+    platelet count 316×10^9/L | 0  
+    hs-CRP 177.07 mg/L | 0  
+    procalcitonin 0.919 ng/ml | 0  
+    alanine aminotransferase 19.95 U/L | 0  
+    albumin 30.4 g/L | 0  
+    total bilirubin 9.1 μmol/L | 0  
+    blood glucose 15.37 mmol/L | 0  
+    CK 55.59 U/L | 0  
+    CK-MB 8.9 U/L | 0  
+    creatinine 39 μmol/L | 0  
+
+Alright, let's dive into this case report. The patient is a 29-year-old male with a history of a right knee fracture. He's admitted to the ICU because of a persistent fever for two weeks and swelling and pain in his right knee joint for 10 days. 
+
+First, I need to extract all the clinical events and assign timestamps relative to the admission time (which is timestamp 0). Events before admission have negative timestamps, and after admission have positive ones. The challenge is figuring out the timing for each event based on the descriptions provided.
+
+The case report mentions that two weeks before admission, the patient developed a fever with chills after being drenched in the rain. Two weeks equals 14 days, which is 336 hours. So that event happened at -336 hours. He took 999 cold particles then, leading to a drop in body temperature. That's also at -336.
+
+Then, about ten days before hospitalization (which is 10 days = 240 hours), he developed swelling and pain in the right knee joint, along with shortness of breath and fatigue after activity. Those events are at -240.
+
+Upon admission (day 1), his vital signs and lab tests are done. Those are timestamp 0. The ultrasound and CT scans showing effusion, synovial thickening, pneumonia, and hepatic cyst are also at 0. Starting empiric antibiotics (piperacillin/tazobactam) right after blood cultures are collected, so those events are at 0.
+
+On day 2, they obtained a cavity effusion sample. That's 24 hours. The results from that sample (color, WBC, RBC, turbidity) are also at 24.
+
+Day 3: persistent fever (39.5°C). That's 72 hours. Upgrading to carbapenems and adding vancomycin happens here.
+
+Day 5: blood culture positive for Klebsiella pneumoniae. That's 120 hours. The hvKP test is positive here too. The knee effusion culture is negative, same timestamp. Antibiotic sensitivity results also at 120.
+
+Antifungal drugs (voriconazole) are added on day 12? Wait, the case says "during two weeks" after starting meropenem and RFP, but the exact days might need checking. It mentions on day 12-14 for voriconazole. But in the figure, voriconazole is used from day 12-14. However, the text says "after two weeks" which is day 14. Maybe the combination was added around day 12? Wait, the case says "after two weeks treatment" so perhaps day 14. But the timeline is a bit confusing here. The text says "during two weeks" the patient still had fever. So maybe the change to meropenem and RFP happens around day 14? Hmm.
+
+The patient improved three days after changing therapy, which would be day 17 if changed on day 14. Then discharged after two weeks from admission, which is day 14? Wait, the discharge is after two weeks of hospitalization, which would be 336 hours (14 days * 24). But the text says "discharged after two weeks" which would be day 14, so 336 hours. 
+
+The meropenem and RFP were treated for 10 days. If started on day 16, then 10 days would end on day 26. But the timeline in the figure shows meropenem from day 7-25. Hmm, conflicting info. Need to check the case report's figure 2. It says "Body temperature and antibiotic therapy use during hospitalization. Body temperature: measured every 4h; Antibiotic use: Piperacillin/tazobactam 4.5g q8h (day1–4), Biapenem 0.3g q6h (day 4–7) and vancomycin 1g q12h (day 4–6 and day14–17), Meropenem 2g q8h (day 7–25), Linezolid 0.6g q12h (day 10–14), Voriconazole 0.4g q12h (day 12–14), Rifampicin 0.6g q12h (day 16–27)."
+
+So, based on figure 2:
+
+- Piperacillin/tazobactam from day 1-4 (0-96 hours)
+A Biapenem from day 4-7 (96-168 hours)
+Vancomycin on day 4-6 (96B-144 hours) and day14-17 (336-408 hours)
+Meropenem from day7-25 (168-600 hours)
+Linezolid day10-14 (240-336 hours)
+Voriconazole day12-14 (288-336 hours)
+Rifampicin day16-27 (384-648 hours)
+
+But the text says: "after two weeks treatment; With RFP = the results after 3 days with Meropenem and RFP combinations treatment." So RFP (rifampicin) starts on day16, according to the figure. 
+
+So the change to meropenem and RFP happens on day16 (384 hours). The patient improved three days after, so day19 (456 hours). Discharged after two weeks (day14 is 336 hours, but in the figure, discharge is after day25?). Wait, the text says "discharged after two weeks" which would be day14 (336 hours). But the figure shows antibiotics until day25. There's inconsistency here. The case report says "He became afebrile and was discharged after two weeks." So discharge at day14 (336 hours). But the figure shows meropenem until day25. Perhaps the discharge was after two weeks of starting the new therapy? Not sure. Maybe the discharge is at day14 (336 hours) as per the main text.
+
+The hyperglycemia is noted on admission, so that's timestamp 0.
+
+I think I need to list all events with their timestamps, ensuring that each event is separated and given the correct time based on the descriptions and the figure. Some events are on specific days, which can be converted to hours. For example, day 2 is 24 hours, day 3 is 72, day 5 is 120, etc. 
+
+It's important to include all events, even those like 'frothy urine' and 'foul-smelling urine' on admission (timestamp 0). Also, the right knee fracture is mentioned as previous history, but since no time is given, maybe it's historical and not tied to the current admission timeline, so perhaps exclude it or assign a very negative time, but the case doesn't specify, so maybe leave it as not applicable for the current timeline. 
+
+Other lab results upon admission (like WBC, neutrophils, hemoglobin, platelets, hs-CRP, procalcitonin, etc.) are at 0. 
+
+The discussion section mentions hyperglycemia as a risk factor, which was present on admission, so timestamp 0.
+
+I need to ensure that each event is separated into its components, like 'swelling and pain' becoming two separate events but same timestamp. Wait, the instruction says to separate conjunctive phrases into component events. So "swelling and pain of right knee joint" would be "swelling of right knee joint" and "pain of right knee joint" each at -240.
+
+Similarly, "shortness of breath and fatigue" become two events at -240.
+
+Also, when the patient is admitted, the oliguria, frothy urine, and foul-smelling urine are present, so timestamp 0.
+
+The antimicrobial therapy changes are on specific days, so need to convert those days to hours. For example, day 2 is 24 hours, day3 is 72, day5 is 120, day12 is 288, etc.
+
+The discontinuation of vancomycin and voriconazole happens when the therapy is changed to meropenem and RFP, which according to the figure is day16 (384 hours). 
+
+The clinical improvement three days after changing therapy would be 384 + 72 = 456 hours, but the discharge is at 336 hours, which is two weeks after admission. There's a conflict here. The text says he was discharged after two weeks, which is 336 hours. But the figure shows treatment until day25. Perhaps the discharge was after two weeks of starting the new therapy? That would be day16 + 14 days = day30, but the text says "discharged after two weeks" from admission, so 336 hours.
+
+This is confusing. The main text says he was discharged after two weeks, which would be day14 (336 hours), but the figure shows meropenem until day25. Maybe the discharge was on day25? The text isn't clear. But since the user instruction says to follow the case report, and the text says "discharged after two weeks," I'll go with 336 hours.
+
+Overall, each event needs to be listed with its timestamp, converting days to hours where possible. For events without explicit timing, use clinical judgment to place them appropriately relative to other events.
+</think>
+
+29 years old | 0  
+male | 0  
+admitted to intensive care unit | 0  
+persistent fever | -336  
+swelling of right knee joint | -240  
+pain of right knee joint | -240  
+fever with chills | -336  
+drenched in the rain | -336  
+took 999® cold particles | -336  
+drop in body temperature | -336  
+shortness of breath | -240  
+fatigue after physical activity | -240  
+oliguria | 0  
+frothy urine | 0  
+foul-smelling urine | 0  
+hypothermia 37°C | 0  
+heart rate 100 beats/min | 0  
+respiratory rate 20 breaths/min | 0  
+blood pressure 138/80 mmHg | 0  
+laboratory tests indicative of infection | 0  
+ultrasound color doppler showing cavity effusion | 0  
+synthial thickening in right knee joint | 0  
+thoracic CT showing pneumonia | 0  
+hepatic cyst in S7 segment |# 一、题目
+给定一个数组，它的第 i 个元素是一支给定股票第 i 天的价格。设计一个算法来计算你所能获取的最大利润。你可以尽可能地完成更多的交易（多次买卖一支股票）。  
+
+注意：你不能同时参与多笔交易（你必须在卖出前买入前一次的股票）。  
+
+示例 1:  
+输入: [7,1,5,3,4,6]  
+输出: 7  
+解释: 在第 2 天（股票价格 = 1）买入，在第 3 天（股票价格 = 5）卖出，这时候利润是 4。  
+随后，在第 4 天（股票价格 = 3）买入，在第 5 天（股票价格 = 4）卖出，这时候利润是 1。  
+在第 5 天（股票价格 = 6）卖出，获得利润是 2。  
+总利润为 4 + 1 + 2 = 7。  
+
+示例 2:  
+输入: [1,2,3,4,5]  
+输出: 4  
+解释: 在第 1 天（价格 = 1）买入，在第 5 天（价格 = 5）卖出，利润4。  
+注意你不能在第 1 天第2天买入后卖出。  
+
+示例 3:  
+输入: [7,6,4,3,1]  
+输出: 0  
+解释: 这种情况下, 没有利润可以完成，不进行交易。  
+
+来源：力扣（LeetCode）  
+链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii  
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+# 二、解题思路
+根据题意，我们只需要计算所有利润的累加和。  
+比如，在示例1中，数组为[7,1,5,3,4,6]，对应的差值为[-6,4,-2,1,2]。  
+我们可以观察到，4 + 1 + 2 = 7，而对应的连续交易为5-1=4；4-3=1；6-4=2。  
+所以只要所有的正差值之和即为最大利润。  
+# 三、代码实现
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        if (prices.size() <= 1)
+            return 0;
+
+        int maxProfit = 0;
+        for (int i = 1; i < prices.size(); ++i)
+        {
+            if (prices[i] > prices[i - 1])
+                maxProfit += prices[i] - prices[i - 1];
+        }
+
+        return maxProfit;
+    }
+};
+```

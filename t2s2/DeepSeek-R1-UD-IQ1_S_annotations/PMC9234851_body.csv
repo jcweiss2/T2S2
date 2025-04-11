@@ -1,0 +1,117 @@
+event,time
+8.75 years old ,0.0
+    male ,0.0
+    neutered Burmese cat ,0.0
+    weighing 5.6 kg ,0.0
+    referred for treatment of pyothorax ,0.0
+    lethargy ,-72.0
+    anorexia ,-72.0
+    tachypnoea ,-72.0
+    restrictive breathing pattern ,-72.0
+    pyrexia ,-72.0
+    bright ,0.0
+    alert ,0.0
+    responsive ,0.0
+    respiratory rate 40 breaths/min ,0.0
+    mild increase in respiratory effort ,0.0
+    heart rate 170 beats/min ,0.0
+    grade II/VI systolic murmur ,0.0
+    rectal temperature 38.1ºC ,0.0
+    hematocrit 36.3% ,0.0
+    WBCs 20.42 ×109/l ,0.0
+    neutrophils 17.97 ×109/l ,0.0
+    platelet count 185 ×109/l ,0.0
+    blood film analysis: mild neutrophilia with marked toxicity ,0.0
+    sodium 147 mmol/l ,0.0
+    potassium 4.1 mmol/l ,0.0
+    chloride 115 mmol/l ,0.0
+    calcium 1.31 mmol/l ,0.0
+    albumin 26 g/l ,0.0
+    globulin 34.6 g/l ,0.0
+    alanine aminotransferase 36.3 U/l ,0.0
+    total bilirubin 2.5 µmol/l ,0.0
+    creatinine 251 µmol/l ,0.0
+    urea 19 mmol/l ,0.0
+    creatinine kinase 1555 U/l ,0.0
+    lipaemia index none ,0.0
+    pH 7.292 ,0.0
+    PvCO2 44.2 mmHg ,0.0
+    glucose 8.9 mmol/l ,0.0
+    lactate 1.5 mmol/l ,0.0
+    HCO3– 19 mmol/l ,0.0
+    base excess -4.7 mmol/l ,0.0
+    USG 1.035 ,0.0
+    urine pH 6 ,0.0
+    urine protein 2+ ,0.0
+    urine culture negative ,0.0
+    pleural effusion analysis: neutrophilic septic exudate with intracellular cocci ,0.0
+    culture: beta-haemolytic Streptococcus agalactiae ,0.0
+    POCUS demonstrated pleural effusion ,0.0
+    thoracocentesis performed ,0.0
+    sedated with midazolam ,0.0
+    butorphanol ,0.0
+    alfaxalone ,0.0
+    bilateral chest drains placed ,0.0
+    thoracic radiographs taken ,0.0
+    thoracic drainage and lavage every 4h ,0.0
+    intrapleural bupivacaine 0.25% 1 mg/kg every 6h ,0.0
+    IV amoxicillin-clavulanate ,0.0
+    buprenorphine ,0.0
+    IV fluid therapy ,0.0
+    potassium chloride supplementation ,0.0
+    respiratory effort remained elevated 12h post-admission ,12.0
+    oxygen therapy initiated ,19.0
+    improvement in respiratory rate and effort 2h after initiating oxygen therapy ,21.0
+    FIO2 reduced to 0.4 ,21.0
+    oxygen therapy discontinued when respiratory parameters normalized ,19.0
+    mydriasis ,36.0
+    hypersalivation ,36.0
+    tonic-clonic seizure activity ,36.0
+    loss of consciousness ,36.0
+    sinus bradycardia 120 bpm ,36.0
+    blood pressure decreased to 110 mmHg systolic ,36.0
+    acidaemia pH 7.125 ,36.0
+    PvCO2 62.8 mmHg ,36.0
+    hypokalaemia 3.5 mmol/l ,36.0
+    hyperglycaemia 11.6 mmol/l ,36.0
+    hyperlactataemia 4.8 mmol/l ,36.0
+    creatinine 180 µmol/l ,36.0
+    suspected bupivacaine overdose ,36.0
+    confirmed dose 10 mg/kg ,36.0
+    ILE 20% bolus initiated ,36.25
+    mentation improved ,36.25
+    ILE CRI initiated ,36.25
+    thoracic lavage with NaCl 0.9% ,36.25
+    HR 140 bpm ,36.5
+    BP 130 mmHg systolic ,36.5
+    HR 160 bpm ,37.17
+    resolution of hypersalivation ,37.17
+    resolution of mydriasis ,37.17
+    intrapleural bupivacaine discontinued ,36.25
+    thoracic lavage continued ,36.25
+    resolving acidaemia pH 7.330 ,39.0
+    PvCO2 44.5 mmHg ,39.0
+    hypokalaemia 3.4 mmol/l ,39.0
+    azotaemia 162 µmol/l ,39.0
+    hyperglycaemia 8.3 mmol/l ,39.0
+    hyperlactataemia resolved ,39.0
+    mental status decline ,46.0
+    bradycardia 120-130 bpm ,46.0
+    second ILE bolus and CRI administered ,46.17
+    improved mentation ,46.17
+    bradycardia unresolved ,46.17
+    normotensive 140 mmHg systolic ,46.17
+    gradual improvement in mentation and HR ,56.0
+    oxygen therapy weaned over 44h ,80.0
+    general anaesthesia and CT performed ,76.0
+    right middle lung lobe abscess identified ,76.0
+    median sternotomy performed ,76.0
+    multiple episodes of hypotension ,76.0
+    treated with noradrenaline CRI ,76.0
+    respiratory distress secondary to laryngeal oedema ,76.0
+    re-intubated ,76.0
+    dexmedetomidine CRI initiated ,76.0
+    dexmedetomidine CRI discontinued ,79.0
+    analgesia tapered ,79.0
+    respiratory parameters normalized ,80.0
+    discharged on day 6 ,144.0

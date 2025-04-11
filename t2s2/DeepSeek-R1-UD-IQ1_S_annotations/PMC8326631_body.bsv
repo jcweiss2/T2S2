@@ -1,0 +1,114 @@
+28 years old | 0
+    female | 0
+    admitted to the hospital | 0
+    intermittent fever | -672
+    fever | -672
+    systemic rashes | -120
+    oral ulcer | -120
+    edema in both eyelids | -120
+    delivery | -1344
+    antibiotic treatment | -672
+    cough | -120
+    sticky white phlegm | -120
+    red rash | -120
+    no itching | -120
+    pain from oral ulcer | -120
+    limited ability to open mouth | -120
+    no edema in lower extremities | -120
+    suspected SLE | -120
+    body temperature 36.8°C | 0
+    pulse 110 bpm | 0
+    respiration 18 bpm | 0
+    blood pressure 107/79 mmHg | 0
+    oxygen saturation 97% | 0
+    conscious | 0
+    slow responses | 0
+    limited speech | 0
+    dermohemia in extremities | 0
+    no neck rigidity | 0
+    bilateral Babinski signs positive on one side | 0
+    pitting edema in four extremities and lower legs | 0
+    WBC count 1.4×10^9/L | 0
+    hemoglobin 89.9 g/L | 0
+    PLT count 88.5×10^9/L | 0
+    urine pH 1.015 | 0
+    blood in urine 3+ | 0
+    urine protein 3+ | 0
+    erythrocyte sedimentation rate 70 mm/hour | 0
+    C-reactive protein 3.06 mg/L | 0
+    blood urea nitrogen 12.4 mmol/L | 0
+    serum creatinine 124.6 µmol/L | 0
+    serum albumin 20.9 g/L | 0
+    immunoglobulin A 1.34 g/L | 0
+    immunoglobulin G 19.10 g/L | 0
+    immunoglobulin M 1.29 g/L | 0
+    compliment C3 0.18 g/L | 0
+    compliment C4 0.13 g/L | 0
+    antinuclear antibody positive 1:1280 | 0
+    anti-ds-DNA antibody positive 1:160 | 0
+    anti-histone antibody 183.64 RU/mL | 0
+    anti-nucleosome antibody 339.34 RU/mL | 0
+    perinuclear ANCA positive 1:40 | 0
+    anti-Smith antibody positive | 0
+    anti-histones weakly positive | 0
+    anti-SSA/Ro60 weakly positive | 0
+    anti-ds-DNA antibodies weakly positive | 0
+    head CT low-density foci in right parietal lobe | 0
+    methylprednisolone 80 mg twice daily for 5 days | 0
+    meropenem | 0
+    r-globulin 20 g/day for 5 days | 0
+    normal temperature | 24
+    rash faded | 24
+    intermittent cough | 24
+    intermittent expectoration | 24
+    increased WBC count | 24
+    increased PLT count | 24
+    systemic convulsions | 144
+    loss of consciousness | 144
+    cyanosis | 144
+    upturned eyes | 144
+    trismus | 144
+    foaming at the mouth | 144
+    urinary incontinence | 144
+    sedation | 144
+    dehydration treatment | 144
+    antiepileptic medication | 144
+    corticosteroids methylprednisolone 160 mg/day | 144
+    fever | 144
+    rapid heart rate | 144
+    seizure recurrence | 144
+    transfer to ICU | 144
+    methylprednisolone 160 mg/day | 144
+    sedation | 144
+    antiepileptic | 144
+    antipyretic | 144
+    acid suppression | 144
+    electrolyte disorder correction | 144
+    regained consciousness | 144
+    loss of consciousness | 288
+    head MRI abnormal signals | 288
+    cerebrospinal fluid elevated protein | 288
+    epilepsy | 288
+    posterior cerebral encephalopathy syndrome | 288
+    methylprednisolone 1000 mg daily for 3 days | 288
+    dexamethasone 20 mg and 10 mg intrathecal | 288
+    prednisone 60 mg | 288
+    hydroxychloroquine 0.2 g twice daily | 288
+    cyclophosphamide 0.4 g weekly | 288
+    r-globulin 20 g daily for 5 days | 288
+    dehydration treatment | 288
+    antiepileptic | 288
+    brain cell protection | 288
+    blood pressure-lowering | 288
+    potassium supplements | 288
+    sodium supplements | 288
+    diuretics | 288
+    regained consciousness | 288
+    condition improved | 288
+    discharged | 288
+    head MRI lesions absorbed | 1080
+    prednisone 5 mg | 1080
+    hydroxychloroquine 0.3 g daily | 1080
+    mycophenolate mofetil 0.75 g daily | 1080
+    stable condition | 1080
+    

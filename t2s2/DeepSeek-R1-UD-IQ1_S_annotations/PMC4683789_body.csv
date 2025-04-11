@@ -1,0 +1,126 @@
+event,time
+50 years old ,0
+    male ,0
+    presented to Cardiology department ,0
+    edema of the legs ,0
+    erythema ,0
+    pain ,0
+    abdominal swelling ,0
+    hospitalized ,0
+    pulmonary hypertension ,0
+    right heart failure ,0
+    atrial fibrillation ,0
+    chronic obstructive pulmonary disease ,0
+    cellulitis ,0
+    appendectomy ,-262080
+    stabbed in the abdomen ,-157680
+    successfully treated by general surgery ,-157680
+    discharged 1 week postoperatively ,-157680
+    smoking history ,-262080
+    presented to Cardiology outpatient service ,-43800
+    diagnosed with NYHA Class II shortness of breath ,-43800
+    echocardiography ,-43800
+    mildly increased right heart cavity dimensions ,-43800
+    pulmonary artery systolic pressure 45 mmHg ,-43800
+    complaints regressed completely ,-43800
+    admitted to Pulmonology department ,-26208
+    abdominal swelling ,-26208
+    bilateral leg swelling ,-26208
+    shortness of breath (NYHA Class III) ,-26208
+    CT thorax ,-26208
+    diagnosed with right heart failure ,-26208
+    dilated IVC missed ,-26208
+    intravenous diuretics ,-26208
+    steroids ,-26208
+    teophylline ,-26208
+    inhaled bronchodilator treatment ,-26208
+    complaints regressed ,-26208
+    left ventricular ejection fraction 65% ,-26208
+    Grade I diastolic dysfunction ,-26208
+    normal left heart cavities ,-26208
+    significantly enlarged right heart cavities ,-26208
+    pulmonary artery systolic pressure 70 mmHg ,-26208
+    Grade 2–3 tricuspid failure ,-26208
+    monitored for pulmonary hypertension ,-26208
+    admitted to Pulmonology department ,-8760
+    high ventricular rate atrial fibrillation (168 bpm) ,-8760
+    abdominal ascites ,-8760
+    diffuse edema of the lower extremities ,-8760
+    crackles in the middle and lower lung zones (NYHA Class IV) ,-8760
+    echocardiography ,-8760
+    normal left heart cavity dimensions ,-8760
+    left ventricular ejection fraction 50% ,-8760
+    paradoxical interventricular septal motion ,-8760
+    significantly enlarged right heart cavities ,-8760
+    pulmonary artery systolic pressure 95 mmHg ,-8760
+    Grade 3 tricuspid insufficiency ,-8760
+    started on digoxin ,-8760
+    started on diltiazem ,-8760
+    started on warfarin ,-8760
+    symptoms regressed to NYHA Class III ,-8760
+    discharged from the hospital ,-8760
+    admitted to Emergency department ,-360
+    worsening right heart failure ,-360
+    worsening shortness of breath ,-360
+    moved to Cardiology department ,0
+    started on intravenous furosemide ,0
+    started on spironolactone ,0
+    started on clexane ,0
+    continued on diltiazem ,0
+    continued on digoxin ,0
+    started on ampicillin/sulbactam ,0
+    blood urea nitrogen 60 mg/dl ,0
+    creatinine 1.2 mg/dl ,0
+    aspartate aminotransferase 40 U/l ,0
+    alanine aminotransferase 45 U/l ,0
+    hemoglobin 12.8 g/dl ,0
+"    white blood cells 14,500/µl ",0
+    developed respiratory arrest ,24
+    developed cardiac arrest ,24
+    CPR initiated ,24
+    intubated ,24
+    gained basal rhythm of atrial fibrillation ,24
+    blood pressure 100/60 mmHg ,24
+    transferred to ICU ,24
+    placed on mechanic ventilator ,24
+    initial diagnosis of pulmonary embolism ,24
+    underwent pulmonary CT angiography ,24
+    no thrombi detected ,24
+    DVT protocol CT not performed ,24
+    thorax CT angiography ,24
+    lower extremity venous Doppler ultrasonography ,24
+    no thrombotic formation detected ,24
+    diagnosis missed by physicians ,24
+    abdominal auscultation ,24
+    IVC diameter 19 cm ,24
+    tricuspid focus pansystolic murmur ,24
+    liver palpable 7–8 cm ,24
+    diffuse ascites ,24
+    edema of legs 3+ ,24
+    continuous thrill ,24
+    machine-like murmur ,24
+    echocardiography ,24
+    severely enlarged right cardiac cavities ,24
+    3–4 degree tricuspid failure ,24
+    pulmonary artery pressure 75–80 mmHg ,24
+    normal left heart cavities ,24
+    IVC 18 cm ,24
+    fistula between abdominal aorta and IVC ,24
+    transesophageal echocardiography ,24
+    intact interventricular septum ,24
+    patent foramen ovale ,24
+    right to left shunt ,24
+    CT angiography performed ,24
+    fistula at lower level of renal artery ,24
+    fistula at abdominal aortic bifurcation ,24
+    aortography ,24
+    left-to-right shunt 2.8 ,24
+    coronary angiography ,24
+    normal coronary arteries ,24
+    systolic pulmonary artery pressure 75 mmHg ,24
+    hemodynamically stable ,24
+    ACP closure percutaneously decided ,24
+    procedure delayed due to pneumonia ,24
+    pneumonia secondary to intubation ,24
+    sepsis developed ,24
+    died of septic shock ,24

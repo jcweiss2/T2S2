@@ -1,0 +1,73 @@
+76 years old | 0
+woman | 0
+pain on the entire abdomen | -24
+fever | -24
+systolic blood pressure dropped to 70 mmHg | -24
+referred to the hospital | -24
+alert | 0
+body temperature of 37.9°C | 0
+blood pressure of 83/52 mmHg | 0
+heart rate of 103 beats/min | 0
+respiratory rate of 30/min | 0
+oxygen saturation of 80% | 0
+abdomen soft | 0
+abdomen flat | 0
+tenderness | 0
+rebound tenderness | 0
+autoimmune hepatitis | 0
+oral steroid | 0
+osteoporosis | 0
+compression fracture of the spine | 0
+spinal canal stenosis | 0
+chronic kidney dysfunction | 0
+fracture of the left hand | 0
+fracture of the femur | 0
+pneumonia | 0
+temporomandibular joint myelitis | 0
+cesarean birth with median incision at the lower abdomen | 0
+WBC 15 700/μL | 0
+CRP 24.0 mg/dL | 0
+BUN 39.1 mg/dL | 0
+serum creatinine 0.99 mg/dL | 0
+purulent urine | 0
+bacteria (3+) | 0
+WBC (3+) | 0
+enhanced abdominal CT | 0
+small intestine dilation | 0
+admitted to the hospital | 0
+ileus | 0
+septic state | 0
+quick Sequential Organ Failure Assessment Score of 2 | 0
+ileus tube insertion | 0
+transnasal endoscopy | 0
+meropenem 0.5 g every 8 h | 0
+abdominal pain worsened | 24
+inflammation reaction values elevated | 24
+enhanced CT free air in the abdominal cavity | 24
+fluid collection in the anterior space of the bladder | 24
+emergency laparotomy | 24
+small hole at the dome of the urinary bladder | 24
+hole at the peritoneum | 24
+thick pus extruded into the abdominal cavity | 24
+opened front part of the urinary bladder | 24
+sutured hole | 24
+sutured bladder to close | 24
+permanent urinary catheter placement | 24
+bladder drainage | 24
+decompression | 24
+postoperative course uneventful | 24
+inflammation reaction improved | 24
+discharged | 504
+deficit in the urinary bladder wall | 0
+fluid collection around the urinary bladder | 0
+perforation of the urinary bladder | 0
+perforation of the peritoneum | 24
+no diverticulum of the urinary bladder | 0
+no organic failure | 0
+SRUB | 0
+bacterial cystitis | 0
+misdiagnosis | 0
+delayed diagnosis | 0
+confirmed during laparotomy | 24
+prompt intervention | 24
+proper decompression | 24

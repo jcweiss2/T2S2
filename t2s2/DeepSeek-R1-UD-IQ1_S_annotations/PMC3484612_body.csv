@@ -1,0 +1,141 @@
+event,time
+60 years old ,0.0
+    male ,0.0
+    hypertension ,0.0
+    unspecified left ventricular dysfunction ,0.0
+    chest pain ,-285.0
+    beta-blockers ,0.0
+    sartanic ,0.0
+    tiazidic diuretic ,0.0
+    called emergency department ,-15.5
+    awake ,-15.5
+    hypotensive ,-15.5
+    symptomatic ,-15.5
+    ECG signs of extensive antero-lateral AMI ,-15.5
+    morphine ,-15.5
+    apirine ,-15.5
+    dopamine infusion ,-15.5
+    transferred to peripheral hospital ,-15.5
+    angiographic study ,-13.5
+    severe cardiogenic shock ,-13.5
+    unresponsive to catecholamine ,-13.5
+    IABP support ,-13.5
+    distal occlusion of left main coronary artery ,-13.5
+    angioplasty ,-13.5
+    positioned bare metal stent ,-13.5
+    heparin bolus 7500 IU ,-13.5
+    continuous infusion of reopro ,-13.5
+    good revascularization ,-13.5
+    TIMI score 1 ,-13.5
+    severe hypotension ,-13.5
+    high-dose norepinephrine ,-13.5
+    bradi-asystolic cardiac arrest ,-12.5
+    advanced life support algorithms ,-12.5
+    tracheal intubation ,-12.5
+    transvenous pacing ,-12.5
+    cardiogenic shock refractory ,-12.5
+    high amines dosage ,-12.5
+    mechanical ventilation ,-12.5
+    systolic blood pressure 90 mmHg ,-12.5
+    heart rate 100 beats per minute ,-12.5
+    anuria ,-12.5
+    paO2 53 mmHg ,-12.5
+    paCO2 60 mmHg ,-12.5
+    pH 7.04 ,-12.5
+    lactates >6 mmol/L ,-12.5
+    base excess -14 mmol/L ,-12.5
+    echocardiography showed contractile reserve ,-12.5
+    called ECMO team ,-10.0
+    ECMO implantation ,-8.75
+    percutaneous cannulation of right femoral artery ,-8.75
+    percutaneous cannulation of left femoral vein ,-8.75
+    ECMO circuit prepared ,-8.75
+    connected to ECMO ,-8.0
+    blood flow 3.5 L/min ,-8.0
+    gas flow 3 L/min ,-8.0
+    FiO2 0.6 ,-8.0
+    hemodynamic stabilization ,-8.0
+    reduction of amines ,-8.0
+    recovery of diuresis ,-8.0
+    normalization of blood gas parameters ,-8.0
+    PaO2 457 mmHg ,-8.0
+    PaCO2 29 mmHg ,-8.0
+    pH 7.48 ,-8.0
+"    lactates 1,9 mmol/L ",-8.0
+"    BE -1,2 mmol/L ",-8.0
+    reopro infusion interrupted ,-8.0
+    transferred to San Gerardo Hospital ,-7.0
+    sedated ,0.0
+    continuous perfusion of muscle relaxant ,0.0
+    therapeutic hypothermia ,0.0
+    hemodynamically stable ,0.0
+    arterial catheter ,0.0
+    central venous catheter ,0.0
+    pulmonary artery catheter ,0.0
+    arterial blood pressure 150/60 mmHg ,0.0
+    heart rate 80 beats ,0.0
+    sinus rhythm ,0.0
+    central venous pressure 12 mmHg ,0.0
+    wedge pressure 15 mmHg ,0.0
+    pulmonary artery pressure 29/18 mmHg ,0.0
+"    cardiac output 2,5 L/min ",0.0
+    venous oxygen saturation 72% ,0.0
+    transesophageal echocardiography showed ejection fraction 10% ,0.0
+    dobutamine 5 mcg/kg/min ,0.0
+    intravenous heparin ,0.0
+    activated clotting time 180-200 seconds ,0.0
+    aspirin ,0.0
+    clopidrogel ,0.0
+    echocardiography showed akinesia ,24.0
+    daily evaluations of legs perfusion ,24.0
+    relative hypertension ,96.0
+    calcium-sensitizer infusion ,96.0
+    weaning from ECMO ,96.0
+    blood flow 2 L/min ,96.0
+    blood flow 1 L/min ,108.0
+    weaned from ECMO ,120.0
+    IABP ,120.0
+    dobutamine 10 mcg/kg/min ,120.0
+    cannulae removed ,120.0
+    hyperdynamic shock ,120.0
+    cardiac output 11 L/min ,120.0
+    blood pressure 80/40 mmHg ,120.0
+    norepinephrine ,120.0
+    treated as septic shock ,120.0
+    cultural examination ,120.0
+    empiric antibiotic therapy with meropenem ,120.0
+    removed IABP ,144.0
+    started nitrates ,144.0
+    echocardiography showed persisting akinesia ,144.0
+    ejection fraction 30% ,144.0
+    linezolid added ,168.0
+    fever ,168.0
+    elevation of leukocytes ,168.0
+    inflammation indexes ,168.0
+    bronchial bleeding ,168.0
+    deterioration of blood gas parameters ,168.0
+    high PEEP ,168.0
+    interruption of heparin ,168.0
+    interruption of clopidogrel ,168.0
+    Ecodoppler performed ,168.0
+    hypertensive crisis ,192.0
+    pulmonary oedema ,192.0
+    mechanical ventilation with PEEP 15cmH2O ,192.0
+    high FiO2 ,192.0
+    inhalatory nitric oxide ,192.0
+    negative water balance ,192.0
+    calcium-sensitizer infusion ,192.0
+    diastolic dysfunction ,192.0
+    ACE-inhibitor ,192.0
+    beta-blockers ,192.0
+    extubated ,264.0
+    digoxin introduced ,312.0
+    transferred back to original hospital ,480.0
+    awake ,480.0
+    no neurological deficits ,480.0
+    hemodynamically stable ,480.0
+    sinus rhythm ,480.0
+    ACE-inhibitor ,480.0
+    beta-blocker ,480.0
+    normal renal function ,480.0
+    normal blood gas analysis ,480.0

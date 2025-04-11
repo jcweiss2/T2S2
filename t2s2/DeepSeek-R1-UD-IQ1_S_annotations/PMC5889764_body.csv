@@ -1,0 +1,58 @@
+event,time
+55 years old ,0.0
+    male ,0.0
+    admitted to the hospital ,0.0
+    multiple myeloma ,0.0
+    previous stem cell transplant ,0.0
+    recurrence of disease ,0.0
+    relapsed multiple myeloma ,0.0
+    treatment with carfilzomib ,-72.0
+    intermittent fevers ,-48.0
+    dyspnea ,-72.0
+    productive cough ,-72.0
+    febrile ,0.0
+    tachypneic ,0.0
+    tachycardic ,0.0
+    decreased breath sounds in right lung base ,0.0
+    no rales ,0.0
+    no wheezing ,0.0
+    pancytopenia ,0.0
+    white blood cell count 1.2 × 10^9/l ,0.0
+    hemoglobin 53 g/l ,0.0
+    platelets 4.0 × 10^9/l ,0.0
+    treated with cefepime ,0.0
+    treated with azithromycin ,0.0
+    continued home medications ,0.0
+    acyclovir ,0.0
+    allopurinol ,0.0
+    fluconazole ,0.0
+    pantoprazole ,0.0
+    new-onset hypoxia ,0.0
+    hypotension ,0.0
+    altered mental status ,0.0
+    transferred to medical intensive care unit ,0.0
+    lactic acid 6.1 mMol/l ,0.0
+    arterial blood gas pH 7.40 ,0.0
+    arterial blood gas PaCO2 3.3 kPa ,0.0
+    arterial blood gas PaO2 11.3 kPa ,0.0
+    measured O2sat 94% ,0.0
+    intubation ,0.0
+    treated with topical endobronchial lidocaine ,0.0
+    treated with etomidate ,0.0
+    treated with succinylcholine ,0.0
+    hypoxia worsened ,24.0
+    arterial blood gas pH 7.21 ,24.0
+    arterial blood gas PaCO2 3.3 kPa ,24.0
+    arterial blood gas PaO2 55.1 kPa ,24.0
+    measured O2sat 49% ,24.0
+    brownish arterial blood ,24.0
+    co-oximetry requested ,24.0
+    methemoglobin level 53% ,24.0
+    treated with methylthioninium chloride ,24.0
+    arterial blood gas methemoglobin 12% ,24.5
+    arterial blood gas methemoglobin 9% ,25.0
+    O2sat >90% ,25.0
+    bright red arterial blood ,25.0
+    septic shock ,0.0
+    bacteremia with Rothia mucilaginosa ,0.0
+    succumbed to septic shock ,0.0

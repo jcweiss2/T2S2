@@ -1,0 +1,69 @@
+47 years old | 0
+    male | 0
+    HCV-related cirrhosis | 0
+    hepatocarcinoma | 0
+    spontaneous bacterial peritonitis | -2160
+    partial portal vein thrombosis | -2160
+    liver transplantation | 0
+    duct-to-duct biliary anastomosis | 0
+    antimicrobial prophylaxis | -24
+    no antifungal prophylaxis | 0
+    discharged | 0
+    tacrolimus | 0
+    mycophenolate mofetil | 0
+    prednisone | 0
+    readmitted | 336
+    fever | 336
+    malaise | 336
+    moderate hepatic dysfunction | 336
+    magnetic resonance cholangiography | 336
+    biliary leak | 336
+    bilioma | 336
+    ascites | 336
+    blood cultures obtained | 336
+    empirical treatment with vancomycin | 336
+    empirical treatment with piperacillin/tazobactam | 336
+    empirical treatment with fluconazole | 336
+    bilioma drained percutaneously | 336
+    bile sample sent for microbiological tests | 336
+    clinical conditions worsened | 360
+    admitted to ICU | 360
+    septic shock | 360
+    mechanical ventilation | 360
+    inotropic support therapy | 360
+    new blood cultures obtained | 360
+    tracheal aspirate obtained | 360
+    antimicrobial treatment modified | 360
+    vancomycin stopped | 360
+    piperacillin/tazobactam stopped | 360
+    linezolid started | 360
+    meropenem started | 360
+    tacrolimus serum trough-levels increased | 360
+    tacrolimus withdrawal | 360
+    fluconazole stopped | 360
+    anidulafungin started | 360
+    chest x-ray showed bilateral pneumonia | 360
+    surgical drainage of hepato-biliary ducts | 360
+    C. norvegensis isolated from blood cultures | 360
+    Enterococcus faecalis isolated from blood cultures | 360
+    C. norvegensis isolated from bile specimens | 360
+    Enterococcus faecalis isolated from bile specimens | 360
+    identification and susceptibility assay of C. norvegensis | 360
+    MIC of fluconazole | 360
+    MIC of voriconazole | 360
+    bronchoaspirate yielded ESBL producing Klebsiella pneumoniae | 396
+    bile culture yielded ESBL producing Klebsiella pneumoniae | 396
+    fever resolved | 396
+    hemodynamic stability achieved | 396
+    weaning from mechanical ventilation | 396
+    blood cultures negative | 408
+    bile cultures negative for C. norvegensis | 504
+    trans-esophageal echocardiography ruled out infective endocarditis | 504
+    fundus oculi examination negative for embolisms | 504
+    linezolid stopped | 504
+    meropenem continued | 504
+    anidulafungin continued | 504
+    bile tract repaired with stents | 504
+    tacrolimus restarted | 504
+    discharged | 720
+    asymptomatic during follow-up | 8760

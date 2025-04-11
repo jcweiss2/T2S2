@@ -1,0 +1,59 @@
+60 years old | 0
+    woman | 0
+    hepatitis C-related cirrhosis | 0
+    recurrent hepatic encephalopathies | 0
+    chronic portal vein thrombosis | 0
+    liver transplantation (LT) | 0
+    end-to-side anastomosis of the donor portal vein to the superior mesenteric vein | 0
+    end-to-end bile duct anastomosis | 0
+    massive venous bleeding from local varices | 0
+    iliac conduit constructed | 0
+    recovered well after surgery | 0
+    normal liver graft function | 0
+    stenosis of the bile duct anastomosis | -360
+    biliary leakage | -360
+    elevated liver enzymes in cholestatic pattern | -360
+    treated with a pigtail | -360
+    FCSEMS inserted | -384
+    persisting leakage | -384
+    no further signs of leakage after stent extraction | -2160
+    hepatitis C reinfection | 0
+    recurrent stenosis of the biliary anastomosis | 0
+    repeated ERCPs (10 total) | 0
+    3 balloon dilatations | 0
+    4 placements of 7 pigtails | 0
+    2 stent placements | 0
+    significant fibrosis (METAVIR F3, Ishak 4) | -8760
+    treated with pegylated interferon and ribavirin | -8760
+    scheduled for elective ERCP #11 | 0
+    recovery of 3 plastic double-pigtails | 0
+    cholangiogram revealed large portobiliary fistula | 0
+    hemobilia from the papilla | 0
+    decision to place FCSEMS | 0
+    FCSEMS placed | 0
+    no evidence of further leakage | 0
+    ceasing of hemobilia | 0
+    prophylactic antibiotic treatment with ciprofloxacin | 0
+    presented with signs of septic shock | 48
+    admitted to intensive care unit | 48
+    hemodynamic support | 48
+    empiric broad-spectrum antibiotic treatment | 48
+    computed tomography | 48
+    angiography | 48
+    no evidence of persistent fistula | 48
+    chronic obliteration of the iliac conduit | 48
+    partial perfusion of the hepatic artery by gastroduodenal collaterals | 48
+    anuric kidney failure | 48
+    continuous venovenous hemofiltration | 48
+    intermittent hemodialysis | 192
+    recovered well | 192
+    evaluation for liver re-transplantation discussed | 192
+    scheduled for FCSEMS replacement (ERCP #12) | 2976
+    extraction of lying FCSEMS | 2976
+    no persisting leakage | 2976
+    no relevant stenosis | 2976
+    50-month follow-up | 2976
+    no evidence of recurrent stenosis | 2976
+    no evidence of portobiliary fistula | 2976
+    no further endoscopic intervention | 2976
+  

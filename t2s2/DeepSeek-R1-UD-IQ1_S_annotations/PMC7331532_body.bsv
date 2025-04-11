@@ -1,0 +1,81 @@
+56 years old | 0
+    male | 0
+    admitted to ICU | 0
+    diabetes mellitus | -336
+    hypertension | -336
+    hyperlipidemia | -336
+    obesity | -336
+    BMI 31 kg/m² | 0
+    antihypertensive therapy | -336
+    angiotensin II receptor blockers | -336
+    calcium channel blockers | -336
+    metformin | -336
+    glimepiride | -336
+    atorvastatin | -336
+    inhaled fluticasone propionate/salmeterol | -336
+    COPD suspicion | -336
+    intermittent fever | -336
+    muscle ache | -336
+    nonproductive cough | -168
+    progressively increasing dyspnea | -168
+    amoxicillin treatment | -192
+    pristinamycin treatment | -120
+    heart rate 99 beats/min | 0
+    respiratory rate 34 breaths/min | 0
+    blood pressure 132/92 mmHg | 0
+    temperature 38°C | 0
+    oxygen saturation 95% | 0
+    arterial blood gas pH 7.41 | 0
+    pCO2 27.9 mmHg | 0
+    pO2 87.9 mmHg | 0
+    PaO2/FiO2 87.9 | 0
+    white blood cell count 10720 cells/mm³ | 0
+    neutrophils 82.6% | 0
+    lymphocytes 12.7% | 0
+    lactate dehydrogenase 882 U/L | 0
+    CRP 206 mg/dL | 0
+    ferritin 556 ng/mL | 0
+    D-dimer 2390 ng/mL | 0
+    interleukin-6 93.6 pg/mL | 0
+    SOFA score 8 | 0
+    hypoxemic respiratory failure | 0
+    mechanical ventilation | 0
+    norepinephrine | 0
+    diabetic ketoacidosis | 0
+    pH 7.3 | 0
+    glucose 20.5 mmol/L | 0
+    ketonemia | 0
+    bicarbonate ions 17.2 mmol/L | 0
+    continuous insulin infusion | 0
+    acute kidney failure | 0
+    creatinine 2.76 mg/dL | 0
+    chest CT bilateral ground-glass opacities | 0
+    pulmonary nodules | 0
+    SARS-CoV-2 PCR positive | 0
+    dexamethasone treatment | 48
+    eculizumab infusion | 48
+    piperacillin-tazobactam | -168
+    cefotaxime | -168
+    spiramycin | -168
+    tracheal aspirate BioFire negative | 96
+    serum galactomannan negative | 0
+    serum β-D-Glucan negative | 0
+    worsening condition | 144
+    increased vasopressor need | 144
+    increased oxygen need | 144
+    tracheal aspirate branching hyphae | 144
+    culture A. fumigatus | 144
+    Af qPCR positive | 144
+    bacterial culture negative | 144
+    transthoracic echocardiogram hypertrophy | 144
+    right ventricle dilation | 144
+    D-dimer >20000 ng/mL | 144
+    fibrinogen 3.85 g/L | 144
+    cardiac arrest | 144
+    death | 144
+    posaconazole MIC 0.5 µg/mL | 144
+    itraconazole MIC >8 µg/mL | 144
+    voriconazole MIC 2 µg/mL | 144
+    isavuconazole MIC 4 µg/mL | 144
+    cyp51A TR34/L98H mutation | 144
+    

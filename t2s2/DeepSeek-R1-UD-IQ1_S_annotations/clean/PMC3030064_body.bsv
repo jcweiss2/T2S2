@@ -1,0 +1,116 @@
+63-year-old | 0
+male | 0
+admitted | 0
+left hip fracture | 0
+left tibia fracture | 0
+road traffic accident | 0
+transsphenoidal approach operation | -43800
+pituitary adenoma | -43800
+panhypopituitarism | -43800
+diabetes mellitus | -43800
+mild dyspnea | -10
+arterial blood gas analysis | -10
+pH 7.423 | -10
+PaCO2 37.3 mmHg | -10
+PaO2 50.1 mmHg | -10
+SaO2 86.5% | -10
+FiO2 0.2 | -10
+alveolar4arterial oxygen gradient increased | -10
+chest x-ray normal | -10
+dyspnea worsened | -72
+hypoxemia worsened | -72
+chest computed tomography | -72
+suspected pulmonary thromboembolism | -72
+thromboembolism in right interlobar pulmonary artery | -72
+thromboembolism in right lower lobe segmental artery | -72
+thromboembolism in subsegmental pulmonary artery | -72
+heparin treatment initiated | -72
+dyspnea improved | -72
+hypoxemia improved | -72
+transthoracic echocardiography | -96
+no abnormality | -96
+no thrombus | -96
+left lower limb venography | -168
+no venous thrombus | -168
+inferior vena cava filter not inserted | -168
+scheduled for operation | -264
+heparin administration | -72
+aPTT 60-67 sec | -72
+heparin stopped | -288
+prothrombin time normal | 0
+aPTT normal | 0
+BUN/Cr 23.7/1.5 mg/dl | 0
+standard monitoring devices applied | 0
+left radial artery cannulated | 0
+BP 120/70 mmHg | 0
+oxygen 5 L applied | 0
+ABGA pH 7.43 | 0
+PaCO2 38.1 mmHg | 0
+PaO2 102.9 mmHg | 0
+SaO2 98% | 0
+spinal anesthesia administered | 0
+L3-4 interspace | 0
+tetracaine 12 mg | 0
+epinephrine 1:200,000 | 0
+sensory block T10 | 0
+Hartmann's solution 700 ml | 0
+BP stable | 0
+HR stable | 0
+pneumatic tourniquet inflated | 0
+tourniquet pressure 350 mmHg | 0
+Esmarch bandage not used | 0
+unresponsive | 0
+BP 50/30 mmHg | 0
+HR 40 bpm | 0
+ephedrine 8 mg | 0
+ephedrine 12 mg | 0
+phenylephrine 300 µg | 0
+endotracheal intubation | 0
+ventilation 100% oxygen | 0
+BP 80/70 mmHg | 0
+cardiac arrest | 0
+external cardiac massage | 0
+epinephrine 1 mg | 0
+atropine 0.5 mg | 0
+epinephrine infusion 0.1 µg/kg/min | 0
+norepinephrine infusion 0.1 µg/kg/min | 0
+HR 140 bpm | 0
+BP 140/90 mmHg | 0
+ABGA pH 7.127 | 0
+PaCO2 37.2 mmHg | 0
+PaO2 144.4 mmHg | 0
+HCO3 12.0 mmol/L | 0
+BE -15.9 mmol/L | 0
+SaO2 98.1% | 0
+sodium bicarbonate 200 mEq | 0
+BP maintained | 0
+TEE multiple emboli | 0
+emboli in right atrium | 0
+interatrial septum bulging | 0
+PE diagnosed | 0
+vital signs improved | 0
+HR 110 bpm | 0
+operation resumed | 0
+transferred to ICU | 0
+mechanical ventilation | 0
+FiO2 1.0 | 0
+ABGA pH 7.165 | 0
+PaCO2 66.6 mmHg | 0
+PaO2 66.6 mmHg | 0
+SaO2 87.1% | 0
+heparin treatment initiated | 0
+D-dimer 9467 ng/ml | 0
+D-dimer 52,796 ng/ml | 24
+PaO2 improved | 24
+ABGA pH 7.485 | 168
+PaCO2 32.4 mmHg | 168
+PaO2 142.2 mmHg | 168
+SaO2 99.0% | 168
+FiO2 0.4 | 168
+extubated | 216
+heparin treatment for 20 days | 216
+D-dimer decreased | 480
+chest CT no pulmonary emboli | 480
+echocardiography no intracardiac emboli | 480
+vital signs normal | 720
+transferred to general ward | 720

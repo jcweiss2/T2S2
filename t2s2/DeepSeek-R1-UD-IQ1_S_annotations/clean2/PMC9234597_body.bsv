@@ -1,0 +1,74 @@
+44 years old | 0
+male | 0
+decompensated alcoholic liver cirrhosis | 0
+presented with one day history of worsening jaundice | 0
+diffuse abdominal pain | 0
+subjective fevers | 0
+progressive erythema in left leg | 0
+dull right shoulder pain | 0
+denied recent trauma | 0
+denied prolonged immobilization | 0
+regular 2-4 soft consistency bowel movements per day | 0
+denied insomnia | 0
+denied confusion | 0
+resided in Wisconsin | 0
+lived with one dog | 0
+lived with three cats | 0
+presented with no animal bites | 0
+presented with no scratches | 0
+chronic left leg wound secondary to chronic venous stasis | 0
+chronic thrombocytopenia secondary to liver cirrhosis | 0
+anemia of chronic disease | 0
+portal hypertensive gastropathy | 0
+esophageal varices grade 1 | 0
+recurrent ascites needing weekly paracentesis | 0
+last paracentesis 6 days before admission | -144
+no history of prior spontaneous bacterial peritonitis | 0
+low total protein ascites | 0
+not on spontaneous bacterial peritonitis prophylaxis | 0
+non-compliance | 0
+temperature 38.4°C | 0
+blood pressure 160/65 mmHg | 0
+heart rate 114 beats per minute | 0
+respiratory rate 22 breaths per minute | 0
+oxygen saturation normal at room air | 0
+alert | 0
+pale | 0
+icteric | 0
+distressed due to abdominal pain | 0
+dry mucous membranes | 0
+supple neck without rigidity | 0
+normal heart exam | 0
+normal lung exam | 0
+distended abdomen | 0
+positive ascitic wave | 0
+diffuse tenderness to palpation | 0
+no guarding | 0
+no rebound | 0
+bilateral pitting edema | 0
+predominant on left | 0
+open wound with irregular borders in distal third of anterior left shin | 0
+yellowish secretion | 0
+black discoloration | 0
+surrounding erythema extending medially up to posterior aspect of left thigh | 0
+palpable distal pulses | 0
+non-tender right shoulder | 0
+no limitation for flexion and extension | 0
+no other joint tender to palpation | 0
+hemoglobin 9.3 g/dL | 0
+platelet count 86 × 10^9/L | 0
+leukocytosis 17.0 × 10^9/L | 0
+neutrophilia | 0
+lactic acid 6.5 mmol/L | 0
+ammonia 43 mcmol/L | 0
+INR 2.2 | 0
+C-reactive protein 45.5 mg/L | 0
+magnesium 2.2 mg/dL | 0
+potassium 5.2 mmol/L | 0
+sodium 136 mmol/L | 0
+bicarbonate 14 mmol/L | 0
+anion gap 20 | 0
+creatinine 1.19 mg/dL | 0
+glucose 93 mg/dL | 0
+AST 66 U/L | 0
+ALT 26 U/L |# hello-world

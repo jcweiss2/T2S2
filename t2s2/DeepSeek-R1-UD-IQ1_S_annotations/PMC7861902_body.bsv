@@ -1,0 +1,103 @@
+42 years old | 0  
+    male | 0  
+    admitted to the hospital | 0  
+    acute kidney injury | 0  
+    dyspnea | 0  
+    swelling in the face | 0  
+    swelling in the upper arms | 0  
+    occurrence once or twice per year for 30 years | 0  
+    no familial history | 0  
+    facial swelling worsened | 0  
+    suspected HAE | 0  
+    laboratory results | 0  
+    C4 level 7.15 mg/dl | 0  
+    C1-INH level 5.0 mg/dl | 0  
+    treated with Danazol 600 mg daily | 0  
+    kidney injury worsened | 0  
+    progressed to chronic kidney disease | 0  
+    decision for kidney transplant surgery | 0  
+    received hemodialysis | 0  
+    seven months later | 1680  
+    selected as recipient of kidney from deceased donor | 1680  
+    emergency surgery planned | 1680  
+    C1-INH level 15.7 mg/dl | 1680  
+    risk of edema during surgery | 1680  
+    administered three units of FFP | 1679  
+    anesthesia induced with thiopental sodium | 1680  
+    anesthesia induced with cisatracurium | 1680  
+    careful intubation by video-laryngoscopy | 1680  
+    endotracheal tube with 7.5 mm microcuffed | 1680  
+    cuff pressure adjusted to 20 cmH2O | 1680  
+    air leakage confirmed at airway pressure >20 cmH2O | 1680  
+    anesthesia maintained with desflurane | 1680  
+    anesthesia maintained with remifentanil | 1680  
+    mechanical ventilation | 1680  
+    fresh gas flow 3 L/min oxygen/air mixture | 1680  
+    vital signs within 30% baseline | 1680  
+    surgery took four hours | 1680  
+    administered fluid 1,000 ml | 1680  
+    estimated blood loss 400 ml | 1680  
+    neuromuscular blockade confirmed (train-of-four >99%) | 1680  
+    administration of reversal agents (pyridostigmine and glycopyrrolate) | 1680  
+    absence of laryngeal edema confirmed | 1680  
+    early extubation with mask ventilation | 1680  
+    patient recovered consciousness | 1680  
+    adequate respiration | 1680  
+    transferred to ICU | 1680  
+    immunosuppressants administered (tacrolimus, thymoglobulin) | 1680  
+    ganciclovir administered | 1680  
+    prostaglandin E1 administered | 1680  
+    vital signs stable | 1680  
+    urine output 190 ml after reperfusion | 1680  
+    hemoglobin 9.4 g/dl | 1680  
+    platelet count 202,000 | 1680  
+    PT 11.5 s | 1680  
+    aPTT 20.7 s | 1680  
+    INR 1.04 | 1680  
+    next morning | 1680  
+    dyspnea with abdominal discomfort | 1680  
+    hypotension 60/30 mmHg | 1680  
+    tachycardia 130 bpm | 1680  
+    lost consciousness | 1680  
+    intubated | 1680  
+    mechanical ventilation applied | 1680  
+    norepinephrine administered | 1680  
+    dobutamine administered | 1680  
+    abdominal distension | 1680  
+    serosanguineous fluids >1,000 ml | 1680  
+    generalized edema | 1680  
+    low urine output 10 ml over eight hours | 1680  
+    hemoglobin 7.3 g/dl | 1680  
+    PT 22.8 s | 1680  
+    aPTT 44.1 s | 1680  
+    INR 2.04 | 1680  
+    fibrinogen <100 mg/dl | 1680  
+    FDP 221 μg/ml | 1680  
+    D-dimer 27,699 ng/ml | 1680  
+    DIC diagnosed | 1680  
+    transfusion (RBC, FFP, cryoprecipitate, platelets) | 1680  
+    CRRT applied | 1680  
+    no improvement | 1680  
+    emergency second-look operation | 1680  
+    suspicion of anastomosis leakage | 1680  
+    no anastomosis leakage | 1680  
+    normal blood flow confirmed by Doppler | 1680  
+    operation ended without specific treatment | 1680  
+    severe generalized edema sustained | 1680  
+    hypoalbuminemia 2.5 g/dl | 1680  
+    C1-INH level 22.9 mg/dl | 1680  
+    continuous administration of 20% albumin | 1680  
+    Danazol 400 mg via Levin tube | 1680  
+    FFP transfusions | 1680  
+    no bacterial growth in blood culture | 1680  
+    sustained generalized edema | 1680  
+    coagulopathy | 1680  
+    DIC | 1680  
+    fourth day after surgery | 192  
+    pulmonary edema | 192  
+    pneumonia | 192  
+    rejection of transplanted kidney | 192  
+    sustained severe hypotension | 192  
+    no response to hemodynamic drugs | 192  
+    guardians declined additional treatment | 192  
+    patient died | 192

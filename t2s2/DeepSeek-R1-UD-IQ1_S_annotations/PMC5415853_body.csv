@@ -1,0 +1,204 @@
+event,time
+67 years old,0.0
+    female,0.0
+    admitted to the emergency department,0.0
+    abdominal pain,-72.0
+    bleeding diarrhoea,-72.0
+    nausea,-72.0
+    hypertension,0.0
+    type 2 diabetes mellitus,0.0
+    dyslipidemia,0.0
+    blood pressure 95/71 mmHg,0.0
+    temperature 36.3 °C,0.0
+    oxygen saturation 92%,0.0
+    diffuse abdominal pain without peritonitis,0.0
+    leukocytes 7.3 × 10³ μL,0.0
+    hemoglobin 12.6 g/dL,0.0
+    platelet count 96 × 10³ μL,0.0
+    serum creatinine 1.45 mg/dL,0.0
+    serum sodium 132 mmol/L,0.0
+    serum potassium 4.5 mmol/L,0.0
+    acute gastroenteritis,0.0
+    acute prerenal failure,0.0
+    treated with fluids,0.0
+    proton pump inhibitor,0.0
+    antiemetics,0.0
+    intravenous antibiotic therapy with ciprofloxacin,0.0
+    intravenous antibiotic therapy with metronidazole,0.0
+    stool culture sent,0.0
+    continued anuria,-24.0
+    unfavourable evolution on blood test,0.0
+    non-significant schistocytes count (< 1%),0.0
+    abdominal CT scan,-48.0
+    proctitis (inflammatory/infectious),0.0
+    cortical hypoperfusion of both kidneys,0.0
+    admitted to intensive care unit (ICU),72.0
+    neurological failure with bradipsiquia,72.0
+    anuria,72.0
+    worsen blood test analysis,72.0
+    no hemodynamic instability,72.0
+    no respiratory failure,72.0
+    hemoglobin 11.2 g/dL,72.0
+    haptoglobin < 6.63 mg/dL,72.0
+    lactate dehydrogenase 1125 U/L,72.0
+    elevated schistocytes count on blood smear,72.0
+    negative direct antiglobulin test,72.0
+    microangiopathic haemolytic anemia,72.0
+    thrombocytopenia (post transfusion platelet count 59 × 10³ μL),72.0
+    diagnosed with TMA,72.0
+    treated with urgent plasma exchange,72.0
+    methylprednisolone 1 mg/kg per day,72.0
+    uremia requiring haemodialysis,72.0
+    ADAMTS13 test result (55.9%),96.0
+    daily plasma exchange sessions,72.0
+    possible severe atypical HUS,72.0
+    deterioration of neurological situation,72.0
+    persistence of anuric renal failure,72.0
+    low C3 complement levels,72.0
+    plasma exchange discontinued,96.0
+    verotoxin 2-secreting Escherichia Coli isolated,96.0
+    favourable clinical evolution,96.0
+    improvement of neurological symptoms after third day,144.0
+    transferred to ward,120.0
+    slower renal failure improvement,168.0
+    recovery of diuresis at second week,336.0
+    haemodialysis until 23rd day,552.0
+    renal biopsy confirming thrombotic microangiopathic involvement,552.0
+    anemia increasing slowly,168.0
+    no red-cell transfusion until sixth day,144.0
+    marked platelet decrease requiring transfusion,72.0
+    invasive techniques requiring platelet transfusion,72.0
+    endothelial congestion in renal biopsy,552.0
+    mesangial cellularity causing vascular occlusion,552.0
+    aneurysmal dilation of glomerular capillaries,552.0
+    polymorphonuclear and fragmented erythrocytes,552.0
+    thrombotic microangiopathic involvement in initial acute phase,552.0
+    treatment with plasma exchange started at 4 hours,72.0
+    ADAMTS13 levels received in 24 hours,96.0
+    TTP ruled out,96.0
+    atypical HUS considered,72.0
+    eculizumab evaluated,96.0
+    verotoxin 2-secreting Escherichia Coli confirmed,96.0
+    typical HUS diagnosed,96.0
+    plasma exchange stopped,96.0
+    eculizumab not used,96.0
+    Shiga-toxin-induced endothelial damage,0.0
+    bloody diarrhoea from verotoxin,0.0
+    supportive treatment,72.0
+    antibiotics controversial,72.0
+    plasma exchange no benefit,96.0
+    eculizumab uncertain role,96.0
+    neurological involvement,72.0
+    haemodialysis needed,72.0
+    complete renal recovery in four weeks,672.0
+    no financial support received,0.0
+    Institutional Ethics Committee approval,0.0
+    patient consent obtained,0.0
+    conflict of interest none,0.0
+    manuscript invited,0.0
+    critical care specialty,0.0
+    Spain origin,0.0
+    peer-review reports obtained,0.0
+    article in press,0.0
+    </s>,
+67 years old,0.0
+female,0.0
+admitted to the emergency department,0.0
+abdominal pain,-72.0
+bleeding diarrhoea,-72.0
+nausea,-72.0
+hypertension,0.0
+type 2 diabetes mellitus,0.0
+dyslipidemia,0.0
+blood pressure 95/71 mmHg,0.0
+temperature 36.3 °C,0.0
+oxygen saturation 92%,0.0
+diffuse abdominal pain without peritonitis,0.0
+leukocytes 7.3 × 10³ μL,0.0
+hemoglobin 12.6 g/dL,0.0
+platelet count 96 × 10³ μL,0.0
+serum creatinine 1.45 mg/dL,0.0
+serum sodium 132 mmol/L,0.0
+serum potassium 4.5 mmol/L,0.0
+acute gastroenteritis,0.0
+acute prerenal failure,0.0
+treated with fluids,0.0
+proton pump inhibitor,0.0
+antiemetics,0.0
+intravenous antibiotic therapy with ciprofloxacin,0.0
+intravenous antibiotic therapy with metronidazole,0.0
+stool culture sent,0.0
+continued anuria,-24.0
+unfavourable evolution on blood test,0.0
+non-significant schistocytes count (< 1%),0.0
+abdominal CT scan,-48.0
+proctitis (inflammatory/infectious),0.0
+cortical hypoperfusion of both kidneys,0.0
+admitted to intensive care unit (ICU),72.0
+neurological failure with bradipsiquia,72.0
+anuria,72.0
+worsen blood test analysis,72.0
+no hemodynamic instability,72.0
+no respiratory failure,72.0
+hemoglobin 11.2 g/dL,72.0
+haptoglobin < 6.63 mg/dL,72.0
+lactate dehydrogenase 1125 U/L,72.0
+elevated schistocytes count on blood smear,72.0
+negative direct antiglobulin test,72.0
+microangiopathic haemolytic anemia,72.0
+thrombocytopenia (post transfusion platelet count 59 × 10³ μL),72.0
+diagnosed with TMA,72.0
+treated with urgent plasma exchange,72.0
+methylprednisolone 1 mg/kg per day,72.0
+uremia requiring haemodialysis,72.0
+ADAMTS13 test result (55.9%),96.0
+daily plasma exchange sessions,72.0
+possible severe atypical HUS,72.0
+deterioration of neurological situation,72.0
+persistence of anuric renal failure,72.0
+low C3 complement levels,72.0
+plasma exchange discontinued,96.0
+verotoxin 2-secreting Escherichia Coli isolated,96.0
+favourable clinical evolution,96.0
+improvement of neurological symptoms after third day,144.0
+transferred to ward,120.0
+slower renal failure improvement,168.0
+recovery of diuresis at second week,336.0
+haemodialysis until 23rd day,552.0
+renal biopsy confirming thrombotic microangiopathic involvement,552.0
+anemia increasing slowly,168.0
+no red-cell transfusion until sixth day,144.0
+marked platelet decrease requiring transfusion,72.0
+invasive techniques requiring platelet transfusion,72.0
+endothelial congestion in renal biopsy,552.0
+mesangial cellularity causing vascular occlusion,552.0
+aneurysmal dilation of glomerular capillaries,552.0
+polymorphonuclear and fragmented erythrocytes,552.0
+thrombotic microangiopathic involvement in initial acute phase,552.0
+treatment with plasma exchange started at 4 hours,72.0
+ADAMTS13 levels received in 24 hours,96.0
+TTP ruled out,96.0
+atypical HUS considered,72.0
+eculizumab evaluated,96.0
+verotoxin 2-secreting Escherichia Coli confirmed,96.0
+typical HUS diagnosed,96.0
+plasma exchange stopped,96.0
+eculizumab not used,96.0
+Shiga-toxin-induced endothelial damage,0.0
+bloody diarrhoea from verotoxin,0.0
+supportive treatment,72.0
+antibiotics controversial,72.0
+plasma exchange no benefit,96.0
+eculizumab uncertain role,96.0
+neurological involvement,72.0
+haemodialysis needed,72.0
+complete renal recovery in four weeks,672.0
+no financial support received,0.0
+Institutional Ethics Committee approval,0.0
+patient consent obtained,0.0
+conflict of interest none,0.0
+manuscript invited,0.0
+critical care specialty,0.0
+Spain origin,0.0
+peer-review reports obtained,0.0
+article in press,0.0

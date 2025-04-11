@@ -1,0 +1,146 @@
+26 years old | 0
+    male | 0
+    visited the hospital with rash | 0
+    pain | 0
+    edema in the left foot | 0
+    hospitalized | 0
+    cellulitis in the left foot | 0
+    body temperature 38.2℃ | 0
+    heart rate 110 beats/min | 0
+    blood pressure 140/70 mmHg | 0
+    respiration rate 22 times/min | 0
+    hypotonia | -26400
+    poor sucking | -26400
+    cryptorchidism | -26400
+    pneumonia | -26256
+    Prader-Willi Syndrome | -26256
+    long arm deletion of the 15th chromosome | -26256
+    level 2 mental retardation | -17280
+    diabetes | -17280
+    medication | -17280
+    chronic renal failure | -26280
+    hemodialysis | -26280
+    skin disinfection | 0
+    antibiotic treatment | 0
+    obstruction in the right brachiobasilic arteriovenous fistula | 0
+    ultrasonography | 0
+    giant pseudoaneurysms | 0
+    aneurysmectomy | 0
+    vessel ligation | 0
+    local anesthesia | 0
+    anxiety | 0
+    dual lumen catheterization in the right subclavian vein | 0
+    left brachiocephalic fistula surgery | 0
+    general anesthesia | 0
+    hemoglobin 7.5 g/dl | 0
+    hematocrit 22.8% | 0
+    glomerular filtration rate 11.65 ml/min | 0
+    sodium 131 mEq/l | 0
+    potassium 6.6 mEq/l | 0
+    glucose 112-354 mg/dl | 0
+    pH 7.311 | 0
+    PaCO2 36.0 mmHg | 0
+    PaO2 70.9 mmHg | 0
+    HCO3- 17.8 mEq/l | 0
+    SaO2 93.0% | 0
+    EKG no abnormalities | 0
+    chest X-ray pulmonary edema improved | 0
+    cardiomegaly | 0
+    height 150 cm | 0
+    weight 105 kg | 0
+    BMI 46.7 kg/m² | 0
+    morbid obesity | 0
+    short neck | 0
+    short limbs | 0
+    anticipated difficult airway | 0
+    mild sleep apnea | 0
+    Mallampatti class II | 0
+    sitting position | 0
+    oxygen treatment | 0
+    mental retardation | 0
+    simple communication | 0
+    H2 antagonist administered | 0
+    body temperature 37.5℃ | 0
+    heart rate 85 beats/min | 0
+    blood pressure 160/90 mmHg | 0
+    respiration rate 22 times/min | 0
+    blood pressure cuff placement | 0
+    severe edema | 0
+    invasive arterial pressure measurement | 0
+    USG guided arterial catheterization | 0
+    arterial catheterization on right dorsalis pedis artery failed | 0
+    arterial catheterization on right radial artery successful | 0
+    blood pressure 190/90 mmHg | 0
+    SaO2 95% | 0
+    100% oxygen administered | 0
+    upper body elevation 40 degrees | 0
+    remifentanil 0.06 µg/kg/min | 0
+    propofol 120 mg | 0
+    loss of consciousness | 0
+    SaO2 dropped below 90% | 0
+    mask ventilation | 0
+    tidal volume 250 ml | 0
+    EtCO2 20-30 mmHg | 0
+    atracurium 50 mg | 0
+    SaO2 recovery insufficient | 0
+    endotracheal intubation decision | 0
+    SaO2 77% | 0
+    Cormack and Lehane grade 1 | 0
+    vocal cords small | 0
+    intubation failed | 0
+    SaO2 decreased to 58% | 0
+    mask ventilation | 0
+    SaO2 increased to 82% | 0
+    endotracheal intubation successful | 0
+    SaO2 decreased to 70% | 0
+    pressure control ventilation | 0
+    airway pressure 30 mmHg | 0
+    respiration rate 15 per minute | 0
+    FiO2 50% | 0
+    tidal volume 400 ml | 0
+    EtCO2 42 mmHg | 0
+    SaO2 93% | 0
+    FiO2 adjusted to 70% | 0
+    positive end expiratory pressure 5 cmH2O | 0
+    dexamethasone 10 mg | 0
+    sevoflurane 2.0 vol% | 0
+    remifentanil 0.03 µg/kg/min | 0
+    SaO2 maintained 93A-98% | 0
+    Hb 8.8 g/dl | 0
+    K+ 5.4 mEq/l | 0
+    glucose 77 mg/dl | 0
+    dextrose 50% | 0
+    insulin 5 units | 0
+    atracurium 20 mg | 0
+    spontaneous breathing returned | 0
+    total operative time 3 hours 45 minutes | 0
+    systolic blood pressure 100-115 mmHg | 0
+    diastolic blood pressure 45-60 mmHg | 0
+    heart rate 75-85 beats/min | 0
+    arterial blood collection | 0
+    Hb 7.8 g/dl | 0
+    K+ 5.8 mEq/l | 0
+    glucose 96 mg/dl | 0
+    PaCO2 52.5 mmHg | 0
+    PaO2 110 mmHg | 0
+    5% dextrose 350 ml administered | 0
+    spontaneous breathing post-surgery | 0
+    tidal volume 300 ml | 0
+    vital capacity 800 ml | 0
+    extubation | 0
+    SaO2 decreased to 88% | 0
+    expiratory wheezing | 0
+    inhalation therapy with steroids | 0
+    inhalation therapy with β2 agonist | 0
+    respiration stable | 0
+    recovery room observation | 0
+    oxygen 5 L/min | 0
+    upper body elevated 40° | 0
+    SaO2 95% | 0
+    intensive care unit | 0
+    chest X-ray no difference | 0
+    SaO2 below 90% during sleep | 24
+    oxygen treatment | 24
+    vital signs stable | 48
+    moved to general ward | 48
+    

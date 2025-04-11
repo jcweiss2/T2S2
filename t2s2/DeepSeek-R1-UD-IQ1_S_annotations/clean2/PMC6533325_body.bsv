@@ -1,0 +1,25 @@
+37 years old | 0
+woman | 0
+pregnant | 0
+Graves’ disease | -4320
+methimazole 120 mg/day | -4320
+methimazole reduced to 20 mg/day | -4320
+discontinued treatment | -4320
+hyperthyroidism symptoms (palpitations, sweating, easy fatigue) | -1344
+propylthiouracil 900 mg/day | -1344
+switched to methimazole 90 mg/day | -1344
+high free thyroxine (FT4) levels | -1344
+methimazole increased to 120 mg/day | -1344
+confirmed 4 weeks pregnant | -1344
+did not visit hospital until 12 weeks pregnant | -1344
+FT4 dropped to 0.11 ng/L | -1344
+methimazole reduced to 60 mg/day | -1344
+levothyroxine (LT4) 50 µg/day | -1344
+methimazole reduced to 40 mg/day | 0
+methimazole reduced to 20 mg/day | 0
+ultrasound detected gastroschisis | 0
+referred to RSCM | 0
+ultrasound confirmed gastroschisis | 0
+cesarean section | 0
+Bogota bag placement | 0
+baby died of septic shock | 0

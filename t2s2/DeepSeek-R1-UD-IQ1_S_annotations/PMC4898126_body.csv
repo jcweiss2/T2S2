@@ -1,0 +1,64 @@
+event,time
+69 years old ,0
+    female ,0
+    presented to emergency room ,0
+    episodes of altered mental status ,-24
+    hepatitis B-related liver cirrhosis ,-24
+    encephalopathy ,-24
+    chronic kidney disease ,-24
+    started on lactulose ,0
+    started on rifaximin ,0
+    hyperammonemia ,0
+    hyperammonemia of 291 µmol/L ,0
+    computed tomography scan of head ,0
+    no mass ,0
+    no hemorrhage ,0
+    no stroke ,0
+    admitted to the Intensive Care Unit ,0
+    intubated ,0
+    acute respiratory failure ,0
+    remained unresponsive ,0
+    48 hours of lactulose ,0
+    48 hours of rifaximin ,0
+    magnetic resonance imaging of the brain without contrast ,72
+    dark rim involving the globus pallidi bilaterally ,72
+    central high signal within the globus pallidi ,72
+    diffusion-weighted imaging visualized multiple areas of restricted diffusion ,72
+    restricted diffusion involving the lateral portion of the temporal lobes ,72
+    extending up to the posterolateral portions of the parietal lobes ,72
+    along with the medial portions of the frontal lobes ,72
+    thalami bilaterally ,72
+    centrally within the midbrain ,72
+    periaqueductal gray matter ,72
+    repeat MRI ,144
+    marked progression of diffuse cortical injury ,144
+    diffuse cortical injury involving both cerebral hemispheres ,144
+    injury to the thalami ,144
+    central structures partially pseudonormalized ,144
+    relative sparing of the perirolandic/motor-sensory cortex ,144
+    relative sparing of the cerebellum ,144
+    mild diffuse cerebral swelling ,144
+    sulcal effacement from the diffuse cortical injury ,144
+    no midline shift ,144
+    multiple medical complications ,144
+    unresponsiveness to medical management ,144
+    poor prognosis ,144
+    family members decided to withdraw life support ,144
+    terminally extubated ,144
+    died ,216
+    hospitalized for 9 days ,216
+    hyperammonemic encephalopathy ,0
+    hepatic failure ,0
+    liver failure ,0
+    hepatitis B ,-24
+    acute hyperammonemic encephalopathy secondary to liver failure ,0
+    acute respiratory failure ,0
+    chronic kidney disease ,-24
+    lactulose ,0
+    rifaximin ,0
+    head CT findings ,0
+    MRI findings ,72
+    repeat MRI findings ,144
+    family decision to withdraw support ,144
+    terminal extubation ,144
+    death ,216

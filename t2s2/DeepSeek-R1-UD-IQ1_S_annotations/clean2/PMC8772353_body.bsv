@@ -1,0 +1,123 @@
+44 years old | 0
+female | 0
+referred to our observation | 0
+ECOG performance status 0 | 0
+wide local surgical excision | -4320
+sentinel node biopsy | -4320
+complete regional lymphadenectomy | -4320
+diagnosis of ulcerated MM | -4320
+Breslow thickness of 1.2 mm | -4320
+mitosis between 1 and 6 per mm2 | -4320
+absence of intense intra-tumor lymphocyte infiltrate | -4320
+Stage III C | -4320
+MM cells bearing BRAF-V600E mutation | -4320
+adjuvant Pembrolizumab 200 mg flat dose | -4320
+planned for 12 months | -4320
+after 5 treatment cycles | -4320
+severe grade 3 diarrhea | -4320
+eight-ten stools/day | -4320
+intense abdominal pain | -4320
+weight loss | -4320
+fever | -4320
+grade 4 neutropenia | -4320
+zero neutrophils total count | -4320
+hospitalized | -4320
+multidisciplinary approach | -4320
+anti-PD-1 treatment suspended | -4320
+Loperamide | -4320
+hydration | -4320
+pyrexia | -4320
+body temperature up to 39°C | -4320
+CRP | -4320
+procalcitonin | -4320
+blood cultures | -4320
+stool cultures | -4320
+fecal calprotectin | -4320
+serology for Salmonella | -4320
+serology for Clostridium | -4320
+serology for common viruses | -4320
+intravenous antibiotic therapy | -4320
+Piperacillin/Tazobactam | -4320
+Vancomycin | -4320
+antimycotic treatment | -4320
+severe hypocellularity | -4320
+less than 30% cellularity | -4320
+marked reduction of maturing granulopoiesis | -4320
+normal erythroid component | -4320
+bone marrow biopsy | -4320
+CD-34 positive cells | -4320
+myeloperoxidase (MPO) | -4320
+glycophorin reactivity | -4320
+IHC analysis | -4320
+presumptive diagnosis of autoimmune neutropenia | -4320
+high dose of corticosteroids | -4320
+methylprednisolone 2 mg/kg | -4320
+granulocyte colony-stimulating factor (GCSF) | -4320
+three days later | -4320
+initial oxygen therapy | -4320
+Venturi mask | -4320
+high flow oxygenation ventilation device | -4320
+hypoxemic respiratory failure | -4320
+alkalosis | -4320
+pH = 7.511 | -4320
+pCO2 = 25.3 mmHg | -4320
+pO2 = 50.6 mmHg | -4320
+moved to ICU | -4320
+worsening conditions | -4320
+treatment maintained with high dose corticosteroids and GCSF | -4320
+progressive improvement of neutrophil counts | -4320
+colitis worsened | -4320
+stool cultures reperformed | -4320
+serology reperformed | -4320
+radiological imaging of abdomen | -4320
+radiological imaging of pelvis | -4320
+colonoscopy with multiple biopsies | -4320
+ileum biopsies | -4320
+colon biopsies | -4320
+exclusion of infectious etiology | -4320
+endoscopic examination showing severe disease activity | -4320
+Mayo Endoscopic score grade 3 | -4320
+erythema | -4320
+absent vascular pattern | -4320
+friability | -4320
+erosions | -4320
+ulcerations with spontaneous bleeding | -4320
+crypt architectural distortion | -4320
+neutrophil-mediated epithelial injury (cryptitis) | -4320
+neutrophil increase in lamina propria | -4320
+persistence of steroid-resistant colitis | -4320
+after 15 days of high-dose corticosteroid treatment | -4320
+Vedolizumab recommended | -4320
+first administration of Vedolizumab 300 mg | 0
+induction scheme at 0, 2, and 6 weeks | 0
+symptoms reduction | 0
+stools frequency decreased to 2-3 events per day | 0
+mild diarrhea (grade 1) | 0
+steroids tapering | 0
+reduction by 5 mg every 5 days | 0
+two weeks later | 336
+symptoms and signs of IMC disappeared | 336
+after second treatment cycle | 336
+progressive reduction of CRP | 336
+progressive reduction of calprotectin | 336
+released from hospital | 336
+sigmoidoscopy with biopsies after 10 weeks | 1680
+endoscopic appearance improvement | 1680
+mucosal healing | 1680
+single layer of columnar or cuboidal epithelium | 1680
+occasional lymphocytes between epithelial cells | 1680
+HLA class I and II evaluated | 1680
+HLA A*02 *02 | 1680
+HLA B*14 *35 | 1680
+HLA C *04*08 | 1680
+HLA DRB *01 *07 | 1680
+Pembrolizumab therapy discontinued | 1680
+clinical and instrumental follow-up | 1680
+six months later | 4320
+good general conditions | 4320
+laboratory tests | 4320
+CT scan | 4320
+no signs of disease progression | 4320
+colonoscopy showing remission | 4320
+Vedolizumab treatment ongoing | 4320
+maintenance scheme | 4320

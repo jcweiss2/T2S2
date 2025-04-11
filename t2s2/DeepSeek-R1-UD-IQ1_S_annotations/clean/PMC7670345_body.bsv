@@ -1,0 +1,65 @@
+71 years old | 0
+female | 0
+obese | 0
+type 2 diabetes | 0
+admitted to the tertiary referral hospital | 0
+obstructive jaundice | 0
+total bilirubin level 13.6 mg/dL | 0
+abdominal ultrasound showed multiple gallbladder stones | 0
+large impacted stone (12 mm) in the cystic duct | 0
+thickened gallbladder wall up to 17 mm | 0
+magnetic resonance cholangiopancreatography demonstrated delayed enhancement of the thickened gallbladder wall | 0
+thickened wall interpreted as inflammation associated with Mirizzi syndrome | 0
+ERCP with biliary stent insertion performed | 0
+cholangiography showed subhilar stenosis | 0
+consecutive intrahepatic cholestasis | 0
+after 3 days | 72
+further ERCP performed | 72
+early stent occlusion | 72
+cholangitis | 72
+no microorganism detected | 72
+concomitant antibiotic treatment with ceftriaxone and metronidazole | 72
+discharged | 72
+total bilirubin level 1.9 mg/dL | 72
+readmission cholecystectomy scheduled | 72
+nine days later | 264
+readmitted | 264
+fever | 264
+signs of cholangial sepsis | 264
+hypotension | 264
+renal failure | 264
+CRP 314 mg/dL | 264
+computed tomography showed liver abscess in seg. VII | 264
+liver abscess drained percutaneously | 264
+blood culture revealed Enterococcus faecalis | 264
+blood culture revealed Streptococcus anginosus | 264
+liver abscess culture showed co-infection with vancomycin-resistant Enterococcus faecium | 264
+treated with meropenem and linezolid | 264
+inserted double pigtail plastic stent exchanged with shorter plastic stent | 264
+presumed perforated small intrahepatic bile duct | 264
+intrahepatic biloma abscess | 264
+biloma proven by elevated total bilirubin level 44 mg/dL in drained abscess fluid | 264
+developed prolonged systemic VRE sepsis | 264
+pleural effusions | 264
+articular effusions | 264
+central venous catheter infection | 264
+four weeks after re-admission | 960
+linezolid-vancomycin-resistant E. faecium detected | 960
+genetic relationship analyzed using core genome multilocus sequence typing | 960
+VRE and LVRE strains belonged to the same clone | 960
+linezolid mutation mediated by G2576T mutation in 23 rRNA gene | 960
+infectious disease-related ward round recommended meropenem and tigecycline | 960
+further exchange of biliary plastic stents failed | 960
+double-sided percutaneous biliary drainage performed | 960
+discharged | 960
+improvements in infection after 2-month hospital stay | 960
+five days later | 1344
+re-admitted | 1344
+cholangial septic shock | 1344
+emergency cholecystectomy performed | 1344
+bile duct revision | 1344
+t-tube insertion | 1344
+histology revealed moderate differentiated adenocarcinoma of the gallbladder | 1344
+pT3 pNX L1 V0 R1 G2 stage | 1344
+comprehensive intensive care unit treatment | 1344
+died | 1440

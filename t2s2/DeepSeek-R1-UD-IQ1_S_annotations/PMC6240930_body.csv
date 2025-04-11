@@ -1,0 +1,455 @@
+event,time
+23-week gestational age ,0.0
+    female ,0.0
+    born ,0.0
+    HELLP syndrome ,0.0
+    cesarean section ,0.0
+    birthweight 485 grams ,0.0
+    Apgar score 3 ,0.0
+    Apgar score 8 ,0.0
+    intubated ,0.0
+    received surfactant ,0.0
+    mechanical ventilation ,0.0
+    transferred to neonatal intensive care unit ,0.0
+    WBC 2.1×10^9/L ,0.0
+    hematocrit 39.6% ,0.0
+    hemoglobin 12.6 g/100 mL ,0.0
+    platelet 186×10^3/mL ,0.0
+    differential 9% segmental WBC ,0.0
+    1% bands ,0.0
+    60% lymphocytes ,0.0
+    26% monocytes ,0.0
+    603 nucleated red blood cells per 100 WBC ,0.0
+    CRP less than 0.3 mg/dL ,0.0
+    persistent neutropenia ,0.0
+    thrombocytopenia ,0.0
+    bandemia ,0.0
+    hemodynamically significant hypotension ,0.0
+    vasopressors ,0.0
+    no definitive infection ,0.0
+    ampicillin ,0.0
+    gentamicin ,0.0
+    early-onset sepsis ,0.0
+    blood culture ,0.0
+    anaerobic gram-positive branching rods ,0.0
+    Actinomyces species ,0.0
+    culture sent to reference laboratory ,0.0
+    ampicillin switched to penicillin ,0.0
+    Actinomyces bacteremia ,0.0
+    ampicillin ,0.0
+    gentamicin ,0.0
+    penicillin ,0.0
+    total antibiotic course 13 days ,0.0
+    subsequent blood culture no growth ,0.0
+    Actinomyces viscosus identified ,0.0
+    16S ribosomal RNA gene sequencing ,0.0
+    MALD-TOF unable to identify organism ,0.0
+    clinically significant hypotension ,0.0
+    vasopressor support ,0.0
+    stress dose corticosteroid ,0.0
+    persistent neutropenia ,0.0
+    thrombocytopenia ,0.0
+    disseminated intravascular coagulation ,0.0
+    transient hypoglycemia ,0.0
+    electrolyte imbalance ,0.0
+    adrenal insufficiency ,0.0
+    acute renal failure ,0.0
+    endotracheal aspirate grew Staphylococcus aureus ,744.0
+    urine culture grew Enterococcus faecalis ,744.0
+    central line grew Staphylococcus epidermidis ,744.0
+    clinical evidence of infection ,744.0
+    vancomycin ,744.0
+    ampicillin/sulbactam ,744.0
+    discharged ,2160.0
+    HELLP syndrome ,-672.0
+    preterm labor ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    maternal serology negative for HIV ,-672.0
+    hepatitis ,-672.0
+    chlamydia ,-672.0
+    syphilis ,-672.0
+    group B streptococcal status unknown ,-672.0
+    pregnancy complicated by HELLP syndrome ,-672.0
+    HELLP syndrome leading to cesarean section ,-672.0
+    respiratory distress requiring mechanical ventilation ,0.0
+    sepsis at birth ,0.0
+    persistent anemia ,0.0
+    pulmonary hypertension ,0.0
+    cardiac hypertension ,0.0
+    cardiogenic pressor ,0.0
+    stress dose corticosteroid ,0.0
+    secondary infection at 30 days ,720.0
+    Staphylococcus aureus oxacillin susceptible ,744.0
+    Enterococcus faecalis ,744.0
+    Staphylococcus epidermidis ,744.0
+    no copious vaginal discharge ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    negative repeat blood culture ,168.0
+    clinical instability ,0.0
+    prolonged antibiotic therapy ,0.0
+    risks of antibiotic resistance ,0.0
+    microbiota alteration ,0.0
+    impaired neutrophils ,0.0
+    vulnerability to infection ,0.0
+    contamination in neonatal blood culture ,0.0
+    unnecessary antibiotic exposure ,0.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm illness of the mother ,-672.0
+    HELLP syndrome ,-672.0
+    extreme prematurity ,-672.0
+    preterm,

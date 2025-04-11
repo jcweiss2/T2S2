@@ -1,0 +1,59 @@
+event,time
+10 years old ,0
+    male ,0
+    diagnosed with high-risk early T-cell precursor acute lymphoblastic leukemia ,0
+    treated according to LAL SEHOP-PETHEMA 2013 protocol ,0
+    developed early CNS relapse ,-17520
+    treated according to InteReALL HR 2010 with bortezomib protocol ,-17520
+    neutropenic for four weeks (20 neutrophils/μL) ,-672
+    prophylaxis with cefepime ,0
+    prophylaxis with cotrimoxazole ,0
+    prophylaxis with fluconazole ,0
+    treated with acyclovir for herpes simplex virus type 1 skin infection ,-672
+    developed intense holocranial headache ,0
+    cranial computed tomography scan showed hypodense lesion in right temporal lobe ,0
+    lumbar puncture performed ,0
+    cefepime replaced by meropenem and vancomycin ,0
+    developed septic shock signs ,24
+    transferred to pediatric intensive care unit ,24
+    inotropic and vasoactive support ,24
+    antimicrobial spectrum broadened with gentamycin and caspofungin ,24
+    blood analysis showed progressive increase of C reactive protein ,72
+    blood analysis showed progressive increase of procalcitonin ,72
+    hematological analysis showed pancytopenia due to chemotherapy ,72
+    microbiological blood tests ruled out bacteremia ,72
+    microbiological blood tests ruled out fungemia ,72
+    all herpes viruses negative ,72
+    urine culture negative ,72
+    stool culture negative ,72
+    cerebrospinal fluid glucose 63 mg/dL ,0
+    cerebrospinal fluid proteins 16 mg/dL ,0
+    cerebrospinal fluid leucocytes 1/µL ,0
+    B. cereus detected in cerebrospinal fluid ,0
+    herpes simplex virus 1 and 2 ruled out in cerebrospinal fluid ,0
+    herpes virus 6 ruled out in cerebrospinal fluid ,0
+    cytomegalovirus ruled out in cerebrospinal fluid ,0
+    varicella-zoster virus ruled out in cerebrospinal fluid ,0
+    enterovirus ruled out in cerebrospinal fluid ,0
+    parechovirus ruled out in cerebrospinal fluid ,0
+    toxoplasma ruled out in cerebrospinal fluid ,0
+    Neisseria meningitidis ruled out in cerebrospinal fluid ,0
+    Listeria monocytogenes ruled out in cerebrospinal fluid ,0
+    Streptococcus pneumoniae ruled out in cerebrospinal fluid ,0
+    Cryptococcus ruled out in cerebrospinal fluid ,0
+    electroencephalogram showed diffuse slowing of brain activity ,0
+    electroencephalogram showed no epileptiform activity ,0
+    cranial magnetic resonance performed ,96
+    cranial magnetic resonance showed two hyperintense lesions in T2 and FLAIR sequences ,96
+    lesions affecting subcortical region of right temporal lobe ,96
+    lesions affecting right parietal lobe ,96
+    parietal lesion presented ring-enhancing after gadolinium administration ,96
+    lesions showed peripheral diffusion restriction ,96
+    small hemorrhagic foci dispersed throughout parenchyma ,96
+    diagnosis of B. cereus abscess ,96
+    headache resolved ,336
+    no findings on neurological examination ,336
+    control magnetic resonance showed decrease in lesion size ,336
+    vancomycin suspended ,504
+    acyclovir suspended ,504
+    meropenem maintained over six weeks ,0

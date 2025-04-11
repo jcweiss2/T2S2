@@ -1,0 +1,73 @@
+63 years old | 0
+    male | 0
+    admitted for generalized weakness | 0
+    ESRD on HD | 0
+    two recently missed HD sessions | -168
+    systolic heart failure | 0
+    coronary artery disease | 0
+    hypertension | 0
+    type II diabetes | 0
+    WBC 3.1 cells*109L | 0
+    tachycardia 96 bpm | 0
+    fever 39.5°C | 0
+    blood pressure 160/90 mmHg | 0
+    respiratory rate 18 | 0
+    oxygen saturation 96% | 0
+    Hgb 86 g/L | 0
+    platelets 112 cells*109L | 0
+    haematocrit 0.26 | 0
+    INR 1.5 | 0
+    APTT 36.3 s | 0
+    AST 59 Units/L | 0
+    ALT 33 Units/L | 0
+    total bilirubin 10.26 µmol/L | 0
+    CT abdomen showed splenomegaly (16 cm craniocaudal) | 0
+    WBC decreased from 3.1 to 2.0 cells*109L | 0
+    Hgb decreased from 86 to 78 g/L | 0
+    platelets decreased from 112 to 22 cells*109L | 0
+    initial treatment for suspected sepsis | 0
+    vancomycin | 0
+    cefepime | 0
+    metronidazole | 0
+    serology for hepatitis negative | 0
+    HIV negative | 0
+    cytomegalovirus negative | 0
+    heparin-induced-thrombocytopenia antibody negative | 0
+    herpes simplex virus negative | 0
+    heterophile antibody test negative | 0
+    parvovirus B19 negative | 0
+    legionella negative | 0
+    mycoplasma negative | 0
+    coagulopathy developed | 0
+    peak INR 2.7 | 0
+    APTT 48 s | 0
+    transaminitis developed | 0
+    AST increased to 1034 Units/L | 0
+    ALT increased to 217 Units/L | 0
+    total bilirubin increased to 22.23 µmol/L | 0
+    TB-QuantiFERON indeterminate | 0
+    autoimmune workup negative | 0
+    positive EBV DNA PCR | 0
+    ferritin > 33.7 nmol/L | 0
+    soluble CD25 14158 units/ml | 0
+    triglycerides > 2.89 mmol/L | 0
+    six HScore criteria met | 0
+    high-dose dexamethasone initiated | 168
+    oral etoposide initiated | 168
+    labs improved | 168
+    bone marrow biopsy showed epithelial granulomas | 168
+    histiocytes with phagocytized nucleated cells | 168
+    histiocytes with phagocytized erythrocytes | 168
+    bone marrow biopsy negative for acid-fast bacilli | 168
+    two weeks after partial recovery | 336
+    WBC counts began to decline rapidly | 336
+    chest CT showed miliary TB | 336
+    innumerable 2–4 mm pulmonary nodules | 336
+    miliary pattern TB | 336
+    pancytopenia | 336
+    treatment for miliary TB with dissemination to bone | 336
+    initial improvement | 336
+    cell counts increased sharply | 336
+    anti-tuberculosis treatment initiated | 336
+    patient expired | 936
+    confirmed growth of Mycobacterium TB complex | 936

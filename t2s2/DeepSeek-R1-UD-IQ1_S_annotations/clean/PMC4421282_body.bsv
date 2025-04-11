@@ -1,0 +1,118 @@
+26 years old|0
+man|0
+collapse|0
+haematuria|-672
+colicky abdominal pain|-672
+increased urinary frequency|-672
+dysuria|-672
+urinary tract infection|-672
+CT abdomen|-672
+bilateral hydronephrosis|-672
+no calculi|-672
+CBD 8 mm|-672
+cystoscopy|-672
+diffusely inflamed bladder|-672
+marked reduction in bladder capacity (150 cc)|-672
+no obstruction at ureteric orifices|-672
+bladder biopsy|-672
+inflammatory change|-672
+no dysplasia|-672
+no malignancy|-672
+no firm diagnosis|-672
+discharged with outpatient follow-up|-672
+unwell|-96
+increasing flank pain|-96
+drowsy|-96
+short of breath|-96
+blood pressure low (95/60 mmHg)|0
+tachycardia (140 bpm)|0
+sinus rhythm|0
+tachypnoea (60 breaths/min)|0
+Glasgow coma scale 13/15|0
+no localizing neurological signs|0
+severe metabolic acidosis (pH 7.2)|0
+bicarbonate 6.4 mmol/l|0
+pO2 39.3 kPa|0
+pCO2 2.0 kPa|0
+acute renal failure|0
+serum potassium 5.4 mmol/l|0
+urea 36.7 mmol/l|0
+creatinine 851 μmol/l|0
+abnormal liver function tests|0
+obstructive pattern|0
+serum bilirubin 58 μmol/l|0
+alkaline phosphatase 294 IU/l|0
+alanine transaminase 106 IU/l|0
+γGT 1045 IU/l|0
+regular user of street ketamine intra-nasally for 2 years|-17520
+patient deteriorated quickly|24
+worsening respiratory function|24
+intubation|24
+bilateral basal consolidation consistent with aspiration|24
+transferred to ICU|24
+vasopressors required|24
+CVVH commenced|24
+broad-spectrum antibiotics commenced|24
+blood cultures grew methicillin-sensitive staphylococcus aureus|24
+repeat renal ultrasound confirmed hydronephrosis|24
+bilateral nephrostomies placed|24
+opening pressures less than expected|24
+gelatinous debris aspirated|24
+gelatinous debris present in both pelvicalyceal systems|24
+gelatinous debris present in left ureter|24
+material not typical of blood clots|24
+analysis demonstrated ketamine metabolites|24
+analysis demonstrated cannabinoids|24
+analysis demonstrated lignocaine|24
+dilated CBD observed on ultrasound|24
+urine output began to return by Day 2|48
+bilateral nephrostograms showed free flow of contrast to bladder|48
+no obstruction|48
+CVVH required until Day 24|576
+intermittent dialysis required until Day 24|576
+renal function began to recover|576
+nephrostomies clamped|576
+nephrostomies removed|576
+serum creatinine 123 μmol/l at discharge|576
+follow-up ultrasound revealed resolved hydronephrosis|576
+liver function tests improved spontaneously|576
+resolution of CBD dilatation|576
+required rehabilitation|576
+required nutritional support|576
+full recovery at discharge|576
+readmitted 6 weeks later|4320
+right upper quadrant pain|4320
+derangement of liver function tests|4320
+serum bilirubin 7 μmol/l|4320
+alkaline phosphatase 1503 IU/l|4320
+alanine transaminase 482 IU/l|4320
+γGT 561 IU/l|4320
+repeat ultrasound showed biliary dilatation recurred|4320
+renal tract normal|4320
+serum creatinine 294 μmol/l|4320
+urine analysis positive for ketamine metabolites|4320
+negative for other illicit drugs|4320
+treated for biliary sepsis|4320
+symptoms improved|4320
+underwent ERCP|4320
+no strictures|4320
+no stones in CBD|4320
+stent placed|4320
+developed pancreatitis post-procedure|4320
+8 weeks subsequent|5760
+liver function tests partially improved|5760
+serum bilirubin 21 μmol/l|5760
+alkaline phosphatase 770 IU/l|5760
+alanine transaminase 326 IU/l|5760
+γGT 1554 IU/l|5760
+serum creatinine risen to 309 μmol/l (eGFR 21 ml/min)|5760
+further ultrasound showed no hydronephrosis|5760
+renal biopsy performed|5760
+tubular injury and regeneration|5760
+normal vasculature|5760
+normal interstitium|5760
+22 glomeruli present|5760
+one glomerulus with amorphous PAS positive material|5760
+immunofluorescence normal|5760
+electron microscopy normal|5760
+acute tubular necrosis secondary to sepsis and pancreatitis|5760

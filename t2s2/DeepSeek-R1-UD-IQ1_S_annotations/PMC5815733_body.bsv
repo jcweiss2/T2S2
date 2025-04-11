@@ -1,0 +1,88 @@
+25 years old | 0  
+    male | 0  
+    admitted to the hospital | 0  
+    fever | 0  
+    diarrhea | 0  
+    conjunctivitis | 0  
+    submandibular centimetric lymphadenopathies | 0  
+    Koplik's spots | 0  
+    erythematous extending facial eruption | 0  
+    sweat | 0  
+    tachycardia | 0  
+    hyponatremia | 0  
+    hypokalemia | 0  
+    mild acute renal insufficiency | 0  
+    elevated creatinine | 0  
+    clearance | 0  
+    anicteric cholestasis | 0  
+    cytolysis | 0  
+    inflammatory syndrome | 0  
+    C reactive protein elevation | 0  
+    bilateral pneumonia | 48  
+    measles diagnosis confirmation | 48  
+    multiorgan failure | 72  
+    neurological failure | 72  
+    acute measles encephalitis | 72  
+    cardiac failure | 72  
+    respiratory failure | 72  
+    septic shock | 72  
+    bilateral pneumonia due to Staphylococcus aureus and measles | 72  
+    severe hepatic cytolysis | 72  
+    hepatitis B | 72  
+    corneous ulcer | 72  
+    hypophosphoremia | 72  
+    severe vitamin A deficiency | 72  
+    intravenous ribavirin | 72  
+    intramuscular vitamin A | 72  
+    ophthalmic vitamin A therapy | 72  
+    intubation | 72  
+    antistaphylococcal agent treatment | 72  
+    extubated | 264  
+    complete recovery | 264  
+    vitamin A normalization | 264  
+    measles diagnosis | 0  
+    vitamin A deficiency complication | 0  
+    pneumonia complication | 0  
+    acute encephalitis complication | 0  
+    pancreatitis complication | 0  
+    corneous ulcer complication | 0  
+    measles immunization history | 0  
+    living in France for 2 months | -1440  
+    Roma community | 0  
+    no medical history | 0  
+    no treatment upon admission | 0  
+    no drug use | 0  
+    smoking | 0  
+    no sexually transmitted disease risks | 0  
+    stable blood pressure | 0  
+    normal pulmonary auscultation | 0  
+    normal neurological examination | 0  
+    normal chest X-rays at admission | 0  
+    thoracic CT scan confirmation | 48  
+    positive immunoglobulin M | 48  
+    positive PCR in urine, pharyngeal sample, serum | 48  
+    measles encephalitis confirmed with CSF PCR | 72  
+    normal MRI | 72  
+    vitamin supplementation during hospitalization | 72  
+    hypophosphoremia supplementation | 72  
+    vitamin A supplementation | 72  
+    ICU transfer | 72  
+    measles complications | 0  
+    severe measles risk factors | 0  
+    measles-related deaths due to secondary infections | 0  
+    measles-associated neurological syndromes | 0  
+    measles-related pneumonia | 0  
+    measles-related gastrointestinal symptoms | 0  
+    measles-related cardiac symptoms | 0  
+    measles-related ophthalmic symptoms | 0  
+    unvaccinated status | 0  
+    vitamin A deficiency link to severe measles | 0  
+    ribavirin therapy benefits | 0  
+    ribavirin dosage and duration | 0  
+    unvaccinated populations | 0  
+    measles outbreaks in developed countries | 0  
+    healthcare workers' measles immunization | 0  
+    measles in vaccinated patients | 0  
+    genetic factors in measles vaccine response | 0  
+    vaccination after measles hospitalization | 0  
+    ethics committee approval | 0

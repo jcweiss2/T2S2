@@ -1,0 +1,28 @@
+80 years old | 0
+male | 0
+hypertension | 0
+type 2 diabetes | 0
+tabagism | 0
+abdominal pain | 0
+no signs of peritonitis | 0
+vital signs normal | 0
+no free fluid in the abdomen | 0
+leucocytosis (21,000 cells/μL) | 0
+elevated PCR (15 mg/dL) | 0
+increased LDH (2245 U/I) | 0
+extensive thrombosis affecting SMA | 0
+extensive thrombosis affecting SMV | 0
+marked thinning of the small bowel wall | 0
+lack of contrast-enhancement | 0
+no luminal dilatation | 0
+no air-fluid levels | 0
+intramural gas (pneumatosis intestinalis) | 0
+multiple filling defects with low attenuation and oval morphology indicating gas in SMA | 0
+emergency surgery | 0
+excision of multiple necrotic bowel loops | 0
+transferred to intensive care unit | 0
+died | 24
+multiple organ dysfunction syndrome (MODS) | 24
+ischemia-reperfusion events | 24
+metabolic derangements | 24
+systemic inflammatory response syndrome (SIRS) | 24

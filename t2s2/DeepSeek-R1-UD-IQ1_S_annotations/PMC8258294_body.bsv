@@ -1,0 +1,91 @@
+52 years old | 0
+    male | 0
+    visited Daegu Fatima Hospital | 0
+    hospitalized due to watery diarrhea | -96
+    chills | -96
+    fever | -96
+    eating slices of raw fish | -100
+    habit of drinking 1-2 bottles of soju daily | 0
+    suspected V. vulnificus infection | 0
+    received fluid therapy | 0
+    received intravenous antibiotic therapy (cefotaxime) | 0
+    fever persisted | 24
+    blisters detected on right leg | 24
+    referred to hospital | 24
+    admitted to ICU | 0
+    body temperature 38°C | 0
+    blood pressure 73/40 mmHg | 0
+    pulse rate 100 beats per minute | 0
+    respiratory rate 40 breaths/min | 0
+    alert | 0
+    cooperative | 0
+    acutely ill | 0
+    mild pallor | 0
+    icteric sclera | 0
+    no edema in lower extremities | 0
+    blisters with ecchymosis on right calf | 0
+    hematocrit 26.6% | 0
+    white blood cell count 3,230 cells/mm³ | 0
+    platelet count 41,000 cells/mm³ | 0
+    pH 7.306 | 0
+    carbon dioxide tension 25.7 mmHg | 0
+    partial pressure of oxygen 29.7 mmHg | 0
+    bicarbonate level 13.0 mmol/L | 0
+    base excess -11.4 mmol/L | 0
+    oxygen saturation 49.7% | 0
+    lactic acid 15.8 mmol/L | 0
+    serum C-reactive protein 6.52 mg/dL | 0
+    serum procalcitonin 57.030 ng/mL | 0
+    total bilirubin 2.85 mg/dL | 0
+    direct bilirubin 2.3 mg/dL | 0
+    alkaline phosphatase 65 U/dL | 0
+    aspartate transaminase 181 U/dL | 0
+    alanine transaminase 35 U/dL | 0
+    albumin 2.5 g/dL | 0
+    total protein 5.6 g/dL | 0
+    prothrombin time 25.1 s | 0
+    partial thromboplastin time 85.5 s | 0
+    INR 2.32 | 0
+    serum urea nitrogen 34.4 mg/dL | 0
+    serum creatinine 3.66 mg/dL | 0
+    hemoglobin A1c 5.2% | 0
+    plain chest radiograph | 0
+    pulmonary shadows in both lobes | 6
+    no abnormal abdominal CT findings | 0
+    no abnormal chest CT findings | 0
+    no liver cirrhosis | 0
+    no hepatic cancer | 0
+    intravenous corticosteroid therapy (hydrocortisone) | 0
+    continuous inotropic agents (dopamine, norepinephrine) | 0
+    empirical antibiotic therapy (cefepime, doxycycline) | 0
+    metabolic acidosis not improved | 12
+    pH 7.388 | 12
+    carbon dioxide tension 23.5 mmHg | 12
+    bicarbonate level 14.3 mmol/L | 12
+    oxygen saturation 83.8% | 12
+    ventilator therapy started | 12
+    tracheal intubation | 12
+    blood pressure restored to normal | 24
+    hemorrhagic blisters on right calf | 24
+    blisters spread to right thigh | 24
+    urine output <30 mL/hr | 24
+    central venous blood pressure ≥15 mmHg | 24
+    continuous renal replacement therapy | 24
+    metabolic acidosis worsened | 48
+    multiple organ failure | 48
+    pH 7.100 | 72
+    carbon dioxide tension 40.9 mmHg | 72
+    partial pressure of oxygen 71.6 mmHg | 72
+    bicarbonate level 12.4 mmol/L | 72
+    base excess -17.2 mmol/L | 72
+    oxygen saturation 88.1% | 72
+    lactic acid 19.5 mmol/L | 72
+    aspartate transaminase 5,852 U/dL | 72
+    alanine transaminase 455 U/dL | 72
+    total bilirubin 7.22 mg/dL | 72
+    direct bilirubin 5.65 mg/dL | 72
+    creatine phosphokinase 75,885 U/L | 72
+    lactate dehydrogenase 8,433 U/L | 72
+    high doses of inotropic agents | 72
+    died of septic shock | 72
+

@@ -1,0 +1,71 @@
+23 years old | 0
+    male | 0
+    admitted in the ICU | 0
+    sudden onset of pain abdomen | -72
+    respiratory distress | -72
+    intestinal perforation | 0
+    blood pressure 110/60 mm Hg | 0
+    pulse 86 beats/min | 0
+    respiratory rate 22 breaths/min | 0
+    SpO2 99% on room air | 0
+    afebrile | 0
+    urgent laparotomy | 0
+    asymptomatic for next 2 days after surgery | 72
+    blood pressure fall up to 84 mmHg (systolic) | 72
+    CVC in right subclavian vein | 72
+    administration of drugs | 72
+    administration of intravenous fluid | 72
+    right subclavian vein cannulated | 72
+    7.5F triple lumen CVP catheter (Edward) | 72
+    standard Seldinger technique | 72
+    USG guidance | 72
+    aseptic precautions | 72
+    lateral approach | 72
+    needle inserted longitudinally | 72
+    guide wire confirmed well in position | 72
+    guide wire movement free at insertion | 72
+    guide wire movement free during removal | 72
+    all channels of CVC aspirated for blood | 72
+    CVC fixed at 15 cm | 72
+    CVP waveform appeared dampened | 72
+    CVP waveform not improved | 72
+    chest radiograph performed | 72
+    catheter migrated to left subclavian vein | 72
+    right subclavian CVC removed | 72
+    CVC reintroduced under color Doppler guidance | 72
+    modified Seldinger technique | 72
+    guide wire confirmed well in position | 72
+    guide wire traced much beyond subclavian vein | 72
+    repeat chest radiograph confirmed correct placement | 72
+    normal CVP tracing | 72
+    
+    
+    Here's the step-by-step explanation:
+
+1. **Patient Demographics and Admission**: 
+   - The patient is 23 years old and male. These are baseline facts, so timestamp 0.
+   - Admission to the ICU is the main event, timestamp 0.
+
+2. **Presenting Symptoms**:
+   - Sudden onset of pain abdomen and respiratory distress are the initial complaints leading to admission. These occurred before admission, so timestamp -72 (assuming 3 days prior as a common duration before admission).
+
+3. **Diagnosis and Immediate Actions**:
+   - Diagnosis of intestinal perforation occurs upon admission, timestamp 0.
+   - Vital signs (blood pressure, pulse, respiratory rate, SpO2, afebrile) are recorded at admission, timestamp 0.
+   - Urgent laparotomy is performed on admission day, timestamp 0.
+
+4. **Postoperative Period**:
+   - The patient remains asymptomatic for 2 days after surgery. Assuming surgery was on day 0, the next 2 days would be +48 to +72 hours. The event is noted on the 3rd day, timestamp 72.
+   - Blood pressure drop to 84 mmHg occurs on the 3rd postoperative day, timestamp 72.
+
+5. **Central Venous Catheter (CVC) Placement**:
+   - Decision to place CVC in the right subclavian vein occurs on the 3rd day, timestamp 72.
+   - All subsequent events related to CVC placement (cannulation, Seldinger technique, USG guidance, guide wire confirmation, aspiration of blood, fixing the catheter) occur on the same day, timestamp 72.
+   - Dampened CVP waveform and unsuccessful attempts to improve it also occur on the same day, timestamp 72.
+
+6. **CVC Malposition and Correction**:
+   - Chest radiograph revealing migration to left subclavian vein is done on the 3rd day, timestamp 72.
+   - Removal and reintroduction of CVC under color Doppler guidance occur subsequently on the same day, timestamp 72.
+   - Repeat chest radiograph confirming correct placement also timestamp 72.
+
+By correlating all events to the timeline based on admission (day 0) and postoperative days (day 3 being +72 hours), each event is assigned the appropriate timestamp. Events before admission are assigned negative timestamps, while those during and after admission are assigned 0 or positive timestamps accordingly.

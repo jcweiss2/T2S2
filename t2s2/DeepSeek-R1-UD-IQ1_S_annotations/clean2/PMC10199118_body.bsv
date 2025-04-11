@@ -1,0 +1,68 @@
+78 years old | 0
+male | 0
+West Virginia resident | 0
+presented to the hospital | 0
+generalized weakness | -504
+fever | -504
+chills | -504
+medical history: gout | 0
+medical history: hypertension | 0
+medical history: hypothyroidism | 0
+medical history: chronic kidney disease stage 3 | 0
+automobile mechanic | 0
+avid outdoor gardener | 0
+tick bite | -720
+no rash around the bite site | -720
+symptoms started abruptly with decreased appetite | -672
+generalized weakness | -672
+did not seek medical attention | -672
+fever | -408
+chills | -408
+unable to ambulate due to severe weakness | -336
+sought evaluation at local emergency department | -336
+transferred to our hospital | -336
+febrile with temperature 38.8°C | 0
+tachycardic at 104 beats per minute | 0
+tachypneic at 28 breaths per minute | 0
+physical exam: irregular rhythm | 0
+physical exam: palpable liver 2 cm below costal margin | 0
+leukopenia 3.3 × 1000 cells/µL | 0
+thrombocytopenia 16 × 1000 cells/µL | 0
+acute kidney injury with creatinine 3.96 mg/dL | 0
+transaminitis (AST 330 U/L, ALT 183 U/L) | 0
+viral hepatitis panel negative | 0
+peripheral blood smear: neutrophils with toxic changes without morulae | 0
+CT scan: bilateral perinephric stranding | 0
+started on IV ceftriaxone 2 g every 24 hours | 0
+urinalysis negative for nitrites, leukocytes, bacteria | 0
+oral doxycycline 100 mg twice a day added | 24
+ferritin >33 511 ng/mL | 0
+other inflammatory markers high | 0
+concern for HLH | 0
+bone marrow biopsy performed | 24
+started on dexamethasone | 24
+serum CMV PCR negative | 24
+EBV quantitative positive 120 IU/mL | 24
+day 3 admission: blood culture positive for gram-positive cocci | 72
+ceftriaxone changed to ampicillin-sulbactam 3 g every 12 hours | 72
+day 4 hospitalization: bone marrow biopsy showed Anaplasma species | 96
+bone marrow biopsy: hemophagocytosis | 96
+met HLH diagnostic criteria | 96
+peripheral smear reviewed: intracellular organisms | 96
+serum PCR positive for A phagocytophilum | 96
+treated with oral doxycycline 100 mg twice a day for 21 days | 96
+completed 14 days of amoxicillin-clavulanate | 336
+GPC identified as Facklamia ignava | 264
+symptoms dramatically improved on follow-up | 504
+WBC count improvement | 168
+platelet count improvement | 168
+creatinine improvement | 168
+AST improvement | 168
+ALT improvement | 168
+triglycerides 448 mg/dL | 0
+fibrinogen 256 mg/dL | 0
+LDH 1337 U/L | 0
+soluble IL-2 receptor 31 673.1 pg/mL | 0
+D-dimer >5000 ng/mL | 0
+no shortness of breath | 0
+denies chest pain | 0

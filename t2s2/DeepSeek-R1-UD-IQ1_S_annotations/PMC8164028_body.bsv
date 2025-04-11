@@ -1,0 +1,178 @@
+73 years old | 0
+    female | 0
+    hypertension | 0
+    diabetes mellitus type 2 | 0
+    diabetic nephropathy | 0
+    chronic renal impairment | 0
+    dual pacemaker | 0
+    sick sinus syndrome | 0
+    ST elevation myocardial infarction | -8760
+    three drug-eluting stents | -8760
+    PEG | -4320
+    refusal to eat | -4320
+    possibility of true bulbar palsy | -4320
+    early signs of Alzheimer's disease | -4320
+    furosemide 80 mg twice daily | 0
+    carvedilol 6.25 mg twice daily | 0
+    spironolactone 50 mg once daily | 0
+    clopidogrel 75 mg once daily | 0
+    admitted with hypotension | 0
+    pulmonary edema | 0
+    ventilator support | 0
+    tracheal intubation | 0
+    inotropes | 0
+    renal replacement therapy | 0
+    improvement | 0
+    extubated | 72
+    acute on chronic renal failure | 72
+    restart of renal replacement therapy | 72
+    severe global hypokinesia of the left ventricle | 0
+    low ejection fraction (< 20%) | 0
+    bilateral lung ultrasonic B lines | 0
+    bilateral mild pleural effusions | 0
+    low cardiac output | 0
+    generalized edema | 0
+    improved initially | 0
+    noradrenaline infusion discontinued | 0
+    dobutamine infusion discontinued | 0
+    hemodialysis | 168
+    hypotension episode (85/42 mm Hg) | 168
+    noradrenaline infusion during procedure | 168
+    tachypnea (33 breaths/min) | 168
+    vague abdominal pain | 168
+    blood pressure 105/45 mm Hg | 168
+    heart rate 93 beats/min | 168
+    abdomen slightly distended | 168
+    nontender abdomen | 168
+    hypoactive bowel sounds | 168
+    elevated alanine aminotransferase (360.1 U/L) | 168
+    elevated aspartate aminotransferase (577.3 U/L) | 168
+    elevated lactate dehydrogenase (381 U/L) | 168
+    elevated white blood cell count (16.00 × 10^3/L) | 168
+    elevated C-reactive protein (83.4 mg/L) | 168
+    anion gap metabolic acidosis | 168
+    lactate rising from 1.8 to 8.6 mmol/L | 168
+    pH 7.00 | 168
+    lactic acidosis | 168
+    restart of noradrenaline infusion | 168
+    restart of dobutamine infusion | 168
+    reintubated | 168
+    POCUS showed sluggish intestinal movement | 168
+    echocardiography showed impaired systolic function | 168
+    hyperechoic dot artifacts in liver | 168
+    portal venous gas | 168
+    pneumatosis intestinalis | 168
+    CT showed portal venous gas | 168
+    gas in superior mesenteric vein | 168
+    gas in stomach walls | 168
+    gas in right colon | 168
+    gas in small bowel loops | 168
+    atherosclerotic changes in aorta | 168
+    attenuated hepatic artery | 168
+    attenuated superior mesenteric artery | 168
+    attenuated celiac trunk | 168
+    nonvisualized inferior mesenteric artery | 168
+    minimal pelvic fluid | 168
+    no occlusive thrombosis | 168
+    no significant luminal narrowing | 168
+    diagnosed with nonocclusive diffuse intestinal ischemia | 168
+    family counseled | 168
+    no further interventions recommended | 168
+    passed away | 216
+
+Alright, let's tackle this case report. The patient is a 73-year-old female with a bunch of medical issues. I need to extract all clinical events and assign timestamps based on admission as the reference point (0 hours). If an event happened before admission, it gets a negative timestamp; if after, positive. For events without explicit timing, I'll use clinical judgment to approximate based on context.
+
+First, the patient's medical history. She has hypertension, diabetes mellitus type 2, diabetic nephropathy, chronic renal impairment, a dual pacemaker for sick sinus syndrome, and an ST elevation myocardial infarction 10 months ago. That ST elevation MI happened 10 months before admission, which is 10*30*24 = 7200 hours, so -7200? Wait, the case report says "10 months earlier," which is before admission. So, 10 months = 7300 hours approx, but maybe they used 30-day months, so 10*30*24 = 7200 hours. So ST elevation MI at -7200. Then three drug-eluting stents were placed at the same time, so same timestamp.
+
+She had PEG feeding 6 months ago. 6 months is 6*30*24 = 4320 hours before admission, so -4320. The reason for PEG was refusal to eat and possible true bulbar palsy and early Alzheimer's signs. Those would also be at -4320.
+
+Current medications on admission: furosemide, carvedilol, spironolactone, clopidogrel. These are ongoing at admission, so timestamp 0.
+
+Admission events: hypotension, pulmonary edema, ventilator support, tracheal intubation. All at admission time, so 0.
+
+Initial management: inotropes, renal replacement therapy. These started at admission, 0. She improved, so "improvement" at 0? Wait, she was admitted and managed, then on day 3 extubated. So extubation is day 3, which is 72 hours after admission (assuming day 0 is admission day). So extubated at +72. Then acute on chronic renal failure requiring restart of RRT at day 3, so +72.
+
+Echocardiogram findings during admission: severe hypokinesia, low EF, B lines, pleural effusions, low cardiac output, generalized edema. These were done on admission, so 0.
+
+She improved initially, leading to discontinuation of noradrenaline and dobutamine. So "improved initially" at 0, and discontinuation of infusions at 0? Wait, the timeline says she was extubated on day 3, then on day 7 after extubation (so day 10 after admission), she had hemodialysis 9h before acute deterioration. Wait, let me parse the timeline correctly.
+
+The case says: "On day 7 after extubation, the patient underwent hemodialysis 9h before her acute deterioration..." Extubation was on hospital day 3, so day 7 after extubation would be day 10 (since day 3 is extubation day, day 4 is +24h, up to day 10: 7 days after extubation). So hemodialysis was on day 10, 9 hours before deterioration. But how does that translate to hours since admission? If extubation was at 72h (day 3), day 7 after extubation is 72h + 7*24h = 72 + 168 = 240h. But the text says "on day 7 after extubation", which would be day 3 (extubation) + 7 days = day 10. So from admission, that's 10 days *24h = 240h. But the case says "9h before her acute deterioration", so the deterioration happened at 240h +9h = 249h? Or the hemodialysis was at 240h -9h = 231h? Wait, the description is a bit confusing. Let me re-read.
+
+"On day 7 after extubation, the patient underwent hemodialysis 9h before her acute deterioration with an episode of hypotension..." So day 7 after extubation is 7 days after day 3, so day 10. Hemodialysis was done 9h before the acute deterioration. So if the deterioration happened at day 10, 9h after hemodialysis. So hemodialysis at day 10 minus 9h: 240h -9h = 231h? But maybe the event timeline is that hemodialysis was at day 10 (240h), and the deterioration happened 9h later (240 +9 = 249h). But the case says "9h before her acute deterioration", so hemodialysis was 9h before deterioration. So if the deterioration is at 240h (day 10), then hemodialysis was at 240 -9 = 231h. But perhaps the timing is relative. Alternatively, maybe "day 7 after extubation" is a bit ambiguous. Since extubation was on day 3, day 7 after that would be day 10. The exact time of the deterioration is when the tachypnea, abdominal pain, hypotension, etc., occurred. Those events are timestamped relative to admission. So if hemodialysis was on day 10 at 231h (9h before deterioration at 240h), but the case report might have different timing. Alternatively, maybe the hemodialysis was on day 7 after extubation, which is day 3 +7 = day 10, and the deterioration happened during or after that. The text says "during hemofiltration that resolved with temporary use of noradrenaline". So the hypotension episode was during hemodialysis. Then after that, 9h later, she deteriorated? Or the hypotension happened during hemodialysis, which was 9h before the acute deterioration. Hmm. This is a bit unclear. The case says: "On day 7 after extubation, the patient underwent hemodialysis 9 h before her acute deterioration with an episode of hypotension (blood pressure, 85/42 mm Hg) during hemofiltration that resolved with temporary use of a noradrenaline infusion during the procedure." So the hemodialysis was on day 7 after extubation (day 10), and 9h before the acute deterioration. So the acute deterioration (tachypnea, abdominal pain, etc.) occurred 9h after the hemodialysis. So hemodialysis at day 10 (240h), and acute deterioration at 240 +9 = 249h. But the timestamp for the hypotension episode during hemodialysis would be 240h. The subsequent events (tachypnea, abdominal pain, etc.) would be at 249h. However, in the case report, all the events after hemodialysis (tachypnea, abdominal pain, physical exam findings, lab results, reintubation, POCUS findings, CT findings, diagnosis of intestinal ischemia, family counseling, death) seem to occur in a sequence after the hemodialysis. However, the case report states that after the hemodialysis, she had hypotension during the procedure, which was managed, then 9h later she deteriorated. So perhaps the timestamp for the hypotension during hemodialysis is 240h, and the deterioration events at 240 +9 = 249h. But the text says "9h before her acute deterioration", implying that hemodialysis was 9h before the deterioration. So if deterioration is at 249h, hemodialysis is at 240h. But all the events after hemodialysis (tachypnea, abdominal pain, etc.) would be at 249h. However, the lab results, physical exam, and subsequent management (reintubation, POCUS, CT) would be part of the acute deterioration at 249h. But the case report says "The above episode necessitated the restart of the noradrenaline and dobutamine infusions. Due to tachypnea and hypoxemia, she was reintubated." So all these events are part of the acute deterioration, which is 9h after hemodialysis. Therefore, the hemodialysis is at 240h, and the acute deterioration events (hypotension, tachypnea, etc.) at 249h. But the case report also mentions that during the hemodialysis, there was a hypotension episode (85/42 mmHg) that resolved with noradrenaline. Then, 9h later, she developed tachypnea, abdominal pain, etc. So the hypotension during hemodialysis is at 240h, and the subsequent events at 249h. However, all these events are described in the case report under the same timeline section, so maybe they're considered part of the same acute deterioration episode. Alternatively, perhaps the timestamp for all events starting from hemodialysis is 240h, and the deterioration happens within that same timeframe. But given the description, it's better to assign the hemodialysis event at 240h and the subsequent events (tachypnea, abdominal pain, lab results, etc.) at 240h as well, considering they are part of the same clinical encounter leading to the diagnosis. However, the case report says "9h before her acute deterioration", so the acute deterioration is a separate timestamp. This is a bit tricky. To simplify, perhaps all events related to the acute deterioration (tachypnea, abdominal pain, lab results, reintubation, POCUS, CT, diagnosis) are assigned 240h (day 10), as the hemodialysis was 9h before, but the deterioration is the main event leading to these findings. Alternatively, maybe the hemodialysis is at 231h (9h before 240h). But the case report says "On day 7 after extubation, the patient underwent hemodialysis 9h before her acute deterioration", so day 7 after extubation is day 10, and the acute deterioration is at day 10, 9h after hemodialysis. Therefore, hemodialysis at 240h -9h = 231h, and deterioration at 240h. But this is getting too granular. Given the complexity, perhaps it's better to assign the hemodialysis and all subsequent events to day 10 (240h), as the exact hour-level timing may not be critical for the prediction task. So, all events from hemodialysis onwards are at 240h. The patient died 3 days later, which is 240h + 72h = 312h. But the case report says she passed away 3 days later, so 3 days after the acute deterioration (which was on day 10), so day 13, which is 312h. But in the initial example, discharge was 24h after admission. So here, death is at 312h.
+
+Now, let's list all events with their timestamps:
+
+- Demographics: 73 years old, female (0)
+$ Medical history: hypertension, diabetes type 2, diabetic nephropathy, chronic renal impairment, dual pacemaker, sick sinus syndrome (all at 0 as ongoing conditions)
+- ST elevation MI 10 months ago: 10*30*24 = 7200h before admission (-7200)
+- Three drug-eluting stents placed during MI: same time (-7200)
+@ PEG 6 months ago: 6*30*24 = 4320h before (-4320)
+Reason for PEG: refusal to eat, possible bulbar palsy, early Alzheimer's signs (-4320)
+- Medications on admission: furosemide, carvedilol, spironolactone, clopidogrel (0)
+$ Admission events: hypotension, pulmonary edema, ventilator support, tracheal intubation (0)
+Initial management: inotropes, renal replacement therapy (0)
+Improvement leading to extubation on day 3 (72h)
+Acute on chronic renal failure post-extubation (72h)
+Restart of RRT (72h)
+Echocardiogram findings (0)
+Improved initially, leading to discontinuation of noradrenaline and dobutamine (0)
+Hemodialysis on day 10 (240h)
+Hypotension during hemodialysis (240h)
+Tachypnea, abdominal pain, physical exam findings, lab results (240h)
+Restart of noradrenaline and dobutamine (240h)
+Reintubation (240h)
+POCUS findings (sluggish intestines, impaired systolic function, hyperechoic dots, portal venous gas) (240h)
+CT findings (portal venous gas, pneumatosis intestinalis, atherosclerotic changes) (240h)
+Diagnosis of nonocclusive intestinal ischemia (240h)
+Family counseling (240h)
+No further interventions (240h)
+Death 3 days later (312h)
+
+Wait, but some events might have different timestamps. For example, the patient was extubated on day 3 (72h), then had acute renal failure requiring RRT restart at the same time (72h). The echocardiogram was done during the initial admission period, so maybe at 0 or shortly after, but the case report says it was part of her initial management, so timestamp 0.
+
+The improved initially and discontinuation of infusions would be after initial management, perhaps a few days in, but the case report states "She improved initially and infusions of noradrenaline and dobutamine were discontinued." This likely happened after admission but before extubation on day 3. So the discontinuation would be around day 1 or 2, but without exact timing, we can assign it to 0 as part of initial management.
+
+The hemodialysis on day 10 is 240h, and all subsequent events (hypotension during HD, tachypnea, etc.) at 240h. Death at 312h.
+
+Putting it all together, the events and timestamps would be:
+
+73 years old | 0  
+female | 0  
+hypertension | 0  
+diabetes mellitus type 2 | 0  
+diabetic nephropathy | 0  
+chronic renal impairment | 0  
+dual pacemaker | 0  
+sick sinus syndrome | 0  
+ST elevation myocardial infarction | -7200  
+three drug-eluting stents | -7200  
+PEG | -4320  
+refusal to eat | -4320  
+possibility of true bulbar palsy | -4320  
+early signs of Alzheimer's disease | -4320  
+furosemide 80 mg twice daily | 0  
+carvedilol 6.25 mg twice daily | 0  
+spironolactone 50 mg once daily | 0  
+clopidogrel 75 mg once daily | 0  
+admitted with hypotension | 0  
+pulmonary edema | 0  
+ventilator support | 0  
+tracheal intubation | 0  
+inotropes | 0  
+renal replacement therapy | 0  
+improvement | 0  
+extubated | 72  
+acute on chronic renal failure | 72  
+restart of renal replacement therapy | 72  
+severe global hypokinesia of the left ventricle | 0  
+low ejection fraction (< 20%) | 0  
+bilateral lung ultrasonic B lines | 0  
+bilateral mild pleural effusions | 0  
+low cardiac output | 0  
+generalized edema | 0  
+improved initially | 0  
+noradrenaline infusion discontinued | 0  
+dobutamine infusion discontinued | 0  
+hemodialysis | 240  
+hypotension episode (85/42 mm Hg) | 240  
+noradren

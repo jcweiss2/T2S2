@@ -1,0 +1,101 @@
+16 years old | 0
+female | 0
+left maxillary fracture | 0
+no history of pulmonary disease | 0
+no asthma | 0
+no special features in electrocardiography | 0
+no special features in biochemical examination of blood | 0
+no special features in chest X-ray | 0
+midazolam injection | -60
+preoperative preparation | -60
+blood pressure 110/66 mmHg | -60
+heart rate 80 beats/min | -60
+oxygen saturation 99% | -60
+induction of anesthesia with propofol | 0
+injection of rocuronium | 0
+positive pressure ventilation | 0
+tracheal intubation | 0
+no leakage in tube cuff | 0
+insertion of 6 ml air into cuff | 0
+maintenance of cuff pressure at 20 mmHg | 0
+fixation of tube with wire | 0
+tidal volume 10 ml/kg | 0
+respiration rate 10 per minute | 0
+peak inspiratory pressure 15 cmH2O | 0
+no air leakage in end-inspiration | 0
+no non-repletion of the bellow | 0
+anesthesia maintenance with O2, N2O, and sevoflurane | 0
+oral irrigation with povidone iodine | 0
+bubbles formation during irrigation | 0
+insertion of 2 ml additional air into cuff | 0
+continued bubbles formation | 0
+tube removal | 0
+suction of povidone iodine | 0
+reintubation with new tube | 0
+insertion of 6 ml air into new cuff | 0
+maintenance of new cuff pressure at 20 mmHg | 0
+fixation of new tube with wire | 0
+normal breathing sound | 0
+pulse oxygen saturation 100% | 0
+normal lung compliance | 0
+normal chest movement | 0
+resumption of oral irrigation | 0
+no air leakage | 0
+maximum inspiratory pressure 17 cmH2O | 0
+speculation of tube damage | 0
+oxygen saturation decline to 96% | 30
+rale heard in right lung | 30
+operation stoppage | 30
+tracheal suction | 30
+frothy discharge | 30
+chest X-ray | 30
+insertion of arterial catheter | 30
+arterial blood gas analysis | 30
+salbutamol nebulization | 30
+mechanical ventilation with PEEP | 30
+methylprednisolone injection | 30
+furosemide injection | 30
+diagnosis of aspiration pneumonia | 30
+arterial blood gas analysis improvement | 60
+operation resumption | 60
+operation completion | 90
+pyridostigmine administration | 90
+glycopyrrolate administration | 90
+recovery of spontaneous respiration | 90
+brownish-tinged liquid discharge | 90
+decreased lung compliance | 90
+suction of povidone iodine | 90
+bronchoscopy-guided saline cleaning | 90
+improved compliance | 90
+arterial blood gas analysis post-cleaning | 90
+transfer to intensive care unit | 90
+bronchoscopy suction attempt | 90
+mechanical ventilation in ICU | 90
+tidal volume 200-250 ml | 90
+pressure support ventilation | 90
+arterial blood gas analysis 5 hours post-ICU | 95
+leukocytosis | 95
+neutrophils 88.2% | 95
+fever 37.4℃ | 95
+augmentin prescription | 95
+cefepime prescription | 95
+methylprednisolone administration | 95
+furosemide administration | 95
+pressure support adjustment | 95
+PEEP adjustment | 95
+arterial blood gas analysis 18 hours post-ICU | 108
+weaning from mechanical ventilation | 115
+oxygen therapy | 115
+normal blood pressure | 115
+normal heart rate | 115
+oxygen saturation ≥98% | 115
+clear consciousness | 115
+tube removal | 117
+arterial blood gas analysis post-removal | 117
+nasal cannula oxygen | 117
+arterial blood gas analysis 5 hours post-removal | 122
+oxygen saturation ≥98% | 122
+decreased oral discharge | 122
+chest X-ray improvement | 122
+transfer to general ward | 50
+no complications | 50

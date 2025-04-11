@@ -1,0 +1,52 @@
+77 years old | 0
+male | 0
+admitted to the hospital | 0
+fever | 0
+weakness | 0
+COVID-19 | 0
+bilateral ground-glass opacities | 0
+respiratory symptoms worsening | -72
+intubated | 0
+transferred to ICU | 120
+blood pressure 124/73 mmHg | 0
+heart rate 63 beats/min | 0
+SpO2 90% | 0
+body temperature 38.0 °C | 0
+WBC count 6900/μL | 0
+Hb 11.3 g/dL | 0
+platelet 197 × 103/μL | 0
+aPTT 29 sec | 0
+PT 1.09 | 0
+D-dimer 1.93 μg/mL | 0
+CRP 12.74 mg/dL | 0
+hypertension | 0
+cerebral infarction | 0
+favipiravir | 0
+tocilizumab | 0
+paroxysmal atrial fibrillation | 0
+CHADS2 VASC score 5 points | 0
+HAS-BLED score 2 points | 0
+fall | -72
+no obvious hematoma | -72
+normal Hb level | -72
+no active bleeding | -72
+heparin started | 0
+heparin dose increased | 0
+ART-123 administered | 0
+respiratory condition improved | 120
+extubated | 120
+anterior chest hematoma observed | 144
+Hb level dropped | 144
+platelet count normal | 144
+CT performed | 144
+multiple hematomas | 144
+massive chest hematoma | 144
+obturatorius internus muscle hematoma | 144
+emergency TAE indicated | 144
+TAE performed | 144
+chest wall bruising subsided | 144
+discharged from ICU | 168
+chest hematoma decreased | 528
+no extravasation | 528
+no pseudoaneurysm | 528
+transferred to another hospital | 528

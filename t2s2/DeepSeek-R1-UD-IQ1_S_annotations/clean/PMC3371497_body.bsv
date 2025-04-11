@@ -1,0 +1,122 @@
+57 years old | 0
+post-menopausal | 0
+female | 0
+bleeding per vaginum | -1440
+hysteroscopic myomectomy | 0
+general anesthesia | 0
+diabetes mellitus Type 2 | 0
+dyslipidaemia | 0
+hypothyroidism | 0
+medical management | 0
+pre-operative assessment | 0
+weight 58 kg | 0
+routine investigations normal | 0
+optimized blood glucose levels | 0
+normal thyroid profile | 0
+refused regional anaesthesia | 0
+American Society of Anaesthesiologists grade II | 0
+morphine 3 mg IV | 0
+glycopyrrolate 0.2 mg IV | 0
+ondansetron 4 mg IV | 0
+propofol 100 mg IV | 0
+succinylcholine 75 mg IV | 0
+endotracheal intubation | 0
+7.5 mm cuffed endotracheal tube | 0
+nitrous oxide 60% | 0
+isoflurane 1% | 0
+vecuronium IV | 0
+normal saline solution 250 mL/h | 0
+total normal saline administered 500 mL | 0
+intraoperative vitals stable | 0
+ECG monitoring | 0
+NIBP monitoring | 0
+EtCO2 monitoring | 0
+SpO2 monitoring | 0
+temperature monitoring | 0
+hysteroscopic examination | 0
+submucous fibroid 5 cm×4 cm | 0
+resection of fibroid | 0
+uterine cavity distention with 1.5% glycine | 0
+Karl Storz hysteroscope | 0
+intrauterine pressure 80 mmHg | 0
+SpO2 fell from 98% to 88–90% | 45
+rise in airway pressure | 45
+diminished breath sounds | 45
+NIBP 90/70 mmHg | 45
+pulse rate 100/min | 45
+pink frothy secretions in ETT | 45
+crackles in both lung fields | 45
+acute pulmonary oedema | 45
+procedure stopped | 45
+haemostasis | 45
+lasix 40 mg IV | 45
+morphine 3 mg IV | 45
+nasogastric tube | 45
+urine output 100 mL | 45
+ECG normal | 45
+ABG pO2 165.3 mmHg | 45
+ABG pCO2 50.5 mmHg | 45
+ABG pH 7.17 | 45
+ABG K+ 5.3 mmol/L | 45
+ABG Na+ 100 mmol/L | 45
+ABG HCO3- 17.8 mmol/L | 45
+ABG BE –8.2 mmol/L | 45
+ABG O2 Sat 98.6% | 45
+chest radiograph pulmonary oedema | 45
+glycine deficit 1 L | 45
+clinical deterioration due to glycine fluid overload | 45
+hyponatraemia | 45
+metabolic acidosis | 45
+right internal jugular vein cannulation | 45
+left radial artery cannulation | 45
+central venous pressure 10 cmH2O | 45
+intensive care unit admission | 45
+mechanical ventilation SIMV | 45
+morphine sedation | 45
+7.5% soda bicarbonate 60 mL IV | 45
+3% sodium chloride 60 mL/h | 45
+inotropes for hypotension | 45
+echocardiogram normal | 45
+serial ABG monitoring | 45
+target Na+ 120 mmol/L | 45
+3% NaCl stopped | 57
+profuse bleeding per vaginum | 72
+endometrial tamponade with Foley's catheter | 72
+DIC suspected | 72
+oozing from other sites | 72
+nasogastric tube coffee ground aspirate | 72
+haemoglobin 5 gm% | 72
+platelet count 90,000/mm3 | 72
+prothrombin time 22 s | 72
+partial thromboplastin time 68 s | 72
+INR 1.94 | 72
+d-dimer positive | 72
+hypocalcaemia 7.6 gm/dL | 72
+fresh blood transfusion | 72
+blood products transfusion | 72
+IV calcium | 72
+coagulation profile improved | 168
+inotropic support tapered | 168
+SIMV ventilation with pressure support | 168
+FiO2 reduction | 168
+continuous positive airway pressure trial | 168
+uneventful extubation | 24
+tachypnoeic | 72
+respiratory rate 36/min | 72
+bilateral wheeze | 72
+SpO2 85% | 72
+chest X-ray pneumonitis | 72
+fibreoptic bronchoscopy | 72
+long tubular casts in left bronchial tree | 72
+asthalin nebulization | 72
+chest physiotherapy | 72
+BIPAP support | 72
+broad-spectrum antibiotics | 72
+Pseudomonas aeruginosa growth | 72
+cramps in both legs | 144
+bilateral foot drop | 144
+common peroneal nerve palsy | 144
+physiotherapy | 144
+hospital stay uneventful | 336
+discharged to home | 336
+asymptomatic on follow-up | 336

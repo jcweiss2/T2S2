@@ -1,0 +1,92 @@
+event,time
+37 years old,0.0
+    female,0.0
+    admitted to the hospital,0.0
+    poorly controlled type 2 diabetes mellitus,0.0
+    peripheral neuropathy,0.0
+    morbid obesity,0.0
+    BMI of 45.8 kg/m2,0.0
+    obstructive sleep apnea,0.0
+    gastroesophageal reflux disease,0.0
+    depression,0.0
+    intellectual disability,0.0
+    metformin 500 mg twice a day,0.0
+    hemoglobin A1c was 9.8%,0.0
+    sitagliptin added,0.0
+    canagliflozin added,0.0
+    pain in the left gluteal region,-672.0
+    dysuria,-672.0
+    trimethoprim/sulfamethoxazole initiated,-672.0
+    urinary tract infection,-672.0
+    urine culture not collected,-672.0
+    no improvement,-672.0
+    go to the hospital,-168.0
+    afebrile (36.9°C),0.0
+    tachycardic (117 beats/minute),0.0
+    blood pressure of 144/79 mmHg,0.0
+    respiratory rate of 19 breaths/minute,0.0
+    lethargic,0.0
+    distress,0.0
+    suprapubic tenderness,0.0
+    induration to the left gluteal region,0.0
+    perineum induration,0.0
+    blood glucose of 402 mg/dL,0.0
+    serum bicarbonate of 12 mmol/L,0.0
+    elevated anion gap of 24 mmol/L,0.0
+    lactate of 1.8 mmol/L,0.0
+    serum electrolytes within normal range,0.0
+    creatinine within normal range,0.0
+    blood urea nitrogen within normal range,0.0
+    serum osmolarity of 295 mOsm/kg,0.0
+    glycosuria,0.0
+    ketonuria,0.0
+    glucose 4+,0.0
+    ketones 1+,0.0
+    b-hydroxybutyrate of 2.49 mmol/L,0.0
+    pH of 7.23,0.0
+    PCO2 of 34 mmHg,0.0
+    computed tomography of abdomen and pelvis,0.0
+    subcutaneous edema,0.0
+    air within medial left gluteal soft tissues,0.0
+    locules of air extending into presacral soft tissues,0.0
+    Fournier’s gangrene,0.0
+    intravenous normal saline 0.9% bolus,0.0
+    IV ceftazidime 2 g,0.0
+    IV clindamycin 600 mg,0.0
+    vancomycin 2 g,0.0
+    debridement,0.0
+    incision and drainage of left gluteal region,0.0
+    hypotensive,48.0
+    tachycardic,48.0
+    ongoing infection,48.0
+    sepsis,48.0
+    second surgical exploration,48.0
+    fluid resuscitation,48.0
+    admitted to surgical ICU,48.0
+    intubated,48.0
+    vasopressors required,48.0
+    antibiotics switched to vancomycin,48.0
+    piperacillin/tazobactam,48.0
+    surgical re-explorations,72.0
+    further debridement,72.0
+    laparoscopic transverse loop colostomy,168.0
+    fecal diversion,168.0
+    prevent further infection of perineum,168.0
+    DKA management,72.0
+    subcutaneous insulin,72.0
+    serum ketones identified,72.0
+    anion gap persisted,72.0
+    insulin infusion started,96.0
+    aggressive fluid resuscitation started,96.0
+    anion gap closed,120.0
+    acidosis resolved,120.0
+    transferred to general medical floor,408.0
+    discharged,672.0
+    urinary catheter,672.0
+    vacuum dressing,672.0
+    colostomy,672.0
+    short-term rehabilitation facility,672.0
+    insulin glargine 18 U started,672.0
+    discontinue canagliflozin,672.0
+    discontinue sitagliptin-metformin,672.0
+  [1]0,

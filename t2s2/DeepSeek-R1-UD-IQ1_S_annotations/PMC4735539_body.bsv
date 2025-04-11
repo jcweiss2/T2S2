@@ -1,0 +1,156 @@
+58 years old | 0
+    female | 0
+    hyperthyroidism | 0
+    osteoporosis | 0
+    COPD in the fourth stage | 0
+    classified for lung transplantation in 2011 | -105120
+    PaO2 61.2 mmHg | 0
+    PaCO2 44 mmHg | 0
+    oxygen therapy 2 l/min | 0
+    FEV1 0.44 l | 0
+    FEV1 19.7%sd | 0
+    FVC 1.38 l | 0
+    FVC 8% sd | 0
+    6-MWT 174 metres | 0
+    RVSP 36 mmHg | 0
+    PRA 3% | 0
+    expectation of donor | -2880
+    donor identification | -24
+    transplantation performed | 0
+    anterolateral thoracotomy in the fifth intercostal space | 0
+    transverse sternotomy | 0
+    right pulmonary vein cuff short | 0
+    tight right pulmonary vein cuff | 0
+    left donor lung implanted in right emphysemal lung locus | 0
+    recipient's right lung hilum dissected | 0
+    cut distally with clamping of pulmonary artery | 0
+    clamping of pulmonary veins cuff | 0
+    left donor's lung preparation | 0
+    left donor's lung implanted in contralateral position | 0
+    different bronchus diameters | 0
+    donor bronchus telescopically placed in recipient's bronchus | 0
+    stitched with single absorbable sutures 3-0 | 0
+    artery anastomosed with vascular suture 4-0 | 0
+    vein anastomosed with vascular suture 4-0 | 0
+    pulmonary circulation vented | 0
+    pulmonary circulation restored | 0
+    ventilation resumed | 0
+    haemostasis obtained | 0
+    correct function of the graft confirmed | 0
+    two drains inserted in pleural cavity | 0
+    closure of the thorax | 0
+    metal suturing of the sternum | 0
+    suturing of the periosteum of the fifth rib | 0
+    layered lid suture | 0
+    transferred to ICU | 0
+    stayed in ICU for eight days | 0
+    retrospectively positive cross-match | 0
+    five automatic plasmapheresis implemented | 0
+    human immunoglobulin applied | 0
+    rituximab applied | 0
+    diminish concentration of lymphocytotoxic antibodies against HLA antigens | 0
+    primary graft dysfunction | 72
+    rising emphysema of recipient's own lung | 72
+    mediastinum shifted towards graft side | 72
+    C14-esterase provided | 72
+    lung volume reduction surgery (LVRS) | 72
+    prolonged air leakage complication | 72
+    infusion of 16 units FFP | 0
+    infusion of 2 units PRBCs | 0
+    infusion of 100 ml 20% albumin | 0
+    right lung drainage removed after seven days | 168
+    left lung drainage removed after 35 days | 840
+    discharged from hospital on 44th day | 1056
+    PO2 68.9 mmHg | 1056
+    PCO2 44.0 mmHg | 1056
+    without oxygen therapy | 1056
+    FEV1 1.12-50.5% | 1056
+    FVC 1.38-52.2% | 1056
+    6-MWT 246 metres | 1056
+    cyclosporine 50 mg twice a day | 1056
+    mycophenolate mofetil 1000 mg twice a day | 1056
+    prednisone 10 mg once a day | 1056
+    first acute organ rejection episode | 2880
+    histopathologically confirmed | 2880
+    antibodies against donor antigens detected | 2880
+    anti-HLA class II 158.57-701.89 MFI | 2880
+    therapy with methylprednisolone | 2880
+    tacrolimus 0.5 mg a day implemented | 2880
+    hospitalisation complicated by Moraxella catarrhalis infection | 2880
+    amoxicillin with clavulanic acid applied | 2880
+    transient renal failure | 2880
+    ion disorders | 2880
+    hypoproteinaemia | 2880
+    leukopaenia | 2880
+    bronchitis caused by Corynebacterium pseudodiphtericum | 3600
+    Escherichia coli urinary tract infection | 3600
+    treated with amoxicillin and clavulanic acid | 3600
+    second episode of acute graft rejection | 3600
+    E. coli sepsis | 4320
+    treated with ceftazidime | 4320
+    cytomegalovirus disease | 4320
+    treated with ganciclovir | 4320
+    pulmonary embolism | 4320
+    anxiety disorder | 4320
+    treated with opipramol | 4320
+    treated with venlafaxine | 4320
+    leukopenia 2900/µl | 4320
+    pantoprazole dose reduced | 4320
+    mycophenolate mofetil dose reduced | 4320
+    third episode of acute graft rejection | 6480
+    bacterial infection caused by Pseudomonas aeruginosa | 6480
+    cured with ciprofloxacin | 6480
+    cured with ceftazidime | 6480
+    bilateral otitis | 6480
+    sinus polyposis development | 6480
+    temporal bone polyposis development | 6480
+    clindamycin applied | 6480
+    budesonide inhalation applied | 6480
+    hypogammaglobulinaemia | 6480
+    human immunoglobulins assigned every three weeks | 6480
+    Acinetobacter baumanii infection | 7920
+    Proteus mirabilis infection | 7920
+    Candida albicans infection | 7920
+    C. glabrata infection | 7920
+    Aspargillus species infection | 7920
+    therapy with cefuroxime | 7920
+    therapy with imipenem | 7920
+    therapy with ampicillin with sulbactam | 7920
+    therapy with amikacin | 7920
+    therapy with amphotericin B | 7920
+    therapy with itraconazole | 7920
+    therapy with colistin | 7920
+    drug-induced diabetes | 7920
+    rapid decompensation | 7920
+    glimepiride therapy | 7920
+    insulin therapy | 7920
+    renal failure | 7920
+    fourth episode of acute lung rejection | 7920
+    fifth episode of rejection | 10560
+    renal failure deepened | 10560
+    destabilisation of diabetes | 10560
+    cytomegalovirus disease activated | 10560
+    valganciclovir used | 10560
+    leukopaenia deteriorated | 10560
+    reduced dose of valganciclovir | 10560
+    Acinetobacter baumani infection | 10560
+    Klebsiella pneumoniae infection | 10560
+    Candida albicans infection | 10560
+    therapy with ceftazidime | 10560
+    therapy with ciprofloxacin | 10560
+    therapy with ampicillin with sulbactam | 10560
+    therapy with colistin | 10560
+    therapy with metronidazole | 10560
+    therapy with tazobactam | 10560
+    therapy with itraconazole | 10560
+    therapy with nystatin | 10560
+    anti-HLA antibodies demonstrated | 10560
+    donor specific antibodies (DSA) | 10560
+    psychological state worsened | 10560
+    symptoms of depression | 10560
+    mianserin therapy | 10560
+    posttraumatic haematoma of the shin | 10560
+    VAC-therapy required | 10560
+    patient died due to sepsis | 11952
+    unsuccessful reanimation | 11952
+    

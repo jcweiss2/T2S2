@@ -1,0 +1,94 @@
+72 years old | 0
+    male | 0
+    hypertension | 0
+    type-2 diabetes mellitus | 0
+    peripheral arterial disease of the lower limbs | 0
+    previous coronary artery bypass graft surgery | 0
+    admitted to a tertiary referral hospital | 0
+    dry cough | -720
+    fever | -720
+    anorexia | -720
+    loss of more than 10% of body weight | -720
+    dyspnea | -720
+    hypotensive | 0
+    blood pressure 78/53 mmHg | 0
+    tachycardic | 0
+    heart rate 122 bpm | 0
+    feverish | 0
+    axillary temperature 38.4°C | 0
+    jugular turgor at 45° | 0
+    bibasilar pulmonary rales | 0
+    new systolic mitral regurgitation murmur | 0
+    murmur grade 4 | 0
+    cardiorespiratory collapse | 0
+    mechanical ventilation | 0
+    continuous infusion of vasopressors | 0
+    oliguria | 0
+    urine output <0.5 mL/kg/h | 0
+    signs of poor peripheral perfusion | 0
+    cold extremities | 0
+    cyanosis | 0
+    capillary refill time >2 sec |%0
+    transferred to the intensive care unit | 0
+    chest x-ray | 0
+    pulmonary congestion | 0
+    cardiomegaly | 0
+    complete blood count | 0
+    leukocytosis | 0
+    12920 White blood cells/mm3 | 0
+    normocytic anemia | 0
+    hemoglobin level of 11.3 g/dL | 0
+    erythrocyte sedimentation rate | 0
+    91 mm/h | 0
+    C-reactive protein plasma levels | 0
+    6.8 mg/dL | 0
+    transesophagic echocardiography | 0
+    mitral valve thickening | 0
+    infectious etiology | 0
+    large flail of the anterior leaflet | 0
+    mitral regurgitant jet intensity | 0
+    severe insufficiency | 0
+    lung ultrasound | 0
+    bilateral multiple B-lines | 0
+    diffuse pattern | 0
+    pulmonary edema | 0
+    definitive diagnosis of mitral native valve endocarditis | 0
+    cardiogenic shock | 0
+    severe acute mitral valve regurgitation | 0
+    empirical antimicrobial therapy | 0
+    ceftriaxone | 0
+    gentamicin | 0
+    hemodynamic instability | 0
+    norepinephrine | 0
+    doses up to 1.0 μg/kg/min | 0
+    intra-aortic balloon pump counterpulsation implant | 0
+    emergency mitral valve replacement surgery | 0
+    preoperative mortality risk euroscore II 55.2% | 0
+    bioprosthetic mitral valve | 0
+    progressive improvement in cardiogenic shock | 0
+    gradual reduction of the vasopressor dose | 0
+    Gemella morbillorum isolated | 0
+    blood cultures | 0
+    susceptibility testing | 0
+    sensitive to penicillin | 0
+    ceftriaxone | 0
+    vancomycin | 0
+    antibiotic regimen de-escalonated | 0
+    penicillin G | 0
+    gentamicin | 0
+    dependent on mechanical ventilation | 0
+    critical illness polyneuropathy | 0
+    refractory pulmonary congestion | 0
+    tracheostomy | 0
+    continuous ultrafiltration | 0
+    negative fluid balance | 0
+    new episode of shock | 648
+    pulmonary edema | 648
+    lung compliance worsening | 648
+    mechanical ventilation with high pressures | 648
+    high fraction of inspired oxygen | 648
+    transesophagic echocardiography | 648
+    bioprosthetic mitral valve thickening | 648
+    severe stenosis | 648
+    emergency surgery for valve replacement | 648
+    death | 648

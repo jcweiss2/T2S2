@@ -1,0 +1,60 @@
+60 years old | 0
+    female | 0
+    hypertension | -17280
+    chronic obstructive pulmonary disease | -17280
+    fever | -48
+    cough | -48
+    dyspnea | -48
+    tachypnea | 0
+    hypotension | 0
+    confusion | 0
+    admitted | 0
+    acute exacerbation of chronic obstructive pulmonary disease | 0
+    oxygen through nasal cannula | 0
+    IV fluids | 0
+    IV azithromycin | 0
+    IV ceftriaxone | 0
+    cultures | 0
+    chest x-ray no consolidations or infiltrates | 0
+    more hypotensive | 12
+    transferred to intensive care unit | 12
+    IV piperacillin-tazobactam | 12
+    IV levofloxacin | 12
+    vasopressors | 12
+    hydrocortisone | 12
+    no improvement | 72
+    still febrile | 72
+    cultures (urine, blood, sputum) no growth | 72
+    hypertriglyceridemia | 72
+    thrombocytopenia | 72
+    leukopenia | 72
+    hyperferritinemia | 72
+    hypofibrinogenemia | 72
+    normal coagulation profile | 72
+    normal procalcitonin | 72
+    negative work-up for connective tissue diseases | 72
+    negative work-up for viral infections | 72
+    peripheral blood smear unremarkable | 72
+    family history malignancies in first-degree relatives | 72
+    computerized tomography scan without contrast | 72
+    moderate splenomegaly | 72
+    HLH suspected | 72
+    soluble CD-25 elevated | 72
+    bone marrow aspirate hemophagocytosis | 72
+    IV methylprednisolone | 72
+    flow cytometry testing | 72
+    cytogenetics results | 72
+    improved | 168
+    no longer in septic shock | 168
+    flow cytometry negative | 264
+    cytogenetics negative | 264
+    switched to HLH-94 protocol | 264
+    high dose dexamethasone | 264
+    etoposide | 264
+    mean arterial pressure maintained | 336
+    no episodes of fever | 336
+    transferred to medical floor | 336
+    discharged | 336
+    follow up with Hematology-Oncology Outpatient Clinics | 336
+
+    

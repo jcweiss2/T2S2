@@ -1,0 +1,118 @@
+57 years old | 0
+man | 0
+history of recent dental work | 0
+taken to the emergency department | 0
+altered mental status | 0
+urinary incontinence | 0
+generalized weakness | 0
+malaise | -336
+fever | -336
+emesis | -336
+diarrhea | -336
+computed tomography of the head | 0
+intracranial hemorrhage | 0
+dissection flap within the aortic arch | 0
+transferred to Stanford Hospital | 0
+CT angiography of the chest, abdomen, and pelvis | 0
+confirmed 6.5-cm Stanford Type A aortic dissection | 0
+temperature 39.1°C | 0
+heart rate 106 beats/min | 0
+blood pressure 67/32 mm Hg | 0
+SaO2 97% | 0
+alert | 0
+oriented | 0
+slow to respond | 0
+right upper extremity weakness | 0
+right lower extremity weakness | 0
+increased WBC | 0
+decreased Hgb | 0
+decreased Hct | 0
+thrombocytopenia | 0
+increased RDW | 0
+decreased RBC | 0
+decreased Ca | 0
+increased Mg | 0
+increased D-dimer | 0
+increased PT | 0
+increased INR | 0
+subarachnoid hemorrhage | 0
+consulted neurocritical care | 0
+consulted neurosurgery | 0
+transthoracic echocardiography | 0
+mobile mass in the left ventricular outflow tract | 0
+started on empiric vancomycin | 0
+started on empiric piperacillin-tazobactam | 0
+blood cultures sent | 0
+Gram stain notable for Gram-positive cocci | 0
+met Duke Criteria for infective endocarditis | 0
+decision to proceed with surgery | 0
+received fresh frozen plasma | 0
+received platelets | 0
+improvement of INR | 0
+improvement of platelets | 0
+intraoperative neurological pupil index | 0
+postoperative imaging of the head | 0
+received packed red blood cells | 0
+received cryoprecipitate | 0
+received fresh frozen plasma during procedure | 0
+received platelets during procedure | 0
+received activated prothrombin complex concentrate | 0
+INR improved | 24
+partial thromboplastin time improved | 24
+platelets improved | 24
+underwent aortic root replacement | 0
+underwent bioprosthetic aortic valve replacement | 0
+hemi6-arch replacement | 0
+dissection flap extending into aneurysmal root | 0
+purulent thrombus within the false lumen | 0
+cultures sent | 0
+vegetation on aortic valve | 0
+blood cultures grew Streptococcus equi | 24
+surgical specimens grew Streptococcus equi | 24
+narrowed to penicillin | 24
+transient fevers | 72
+magnetic resonance imaging | 72
+punctate infarcts | 72
+microhemorrhages | 72
+osteomyelitis | 72
+discitis | 72
+evaluated by ophthalmology | 72
+vitreitis | 72
+treated with intravitreal vancomycin | 72
+treated with intravitreal ceftazidime | 72
+ocular ischemic syndrome | 72
+consulted dentistry | 72
+severely decayed dentition | 72
+abscess at prior bone graft site | 72
+debridement | 72
+washout | 72
+repair | 72
+afebrile | 72
+peripherally inserted central catheter | 72
+penicillin G | 72
+spontaneous movement of extremities | 24
+stable SAH | 24
+extubated | 48
+transferred to ward | 192
+mentation improved | 720
+dysarthria improved | 720
+mild word-finding difficulty | 720
+mobility improved | 720
+platelets normalized | 720
+discharged to rehabilitation | 720
+surgical pathology acute inflammation | 720
+Gram-positive cocci in aortic wall | 720
+mycotic aortic aneurysm | 720
+aortic valve endocarditis | 720
+returned with pleuritic chest pain | 2880
+contrast extravasation | 2880
+perigraft fluid collection | 2880
+redo sternotomy | 2880
+aortic valve replacement | 2880
+mitral valve replacement | 2880
+discharged | 2880
+lifelong amoxicillin-clavulanate | 2880
+follow-up appointment | 2880
+healthy | 2880
+insurance issues | 2880
+cancellation of physical therapy | 2880

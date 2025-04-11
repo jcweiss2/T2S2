@@ -1,0 +1,68 @@
+56 years old | 0
+    woman | 0
+    cirrhosis | 0
+    chronic hepatitis C | 0
+    esophagogastroduodenoscopy (EGD) | 0
+    evaluation of esophageal varices | 0
+    banding of esophageal varices | 0
+    large varix ruptured | 0
+    emergent TIPS procedure | 0
+    hemorrhage | 0
+    transfusion of 7 units of packed red blood cells | 0
+    admitted to medical intensive care unit | 0
+    jaundiced | 72
+    increased total bilirubin | 72
+    increased direct bilirubin | 72
+    stable transaminases | 72
+    stable INR | 72
+    patent stent | 72
+    no biliary obstruction | 72
+    no biliary dilatation | 72
+    continued rise in bilirubin | 72
+    stable alkaline phosphatase | 72
+    stable transaminases | 72
+    stable INR | 72
+    abdominal CT | 72
+    patent TIPS | 72
+    no hepatic ischemia | 72
+    no biliary duct dilatation | 72
+    ERCP | 360
+    no biliary-venous fistula | 360
+    no bile duct dilatation | 360
+    common bile duct stent placed | 360
+    sphincterotomy performed | 360
+    continued rise in bilirubin | 360
+    venogram | 360
+    no biliaryvenous fistula | 360
+    liver transplantation | 360
+    resistant Klebsiella bacteremia | 360
+    persistently bacteremic | 360
+    sepsis | 360
+    renal failure | 360
+    transferred back to intensive care unit | 360
+    infection precluded liver transplantation | 360
+    discharged home with hospice care | 360
+    no right upper quadrant abdominal pain | 0
+    no hepatic encephalopathy | 0
+    no ascites | 0
+    no deterioration in synthetic liver function | 0
+    no signs of decompensated cirrhosis | 0
+    stable hemoglobin | 0
+    normal lactate dehydrogenase | 0
+    Enterobacteriaceae bacteremia | 360
+    Bilhemia | 360
+    TIPS thrombosis | 0
+    TIPS stenosis | 0
+    fat embolism | 360
+    bilious contamination of systemic circulation | 360
+    enteric flora bacteremia | 360
+    bile thromboembolism | 360
+    spontaneous closure of biliary-venous fistula | 360
+    persistent/recurrent bacteremia | 360
+    infection of the TIPS | 360
+    liver transplantation remains only treatment option | 360
+    unsuccessful attempts to access right portal vein | 0
+    repositioning of cannula | 0
+    bridge between right hepatic vein and central portal vein | 0
+    portosystemic gradient reduced from 14 mm Hg to 3 mm Hg | 0
+    hemodynamically stabilized | 0

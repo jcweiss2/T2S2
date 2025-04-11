@@ -1,0 +1,96 @@
+33 years old | 0
+man | 0
+polysubstance abuse | 0
+saddle pulmonary embolus | 0
+abdominal pain | -8760
+deep, gnawing pain | -8760
+pain after eating | -8760
+epigastric origin | -8760
+non-radiating pain | -8760
+pain lasting 6 hours | -8760
+unresolved pain | 0
+progressively worse pain | 0
+nausea | 0
+no bowel movement in 3 days | 0
+60-pound weight loss in the past year | -8760
+no history of past surgeries | 0
+methadone | 0
+26-pack-year smoking history | 0
+Eliquis prescription | 0
+not taking Eliquis for months | -8760
+maternal uncle with pulmonary embolism | 0
+maternal grandmother with deep vein thrombosis | 0
+ill appearance | 0
+unstable condition | 0
+tachycardia | 0
+pale | 0
+hypertensive (165/96 mmHg) | 0
+diaphoretic | 0
+diffusely tender abdomen | 0
+epigastric fullness | 0
+upper quadrant fullness | 0
+no peritoneal signs | 0
+no intra-abdominal mass | 0
+obese body habitus | 0
+elevated white blood cell count (11,680/uL) | 0
+neutrophilic shift (74%) | 0
+elevated lactate (2.6 mmol/L) | 0
+normal other laboratory results | 0
+computed tomography scan | 0
+mesenteric distortion | 0
+mesenteric infiltration | 0
+partial small bowel obstruction | 0
+exploratory laparotomy | 0
+pallor | 0
+diaphoresis | 0
+elevated lactate | 0
+neutrophilic leukocytosis | 0
+acutely ill appearance | 0
+clinically unstable | 0
+large mass | 0
+indurated mesentery | 0
+areas of necrosis | 0
+distal ileum folded upon itself | 0
+foreshortened mesentery | 0
+thickened mesentery | 0
+mesentery adherent to retroperitoneum | 0
+chronic inflammation | 0
+no tumor deposits | 0
+small bowel resection | 0
+ileocecal junction resection | 0
+proximal ascending colon resection | 0
+distal ileum anastomosed to right colon | 0
+resected specimen sent to pathology | 0
+recovery in surgical intensive care unit | 0
+downgraded to surgical floor | 24
+transmural thickening of small bowel | 0
+small bowel obstruction | 0
+2 episodes of fever | 24
+negative fever workup | 24
+chest X-ray | 24
+urinalysis | 24
+blood cultures | 24
+CT scan of abdomen and pelvis | 24
+no infection | 24
+no sepsis | 24
+no anastomotic leak | 24
+discharge on postoperative day 7 | 168
+regular bowel movements | 168
+tolerating full diet | 168
+clinically improved | 168
+follow-up appointment 1 week after discharge | 192
+pathology report | 192
+torsion of the ileum | 192
+early ischemic changes | 192
+mesenteric panniculitis | 192
+3 normal lymph nodes | 192
+heterozygous for FV Leiden | 192
+negative tumor markers (CA19-9, AFP, CEA) | 192
+normal flow cytometry | 192
+elevated Chromogranin A (152 ng/mL) | 192
+omeprazole 40 mg | 192
+anticoagulation with apixaban | 192
+medication adherence discussed | 192
+lack of proper anticoagulation | 192
+chronic thrombotic activity in mesentery | 192
+diagnosis of sclerosing mesenteritis | 192

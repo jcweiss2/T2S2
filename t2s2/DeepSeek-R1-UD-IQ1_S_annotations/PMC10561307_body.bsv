@@ -1,0 +1,90 @@
+52 years old | 0
+    male | 0
+    referred for surgical consultation | 0
+    chronic post-bariatric gastrocutaneous fistula | 0
+    open modified Scopinaro procedure | -136320
+    initial weight 216 kg | -136320
+    BMI 57.4 kg/m² | -136320
+    midterm satisfactory results | -136320
+    44% total weight loss | -136320
+    weight reganance | -136320
+    incisional hernia | -136320
+    bariatric revisional surgery | -175200
+    hernia repair | -175200
+    weight 170 kg | -175200
+    BMI 45.1 kg/m² | -175200
+    gastric pouch leak | -175200
+    multiple intra-abdominal collections | -175200
+    sepsis | -175200
+    conservative management | -175200
+    open abdomen | -175200
+    negative wound pressure therapy | -175200
+    parenteral nutrition | -175200
+    intravenous antibiotics | -175200
+    epithelized gastrocutaneous fistula | -175200
+    controlled persistent drainage | -175200
+    ventral hernia | -175200
+    upper endoscopy | 0
+    fistulous orifice | 0
+    vertical staple line | 0
+    esophagogastric junction | 0
+    fistulous orifice size 8 mm | 0
+    extraluminal extravasation | 0
+    recurrent left subphrenic abscess | 0
+    endoscopic treatment | 0
+    poor nutritional status | 0
+    hostile abdomen | 0
+    multiple attempts at fistula closure | 0
+    argon plasma coagulation | 0
+    internal drainages | 0
+    external drainages | 0
+    clipping | 0
+    fibrin sealants | 0
+    e-vac therapy | 0
+    stenting | 0
+    multidisciplinary team discussion | 0
+    innovative endoscopic technique | 0
+    CSDO placement | 0
+    Occlutech® muscular VSD occluder | 0
+    procedure performed | 0
+    intravenous sedation | 0
+    topic anesthesia | 0
+    fistula cannulated | 0
+    biliary stent deployment system | 0
+    endoscopic guidance | 0
+    contrast injection | 0
+    AmplatzTM extra stiff guidewire | 0
+    fluoroscopy confirmation | 0
+    delivery system introduced | 0
+    CSDO deployed | 0
+    no immediate adverse events | 0
+    contrast study | 0
+    no extravasation | 0
+    restricted oral intake | 24
+    liquid diet | 240
+    regular diet | 288
+    remaining drainage through pigtail drain | 288
+    pigtail accidentally displaced | 1008
+    systemic signs of sepsis | 1008
+    computed tomography | 1008
+    fluoroscopy | 1008
+    abscess recurrence | 1008
+    partial dislodgment of CSDO | 1008
+    device tore friable tissue | 1008
+    stuck in tunnel-shaped tract | 1008
+    snare attempt failed | 1008
+    second attempt with oversized disc | 1008
+    Occlutech® Figulla Flex II UNI 24-mm | 1008
+    fistulous orifice sealed | 1008
+    former device positioned between discs | 1008
+    6-month follow-up | 4320
+    upper endoscopy | 4320
+    contrast-enhanced CT scan | 4320
+    device engrafted | 4320
+    significant abscess reduction | 4320
+    no fistula recurrence | 4320
+    pigtail maintained | 4320
+    pigtail removed | 4320
+    no drainage | 4320
+    
+    

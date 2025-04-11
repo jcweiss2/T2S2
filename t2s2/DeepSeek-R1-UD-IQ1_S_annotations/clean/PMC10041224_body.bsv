@@ -1,0 +1,63 @@
+67 years old | 0
+male | 0
+type 2 diabetes mellitus | -720
+primary hypothyroidism | -720
+depression | -720
+gliclazide | -72 (for 3 years, current treatment)
+thyroxine | -72 (for 3 years, current treatment)
+venlafaxine | -72 (for 3 years, current treatment)
+agitated | -72
+visual hallucinations | -72
+auditory hallucinations | -72
+olanzapine | -24
+clonazepam | -24
+fever | -24
+stupor | -24
+generalized rigidity | -24
+conscious | 0
+irrelevant speech | 0
+febrile (104°F) | 0
+pulse 140 beats/min | 0
+blood pressure 180/130 mm Hg | 0
+symmetric rigidity | 0
+preserved deep tendon reflexes | 0
+no hyperreflexia | 0
+absent clonus | 0
+flexor plantar reflex | 0
+pupils 3 mm bilateral | 0
+intravenous fluids | 0
+intravenous paracetamol | 0
+physical cooling | 0
+labile blood pressure | 0
+intravenous labetalol | 0
+blood cultures | 0
+haematology | 0
+biochemistry | 0
+CPK 884 U/L | 0
+serum myoglobin 552 ng/mL | 0
+urine myoglobin 280 ng/mL | 0
+ALT 88 U/L | 0
+AST 130 U/L | 0
+normal NCCT head | 0
+unremarkable cerebro-spinal fluid | 0
+intubated | 0
+mechanical ventilation | 0
+dantrolene | 0
+bromocriptine | 0
+broad-spectrum antibiotics | 0
+supportive treatment | 0
+neurological deterioration | 12
+right extensor plantar response | 12
+right hemiparesis | 12
+NCCT head showing hemorrhage | 12
+labile blood pressure managed | 12
+polymicrobial sepsis | 24
+hospital-acquired pneumonia | 24
+antibiotic escalation | 24
+antifungal drugs | 24
+CPK decline to 55 | 192 (8 days later)
+tracheostomised | 192
+weaning trials | 192
+uneventful recovery | 192
+residual right limb weakness | 192
+discharged | 192

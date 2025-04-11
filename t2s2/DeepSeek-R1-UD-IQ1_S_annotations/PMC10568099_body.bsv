@@ -1,0 +1,84 @@
+52 years old | 0  
+    male | 0  
+    swelling in left groin | -336  
+    soreness in left groin | -336  
+    antiviral medications | -336  
+    antipruritic medications | -336  
+    medications ineffective | -336  
+    admitted to emergency room | 0  
+    abdominal wall skin defect | 0  
+    perineal skin defect | 0  
+    necrosis | 0  
+    suppuration | 0  
+    conscious | 0  
+    respiratory rate 20 breaths/min | 0  
+    heart rate 125 beats/min | 0  
+    blood pressure 92/77 mmHg | 0  
+    skin defect in abdomen | 0  
+    rectus abdominus muscle exposed | 0  
+    necrotic tissue | 0  
+    purulent discharge | 0  
+    scrotum black areas | 0  
+    penis black areas | 0  
+    ulcers | 0  
+    defects | 0  
+    erosion | 0  
+    pus | 0  
+    foul odor | 0  
+    testes not exposed | 0  
+    history of diabetes | 0  
+    no previous treatment | 0  
+    normal daily insulin intake | 0  
+    no renal diseases | 0  
+    no infectious diseases | 0  
+    no immunosuppressive diseases | 0  
+    no unidentified bites | 0  
+    bedridden | 0  
+    nutritional assessment moderate | 0  
+    high-sensitivity C-reactive protein 244.34 mg/L | 0  
+    white blood cells 8.79 ×10^9/L | 0  
+    fasting blood glucose 7.64 mmol/L | 0  
+    glycated hemoglobin 6.70% | 0  
+    creatinine 185.0 μmol/L | 0  
+    hemoglobin 118.0 g/L | 0  
+    sodium 130.0 mmol/L | 0  
+    modified LRINEC 36 | 0  
+    CT scans revealed lung infections | 0  
+    CT scans revealed skin infections | 0  
+    subcutaneous effusion | 0  
+    gas accumulation | 0  
+    wound debridement days 1-5 | 0  
+    unsuccessful treatment | 120  
+    full surgical debridement | 144  
+    type I respiratory failure | 144  
+    ventilatory support | 144  
+    abdominal tissue pathology necrosis | 336  
+    infection of adipose tissue | 336  
+    neutrophils infiltration | 336  
+    lymphocytes infiltration | 336  
+    plasma cells infiltration | 336  
+    multinucleated giant cells | 336  
+    acid-fast bacilli | 336  
+    bronchoscopy | 336  
+    alveolar lavage | 336  
+    NGS testing | 336  
+    NGS identified 994 sequences | 360  
+    multidrug-resistant Escherichia coli | 360  
+    no bacteria in blood cultures | 360  
+    ornidazole treatment | 0  
+    meropenem treatment | 0  
+    fluid rehydration | 0  
+    daily wound care | 0  
+    daily dressing changes | 0  
+    final diagnosis NF | 360  
+    final diagnosis PTB | 360  
+    final diagnosis CTB | 360  
+    tigecycline prescribed | 360  
+    isoniazid prescribed | 360  
+    rifampicin prescribed | 360  
+    ethambutol prescribed | 360  
+    pyrazinamide prescribed | 360  
+    discharged | 408  
+    died | 408  
+    patient and family cooperation | 0  
+    signed consent forms | 0  

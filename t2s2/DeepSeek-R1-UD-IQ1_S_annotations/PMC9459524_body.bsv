@@ -1,0 +1,286 @@
+78 years old | 0
+    woman | 0
+    diagnosed with hepatocellular carcinoma | 0
+    hypertension | 0
+    liver cirrhosis | 0
+    hepatitis C virus antibodies | 0
+    computed tomography revealed advanced HCC | 0
+    lenvatinib initiated at 8 mg/day | 0
+    treatment interrupted 2 months later | 720
+    proteinuria | 720
+    lenvatinib resumed at 4 mg/day | 7200
+    feeling unsteady on feet | -168
+    vomiting after ingesting small amounts of food | -168
+    presented with respiratory distress | -168
+    urge incontinence | -168
+    night sweats | -168
+    dehydration | 0
+    shock | 0
+    blood pressure not measurable | 0
+    heart rate 137 beats/min | 0
+    respiratory rate 33 breaths/min | 0
+    body temperature 36.4°C | 0
+    soft abdomen | 0
+    nontender abdomen | 0
+    no guarding | 0
+    white blood cells 15,700/μL | 0
+    hemoglobin 16.0 g/dL | 0
+    platelets 216,000/μL | 0
+    creatinine 2.90 mg/dL | 0
+    C-reactive protein 18.2 mg/L | 0
+    computed tomography showed free air bubbles | 0
+    emergency exploratory laparotomy | 24
+    peritonitis with purulent exudate | 24
+    focally necrotic perforation | 24
+    sigmoid colon perforation | 24
+    Hartmann's procedure | 24
+    sigmoid resection | 24
+    end colostomy | 24
+    transferred to intensive care unit | 24
+    died | 72
+    macroscopic examination of sigmoid colon | 24
+    histopathological examination | 24
+    infiltration of neutrophils | 24
+    hemorrhage around perforation site | 24
+    no malignant lesion | 24
+    lenvatinib-related bowel perforation suspected | 24
+
+Alright, let's tackle this case report. The patient is a 78-year-old woman diagnosed with hepatocellular carcinoma (HCC). The admission event is when she was diagnosed at the hospital, which I'll assign a timestamp of 0. 
+
+First, her history includes hypertension, liver cirrhosis, and hepatitis C antibodies for over 10 years. These are chronic conditions, so they should be at timestamp 0. 
+
+She had computed tomography (CT) showing advanced HCC with portal invasion and daughter nodules. Since this was part of her initial diagnosis, timestamp 0.
+
+Lenvatinib was initiated at 8 mg/day. This treatment starts at admission, so 0. 
+
+Two months later, the treatment was interrupted due to proteinuria. Converting 2 months to hours: 2 months ≈ 60 days ≈ 1440 hours. But wait, the case says "interrupted 2 months later" and then "resumed after 10 months discontinuation." Wait, let me check the case report again. 
+
+Wait, the case says: "The treatment was interrupted 2 months later when she developed proteinuria. Lenvatinib was subsequently resumed at 4 mg/day after 10 months of discontinuation." So the interruption happened 2 months after starting lenvatinib. 2 months is 60 days, which is 1440 hours. So proteinuria at +1440 hours. Then, after 10 months discontinuation, lenvatinib resumed. 10 months is 300 days ≈ 7200 hours. So the resumption is at 1440 + 7200 = 8640 hours? Wait, no. The timeline is: started at 0, stopped at +1440 (2 months), then 10 months later resumed. So the resumption would be at 1440 + (10*30*24) = 1440 + 7200 = 8640 hours. However, in the case report, she visits the emergency department one week before presenting symptoms. 
+
+Wait, the case says: "One week before visiting the emergency department, she was feeling unsteady...vomit..." So the ED visit is the current admission. So the events leading to her ED visit (the current admission) would have timestamp 0. 
+
+Therefore, the lenvatinib initiation, interruption, and resumption are prior events. 
+
+So the timeline:
+
+- Lenvatinib started at 0 (admission for HCC). But wait, the initial admission for HCC was when she was diagnosed. Then lenvatinib was initiated as part of treatment. 
+
+Wait, let's parse the case step by step:
+
+Case Report:
+
+"A 78-year-old woman was diagnosed with HCC at our hospital after presenting with abdominal pain. She had a history of hypertension, liver cirrhosis, and antibodies for hepatitis C virus for more than 10 years. Computed tomography revealed advanced HCC measuring 7.5 cm with portal invasion and a few daughter nodules. As this HCC presentation exceeded the Barcelona Clinic Liver Cancer extended criteria, the patient underwent medical intervention."
+
+"Lenvatinib was initiated at 8 mg/day. The treatment was interrupted 2 months later when she developed proteinuria. Lenvatinib was subsequently resumed at 4 mg/day after 10 months of discontinuation. One week before visiting the emergency department, she was feeling unsteady on her feet while walking and would vomit immediately after ingesting small amounts of food. She presented with respiratory distress, urge incontinence, and night sweats."
+
+So the admission to the hospital for HCC diagnosis is the initial event, timestamp 0. Then:
+
+- Lenvatinib started at 0 (as part of initial treatment).
+
+- 2 months later (1440 hours), treatment interrupted (proteinuria at +1440).
+
+Drops lenvatinib for 10 months (10 months = 7200 hours), then resumes at 4 mg/day. So the resumption is at 1440 + 7200 = 8640 hours from initial admission.
+
+Then, one week before the ED visit (current admission), she had symptoms: unsteady, vomiting, etc. The ED visit is the current admission (timestamp 0). So the events one week before ED visit would be at -168 hours (7 days * 24 = 168). 
+
+So, prior to the ED admission:
+
+- Feeling unsteady, vomiting: -168 hours.
+
+At ED admission (current, timestamp 0):
+
+- Respiratory distress, urge incontinence, night sweats (these are part of her presentation at ED, so 0).
+
+Wait, the case says: "She presented with respiratory distress, urge incontinence, and night sweats." So those are part of the ED visit, which is timestamp 0.
+
+Then, during evaluation at ED:
+
+Dehydration, shock, unmeasurable BP, high heart rate, respiratory rate, body temp. All at 0.
+
+CT showing free air bubbles (timestamp 0).
+
+Emergency laparotomy: performed after the ED evaluation. Assume this happened a day after admission (24 hours).
+
+Surgery findings: peritonitis, perforation, etc. So these events at +24.
+
+She died 48 hours after surgery: 24 + 48 = 72 hours.
+
+Histopathology results would be post-surgery, so around +24.
+
+Now, for the key events:
+
+- Hypertension, liver cirrhosis, HCV antibodies: chronic conditions, timestamp 0.
+
+- HCC diagnosis: 0.
+
+> Lenvatinib initiated at 0.
+
+> Interrupted at +1440 (2 months).
+
+> Resumed at +8640 (after 10 months).
+
+But the ED visit is a separate admission. Wait, the initial admission was when she was diagnosed with HCC. Then, during treatment, she had interruptions. Then, the ED visit is another admission. So we need to clarify which admission is considered the timestamp 0 here.
+
+The case report's main focus is on the ED visit leading to the bowel perforation and death. The initial HCC diagnosis and treatment are part of her history.
+
+Therefore, the admission (ED visit) where she presented with respiratory distress, etc., is the timestamp 0. All events before that are negative, and after are positive.
+
+So:
+
+Initial HCC diagnosis and treatment (lenvatinib) happened before the ED visit. So lenvatinib initiation would be at a time before ED admission.
+
+But the case says she was on lenvatinib, interrupted after 2 months, then resumed after 10 months. The ED visit occurs after resumption.
+
+Wait, the timeline:
+
+- Diagnosed with HCC (initial admission) and started lenvatinib 8 mg/day.
+
+: 2 months later, stopped due to proteinuria.
+
+: 10 months after stopping, resumed at 4 mg/day.
+
+Then, one week before ED visit (current admission), she had symptoms.
+
+So, the ED visit is the current admission, timestamp 0. The initial HCC diagnosis was in the past. 
+
+So the events:
+
+- Lenvatinib initiated at time = (current admission is 0). The initial lenvatinib start was at a time before the current admission. The case doesn't specify the exact time between initial HCC diagnosis and ED visit. So we have to approximate.
+
+Wait, the case says:
+
+After resuming lenvatinib (after 10 months discontinuation), one week before ED visit she had symptoms. So the resumption was 10 months after the interruption. So total time from initial lenvatinib start to ED visit:
+
+2 months (interruption) + 10 months (discontinuation) + 1 week (symptoms before ED). 
+
+But since the ED visit is the current admission, all prior events have negative timestamps.
+
+So:
+
+- Lenvatinib initiated at some point, but the exact time isn't given. The case says lenvatinib was resumed 10 months after discontinuation, and then one week later symptoms began.
+
+Wait, the case says:
+
+"Lenvatinib was subsequently resumed at 4 mg/day after 10 months of discontinuation. One week before visiting the emergency department, she was feeling unsteady..." 
+
+So after resuming lenvatinib, one week later she develops symptoms leading to ED visit. So the ED visit is 1 week after resumption. So the timeline is:
+
+- Lenvatinib started (initial) at time X.
+
+- 2 months later (X + 1440), stopped due to proteinuria.
+
+# 10 months discontinuation (X + 1440 + 7200 = X + 8640), then resumed.
+
+# One week after resumption (X + 8640 + 168 = X + 8808), she has symptoms.
+
+Then, she presents to ED (current admission, timestamp 0) which is at X + 8808 + 168 = X + 8976? This is getting complicated.
+
+Alternatively, since the ED visit is the current admission (timestamp 0), all events before that are negative. 
+
+So:
+
+The lenvatinib was resumed 10 months after discontinuation, and one week before ED visit (current admission) she had symptoms. So the resumption happened 10 months and 1 week before ED visit. Wait, no:
+
+The case says lenvatinib was resumed after 10 months of discontinuation, then one week before ED visit she had symptoms. So the resumption is 10 months after the initial interruption, and the symptoms started one week before ED visit.
+
+Therefore, the timeline from initial interruption:
+
+Interruption at 2 months (from initial lenvatinib start). Then, 10 months after that, lenvatinib is resumed. Then, one week after resumption, symptoms start, leading to ED visit. 
+
+But this is too much timeline without exact dates. Since the case report doesn't provide exact dates, we need to approximate based on the information given.
+
+The key point is that the ED visit is the current admission (timestamp 0). Events before that are negative. 
+
+Therefore:
+
+- Lenvatinib initiated at some point in the past. The exact time isn't specified, so we can't assign a timestamp unless it's mentioned in relation to the ED visit.
+
+The case mentions "One week before visiting the emergency department, she was feeling unsteady..." So the feeling unsteady and vomiting are at -168 hours (1 week).
+
+The symptoms leading to ED visit (respiratory distress, urge incontinence, night sweats) are part of the ED presentation, so timestamp 0.
+
+The lenvatinib resumption is after 10 months of discontinuation. Since the discontinuation was 2 months after initiation, the resumption is 10 months after that. But without knowing the time between resumption and ED visit, we can't assign a precise timestamp. The case mentions that one week before ED visit (current admission), she had symptoms, which would be -168 hours. 
+
+However, the lenvatinib resumption would be before that. The case says lenvatinib was resumed at 4 mg/day after 10 months discontinuation, then one week before ED visit, the symptoms started. So the resumption occurred 10 months after the initial interruption (2 months after starting lenvatinib). So the timeline is:
+
+Start lenvatinib (time -8784 hours (10 months and 2 months before ED visit)? Not sure. This might be too complicated. 
+
+Alternatively, since the case doesn't provide exact dates, we might have to assign the lenvatinib initiation and interruption as prior events with negative timestamps, but it's unclear how much before the ED visit. 
+
+The case report is focused on the ED admission, so perhaps the main events are around that. 
+
+So for this task, since the admission event is the ED visit (timestamp 0), the prior events (HCC diagnosis, lenvatinib initiation, interruption, resumption) are all before this admission and have negative timestamps. 
+
+But the case doesn't specify how long before the ED visit these occurred. Therefore, we can only approximate.
+
+The key is to extract events mentioned in the case and assign timestamps based on their relation to the ED visit (timestamp 0).
+
+So:
+
+- diagnosed with HCC (initial diagnosis) happened in the past. Since no time is given, and the ED visit is the current admission, we can't assign a specific timestamp. However, in the case report, the patient was on lenvatinib, interrupted after 2 months, then resumed after 10 months. The ED visit occurs after that. So the timeline is:
+
+Start lenvatinib (time -X). Then, 2 months later (time -X + 1440), interruption. Then 10 months after interruption (time -X + 1440 + 7200), resumption. Then one week before ED visit (time -X + 1440 + 7200 - 168) symptoms start.
+
+But without knowing X, it's impossible. Therefore, perhaps we have to treat the ED visit as the main admission (0), and all prior events are either mentioned with time or have to be approximated.
+
+The case says: "One week before visiting the emergency department, she was feeling unsteady..." So feeling unsteady and vomiting are at -168 hours.
+
+Prior to that, lenvatinib was resumed after 10 months of discontinuation. So resumption happened at -168 - (10 months). 10 months is 7200 hours, so resumption at -7200 - 168 = -7368 hours.
+
+But this is speculative. Since the case report doesn't provide exact times, perhaps the best approach is to list events as per their mention in the text, assigning timestamps where possible.
+
+The key events during the ED visit (timestamp 0):
+
+- Respiratory distress, urge incontinence, night sweats: 0.
+
+- Symptoms one week prior: -168.
+
+- Lenvatinib resumption: after 10 months discontinuation. Since the discontinuation was 2 months after initiation, the total time from initiation to resumption is 12 months. But without exact dates, we can't calculate.
+
+Given the ambiguity, perhaps the best approach is:
+
+- Include all events mentioned, assign timestamps where temporal information is given.
+
+For example:
+
+- "Lenvatinib was initiated at 8 mg/day." No time given, so assume it's at the initial HCC diagnosis, which is a prior admission. Since the current admission is ED, timestamp 0. So this event is before, but no exact time, so can't assign. But the case doesn't mention how long ago the initial HCC diagnosis was. Therefore, perhaps we can't include it unless the case provides a time.
+
+Wait, the case says she had HCC diagnosed when she presented with abdominal pain (the initial admission). Then lenvatinib started, interrupted 2 months later, then after 10 months, resumed. Then one week before ED visit, symptoms. 
+
+The ED visit is a separate admission. Therefore, the initial HCC diagnosis and treatment are prior to the current ED admission. The time between initial diagnosis and ED visit is 2 months + 10 months + 1 week ≈ 12 months and 1 week. But since the case doesn't specify, perhaps we treat the initial HCC diagnosis and lenvatinib initiation as prior events with no specific timestamp, but the instructions say to approximate if temporal info isn't available.
+
+But the instructions say: If there is no temporal information of the event, please use your knowledge and events with temporal expression before and after the events to provide an approximation.
+
+So, perhaps:
+
+The lenvatinib was initiated at the time of HCC diagnosis (timestamp for that event would be prior to current admission). The current admission is ED visit (0). So the HCC diagnosis and lenvatinib initiation happened, say, 12 months and 1 week before ED visit (2 months treatment, 10 months discontinuation, 1 week symptoms). Therefore, HCC diagnosis was 12 months and 1 week prior: 52 weeks * 12 months ≈ 52 weeks = 364 days ≈ 8736 hours. So HCC diagnosis at -8736 hours. But this is an approximation.
+
+But the case doesn't specify, so perhaps it's better to omit events without clear temporal references. However, the instructions say to include all events, even if temporal info isn't available.
+
+Alternatively, treat the ED visit as the main admission (0), and all events leading up to it as prior:
+
+- Lenvatinib initiated at some point in the past (no timestamp).
+
+- Interrupted 2 months later (so if lenvatinib started at -X, interruption at -X + 1440).
+
+- Resumed after 10 months: -X + 1440 + 7200 = -X + 8640.
+
+- Symptoms one week before ED visit: -168.
+
+But without knowing X, we can't assign. Therefore, perhaps the only events with clear temporal references are:
+
+- Symptoms one week before ED: -168.
+
+- ED visit: 0.
+
+- CT scan at ED: 0.
+
+9 Laparotomy: assuming done a day after ED admission, so +24.
+
+Death at 48 hours after surgery: +72.
+
+Other events during ED evaluation (vitals, labs) at 0.
+
+Histopathology etc., done post-op, so +24.
+
+The proteinuria and lenvatinib interruption 2 months after initiation: if initiation was at a past time, then the interruption is 1440 hours after that. But since initiation time is unknown, we can't assign. However, the case mentions "2 months later" relative to initiation. If the

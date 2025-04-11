@@ -1,0 +1,88 @@
+40 years old | 0
+male | 0
+admitted to the hospital | 0
+sudden hemiplegia of the right limb | -3
+coma | -2
+cerebral hemorrhage in the left basal ganglia region | 0
+left frontotemporal parietal craniotomy | 0
+hematoma removal | 0
+decompression with bone flap removal | 0
+hematoma cleared | 6
+middle line centered | 6
+cistern clearly displayed | 6
+subdural effusion | 72
+residual hematoma | 144
+intraventricular hematoma | 144
+effusion beside falx | 144
+subcutaneous effusion | 144
+subcutaneous effusion significantly progressed | 528
+cerebrospinal fluid leakage | 552
+highest body temperature 39.5°C | 552
+lumbar puncture | 552
+CSF cloudy | 552
+CSF white blood cells 1690×106/L | 552
+CSF protein 2034.6 mg/L | 552
+CSF glucose 0.16 mmol/L | 552
+intracranial infection | 552
+subcutaneous drainage | 564
+drainage tube fixed | 564
+subcutaneous effusion white blood cells 4916×106/L | 564
+subcutaneous effusion glucose 3.30 mmol/L | 564
+subcutaneous effusion protein 2565.8 mg/L | 564
+four groups of puncture fluid for culture | 564
+drug sensitivity test | 564
+subcutaneous effusion decreased | 672
+flap tension decreased | 864
+body temperature normal | 864
+subcutaneous drainage tube removed | 864
+subcutaneous effusion disappeared | 912
+high fever | 912
+body temperature above 39.5°C | 912
+lumbar puncture | 912
+CSF white blood cells 570×106/L | 912
+CSF glucose 2.56 mmol/L | 912
+CSF protein 2506.8 mg/L | 912
+lumbar cistern catheter drainage | 912
+multiple drug resistant Klebsiella pneumoniae | 936
+carbapenems antibiotics resistance | 936
+lack of polymyxin B | 936
+lack of tigecycline | 936
+amikacin use | 936
+body temperature above 39.5°C | 984
+CSF cloudy | 984
+CSF white blood cells 6168×106/L | 984
+CSF glucose 1.83 mmol/L | 984
+CSF protein 1403.0 mg/L | 984
+intrathecal injection of gentamicin | 984
+oral co-trimoxazole | 984
+body temperature below 38°C | 1008
+CSF white blood cells 112×106/L | 1008
+CSF glucose 2.03 mmol/L | 1008
+CSF protein 1643.0 mg/L | 1008
+body temperature 38°C | 1032
+CSF white blood cells 366×106/L | 1032
+CSF glucose 2.95 mmol/L | 1032
+CSF protein 1464.6 mg/L | 1032
+body temperature 37°C | 1056
+CSF white blood cells 84×106/L | 1056
+CSF glucose 2.93 mmol/L | 1056
+CSF protein 1093.6 mg/L | 1056
+body temperature normal | 1080
+CSF white blood cells 6×106/L | 1080
+CSF glucose 2.20 mmol/L | 1080
+CSF protein 1683.6 mg/L | 1080
+lumbar cistern blocked | 1080
+tube pulled out | 1080
+no hydrocephalus | 1176
+subcutaneous effusion disappeared | 1176
+middle line centered | 1176
+cistern clear | 1176
+body temperature normal | 1248
+CSF white blood cells 8×106/L | 1248
+CSF glucose 2.41 mmol/L | 1248
+CSF protein 1279.3 mg/L | 1248
+CSF clear | 1248
+slight hydrocephalus | 1320
+infection controlled | 1320
+consciousness regained | 1320
+transferred to rehabilitation hospital | 1440

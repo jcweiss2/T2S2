@@ -1,0 +1,166 @@
+43 years old | 0
+man | 0
+presented at the Internal Medicine Department of Ahepa University Hospital with symptoms of fever and ascites | 0
+fever | 0
+ascites | 0
+ex-medical student | 0
+sickle cell anemia | -227136
+splenectomy | -227136
+cholecystectomy | -227136
+transit ischemic attack | -227136
+diagnostic imaging control with CT scan | 0
+free ascites | 0
+giant mass in the left upper-abdominal quadrant | 0
+paraaortic | 0
+underneath the pancreas | 0
+CT-angio with i.v. contrast infusion | 0
+giant splenic aneurysm 9.8 cm in diameter | 0
+giant splenic aneurysm 5 cm in length | 0
+located in the previous common ligation of the splenic vessels | 0
+concomitant contrast infusion into the enlarged splenic vein | 0
+AV-shunt | 0
+diagnostic centesis | 0
+transferred to the Vascular Surgery Clinic | 0
+long-term pharmaceutical treatment: aspirin | 0
+long-term pharmaceutical treatment: hydroxyurea | 0
+long-term pharmaceutical treatment: tazobactam | 0
+long-term pharmaceutical treatment: omeprazole | 0
+preoperative pharmaceutical treatment: spironolactone | 0
+preoperative pharmaceutical treatment: rifaximin | 0
+preoperative pharmaceutical treatment: saccharomyces boulardii | 0
+preoperative pharmaceutical treatment: enoxaparin | 0
+underwent surgery | 24
+open repair via supra-infraumbilical incision | 24
+intraperitoneal access to the aorta | 24
+dislocation of the colon | 24
+dislocation of the small intestine | 24
+lesion included into a giant omentum sac | 24
+extremely fragile and hemorrhagic due to the chronic inflammatory process | 24
+covered rupture | 24
+4 liters of ascites | 24
+blood in the peritoneal cavity | 24
+sac preparation extremely difficult | 24
+omentum prepared and removed | 24
+aneurysmatic sac prepared and removed | 24
+upper half of the sac in full contact with the pancreas | 24
+cross clamp to the orifice of the splenic artery | 24
+cross clamp to the splenic vein | 24
+vessels ligated using 4-0 Prolene sutures | 24
+vessels ligated using Teflon implants | 24
+remained in the ICU | 24
+transferred to the General Surgery Department | 72
+portal vein thrombosis | 72
+antithrombotic treatment modified from Tinzaparin to Fondaparinux | 72
+transferred to the Internal Medicine Department | 240
+fever | 360
+high levels of laboratory inflammation markers | 360
+paralytic ileus | 360
+low Hct | 360
+diagnostic imaging control with CT | 360
+digital subtraction angiography (DSA) | 360
+minor signs of bleeding in the area of the stomach atrium | 360
+hemorrhagic pancreatitis | 360
+investigative laparotomy | 360
+intraperitoneal lavage | 360
+vacuum-assisted closure (VAC) of the abdominal cave | 360
+transferred to the ICU | 360
+remained in the ICU | 360
+sepsis successfully treated | 720
+transferred to the General Surgery Department | 720
+discharged | 720
+portal hypertension | 0
+peritoneal infection | 0
+concomitant AV-shunt | 0
+rupture | 24
+chronic inflammatory process | 24
+hemorrhagic tendency | 24
+inflammatory tendency | 24
+hyperdynamic conditions | 0
+irreversible hepatic lesion | 360
+pancreatitis | 360
+peritoneal infection | 360
+vacuum-assisted closure (VAC) | 360
+sepsis | 360
+rehabilitation | 720
+closure of the abdominal cave | 720
+no further complications | 720
+43 years old|0
+male|0
+admitted to the hospital|0
+fever|0
+ascites|0
+sickle cell anemia|-227136
+splenectomy|-227136
+cholecystectomy|-227136
+transit ischemic attack|-227136
+CT scan|0
+free ascites|0
+giant mass in the left upper-abdominal quadrant|0
+paraaortic|0
+underneath the pancreas|0
+CT-angio|0
+giant splenic aneurysm (9.8 cm diameter)|0
+giant splenic aneurysm (5 cm length)|0
+contrast infusion into the enlarged splenic vein|0
+AV-shunt|0
+diagnostic centesis|0
+transferred to Vascular Surgery Clinic|0
+aspirin|0
+hydroxyurea|0
+tazobactam|0
+omeprazole|0
+spironolactone|0
+rifaximin|0
+saccharomyces boulardii|0
+enoxaparin|0
+surgery|24
+open repair|24
+intraperitoneal access|24
+colon dislocation|24
+small intestine dislocation|24
+giant omentum sac|24
+fragile lesion|24
+hemorrhagic lesion|24
+covered rupture|24
+4 liters ascites|24
+peritoneal blood|24
+difficult sac preparation|24
+omentum removal|24
+aneurysmatic sac removal|24
+contact with pancreas|24
+cross clamp splenic artery|24
+cross clamp splenic vein|24
+ligation with Prolene sutures|24
+ligation with Teflon implants|24
+ICU stay|24
+transferred to General Surgery Department|72
+portal vein thrombosis|72
+Tinzaparin|72
+Fondaparinux|72
+transferred to Internal Medicine Department|240
+fever recurrence|360
+high inflammation markers|360
+paralytic ileus|360
+low Hct|360
+CT imaging|360
+DSA|360
+minor bleeding stomach atrium|360
+hemorrhagic pancreatitis|360
+laparotomy|360
+lavage|360
+VAC placement|360
+ICU transfer|360
+ICU stay (20 days)|360
+sepsis treatment|720
+General Surgery transfer|720
+discharge|720
+portal hypertension|0
+peritoneal infection|0
+hyperdynamic conditions|0
+irreversible hepatic lesion|360
+peritoneal infection|360
+vacuum-assisted closure|360
+sepsis|360
+rehabilitation|720
+abdominal cave closure|720
+no complications|720

@@ -1,0 +1,56 @@
+66 years old | 0
+male | 0
+admitted for radical cystoprostatectomy | 0
+ileal conduit formation | 0
+T1 high grade transitional cell carcinoma | 0
+bladder diverticulum | 0
+lobectomy | -inf
+primary lung adenocarcinoma | -inf
+sigmoid colectomy | -inf
+stage II colon adenocarcinoma | -inf
+type 2 diabetes | -inf
+hypertension | -inf
+previous cardiac stenting | -inf
+high grade small bowel obstruction | 120
+exploratory laparotomy | 120
+interstitial herniation of small bowel | 120
+aspiration of gastric contents | 120
+ventilation difficulties | 120
+oxygenation difficulties | 120
+sepsis | 120
+venous-venous extracorporeal membrane oxygenation | 120
+vasopressor requirements | 168
+inotropic requirements | 168
+CT scan of abdomen | 168
+free fluid | 168
+bowel oedema | 168
+ischaemic bowel | 168
+anastomotic leak | 168
+Hartmann's resection | 168
+Bander ureteral diversion stents | 168
+uretero:ileal anastomotic leaks | 216
+pelvic collection | 216
+laparotomy wound dehiscence | 216
+intra-abdominal free fluid leakage | 216
+urethral indwelling catheter | 216
+Flexi-Seal rectal tube | 216
+creatinine level 1490 μmol/L | 216
+bilateral nephrostomy tubes | 216
+methylene blue injection | 720
+intrabdominal drain bottle leakage | 720
+wound leakage | 720
+nephrostograms | 720
+ureteric embolisation | 720
+Interlock-18 coils | 720
+Histoacryl/Lipiodol glue | 720
+covering nephrostomy tube | 720
+ongoing sepsis | 1512
+MVP-9Q plug | 1512
+Histoacryl/Lipiodol in 1:3 dilution | 1512
+final nephrostogram | 1512
+rehabilitation facility transfer | 2160
+bilateral nephrostomy tubes | 2160
+discharged home | 2160
+12 months follow-up | 2160
+regular 6-weekly nephrostomy tube exchanges | 2160
+surveillance scans | 2160

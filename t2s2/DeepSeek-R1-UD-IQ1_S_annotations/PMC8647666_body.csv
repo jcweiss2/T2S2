@@ -1,0 +1,87 @@
+event,time
+63 years old, 0
+    male , 0
+    admitted to the hospital , 0
+    epigastric bloating , 0
+    discomfort , 0
+    extensive smoking , -inf
+    hypertension , -inf
+    chronic kidney disease , -inf
+    Child C liver disease , -inf
+    portal hypertension , -inf
+    ascites , -inf
+    oesophageal varices , -inf
+    gastropathy , -inf
+    antibiotics , 0
+    ascitic drainage , 0
+    culture-negative neutrophilic ascites , 0
+    acute severe abdominal pain , 624
+    perforated duodenal ulcer , 624
+    exploratory laparotomy with roux loop mucosal patch , 624
+    first operation , 624
+    transferred to surgical ICU , 624
+    ventilatory support , 624
+    haemodynamic support , 624
+    high intra-abdominal pressure (26mmHg) , 672
+    oliguric acute kidney impairment , 672
+    abdominal compartment syndrome , 672
+    paralysis , 672
+    renal replacement therapy , 672
+    duodeno-jejunal anastomotic leak , 840
+    second exploratory laparotomy with tube diversion and primary repair , 840
+    wound dehiscence pedicled omentoplasty , 840
+    definitive surgery (primary exclusion and roux loop gastrojejunostomy) , 960
+    third operation , 960
+    significant blood loss (5.5L) , 960
+    received 7 units packed red cells , 960
+    received 2 units pooled platelets , 960
+    received 6 units fresh frozen plasma , 960
+"    volume-controlled ventilation (tidal volume 400mL, peak airway pressure 22cmH2O) ", 960
+    noradrenaline infusion up to 0.4mcg/kg/min intraoperatively , 960
+    noradrenaline infusion 0.03 mcg/kg/min post-operatively , 960
+    ventilation difficulty , 962
+    peak pressure (Ppeak) rising to 50cmH2O , 962
+    tidal volume less than 200mL , 962
+    end-tidal carbon dioxide 87mmHg , 962
+    atracurium infusion (0.3-0.6ml/kg/hr) , 962
+    train-of-four count of 2 , 962
+    propofol sedation (2-4mg/kg/hr) , 962
+    bispectral index 40-60 , 962
+    increased peak and plateau pressures (>35cmH2O) , 962
+    no rise in peak-plateau pressure difference , 962
+    clear chest bilaterally , 962
+    generalized poor air entry , 962
+    endotracheal tube suctioning minimal secretions , 962
+"    arterial blood gas: pH 6.99, pCO2 106mmHg, pO2 125mmHg, BE -6 ", 962
+    chest X-ray no apparent cause , 962
+    intra-abdominal pressure 31mmHg , 962
+    noradrenaline increased to 0.3mcg/kg/min , 962
+    vasopressin started at 1.8 units/hr , 962
+    haemoglobin drop (8.9g/dL to 7.7g/dL) , 962
+    suspicion of intra-abdominal haemorrhage , 962
+    fourth exploratory laparotomy , 984
+    small intra-abdominal bleeding , 984
+    blood clots , 984
+    moderate generalized bowel edema , 984
+    improvement in ventilation and haemodynamics post-peritoneum opening , 984
+    Ppeak improved from 45cmH2O to 38cmH2O , 984
+    tidal volume improved from 290mL to 350mL , 984
+    vasopressin stopped , 984
+    noradrenaline weaned to 0.1mcg/kg/min , 984
+    intra-abdominal pressure 22mmHg , 984
+    Ppeak 35cmH2O , 984
+"    arterial blood gas: pH 7.164, pCO2 72.8mmHg, pO2 152mmHg, BE -4 ", 984
+    bedside bronchoscopy , 984
+    mucus plug at endotracheal tube tip , 984
+    no airway abnormalities , 984
+    ventilator flow-time curve suggestive of expiratory flow limitation , 984
+    endotracheal tube exchange , 984
+    Ppeak improved to 18cmH2O , 984
+    tidal volume improved to 450mL , 984
+    ventilator flow-time curve normal , 984
+    noradrenaline stopped , 984
+"    arterial blood gas: pH 7.42, pCO2 39.1mmHg, pO2 76.1mmHg, BE 0.5 ", 985
+    gastrointestinal bleeding from anastomosis breakdown , 1092
+    overwhelming sepsis , 1092
+    multiorgan failure , 1092
+    died , 1200

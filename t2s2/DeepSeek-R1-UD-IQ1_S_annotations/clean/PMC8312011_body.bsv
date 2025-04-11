@@ -1,0 +1,67 @@
+61 years old | 0
+male | 0
+presented to the emergency department | 0
+acute dyspnea | 0
+productive cough | 0
+admitted to the hospital ward | 0
+treated for health care-associated pneumonia | 0
+chest x-ray opacities | 0
+elevated procalcitonin level | 0
+acute change in status | 24
+decrease in blood pressure | 24
+end-stage renal disease | - (prior to admission, assigned based on context)
+hemodialysis | - (prior to admission, assigned based on context)
+peripheral artery disease | - (prior to admission, assigned based on context)
+right above-the-knee amputation | - (prior to admission, assigned based on context)
+left below-the-knee amputation | - (prior to admission, assigned based on context)
+type 2 diabetes mellitus | - (prior to admission, assigned based on context)
+AV fistula creation in left forearm | - (prior to admission, assigned based on context)
+failed AV fistula | - (prior to admission, assigned based on context)
+tunneled right internal jugular vein hemodialysis catheter | - (prior to admission, assigned based on context)
+electrocardiogram obtained | 0
+new lateral T-wave inversions | 0
+elevated cardiac biomarkers | 0
+non-ST-segment elevation myocardial infarction | 0
+admitted to cardiac intensive care unit | 0
+norepinephrine administration | 0
+right radial arterial line placement | 0
+transthoracic echocardiography | 0
+ejection fraction 40% | 0
+anterior wall motion abnormalities | 0
+septal wall motion abnormalities | 0
+apical wall motion abnormalities | 0
+absent bilateral femoral arterial pulses | 0
+normal left radial pulse | 0
+bounding left brachial pulse | 0
+prior computed tomography angiography | - (prior to admission, assigned based on context)
+high-grade stenoses of bilateral common iliac arteries | - (prior to admission, assigned based on context)
+decision for left radial arterial access through AV fistula | 0
+left radial artery accessed | 0
+counterpuncture approach used | 0
+6-F Glidesheath slender not fully advanced | 0
+5-F JR 4 diagnostic catheter introduced | 0
+significant tortuosity in AV fistula | 0
+radial arteriogram | 0
+occlusion of distal brachial artery | 0
+patulous vein segment | 0
+unsuccessful navigation with 0.035-inch wires | 0
+venous segment crossed with 0.014-inch Runthrough wire | 0
+diagnostic catheters advanced to coronary sinus | 0
+coronary angiography | 0
+heavily calcified 99% lesion in LAD | 0
+first diagonal coronary artery lesion | 0
+decision to perform PCI | 0
+exchange for 6-F EBU 4 guide catheter failed | 0
+0.035-inch guidewire exchanged for 0.014-inch coronary wire | 0
+balloon-assisted tracking attempted | 0
+guide catheter downsized to 5-F EBU 4 | 0
+successful navigation through AV fistula | 0
+PCI performed for LAD lesion | 0
+predilatation with Sapphire balloons | 0
+Resolute Onyx stent placed | 0
+PCI of diagonal lesion | 0
+patient transferred back to CICU | 24
+hemodynamics improved | 24
+weaned off vasopressors | 24
+discharged home | 336 (14 days * 24 hours/day)
+doing well at 1 year follow-up | 8760 (365 days * 24 hours/day)

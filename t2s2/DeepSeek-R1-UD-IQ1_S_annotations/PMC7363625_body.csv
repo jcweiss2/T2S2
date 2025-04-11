@@ -1,0 +1,202 @@
+event,time
+55 years old , 0
+    man , 0
+    resection of a right adrenal tumor , -87600
+    right adrenal tumor , -87600
+    excessive secretion of aldosterone , 0
+    excessive secretion of cortisol , 0
+    excessive secretion of catecholamines , 0
+    excessive secretion of sexual hormones , 0
+    monoclonal gammapathy , 0
+    mass (diameter 10.6 cm) , -87600
+    post-traumatic hematuria , -87600
+    normal blood pressure , -87600
+    stage II tumor (> 5 cm) , -87600
+    anesthetic procedure , -87600
+    surgical procedure , -87600
+    annual follow-up (computed tomography and PET) , -87600
+    asymptomatic until January 2019 , 0
+    liver enzymes disturbances , 0
+    large intrahepatic mass (14.4 × 12.6 cm) , 0
+    FDG-18 PET-scan , 0
+    liver biopsy , 0
+    molecular research assay , 0
+    surgical resection of intrahepatic tumor , 0
+    pre-anesthetic visit , 0
+    normal arterial blood pressure (133/73 mmHg) , 0
+    normal heart rate (58/min) , 0
+    laboratory investigations for abnormal endocrine hormonal secretion , 0
+    biomarkers of liver cancer , 0
+    induction of anesthesia , 0
+    maintenance with sevoflurane , 0
+    mobilization of the right liver , 0
+    severe adhesions between liver and vena cava , 0
+    bleeding at hepatico-caval small vessels , 0
+    hypotension , 0
+    blood transfusions (1347 mL) , 0
+    norepinephrine infusion (up to 0.65 μg/kg/min) , 0
+    parenchymal transection , 0
+    portal vein not opened , 0
+    hepatic vein not opened , 0
+    residual bleeding not present , 0
+    cristalloids (6000 mL) , 0
+    colloids (2000 mL) , 0
+    oxygen saturation no changes , 0
+    end-tidal carbon dioxide no changes , 0
+    arrival in ICU , 0
+    norepinephrine infusion rate (2 μg/kg/min) , 0
+    arterial blood pressure dependent on fluid replacement , 0
+    cristalloids (16000 mL over 8 hours) , 0
+    hemoglobin concentration (8.4 g/dL to 11.5 g/dL) , 0
+    total plasma protein concentration (14 g/L) , 0
+    refractory vasoplegic shock , 0
+    transthoracic echocardiography , 0
+    well preserved left ventricular function , 0
+    low filling pressures , 0
+    fluids received (47000 mL over first postoperative day) , 0
+    vasopressors (norepinephrine up to 5 μg/kg/min) , 0
+    methylprednisolone , 0
+    ventilation with 1.0 FiO2 , 0
+    generalized edema , 0
+    anuric renal failure , 0
+    lactic acidosis , 0
+    four-limb ischemia , 0
+    rhabdomyolysis , 0
+    abdominal compartment syndrome (ACS) , 0
+    bladder pressure >20 mm Hg , 0
+    multiple organ dysfunction , 0
+    second laparotomy for ACS decompression , 0
+    no acute liver failure , 0
+    no intestinal ischemia , 0
+    postoperative day 7 , 168
+    hemodynamic improvement , 168
+    decrease of vasopressors , 168
+    decrease of lactic acidosis , 168
+    blood cultures positive for Escherichia coli , 168
+    no evidence of intestinal ischemia , 168
+    no evidence of perforation , 168
+    refractory septic shock , 168
+    acute respiratory distress syndrome , 168
+    died on postoperative day 9 , 216
+    determination of catecholamines impossible , 0
+    determination of cortisol concentration impossible , 0
+    immunohistochemical features of intrahepatic tumor similar to primary adrenal tumor , 0
+    Ki67 index >30% , 0
+    metastatic adrenocortical carcinoma , 0
+    postmortem examination findings , 216
+    acute tubular necrosis , 216
+    centrilobular liver necrosis , 216
+    hemorrhagic necrosis of the spleen , 216
+    lung congestion , 216
+    diffuse intra-alveolar hemorrhage , 216
+    inflammatory cell infiltration , 216
+    normal coronary arteries , 216
+    no inflammatory or ischemic injury in myocardium , 216
+"Alright, let me tackle this case report step by step. First, I need to extract all clinical events and assign timestamps based on the admission event (timestamp 0). The case is quite detailed, so I'll need to parse through each section carefully.",
+"The patient is a 55-year-old man with a history of a right adrenal tumor resected 10 years ago. Since that was 10 years before admission, which is 10*365 days, but the timestamp is in hours. 10 years in hours would be 10*365*24 = 87600 hours, so that's -87600 because it's before admission.",
+"He had a mass (10.6 cm) found after post-traumatic hematuria, which also happened 10 years ago, so same timestamp. The tumor was classified as stage II, so that's part of the same timeline. The follow-up with CT and PET was annual for five years, but since the patient remained asymptomatic until 2019, that might be after the initial 5 years, but the initial setup is 10 years ago. I need to check if the annual follow-up started right after the resection, which would be -87600 for those follow-ups as well.",
+"In January 2019, liver enzyme disturbances were found. That's when the admission or current events start, so timestamp 0. The large intrahepatic mass was discovered then, so that's 0. The FDG-18 PET-scan, liver biopsy, and molecular assay all happened around this time, so they're at 0.",
+"The surgical resection was planned, and pre-anesthetic visit showed normal BP and HR, which would be at 0. The induction and maintenance of anesthesia during surgery are part of the procedure, so timestamp 0.",
+"During surgery, complications like hypotension, blood transfusions, norepinephrine use, etc., all happen during the procedure, so timestamp 0. Post-operative ICU admission, norepinephrine infusion, fluid administration, refractory shock—all these are post-admission but during the hospital stay, so timestamp 0.",
+"The development of complications like generalized edema, anuric renal failure, lactic acidosis, etc., occur post-surgery but during the initial stay, so 0. The diagnosis of ACS with bladder pressure >20 mmHg is part of that.",
+"The second laparotomy for ACS decompression is part of the initial post-op period, so 0. On post-op day 7, which is 7*24=168 hours, blood cultures positive for E. coli, leading to septic shock. Then the patient dies on day 9, which is 9*24=216 hours.",
+"Postmortem findings are at death, so 216. The determination of metastatic ACC is confirmed around the time of death, so maybe 0 or 216, but since it's part of the diagnosis during hospitalization, likely 0.",
+"I need to ensure all events are captured, including negative findings like no evidence of intestinal ischemia. Each event should be separated into individual components if they're conjunctive. For example, ""normal arterial blood pressure and heart rate"" become two separate events. Also, discontinuation or termination events like stopping vasopressors on day 7.",
+"I need to check if any events have time references before or after admission and assign timestamps accordingly. For instance, the resection 10 years ago is -87600, while events in 2019 and the hospitalization are at 0. Postoperative days convert to hours (day 7 is +168, day 9 is +216).",
+"I might have missed some events or misassigned timestamps. Let me cross-validate each paragraph to ensure all events are included and correctly timestamped. For example, the molecular assay was done pre-surgery, so 0. The surgical resection is planned, so maybe 0 as well. Intraoperative events are during surgery, so 0. Post-operative complications until death are timestamped relative to admission.",
+"This requires careful parsing to not overlook any details. Events like ""no changes in oxygen saturation"" are pertinent negatives and should be included. Also, the immunohistochemical findings confirming metastatic ACC are part of the diagnosis during the hospital stay, so 0.",
+</think>,
+"Alright, based on the case report provided, here's the structured list of events with their respective timestamps:",
+55 years old , 0  
+man , 0  
+resection of a right adrenal tumor , -87600  
+right adrenal tumor , -87600  
+excessive secretion of aldosterone , 0  
+excessive secretion of cortisol ,D0  
+excessive secretion of catecholamines ,D0  
+excessive secretion of sexual hormones ,D0  
+monoclonal gammapathy ,D0  
+mass (diameter 10.6 cm) ,D-87600  
+post-traumatic hematuria ,D-87600  
+normal blood pressure ,D-87600  
+stage II tumor (> 5 cm) ,D-87600  
+anesthetic procedure ,D-87600  
+surgical procedure ,D-87600  
+annual follow-up (computed tomography and PET) ,D-87600  
+asymptomatic until January 2019 ,0  
+liver enzymes disturbances ,0  
+large intrahepatic mass (14.4 × 12.6 cm) ,0  
+FDG-18 PET-scan ,0  
+liver biopsy ,0  
+molecular research assay ,0  
+surgical resection of intrahepatic tumor ,0  
+pre-anesthetic visit ,0  
+normal arterial blood pressure (133/73 mmHg) ,0  
+normal heart rate (58/min) ,0  
+laboratory investigations for abnormal endocrine hormonal secretion ,0  
+biomarkers of liver cancer ,0  
+induction of anesthesia ,0  
+maintenance with sevoflurane ,0  
+mobilization of the right liver ,0  
+severe adhesions between liver and vena cava ,0  
+bleeding at hepatico-caval small vessels ,0  
+hypotension ,0  
+blood transfusions (1347 mL) ,0  
+norepinephrine infusion (up to 0.65 μg/kg/min) ,0  
+parenchymal transection ,0  
+portal vein not opened ,0  
+hepatic vein not opened ,0  
+residual bleeding not present ,0  
+cristalloids (6000 mL) ,0  
+colloids (2000 mL) ,0  
+oxygen saturation no changes ,0  
+end-tidal carbon dioxide no changes ,0  
+arrival in ICU ,0  
+norepinephrine infusion rate (2 μg/kg/min) ,0  
+arterial blood pressure dependent on fluid replacement ,0  
+cristalloids (16000 mL over 8 hours) ,0  
+hemoglobin concentration (8.4 g/dL to 11.5 g/dL) ,0  
+total plasma protein concentration (14 g/L) ,0  
+refractory vasoplegic shock ,0  
+transthoracic echocardiography ,0  
+well preserved left ventricular function ,0  
+low filling pressures ,0  
+fluids received (47000 mL over first postoperative day) ,0  
+vasopressors (norepinephrine up to 5 μg/kg/min) ,0  
+methylprednisolone ,0  
+ventilation with 1.0 FiO2 ,0  
+generalized edema ,0  
+anuric renal failure ,0  
+lactic acidosis ,0  
+four-limb ischemia ,0  
+rhabdomyolysis ,0  
+abdominal compartment syndrome (ACS) ,0  
+bladder pressure >20 mm Hg ,0  
+multiple organ dysfunction ,0  
+second laparotomy for ACS decompression ,0  
+no acute liver failure ,0  
+no intestinal ischemia ,0  
+postoperative day 7 ,168  
+hemodynamic improvement ,168  
+decrease of vasopressors ,168  
+decrease of lactic acidosis ,168  
+blood cultures positive for Escherichia coli ,168  
+no evidence of intestinal ischemia ,168  
+no evidence of perforation ,168  
+refractory septic shock ,168  
+acute respiratory distress syndrome ,168  
+died on postoperative day 9 ,216  
+determination of catecholamines impossible ,0  
+determination of cortisol concentration impossible ,0  
+immunohistochemical features of intrahepatic tumor similar to primary adrenal tumor ,0  
+Ki67 index >30% ,0  
+metastatic adrenocortical carcinoma ,0  
+postmortem examination findings ,216  
+acute tubular necrosis ,216  
+centrilobular liver necrosis ,216  
+hemorrhagic necrosis of the spleen ,216  
+lung congestion ,216  
+diffuse intra-alveolar hemorrhage ,216  
+inflammatory cell infiltration ,216  
+normal coronary arteries ,216  
+no inflammatory or ischemic injury in myocardium ,216

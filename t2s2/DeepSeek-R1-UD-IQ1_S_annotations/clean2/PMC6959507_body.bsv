@@ -1,0 +1,84 @@
+48 years old | 0
+female | 0
+admitted to the hospital | 0
+sudden loss of consciousness | -48
+pale face | -48
+salivation at the corners of the mouth | -48
+urinary incontinence | -48
+no nausea | -48
+no vomiting | -48
+no limb twitching | -48
+blood pressure 160/103 mmHg | -48
+heart rate 12 beats per minute | -48
+electrocardiogram showed third-degree atrioventricular block | -48
+serum potassium 2.59 mmol/L | -48
+diarrhea | -48
+rescue measures | -48
+temporary pacemaker implanted | -48
+chest CT scan revealed exudative lesions in the lungs bilaterally | -48
+head CT scan showed no abnormality | -48
+transferred to the ICU | -48
+stable vital signs | -48
+admitted to our hospital | 0
+temperature 39.5°C | 0
+blood pressure 92/45 mmHg | 0
+heart rate 60 beats/minute | 0
+respiratory rate 23 breaths per minute | 0
+trachea intubation | 0
+external mechanically ventilating | 0
+appendectomy incision | 0
+temporary cardiac pacing catheter | 0
+left femoral vein catheterization | 0
+white blood count 36,610/µL | 0
+88% neutrophils | 0
+procalcitonin 4.31 ng/mL | 0
+pro-B type natriuretic peptide 6072 pg/mL | 0
+hypersensitive troponin T 115.5 ng/L | 0
+ALT 331.5 U/L | 0
+AST 272 U/L | 0
+initial diagnosis of cardiac respiratory arrest | 0
+initial diagnosis of post-CPR syndrome | 0
+initial diagnosis of third-degree atrioventricular block | 0
+broad empirical therapy with imipenem | 0
+broad empirical therapy with vancomycin | 0
+temperature rose to 40.5°C | 72
+inflammation indexes significantly elevated | 72
+left femoral vein catheter considered possible infection source | 72
+catheter removed | 72
+catheter blood culture sent | 72
+venous blood culture sent | 72
+gram-negative rods detected from aerobic blood culture bottles | 72
+colistin applied | 72
+strains isolated from blood | 72
+strains isolated from chocolate agar | 72
+strains isolated from MacConkey agar | 72
+initial identification of Myroides spp. | 72
+confirmed by MALDI-TOF-MS | 72
+definitive identification via 16SrRNA gene sequencing | 72
+diagnosis of CRBSI | 72
+developed septic shock | 72
+antimicrobial susceptibility tests performed | 72
+resistant to piperacillin | 72
+resistant to piperacillin/tazobactam | 72
+resistant to ceftazidime | 72
+resistant to ceftriaxone | 72
+resistant to cefepime | 72
+resistant to aztreonam | 72
+resistant to imipenem | 72
+resistant to meropenem | 72
+resistant to amikacin | 72
+resistant to gentamicin | 72
+resistant to tobramycin | 72
+resistant to ciprofloxacin | 72
+resistant to levofloxacin | 72
+resistant to trimethoprim/sulfamethoxazole | 72
+susceptible to cefoperazone/sulbactam | 72
+antibiotic treatment changed to cefoperazone/sulbactam | 72
+antibiotic treatment changed to levofloxacin | 72
+CRBSI under control | 120
+no causative organism detected in blood culture | 120
+cardiac respiratory arrest again | 120
+temporary pacemaker reinstalled | 120
+coronary angiography showed coronary myocardial bridge | 120
+permanency cardiac pacemaker considered | 120
+transferred to local hospital | 120

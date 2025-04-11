@@ -1,0 +1,100 @@
+75 years old|0
+    female|0
+    hypertension|0
+    diabetes mellitus type II|0
+    chronic kidney disease (CKD stage II)|0
+    obesity (BMI 38.4 kg/m2)|0
+    hyperlipidemia|0
+    transferred from an outside facility|0
+    gallstone pancreatitis|0
+    right upper quadrant abdominal pain| -336
+    nausea|-336
+    vomiting|-336
+    admitted|0
+    afebrile|0
+    stable vital signs|0
+    epigastric tenderness|0
+    white blood cell count of 22,200/μL|0
+    serum lipate of 804 U/L|0
+    amylase level of 484 U/L|0
+    CT abdomen showing small gallstone in gallbladder|0
+    no signs of cholecystitis|0
+    no intra or extrahepatic biliary ductal dilatation|0
+    greater than 75% necrosis of pancreas|0
+    surrounding inflammatory changes|0
+    non-occlusive splenic vein thrombosis|0
+    lipid profile within normal limits|0
+    calcium level in normal range|0
+    drank alcohol occasionally|0
+    no medications with side effect of pancreatitis|0
+    CT scan showing no anatomic anomaly|0
+    denied recent gastrointestinal procedure|0
+    treated with intravenous fluid|0
+    IV antibacterials|0
+    analgesics|0
+    bowel rest|0
+    serum lipase and amylase improvement|0
+    persistent leukocytosis|0
+    inability to tolerate oral intake|0
+    hypoxemic respiratory failure|24
+    intubation|24
+    mechanical ventilation|24
+    repeat CT abdomen/pelvis with contrast showing large collection (13×19×23 cm)|24
+    no active bleeding|24
+    no signs of infection|24
+    pancreatic necrosectomy|24
+    abdominal washout|24
+    wide drainage|24
+    transferred to surgical ICU|24
+    vasopressor requirements|24
+    ventilator support|24
+    repeat CT abdomen/pelvis on POD 10|240
+    persistent leukocytosis|240
+    antimicrobial therapy|240
+    antifungal therapy|240
+    posterior wall gastric perforation|240
+    taken back to OR|240
+    gastric perforation repair|240
+    vasopressor requirements decreased|240
+    continuous close monitoring in surgical ICU|240
+    febrile episode|408
+    elevated WBC count|408
+    another posterior wall gastric perforation|408
+    taken back to OR|408
+    primary repair of second gastric perforation|408
+    abdominal washout|408
+    more pancreatic necrosectomy|408
+    third posterior wall gastric perforation|672
+    family elected not to pursue additional surgery|672
+    pancreatic histopathology report showing necrosis|672
+    clusters of cells with CMV inclusion bodies|672
+    CMV antibody stains|672
+    checked HIV status|672
+    HIV negative|672
+    initiated intravenous ganciclovir 200 mg every 12 hours|672
+    negative CMV IgM titer|672
+    positive CMV IgG titer|672
+    CMV PCR of 3,860,104 IU/mL|672
+    clinical improvement|672
+    leukocytosis trending down|672
+    weaned off vasopressors|672
+    CMV PCR decreased to 259 IU/mL after 14 days|1176
+    total parenteral nutrition (TPN)|1176
+    tracheostomy|1176
+    jejunostomy feeding tube placement|1176
+    ganciclovir discontinued after 16 days|1344
+    abdominal wound dehiscence|1344
+    debridement|1344
+    negative pressure wound therapy|1344
+    skin grafting|1344
+    urine culture positive for Candida albicans|1344
+    bronchoalveolar lavage culture positive for Pseudomonas aeruginosa|1344
+    treated appropriately|1344
+    discharged to rehabilitation center|1344
+    tracheostomy decannulated|1344
+    regular diet|1344
+    no evidence of leak on follow-up CT scans|1344
+    outpatient EGD performed five months later|3600
+    negative for malignancy|3600
+    negative for Helicobacter pylori|3600
+    negative for CMV infection|3600

@@ -1,0 +1,59 @@
+event,time
+56 years old ,0.0
+    female ,0.0
+    abnormal vaginal discharge ,-336.0
+    visited a gynecologist ,-336.0
+    vaginal culture ,-336.0
+    cervical cytology ,-336.0
+    endometrial cytology ,-336.0
+    fever of 40 °C ,-336.0
+    lower abdominal pain ,-336.0
+    taken to the emergency room ,-336.0
+    blood pressure 71/46 mmHg ,-336.0
+    marked tenderness from right upper quadrant to lower abdomen ,-336.0
+    fluid resuscitation therapy crystalloids 500 mL/h ,-336.0
+    high procalcitonin 75.49 ng/mL ,-336.0
+    abdominal CT no free air or massive ascites ,-336.0
+    full stomach ,-336.0
+    edema of the small intestine ,-336.0
+    intra-peritoneal source of infection not detected preoperatively ,-336.0
+    severe sepsis ,-336.0
+    severe pan-peritonitis ,-336.0
+    exploratory laparotomy ,-336.0
+    purulent ascites ,-336.0
+    no injury in the gastrointestinal tract ,-336.0
+    uterus intact ,-336.0
+    ovaries and fallopian tubes red and swollen ,-336.0
+    bilateral salpingitis ,-336.0
+    preserve uterine adnexa ,-336.0
+    peritoneal lavage ,-336.0
+    drainage ,-336.0
+    administered 4000 mL crystalloid fluid ,-336.0
+    poor increase in blood pressure ,-336.0
+    edema of the small intestine worsened ,-336.0
+    intubated ,-336.0
+    managed postoperatively due to concern of worsening respiratory status ,-336.0
+    noradrenaline administered ,0.0
+    intensive care ,0.0
+    intubation management started ,0.0
+    meropenem 1.5 g/day ,0.0
+    extubated ,48.0
+    noradrenaline tapered ,72.0
+    noradrenaline terminated ,72.0
+    oral intake started ,96.0
+    drainage tube removed ,96.0
+    GAS found in vaginal fluid culture ,144.0
+    GAS found in ascitic fluid culture ,144.0
+    intravenous antibiotics stopped ,144.0
+    body temperature rose to 38.1 °C ,144.0
+    oral levofloxacin prescribed ,144.0
+    discharged ,240.0
+    condition good after 2 months ,1440.0
+    infection did not recur ,1440.0
+    Here's the reasoning behind the timestamp assignments:,
+    - The patient was admitted to the ER (emergency room) at time 0. Events before admission are assigned negative timestamps based on the timeline provided in the case report.,
+"    - The patient had abnormal vaginal discharge for 2 weeks (336 hours) before visiting the gynecologist, so that event is at -336 hours.",
+"    - The events during the ER visit and surgery (fluid resuscitation, exploratory laparotomy, etc.) are assigned to -336 hours since they occurred 10 hours before arrival at the ER, but the exact timing is approximated based on the narrative.",
+"    - Postoperative events (extubation, noradrenaline administration, etc.) are assigned relative to the admission time (0 hours), with days converted to hours (e.g., day 2 is 48 hours).",
+"    - Discharge occurred on postoperative day 10, which is 240 hours after admission.",
+    - The 2-month follow-up is converted to approximately 1440 hours (60 days).,

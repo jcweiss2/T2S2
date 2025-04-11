@@ -1,0 +1,76 @@
+event,time
+70 years old,0
+    female ,0
+    admitted to the hospital ,0
+    Streptococcus pneumoniae bacteraemia ,0
+    endocarditis ,0
+    meningitis ,0
+    TV vegetation ,0
+    ICD infection concern ,0
+    TEE revealed 3.5 mm × 11.5 mm mobile mass on TV ,1
+    TEE revealed 9.5 mm × 14.7 mm mobile echodensity on ICD pacing wire ,1
+    ICD device extraction ,5
+    intraoperative ICE ,5
+    right heart catheterization ,8
+    AngioVac-assisted extraction of TV mass ,8
+    near-complete removal evidenced on post-debulking TEE images ,8
+    discharged to acute rehab ,11
+    regular follow-up with cardiology ,11
+    regular follow-up with infectious disease ,11
+    completed 4 week course of IV antibiotics ,36
+    ICD replacement ,99
+    acute delirium ,0
+    hypertension ,0
+    heart failure with recovered EF ,0
+    non-ischaemic cardiomyopathy ,0
+    paroxysmal atrial fibrillation ,0
+    remote cardiac arrest ,0
+    ventricular fibrillation ,0
+    CRT-D placement ,0
+    CRT-D conversion to single-chamber ICD ,0
+    lack of arrhythmic events ,0
+    recovered EF ,0
+    narrow non-pacing QRS ,0
+    ventricular fibrillation episode one month prior ,-720
+    fever 38.4°C ,0
+    normal blood pressure ,0
+    normal pulse ,0
+    oxygen saturation >94% on room air ,0
+    altered mental status ,0
+    jugular venous distention ,0
+    soft systolic murmur ,0
+"    white blood cell count 10,880/μL ",0
+    haemoglobin 7900 g/dL ,0
+    glomerular filtration rate 78 mL/min/1.73 m² ,0
+    lumbar puncture ,0
+    cerebrospinal fluid cultures grew S. pneumoniae ,0
+    chest radiograph right-sided consolidation ,0
+    chest radiograph pleural effusion ,0
+    pleural fluid cultures grew S. pneumoniae ,0
+    blood cultures grew S. pneumoniae ,0
+    TTE revealed 1.0 cm × 2.0 cm TV mass ,0
+    moderate tricuspid regurgitation ,0
+    left ventricular EF 45% ,0
+    diagnosis of Austrian syndrome ,0
+    IV vancomycin 1250 mg every 12 hours ,0
+    IV ceftriaxone 2 g every 12 hours ,0
+    transition to ceftriaxone monotherapy ,0
+    subcutaneous heparin 5000 units every 8 hours ,0
+    ICD extraction per ESC guidelines ,5
+    insulation build-up along ICD lead route ,5
+    ICE during extraction ,5
+    no pericardial effusion post-extraction ,5
+    no embolic complication post-procedure ,5
+    multidisciplinary discussion ,8
+    recommendation for TV mass removal ,8
+    poor surgical candidacy ,8
+    AngioVac debulking ,8
+    intraoperative TEE revealed 1.6 cm × 0.8 cm mobile mass ,8
+    successful debulking ,8
+    pathology revealed thrombus ,8
+    no growth on specimen cultures ,8
+    over 1 week of antibiotics prior to debulking ,0
+    wearable cardioverter defibrillator ,11
+    IV ceftriaxone course completed ,36
+    functional recovery ,36
+    ICD reimplantation ,99

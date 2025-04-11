@@ -1,0 +1,47 @@
+79 years old| 0
+Caucasian female| 0
+myalgias| 0
+recent spontaneous bowel diverticula perforation| -2160
+resection and ileostomy| -2160
+polyarteritis nodosa diagnosis| -2160
+corticosteroids treatment| -2160
+immunosuppressants treatment| -2160
+admitted to medical Intensive Care Unit| 0
+severe acute on chronic abdominal pain| 0
+sepsis| 0
+3 months postoperatively| -2160
+abdominal computed tomography (CT)| 0
+gallbladder fundus wall thickening| 0
+pericholecystic edema| 0
+dependent cholelithiasis| 0
+right posteroinferior hepatic abscess| 0
+hepatobiliary scan performed| 0
+Tc-99m DISIDA administered| 0
+incomplete gallbladder filling| 0
+no radiotracer filling of the distal gallbladder fundus| 0
+interpreted as negative for acute cholecystitis| 0
+prolonged hospital course| 0
+catheter intervention for hepatic abscess| 24
+hepatic abscess grew Escherichia coli| 24
+metastatic septic arthritis| 24
+osteomyelitis| 24
+persistent bacteremia| 24
+concern for acute cholecystitis| 24
+second Tc-99m DISIDA hepatobiliary scan| 24
+nonfilling of the gallbladder at 4 h| 24
+acute cholecystitis diagnosis| 24
+surgical and medical management| 24
+improvement in patient's condition| 24
+dumbbell-shaped gallbladder morphology| 0
+partial gallbladder stricture| 0
+percutaneous cholangiogram confirmed morphology| 24
+focal inflammation of distal end| 0
+focal gallbladder wall thickening| 0
+focal pericholecystic edema| 0
+dumbbell gallbladder cholecystitis| 0
+hepatic abscess adjacent to distal end| 0
+immunocompromised patient| 0
+acute on chronic upper abdominal pain| 0
+symptoms from hepatic abscess| 0
+possible earlier intervention benefit| 24
+gallbladder stricture phenomenon| 0

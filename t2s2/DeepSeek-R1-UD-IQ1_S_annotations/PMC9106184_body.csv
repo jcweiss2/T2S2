@@ -1,0 +1,57 @@
+event,time
+62 years old ,0
+    male ,0
+    arterial hypertension ,0
+    dilated heart disease of ischemic origin ,0
+    severe left ventricular dysfunction ,0
+    chronic hepatitis B infection ,0
+    left colostomy carrier ,0
+    complicated acute diverticulitis ,0
+    admitted to the hospital ,0
+    bilateral SARS-CoV-2 pneumonia ,-504
+    pulmonary CT compatible with severe bilateral SARS-CoV-2 lung infection ,0
+    CO-RADS 6 ,0
+    respiratory care unit admission ,0
+    high-flow oxygen therapy ,0
+    dexamethasone treatment ,0
+    ceftriaxone treatment ,0
+    piperacillin-tazobactam treatment ,0
+    ICU admission ,0
+    intubation ,0
+    mechanical ventilation ,0
+    two prone position sessions ,0
+    severe acute respiratory distress syndrome ,0
+    PaO2/FiO2 <100mmHg ,0
+    APACHE II 11 ,0
+    SOFA score 9 ,0
+    nosocomial pneumonia diagnosis ,264
+    meropenem treatment ,264
+    linezolid treatment ,264
+    P. aeruginosa isolation ,264
+    AmpC profile ,264
+    meropenem MIC 1 mg/L ,264
+    antibiotic adjustment ,264
+    meropenem continued for 10 days ,264
+    nosocomial pneumonia recurrence ,864
+    bacteremia ,864
+    carbapenem-resistant P. aeruginosa isolation ,864
+    meropenem MIC >16 mg/L ,864
+    meropenem treatment ,864
+    colistin treatment ,864
+    ceftazidime-avibactam treatment ,864
+    tracheobronchitis ,1872
+    extensively drug-resistant P. aeruginosa isolation ,1872
+    ceftazidime?avibactam resistance ,1872
+    MIC 32 mg/L ,1872
+    ceftalozane-tazobactam treatment ,1872
+    inhaled colistin treatment ,1872
+    prolonged mechanical ventilation ,0
+    tracheostomy ,0
+    multiple weaning attempts ,0
+    Aspergillus fumigatus isolation ,0
+    bacteremias due to Enterococcus faecium ,0
+    febrile episodes ,0
+    CRP elevation ,0
+    procalcitonin elevation ,0
+    discharged from ICU ,1872
+    transferred to rehabilitation healthcare center ,1872

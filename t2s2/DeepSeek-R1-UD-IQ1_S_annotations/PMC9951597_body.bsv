@@ -1,0 +1,58 @@
+70 years old | 0
+    female | 0
+    advanced gastric malignancy | 0
+    oxaliplatin | 0
+    tiggio | 0
+    disease metastasized to the lung | -2160
+    disease metastasized to the liver | -2160
+    adjuvant systemic biologic treatment | 0
+    sintilimab | 0
+    first cycle of combination therapy | 0
+    intravenous sintilimab | 0
+    oxaliplatin | 0
+    tiggio | 0
+    widespread erythematous maculopapular rash | 240
+    methylprednisolone | 240
+    general condition deteriorated | 264
+    persistent eruptions of new rashes | 264
+    rashes started to blister | 264
+    rashes started to burst | 264
+    skin denudation | 264
+    denied history of food allergies | 0
+    denied history of drug allergies | 0
+    denied family history of inherited disorders | 0
+    systemically widespread rashes | 0
+    rashes in black with slight iron gray color | 0
+    multiple flaccid blisters | 0
+    epidermolysis | 0
+    positive Nikolsky’s sign | 0
+    partial epidermal detachment | 0
+    bright red scalded erosion surface | 0
+    significant palpation tenderness | 0
+    clinical diagnosis of TEN | 0
+    refused treatment | 0
+    refused hospitalization | 0
+    intravenous immunoglobulin | 0
+    IVIG 400mg/kg/d for three consecutive days | 0
+    rashes did not improve | 72
+    blisters rapidly grew to fuse into bullae | 72
+    bullae ruptured with erosions | 72
+    skin rashes developed sheet‑like epidermal detachment | 72
+    epidermal necrosis involving nearly 70% of the body surface area | 72
+    body temperature of 38.5°C | 72
+    SCORTEN was 5 | 72
+    subcutaneous injection of adalimumab | 72
+    rashes resolved within 24 h | 96
+    no new epidermal detachment | 96
+    no new bullae appeared | 120
+    negative Nikolsky’s sign | 120
+    body temperature of 37°C | 120
+    existing bullae had scabbed | 240
+    most skin lesions had subsided | 240
+    desquamation had occurred | 240
+    adalimumab provided once again | 240
+    majority of the skin lesions had disappeared | 1080
+    no sign of rash recurrence | 1080
+    discharged | 1080
+    
+    

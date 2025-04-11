@@ -1,0 +1,63 @@
+4 years old | 0
+    female | 0
+    intermittent fever | -96
+    generalized edema | -48
+    oliguria | -48
+    erythematous rash | -24
+    vomiting | 0
+    no history of jaundice | 0
+    no similar episode in the past | 0
+    febrile | 0
+    tachycardia | 0
+    hypotension | 0
+    poor peripheral perfusion | 0
+    anasarca | 0
+    macular erythematous rash over trunk, hands, and legs | 0
+    multiple nontender, nonmatted cervical lymphadenopathy | 0
+    oral cheilosis | 0
+    no strawberry tongue | 0
+    no conjunctival congestion | 0
+    tender hepatomegaly | 0
+    splenomegaly | 0
+    differential diagnosis of dengue | 0
+    differential diagnosis of leptospirosis | 0
+    differential diagnosis of sepsis | 0
+    differential diagnosis of Kawasaki's disease | 0
+    hemoglobin of 8.7 gm% | 0
+    white cell count of 10,000/cu.mm | 0
+    platelets = 430,000 cells/cu.mm | 0
+    ESR of 4 mm at end of 1 h | 0
+    blood culture was negative | 0
+    peripheral smear showed no malarial parasites | 0
+    deranged liver function tests | 0
+    SGPT of 155 IU/L | 0
+    total proteins of 4.8 g/dL | 0
+    albumin of 2 g/dL | 0
+    dengue IgM negative | 0
+    leptospira IgM negative | 0
+    cardioscope monitoring showed no arrhythmia | 0
+    cardioscope monitoring showed no abnormal wave | 0
+    serum creatinine normal | 0
+    CPK normal | 0
+    treated with IV Ceftriaxone | 0
+    treated with normal saline bolus | 0
+    dopamine added | 0
+    fever persisted | 0
+    developed red lips | 48
+    developed strawberry tongue | 48
+    rash disappeared | 48
+    dopamine stopped | 96
+    repeat hemogram after 5 days | 120
+    platelet count of 477,000/cu.mm | 120
+    ESR of 135 mm at end of 1 h | 120
+    2D echocardiography showed mild pericardial effusion | 120
+    2D echocardiography showed dilated coronary arteries | 120
+    treated with intravenous immunoglobulin (IVIG) | 120
+    edema subsided | 216
+    inotropic support omitted | 216
+    ESR decreased to 40 mm | 216
+    ESR decreased to 20 mm | 360
+    developed desquamation of the soles and palms | 504
+    started on aspirin | 504
+    advised regular follow-up | 504
+    

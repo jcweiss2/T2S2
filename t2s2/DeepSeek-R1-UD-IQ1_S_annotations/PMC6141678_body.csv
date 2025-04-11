@@ -1,0 +1,56 @@
+event,time
+71 years old ,0
+    woman ,0
+    hypertension ,-2016
+    ischaemic heart disease ,-2016
+    peripheral vascular disease ,-2016
+    unconscious state ,0
+    head computed tomographic scan ,0
+    stroke ,0
+    condition deteriorated ,24
+    inotropic support ,24
+    septic shock ,24
+    elevated erythrocyte sedimentation rate ,24
+    elevated C-reactive protein ,24
+    yeast in blood culture ,24
+    caspofungin administered ,24
+    death ,72
+    yeast isolate Kw553/18 ,24
+    VITEK 2 identification as Candida parapsilosis ,24
+    CHROMagar Candida turquoise blue colonies ,24
+    acetate ascospore agar ascospores ,24
+    ribosomal DNA sequencing ,24
+    antifungal susceptibility testing ,24
+    amphotericin B MIC 0.012 ,24
+    fluconazole MIC 0.125 ,24
+    voriconazole MIC 0.004 ,24
+    posaconazole MIC 0.003 ,24
+    itraconazole MIC 0.008 ,24
+    flucytosine MIC 0.064 ,24
+    caspofungin MIC 0.064 ,24
+    micafungin MIC 0.003 ,24
+    no antibiotics ,0
+    no central lines ,0
+    hospitalized earlier for lower limb ischaemia ,-336
+    discharge 2 weeks prior ,-336
+    no risk factors ,0
+    skin inoculation possibility ,0
+    gastrointestinal translocation possibility ,0
+    L. elongisporus bloodstream pathogen ,0
+    virulence attributes unknown ,0
+    environmental niche unknown ,0
+    global prevalence ,0
+    misidentification by VITEK 2 ,24
+    turquoise blue colonies on CHROMagar ,24
+    ascospore production ,24
+    molecular identification required ,24
+    reduced echinocandin susceptibility ,24
+    Infectious Disease Society guidelines followed ,24
+    caspofungin use ,24
+    outcome death ,72
+    rare yeast increased occurrence factors ,0
+    selection pressure from antifungals ,0
+    diagnostic challenges ,0
+    higher mortality rates ,0
+    no conflict of interest ,0
+    technical support acknowledged ,0

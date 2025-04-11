@@ -1,0 +1,72 @@
+23 years old | 0
+    woman | 0
+    nonverbal acoustic hallucinations | -240
+    insomnia | -240
+    psychomotor slowing | 0
+    cerebral MRI normal | 0
+    CSF 73 leukocytes/μL | 0
+    isolated oligoclonal bands | 0
+    slightly increased lactate (2.3 mmol/L) | 0
+    NMDAR antibodies positive | 0
+    antineural antibodies negative | 0
+    onconeural antibodies negative | 0
+    no ovarian teratoma | 0
+    methylprednisolone 1,000 mg IV | 0
+    immunoglobulins 0.4 g/kg IV | 0
+    oral prednisolone 1 mg/kg | 0
+    tapering (20 mg every second day) | 0
+    condition worsened | 0
+    dyskinesias | 0
+    dysautonomia | 0
+    respiratory insufficiency | 0
+    analgosedation | 0
+    artificial ventilation | 0
+    multidrug analgosedation (propofol, midazolam, esketamine, sufentanil, alpha-2 receptor agonists, 4-hydroxybutyrate) | 0
+    failed to alleviate dyskinesias | 0
+    failed to alleviate dysautonomia | 0
+    heart rate >160 bpm | 0
+    systolic blood pressure 200 mm Hg | 0
+    drug-induced hepatotoxicity | 0
+    transaminases 36-fold of normal | 0
+    subsided after switching to isoflurane | 0
+    rituximab 1,000 mg IV | 240
+    immunoadsorption | 240
+    dyskinesias reappeared on isoflurane reduction | 1680
+    isoflurane high concentrations (1.2 end-tidal volume%) | 1680
+    symmetrical striatal hyperintensities | 1680
+    dentate nuclei T2-weighted hyperintensities | 1680
+    mesiotemporal atrophy | 1680
+    prominently increased lactate (4.2 mmol/L) | 1680
+    CSF neurofilament light chain levels increased (15,796 pg/mL) | 1680
+    CSF obtained 4 weeks earlier (798 pg/mL) | -672
+    CSF obtained 16 weeks earlier (174 pg/mL) | -2688
+    suspecting adverse reaction to isoflurane | 1680
+    IV analgosedation reinstated | 1680
+    arterial hypertension reappeared | 1680
+    striatal hyperintensities dissolved | 1680
+    dentate nucleus hyperintensities dissolved | 1680
+    posterior reversible encephalopathy syndrome appeared | 1680
+    switching to isoflurane inevitable | 1680
+    became alert | 3600
+    adequately oriented | 3600
+    severe flaccid tetraparesis | 3600
+    hypoesthesias | 3600
+    critical illness polyneuropathy/myopathy (CIP/CIM) | 3600
+    minimal cognitive impairment | 2160
+    seriously handicapped | 2160
+    cerebellar ataxia | 2160
+    residual CIP/CIM | 2160
+    reversible forebrain atrophy | 2160
+    progressive cerebellar atrophy | 2160
+    MRI volumetry confirmed cerebellar atrophy | 2160
+    cerebellar ataxia mild improvement | 25920
+    cerebellar ataxia still persisted | 25920
+    no dysautonomia | 0
+    no orofacial dyskinesias | 0
+    no septic encephalopathy | 0
+    no cognitive decline | 0
+    no PRES before admission | 0
+    no risk factors for poor outcome | 0
+    CIP/CIM after repeated sepsis | 25920
+    cerebellar atrophy progressive | 25920
+    cerebellar ataxia persistent | 25920

@@ -1,0 +1,79 @@
+event,time
+62 years old ,0.0
+    male ,0.0
+    admitted to the hospital ,0.0
+    brought to the emergency department ,0.0
+    progressive shortness of breath ,0.0
+    altered mental status ,0.0
+    coronary artery disease ,-35040.0
+    drug-eluting stent implantation in the left anterior descending coronary artery ,-35040.0
+    hypertension ,-35040.0
+    hyperlipidemia ,-35040.0
+    diabetes mellitus ,-35040.0
+    chronic obstructive pulmonary disease ,-35040.0
+    alcoholism ,-35040.0
+    morbid obesity ,-35040.0
+    hypotensive ,0.0
+    blood pressure 80/50 mm Hg ,0.0
+    hypoxic respiratory failure ,0.0
+    partial pressure of oxygen 76 mm Hg ,0.0
+    emergently intubated ,0.0
+    started on pressors ,0.0
+    transferred to the intensive care unit ,0.0
+    chest radiography bilateral infiltrates ,0.0
+    right pleural effusion ,0.0
+    electrocardiography normal sinus rhythm ,0.0
+    new low voltage ,0.0
+    old left-axis deviation ,0.0
+    hyponatremia ,0.0
+    acute kidney injury ,0.0
+    leukocytosis ,0.0
+    lymphopenia ,0.0
+    mildly macrocytic anemia ,0.0
+    coagulation panel within normal limits ,0.0
+    elevated d-dimer ,0.0
+    negative serial troponins ,0.0
+    echocardiography large pericardial effusion ,0.0
+    tamponade physiology ,0.0
+    emergent pericardiocentesis ,0.0
+    pericardial pressure 35 mm Hg ,0.0
+    1.1 L of sanguinous fluid drained ,0.0
+    right heart catheterization ,0.0
+    sanguinous fluid ,0.0
+    bloody sanguinous fluid ,0.0
+    1.2 million red blood cells ,0.0
+    cytology peripheral blood components only ,0.0
+    no malignant cells ,0.0
+    initial nasopharyngeal swab for COVID-19 negative ,0.0
+    bronchoalveolar lavage sample positive for COVID-19 ,48.0
+    drain output decreased ,120.0
+    drain output stopped ,120.0
+    repeat echocardiography resolution of pericardial effusion ,120.0
+    drain removed ,120.0
+    treated with hydroxychloroquine ,0.0
+    treated with ribavirin ,0.0
+"    treated with lopinavir# 0.75x + 3 = 6, then x is",
+## Answers,
+Answered by,
+0,
+Answer:,
+x=4,
+Step-by-step explanation:,
+0.75x+3=6,
+0.75x=6-3,
+0.75x=3,
+x=3/0.75,
+x=4,
+Answered by,
+0,
+Answer:,
+x = 4,
+Step-by-step explanation:,
+0.75x + 3 = 6,
+0.75x = 6 - 3,
+0.75x = 3,
+x = 3 / 0.75,
+x = 4,
+hope it helps,
+please mark brainliest,
+Similar questions,

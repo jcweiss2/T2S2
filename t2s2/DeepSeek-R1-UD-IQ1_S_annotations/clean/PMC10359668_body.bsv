@@ -1,0 +1,68 @@
+61 years old | 0
+man | 0
+referred urgently to ophthalmology | 0
+complete loss of vision in left eye | 0
+admitted to hospital | 0
+sepsis | 0
+Candida albicans | 0
+hypertension | 0
+dyslipidemia | 0
+type 2 diabetes | 0
+urinary retention | 0
+phimosis | 0
+balanitis xerotica obliterans | 0
+urethral strictures | 0
+aspirin 81 mg | 0
+bisoprolol | 0
+ezetimibe | 0
+empagliflozin | 0
+gliclazide | 0
+metformin | 0
+ramipril | 0
+presented to hospital | -336
+vomiting | -336
+fever | -336
+flank pain | -336
+pyelonephritis | -336
+left hydronephrosis | -336
+left nephrostomy tube inserted | -336
+developed hypoxia | -336
+pulmonary edema | -336
+blood cultures grew C. albicans | -336
+treated with fluconazole | -336
+treated with caspofungin | -336
+sudden vision loss in left eye | -336
+Code Stroke called | -336
+CT/CTA of head and neck normal | -336
+hemoglobin 103 g/L | -336
+C-reactive protein 47.3 mg/L | -336
+sedimentation rate 75 mm/h | -336
+visual acuity 20/20 OD | -336
+NLP OS | -336
+left RAPD | -336
+dilated fundus examination | -336
+mild right optic disc edema | -336
+multiple cotton wool spots in right eye | -336
+left pallid optic disc edema | -336
+OCT retinal nerve fiber layer increased thickness 127 μm OD | -336
+OCT segmentation error OS | -336
+blood pressure 98/40 | -336
+no symptoms of giant cell arteritis | -336
+diagnosis of anterior ischemic optic neuropathy | -336
+hypotension | -336
+sepsis | -336
+blood pressure medications held | -336
+ramipril held | -336
+bisoprolol held | -336
+encouraged to hydrate | -336
+prescribed salt tablets | -336
+prescribed midodrine 10 mg PO TID | -336
+blood pressure improved | 24
+visual function stabilized | 24
+1-month follow-up | 720
+optic disc edema resolved | 720
+OCT retinal nerve fiber layer resolved edema OU | 720
+mild thinning OS | 720
+right eye 20/20 | 720
+no visual field defect | 720
+left eye NLP | 720

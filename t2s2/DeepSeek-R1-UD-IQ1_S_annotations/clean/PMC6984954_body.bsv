@@ -1,0 +1,244 @@
+27 years old | 0
+Filipino | 0
+female | 0
+gravida 1 | 0
+para 0 | 0
+referred to perinatology | 0
+maternal SEA heterozygote deletion (αα/–) mutation | 0
+additional testing | 0
+partner cis heterozygous carrier for the SEA α-thalassemia deletion (αα/–) | 0
+advised 25% risk of α-thalassemia major | 0
+declined amniocentesis | 0
+opted for expectant management | 0
+ultrasound unremarkable | 0
+follow-up ultrasound at 24³/7 weeks | -24
+oligohydramnios | -24
+shortened long bones | -24
+severe cardiomegaly | -24
+cardiothoracic circumference ratio 0.65 | -24
+Doppler velocimetry normal forward flow | -24
+middle cerebral artery peak systolic velocity 1.49 multiples of the median | -24
+referred to tertiary center | -24
+suspected Bart's hemoglobinopathy | -24
+examination at referral center | -24
+moderate hydrops | -24
+informed most likely diagnosis ATM | -24
+discussion of risks of IUT | -24
+need for chronic postnatal transfusion | -24
+possible bone marrow transplantation | -24
+increased risk for neurodevelopmental impairment | -24
+elected to proceed with serial IUTs | -24
+initial cordocentesis | -24
+fetal hemoglobin level 7.9 g/dL | -24
+fetal electrophoresis 35.3% Hb A1 | -24
+fetal electrophoresis 62.5% Hb Bart | -24
+IUT performed | -24
+follow-up ultrasound at 27¹/7 weeks | -27
+resolving hydrops | -27
+symmetric fetal growth restriction | -27
+estimated fetal weight 2.7th percentile | -27
+ultrasound at 30¹/7 weeks | -30
+hydrops resolved | -30
+oligohydramnios resolved | -30
+fetal weight 29th percentile | -30
+five IUTs performed | 0
+induced at 37 weeks | 0
+delivered vaginally | 0
+live female infant | 0
+well appearing | 0
+weight 2,984 g | 0
+cord milking performed | 0
+delivery room care | 0
+blow by oxygen | 0
+face mask CPAP for cyanosis | 0
+admitted to NICU | 0
+nasal CPAP | 0
+oxygen requirement | 0
+empiric ampicillin | 0
+empiric gentamicin | 0
+initial CBC Hb 19 g/dL | 0
+initial CBC hematocrit 64% | 0
+hypoxemic | 0
+required FiO2 0.7 | 0
+normal work of breathing | 0
+no respiratory distress | 0
+CXR mild ground glass opacities | 0
+CXR adequate lung expansion | 0
+arterial blood gas pH 7.38 | 0
+arterial blood gas PCO2 38 mm Hg | 0
+arterial blood gas PO2 95 mm Hg | 0
+nasal CPAP FiO2 0.67 | 0
+pulse oximetry lower extremities 5-10% lower | 0
+oxygenation index 3.5 | 0
+alveolar-arterial oxygen gradient 357 mm Hg | 0
+echocardiogram elevated pulmonary vascular resistance | 0
+RV systolic pressure 65 mm Hg | 0
+bidirectional shunts through PDA | 0
+bidirectional shunts through PFO | 0
+flattened interventricular septum | 0
+no left heart obstructive lesion | 0
+no myocardial dysfunction | 0
+inhaled prostacyclin started | 0
+RV pressure decreased 10 mm Hg | 0
+FiO2 decreased to 0.48 | 1
+FiO2 weaned to 0.25 | 24
+inhaled prostacyclin weaned off | 24
+high-flow nasal cannula DOL 2 | 48
+weaned to room air DOL 5 | 120
+desaturations DOL 6 | 144
+oxygen therapy low-flow nasal cannula | 144
+required oxygen 0.216-0.3 FiO2 | 144
+echocardiogram DOL 12 | 288
+RV pressures normalized | 288
+consulted pediatric hematologist | 0
+plan for transfusion within a week | 0
+high hemoglobin precluded transfusion | 0
+hemoglobin electrophoresis DOL 1 | 24
+Hb Bart 45% | 24
+Hb A 50% | 24
+Hb A2 1.3% | 24
+Hb F 3% | 24
+decided partial volume exchange DOL 18 | 432
+partial volume exchange 20 mL/kg | 432
+transfused packed RBCs | 432
+Hb 14.7 g/dL | 432
+Hb 14.8 g/dL post-transfusion | 432
+oxygenation improved | 456
+weaned to room air | 456
+sepsis evaluation | 0
+antibiotics stopped at 48 hours | 48
+bilirubin peak 13.6 mg/dL DOL 2 | 48
+phototherapy for 24 hours | 48
+discharged 2 days after room air | 456
+follow-up with pediatric hematology | 456
+chronic transfusions every 3 weeks | 456
+appropriate growth at 16 months | 456
+normal developmental milestones | 456
+eczema | 456
+daily multivitamin | 456
+awaiting bone marrow transplantation | 456
+negative blood cultures | 48
+no hypertension | 0
+no preeclampsia | 0
+no antepartum hemorrhage | 0
+no renal failure | 0
+no premature labor | 0
+no abruptio placenta | 0
+no hyperbilirubinemia post-phototherapy | 48
+no developmental delays | 456
+Hb Bart's hydrops fetalis | 0
+hydrops fetalis | 0
+hydrops resolved post-IUT | -27
+hydrops resolved prenatally | -30
+hypoxic respiratory failure | 0
+persistent pulmonary hypertension | 0
+chronic hypoxemia | 0
+elevated pulmonary vascular resistance | 0
+respiratory failure | 0
+pulmonary hypertension | 0
+resolved pulmonary hypertension | 288
+resolved hypoxic respiratory failure | 456
+resolved cyanosis | 0
+resolved desaturations | 456
+resolved oxygen requirement | 456
+resolved hyperbilirubinemia | 48
+appropriate somatic growth | 456
+normal development | 456
+chronic blood transfusions | 456
+awaiting BMT | 456
+SEA heterozygote deletion | 0
+cis heterozygous carrier | 0
+α-thalassemia major | 0
+Bart's hemoglobinopathy | 0
+hemoglobin Bart 45% | 24
+hemoglobin A 50% | 24
+hemoglobin A2 1.3% | 24
+hemoglobin F 3% | 24
+hemoglobin Bart | 0
+SEA α-thalassemia deletion | 0
+maternal SEA heterozygote deletion | 0
+partner cis heterozygous carrier | 0
+genetic counseling | 0
+intrauterine transfusions | -24
+chronic postnatal transfusion | 0
+bone marrow transplantation | 0
+neurodevelopmental impairment risk | 0
+expectant management | 0
+fetal growth restriction | -27
+symmetric growth restriction | -27
+fetal weight 2.7th percentile | -27
+cordocentesis | -24
+IUT 1 | -24
+IUT 2 | -26
+IUT 3 | -28
+IUT 4 | -31
+IUT 5 | -34
+fetal hemoglobin level pre-IUT 1 7.9 g/dL | -24
+post-IUT 1 11.1 g/dL | -24
+transfusion volume 25 mL | -24
+pre-IUT 2 11.7 g/dL | -26
+post-IUT 2 13.7 g/dL | -26
+transfusion volume 20 mL | -26
+pre-IUT 3 10.6 g/dL | -28
+post-IUT 3 13.6 g/dL | -28
+transfusion volume 36 mL | -28
+pre-IUT 4 11.0 g/dL | -31
+post-IUT 4 14.1 g/dL | -31
+transfusion volume 50 mL | -31
+pre-IUT 5 11.3 g/dL | -34
+post-IUT 5 14.4 g/dL | -34
+transfusion volume 60 mL | -34
+DOL 1 Hb 19 g/dL | 24
+DOL 1 Hb Bart 45% | 24
+DOL 1 Hb A 50% | 24
+DOL 1 Hb A2 1.3% | 24
+DOL 1 Hb F 3% | 24
+negative cultures | 48
+no sepsis | 48
+no cyanosis after DOL 5 | 120
+no desaturations after DOL 6 | 144
+no oxygen requirement after DOL 18 | 432
+no PPHN after DOL 12 | 288
+no elevated RV pressures after DOL 12 | 288
+no hypoxic respiratory failure after DOL 18 | 432
+no pulmonary hypertension after DOL 12 | 288
+no anemia post-transfusion | 432
+no eczema exacerbation | 456
+no transfusion complications | 456
+no BMT complications | 456
+resolved edema | -27
+resolved pleural effusion | -27
+resolved pericardial effusion | -27
+resolved hydrops fetalis | -27
+resolved cardiomegaly | -27
+resolved shortened long bones | -27
+resolved oligohydramnios | -27
+resolved growth restriction | -30
+resolved hypoxemia | 456
+resolved FiO2 requirement | 456
+resolved elevated RV pressure | 288
+resolved bidirectional shunts | 288
+normalized hemoglobin | 432
+normalized hematocrit | 432
+normalized oxygenation | 456
+normalized work of breathing | 0
+normalized CXR | 0
+normalized blood gas | 0
+normalized pulse oximetry | 432
+normalized echocardiogram | 288
+normalized bilirubin | 48
+appropriate growth | 456
+eczema managed | 456
+multivitamin continued | 456
+chronic transfusions ongoing | 456
+no left heart obstruction | 0
+no hyperbilirubinemia | 48
+no anemia | 432
+no hypoxia | 456
+no PPHN | 288
+no RV hypertension | 288
+no desaturations | 456
+no oxygen requirement | 456
+no medication side effects | 456
+no growth delays | 456
+no developmental impairment | 456

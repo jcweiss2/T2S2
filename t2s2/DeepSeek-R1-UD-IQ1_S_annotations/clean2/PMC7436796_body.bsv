@@ -1,0 +1,226 @@
+35 years old | 0
+male | 0
+congenital deafness | 0
+hypertension | 0
+asthma | 0
+worsening night sweats | -1440
+rash | -1440
+productive cough | -1440
+shortness of breath | -1440
+fevers | -1440
+intermittent back pain | -1440
+enlarging neck nodule | -1440
+diagnosed with Valley Fever | -1440
+initial symptoms: night sweats | -1440
+initial symptoms: facial rash | -1440
+initial symptoms: fever | -1440
+initial symptoms: worsening hearing loss | -1440
+initial symptoms: cough | -1440
+initial symptoms: skin lesions | -1440
+initial symptoms: cervical lymphadenopathy | -1440
+initial symptoms: shortness of breath | -1440
+fluconazole 400 mg daily for 1 month | -1440
+improvement in symptoms | -1440
+scaling plaques to the right forehead | 0
+small ulcerated lesions to the right lower mouth | 0
+small ulcerated lesions to the posterior neck | 0
+coarse breath sounds in the left upper lung fields | 0
+3.5 cm × 3.5 cm nontender lymph node to the left anterior neck | 0
+no neurological deficits | 0
+afebrile | 0
+tachycardic (120 bpm) | 0
+SpO2 91% on room air | 0
+leukocytosis | 0
+neutrophilia | 0
+elevated erythrocyte sedimentation rate | 0
+elevated C-reactive protein | 0
+elevated liver enzymes | 0
+total protein 10.0 g/dL | 0
+albumin 1.7 g/dL | 0
+corrected calcium 11.0 mg/dL | 0
+elevated alkaline phosphatase 167 U/L | 0
+elevated lactic acid 2.7 mmol/L | 0
+elevated lactate dehydrogenase 341 U/L | 0
+ferritin 3366 ng/mL | 0
+anemia of chronic disease | 0
+respiratory syncytial virus positive | 0
+disseminated fungal diseases differential | 0
+tuberculosis differential | 0
+secondary hemophagocytic lymphohistiocytosis differential | 0
+HIV differential | 0
+malignancy differential | 0
+Infectious Diseases consult | 0
+serum coccidioides IgG ELISA 8.3 IV | 0
+serum coccidioides IgM ELISA 3.0 IV | 0
+sputum spherules resembling coccidioides | 0
+MRI spine diffusely abnormal signaling | 0
+MRI spine discrete hyperintense lesions | 0
+MRI indeterminate hyperintense lesions in bilateral psoas muscles | 0
+CT-guided biopsy right iliac crest | 0
+CT-guided biopsy cervical lymph node | 0
+biopsies revealed spherules | 0
+cultures grew coccidioidomycosis | 0
+lumbar puncture no CSF involvement | 0
+negative blastomycosis | 0
+negative histoplasmosis | 0
+negative Epstein-Barr virus | 0
+negative cytomegalovirus | 0
+negative HIV | 0
+negative syphilis | 0
+negative tuberculosis | 0
+negative hemophagocytic lymphohistiocytosis | 0
+negative multiple myeloma | 0
+negative other malignancies | 0
+admitted to general medicine floor | 0
+required high-flow nasal cannula | 0
+required intravenous fluids | 0
+treatment with itraconazole | 0
+treatment with liposomal amphotericin B | 0
+supplemental oxygen | 0
+increased respiratory rate | 0
+worsening hypoxemia | 24
+transferred to ICU | 24
+intubated | 24
+vasopressors | 24
+chest X-ray diffuse bilateral reticulonodular opacities | 24
+ARDS diagnosis | 24
+required increased FiO2 and PEEP | 24
+CT chest miliary pattern of pulmonary nodules | 24
+CT chest focal consolidations posteriorly | 24
+CT chest confluent superior mediastinal lymphadenopathy | 24
+CT chest postobstructive consolidation of left upper lobe | 24
+started ceftriaxone | 24
+started azithromycin | 24
+worsening respiratory status | 24
+acute kidney injury | 24
+creatinine peak 4.2 mg/dL | 24
+paralytic ileus | 24
+right internal jugular deep vein thrombosis | 24
+gluteal hematoma | 24
+treatment with mechanical ventilation | 24
+full pulmonary recovery | 168
+full renal recovery | 168
+creatinine normal at discharge | 168
+no supplemental oxygen needed at discharge | 168
+discharged on voriconazole | 168
+discharged to inpatient rehabilitation | 168
+no major risk factors for dissemination | 0
+denied immunosuppressant medications | 0
+normal CD4 count 462 cells/mcL | 0
+dual antifungal therapy | 168
+voriconazole MIC 0.25 µg/mL | 168
+fluconazole MIC 8 µg/mL | 168
+no itraconazole MIC measured | 168
+35 years old|0
+male|0
+congenital deafness|0
+hypertension|0
+asthma|0
+worsening night sweats|-1440
+rash|-1440
+productive cough|-1440
+shortness of breath|-1440
+fevers|-1440
+intermittent back pain|-1440
+enlarging neck nodule|-1440
+diagnosed with Valley Fever|-1440
+initial symptoms: night sweats|-1440
+initial symptoms: facial rash|-1440
+initial symptoms: fever|-1440
+initial symptoms: worsening hearing loss|-1440
+initial symptoms: cough|-1440
+initial symptoms: skin lesions|-1440
+initial symptoms: cervical lymphadenopathy|-1440
+initial symptoms: shortness of breath|-1440
+fluconazole 400 mg daily for 1 month|-1440
+improvement in symptoms|-1440
+scaling plaques to the right forehead|0
+small ulcerated lesions to the right lower mouth|0
+small ulcerated lesions to the posterior neck|0
+coarse breath sounds in the left upper lung fields|0
+3.5 cm × 3.5 cm nontender lymph node to the left anterior neck|0
+no neurological deficits|0
+afebrile|0
+tachycardic (120 bpm)|0
+SpO2 91% on room air|0
+leukocytosis|0
+neutrophilia|0
+elevated erythrocyte sedimentation rate|0
+elevated C-reactive protein|0
+elevated liver enzymes|0
+total protein 10.0 g/dL|0
+albumin 1.7 g/dL|0
+corrected calcium 11.0 mg/dL|0
+elevated alkaline phosphatase 167 U/L|0
+elevated lactic acid 2.7 mmol/L|0
+elevated lactate dehydrogenase 341 U/L|0
+ferritin 3366 ng/mL|0
+anemia of chronic disease|0
+respiratory syncytial virus positive|0
+disseminated fungal diseases differential|0
+tuberculosis differential|0
+secondary hemophagocytic lymphohistiocytosis differential|0
+HIV differential|0
+malignancy differential|0
+Infectious Diseases consult|0
+serum coccidioides IgG ELISA 8.3 IV|0
+serum coccidioides IgM ELISA 3.0 IV|0
+sputum spherules resembling coccidioides|0
+MRI spine diffusely abnormal signaling|0
+MRI spine discrete hyperintense lesions|0
+MRI indeterminate hyperintense lesions in bilateral psoas muscles|0
+CT-guided biopsy right iliac crest|0
+CT-guided biopsy cervical lymph node|0
+biopsies revealed spherules|0
+cultures grew coccidioidomycosis|0
+lumbar puncture no CSF involvement|0
+negative blastomycosis|0
+negative histoplasmosis|0
+negative Epstein-Barr virus|0
+negative cytomegalovirus|0
+negative HIV|0
+negative syphilis|0
+negative tuberculosis|0
+negative hemophagocytic lymphohistiocytosis|0
+negative multiple myeloma|0
+negative other malignancies|0
+admitted to general medicine floor|0
+required high-flow nasal cannula|0
+required intravenous fluids|0
+treatment with itraconazole|0
+treatment with liposomal amphotericin B|0
+supplemental oxygen|0
+increased respiratory rate|0
+worsening hypoxemia|24
+transferred to ICU|24
+intubated|24
+vasopressors|24
+chest X-ray diffuse bilateral reticulonodular opacities|24
+ARDS diagnosis|24
+required increased FiO2 and PEEP|24
+CT chest miliary pattern of pulmonary nodules|24
+CT chest focal consolidations posteriorly|24
+CT chest confluent superior mediastinal lymphadenopathy|24
+CT chest postobstructive consolidation of left upper lobe|24
+started ceftriaxone|24
+started azithromycin|24
+worsening respiratory status|24
+acute kidney injury|24
+creatinine peak 4.2 mg/dL|24
+paralytic ileus|24
+right internal jugular deep vein thrombosis|24
+gluteal hematoma|24
+treatment with mechanical ventilation|24
+full pulmonary recovery|168
+full renal recovery|168
+creatinine normal at discharge|168
+no supplemental oxygen needed at discharge|168
+discharged on voriconazole|168
+discharged to inpatient rehabilitation|168
+no major risk factors for dissemination|0
+denied immunosuppressant medications|0
+normal CD4 count 462 cells/mcL|0
+dual antifungal therapy|168
+voriconazole MIC 0.25 µg/mL|168
+fluconazole MIC 8 µg/mL|168
+no itraconazole MIC measured|168

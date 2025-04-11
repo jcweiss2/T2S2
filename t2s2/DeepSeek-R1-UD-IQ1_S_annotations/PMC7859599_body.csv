@@ -1,0 +1,74 @@
+event,time
+35 years old ,0
+    woman ,0
+    autoimmune hyperthyroidism ,-17520
+    Grave's disease ,-17520
+    received treatment with carbimazole ,-17520
+    carbimazole discontinued due to neutropenia ,-17520
+    untreated Grave's disease for 2 years ,-17520
+    increased thyrotoxic symptoms ,-672
+    free T4 elevated (79 pmol/L) ,-672
+    free T3 elevated (47 pmol/L) ,-672
+    TRAB high ,-672
+    treatment started with carbimazole 10 mg twice daily ,-672
+    non-selective beta-blocker (propranolol 20 mg 1-2 tablets daily) ,-672
+    neutropenia recurrence ,-48
+    carbimazole discontinued again due to neutropenia ,-48
+    admitted to local hospital ,0
+    high fever ,0
+    sinus tachycardia (heart rate 110 bpm) ,0
+    general fatigue ,0
+    normal heart and lung auscultation ,0
+    thyroid storm diagnosis ,0
+    suspected neutropenic sepsis ,0
+    leucopenia (0.8 x10^9/L) ,0
+    neutropenia (0.0 x10^9/L) ,0
+    tonsillitis ,0
+"    broad-spectrum antibiotics (penicillin, gentamicin) ",0
+    high dosage glucocorticosteroids (hydrocortisone) ,0
+    increased propranolol dosage (20 mg four times daily) ,0
+    Lugol's iodine solution added on day 3 ,72
+    high fever persisted ,72
+    tachycardia persisted ,72
+    acute dyspnea ,96
+    circulatory collapse ,96
+    cardiac arrest with PEA ,96
+    CPR initiated ,96
+    ROSC after 4 minutes ,96
+    severe hypotension (60/40 mmHg) ,96
+    sinus tachycardia ,96
+    transferred to university hospital ,96
+    conscious but cognitively impaired ,96
+    respiratory rate 30-50/min ,96
+    blood pressure 60/40 mmHg ,96
+    heart rate 120 bpm ,96
+    temperature 37.8°C ,96
+    Graves' ophthalmopathy ,96
+    severe lactic acidosis (lactate 17 mmol/L) ,96
+    acute pulmonary embolism suspected ,96
+    echocardiography showed severe biventricular cardiac failure ,96
+    LVEF <20% ,96
+    paradoxical septal movement ,96
+    tricuspid regurgitation ,96
+    CT pulmonary angiography indicated ,96
+    thrombolysis administered ,96
+    CT scan excluded pulmonary embolism ,96
+    transferred to ICU ,96
+"    high-dose norepinephrine, dobutamine, phenylephrine ",96
+    recurrent cardiac arrests with PEA ,96
+    V-A ECMO established ,96
+    coronary angiography normal ,96
+    IABP inserted ,96
+    escalated iodine solution (22 mg three times daily) ,96
+    glucocorticoids continued ,96
+    beta-blockers discontinued ,96
+    levosimendan commenced ,96
+    thyroid hormone levels normalized ,168
+    myocardial function recovery ,168
+    V-A ECMO discontinued ,216
+    extubated ,240
+    total thyroidectomy performed ,288
+    discharged ,672
+    normalized cardiac function ,672
+    no cognitive sequelae ,672
+    scheduled endocrinologist follow-up ,672

@@ -1,0 +1,120 @@
+event,time
+68 years old ,0
+    Caucasian man ,0
+    anterior mediastinal mass ,-70080
+    thymoma ,-70080
+    declined surgery ,-70080
+    gross hematuria ,-720
+    oral mucosal bleeding ,-720
+    generalized weakness ,-720
+    fatigue ,-720
+    subjective fever ,-720
+    7-kg unintentional weight loss ,-720
+    marked pancytopenia ,0
+    started on broad spectrum antibiotics ,0
+    transfused with RBCs ,0
+    transfused with platelets ,0
+    complete blood count ,0
+    severe thrombocytopenia ,0
+    neutropenia ,0
+    inappropriately low retic count ,0
+    imaging re-demonstrated mediastinal mass ,0
+    interval enlargement ,0
+    admitted to the intensive care unit ,0
+    started on vancomycin ,0
+    started on piperacillin/tazobactam ,0
+    started on IV methylprednisolone ,0
+    bone marrow biopsy findings ,24
+    severe aplastic anemia ,24
+    cyclosporine ,24
+    eltrombopag ,24
+    anti-thymocyte globulin ,24
+    planned thymoma resection ,24
+    platelets count improved ,48
+    absolute neutrophil count remained extremely low ,48
+    started on posaconazole ,48
+    started on acyclovir ,48
+    transient sudden loss of consciousness ,72
+    hypotension ,72
+    oxygen desaturation ,72
+    stroke alert called ,72
+    CT brain negative for acute intracranial process ,72
+    new 5- to 6-cm right maxillary swelling ,72
+    maxillary swelling increased to 10 cm ,168
+    impeded respiration ,168
+    intubated ,168
+    sedated ,168
+    blood cultures positive for Gram-negative rods ,216
+    Enterobacter cloaceae ,216
+    Fungemia ,216
+    started on cefepime ,216
+    started on micafungin ,216
+    developed multiorgan failure ,216
+    do not resuscitate ,216
+    cardiopulmonary arrest ,216
+    expired ,216
+    no post-mortem examination ,216
+    profound pancytopenia ,0
+    white blood cells 1.63 × 103/µL ,0
+    absolute neutrophil count 0.02 × 103/µL ,0
+    RBCs 2.75 × 106/µL ,0
+    platelets < 2 × 103/µL ,0
+    hemoglobin 8.5 g/dL ,0
+    reticulate count of 0.38% ,0
+    peripheral blood smear showed reduced RBCs ,0
+    peripheral blood smear showed reduced platelets ,0
+    peripheral blood smear showed reduced leukocytes ,0
+    mild anisocytosis ,0
+    bone marrow biopsy revealed hypocellularity ,24
+    decreased numbers in all hematopoietic lineages ,24
+    bone marrow aspirate showed no evidence of dysplasia ,24
+    residual cells present ,24
+    HUS/TTP screening labs negative ,24
+    LDH normal ,24
+    haptoglobin elevated ,24
+    fibrinogen elevated ,24
+    direct bilirubin elevated ,24
+    no diarrhea ,24
+    no hematochezia ,24
+    elevated creatinine ,24
+    elevated BUN ,24
+    electrolytes within normal limits ,24
+    urine cultures negative ,24
+    blood cultures initially negative ,24
+    fungal elements seen ,216
+    blood cultures negative for acid-fast bacilli ,24
+    recent history of hiking in tick-infested area ,-720
+    Lyme disease suspected ,0
+    Ehrlichia chaffeensis suspected ,0
+    antibodies screening negative ,24
+    complement C3 normal ,24
+    complement C4 slightly elevated ,24
+    ANA negative ,24
+    ANCA negative ,24
+    anti-Ach antibodies negative ,24
+    no antibodies detected ,24
+    vitamin B12 normal ,24
+    chest X-ray re-demonstrated mediastinal mass ,0
+    CT chest re-demonstrated mediastinal mass ,0
+    mediastinal mass enlargement ,0
+    differential diagnosis of TR-AA ,0
+    differential diagnosis of HUS/TTP ,0
+    differential diagnosis of leukemia ,0
+    differential diagnosis of myelodysplasia ,0
+    differential diagnosis of multiple myeloma ,0
+    differential diagnosis of autoimmune conditions ,0
+    differential diagnosis of thymic carcinoma ,0
+    differential diagnosis of thymic cyst ,0
+    differential diagnosis of lymphoma ,0
+    differential diagnosis of thyroid masses ,0
+    fatal TR-AA ,216
+    high-dose systemic steroids ,0
+    repeated transfusions ,0
+    developed severe thrombocytopenia ,72
+    developed neutropenia ,72
+    rapidly expanding neck swelling ,168
+    bacteremia ,216
+    fungemia ,216
+    septic shock ,216
+    multiorgan failure ,216
+    collaboration between multidisciplinary team ,216

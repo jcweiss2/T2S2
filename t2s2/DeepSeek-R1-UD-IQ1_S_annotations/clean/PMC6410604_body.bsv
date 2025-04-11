@@ -1,0 +1,104 @@
+50 years old | 0
+male | 0
+admitted to the intensive care unit | 0
+diffuse abdominal pain | -168
+vomiting | -168
+watery diarrhea | -168
+fever | -168
+productive cough | -168
+bilateral pleuritic chest pain | -168
+intermittent asthma | 0
+seizure disorder | 0
+denied sick contact | 0
+denied recent traveling | 0
+heavy alcohol drinker | 0
+severe respiratory distress | 0
+tachycardic | 0
+afebrile | 0
+hypoxic | 0
+borderline hypotension | 0
+blood pressure of 90/60 mm Hg | 0
+diffuse rhonchi | 0
+intubation | 0
+mechanical ventilation | 0
+leucopenia | 0
+thrombocytopenia | 0
+lactic acidosis | 0
+severe transaminitis | 0
+bilateral infiltrates | 0
+intravenous fluids | 0
+broad-spectrum antibiotics | 0
+vancomycin | 0
+piperacillin tazobactam | 0
+oseltamivir | 0
+azithromycin | 0
+septic shock due to pneumonia | 0
+acute respiratory distress syndrome | 0
+meropenem | 0
+levofloxacin | 0
+suspected leptospirosis | 0
+fiberoptic bronchoscopy with bronchoalveolar lavage | 0
+positive for Klebsiella pneumoniae | 0
+positive for parainfluenza | 0
+antibiotics de-escalated | 0
+blood cultures negative | 0
+urine cultures negative | 0
+spinal fluid cultures negative | 0
+hepatitis profile negative | 0
+head CT normal | 0
+transthoracic echocardiography normal | 0
+sedated with propofol | 0
+sedated with fentanyl | 0
+sedated with lorazepam | 0
+condition started improving by day 4 | 96
+weaning attempts started | 96
+severe agitation | 96
+dexmedetomidine started | 96
+other sedatives tapered off | 96
+acute abdominal distension | 216
+ileus | 216
+abdominal pain | 216
+non-bloody diarrhea | 216
+dilated cecum over 15 cm | 216
+abdominal CT without contrast revealed colon dilatation up to 10.1 cm | 216
+no evidence for bowel perforation | 216
+toxic megacolon | 216
+volvulus | 216
+nasogastric tube decompression | 216
+rectal tube decompression | 216
+aggressive electrolyte replacement | 216
+aggressive fluid replacement | 216
+serial imaging showed persistent abdominal distention | 216
+start antibiotics for infectious colitis | 216
+cover Clostridium difficile infection | 216
+metabolic derangement leading to ileus | 216
+electrolyte derangement leading to ileus | 216
+C. difficile toxin A and B negative | 216
+GDH antigen negative | 216
+stool for ova negative | 216
+stool for parasite negative | 216
+stool culture negative | 216
+blood cultures negative | 216
+endoscopic decompression unsuccessful | 264
+clinical deterioration | 264
+elevated intra-abdominal pressure | 264
+findings suggestive of toxic megacolon | 264
+surgery revealed cecal perforation | 264
+serosal tear | 264
+ileocolic anastomosis | 264
+diversion loop ileostomy | 264
+patchy transmural suppurative acute and chronic inflammation | 264
+ulceration | 264
+mucosal necrosis | 264
+serositis | 264
+PAS stain showed fungal hyphae colonization | 264
+ischemic colitis | 264
+perforation due to ACPO | 264
+pseudo-obstruction in setting of dexmedetomidine exposure | 264
+weaned off sedative medication | 264
+metabolic causes addressed early | 264
+infectious causes proven non-existing in the gut | 264
+liberated from mechanical ventilation | 264
+discharged to skilled nursing facility | 264
+jejunostomy tube feeding | 264
+tracheostomy | 264

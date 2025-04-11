@@ -1,0 +1,74 @@
+41 years old | 0
+woman | 0
+admitted in compulsive supine position | 0
+acute upper abdominal pain | -48
+stabbing upper abdominal pain | -48
+pain radiating to the scapula | -48
+no vomiting | 0
+no reflux | 0
+no dysphagia | 0
+normal bowel habits | 0
+weight 70 kg | 0
+body mass index 26.35 kg/m² | 0
+weight gain 2 kg during pregnancy | 0
+BMI before conception 25.6 kg/m² | -9360
+laparoscopic gastric band insertion | -113832
+third pregnancy | 0
+one missed abortion | -22632
+one previous caesarean delivery | -22632
+obstetrical scans at 13th week | -1080
+no pathologies detected | -1080
+obstetrical scans at 19th week | -1080
+no further investigations required | -1080
+hyperemesis gravidarum in first trimester | -2016
+mild constipation throughout pregnancy | 0
+abdominal pain at 18th week | -672
+pain lasting 2 days | -672
+pain arose from lower abdomen | -672
+pain in left lumbar region | -672
+pain migrated to umbilical region | -672
+suspected appendicitis | -672
+admitted to surgery department | -672
+CRP levels increasing from 23 to 40 mg/l | -672
+appendicitis excluded by ultrasonography | -672
+discharged | -672
+referred to perinatology center | -672
+did not seek further medical attention | 0
+blood pressure 90/62 mmHg | 0
+pulse rate 112 bpm | 0
+positive Blumberg sign | 0
+leukocytosis 22.89 × 10⁹/l | 0
+CRP 289.3 mg/l | 0
+nonhomogenous fluid in abdominal cavity | 0
+fine needle aspiration from pelvis minor | 0
+reddish cloudy fluid obtained | 0
+acute peritonitis of unknown origin | 0
+diagnostic laparoscopy | 0
+peritoneal washing | 0
+drainage performed | 0
+intraoperative esophagogastroduodenoscopy | 0
+1 cm gastric-band-related defect in stomach wall | 0
+purulent exudate | 0
+gastric band not removed | 0
+no radical surgical interventions | 0
+spent 7 days in ICU | 168
+antimicrobial therapy initiated with Meropenem | 0
+Meropenem adjusted based on cultures | 0
+Streptococcus pyogenes in peritoneal fluid | 0
+no additional surgical interventions | 0
+CRP decreased | 168
+discharged on 14th postoperative day | 336
+readmitted at 37 weeks' gestation | 1512
+no complaints on readmission | 1512
+weight gain 7 kg | 1512
+decision to not prolong pregnancy | 1512
+uneventful caesarean section | 1512
+male neonate 3060 g | 1512
+Apgar scores 9 at 1 min | 1512
+Apgar scores 10 at 5 min | 1512
+observed in ICU for 24 h | 1512
+condition stable | 1512
+spent 3 days in postnatal ward | 1512
+healthy newborn | 1512
+discharged | 1512
+postoperative period uneventful | 1512

@@ -1,0 +1,70 @@
+71 years old | 0
+female | 0
+fever | -3
+chills | -3
+no cough | -3
+no expectoration | -3
+no pharyngeal pain | -3
+no abdominal pain | -3
+no diarrhea | -3
+no increased urination frequency | -3
+no increased urination urgency | -3
+no perianal pain | -3
+hypertension | -26280
+valsartan capsules | -26280
+anemia | 0
+wet rales in the right lung | 0
+regular heart rhythm | 0
+no abdominal tenderness | 0
+no rebound pain | 0
+no abdominal masses | 0
+no limb edema | 0
+WBC count 13.2 × 109/L | 0
+neutrophil percentage 88.5% | 0
+Hb 66 g/L | 0
+PLT count 11 × 109/L | 0
+blood glucose 33 mmol/L | 0
+inflammation in both lungs | 0
+bilateral pleural thickening | 0
+thickening of the local intestinal wall in the ascending colon | 0
+suspected severe sepsis | 0
+pneumonia | 0
+hypertension | 0
+meropenem | 0
+human immunoglobulin | 0
+erythrocyte suspension | 0
+platelets | 0
+insulin micropumps | 0
+fever 40 °C | 24
+blood pressure 85/53 mmHg | 24
+Escherichia coli in blood culture | 24
+Aeromonas hydrophila in blood culture | 24
+Aeromonas caviae in blood culture | 24
+transfer to intensive care unit | 24
+tetracycline | 24
+fluid resuscitation | 24
+vasoactive drugs | 24
+decrease in platelets | 24
+decrease in Hb | 24
+decrease in WBC count | 24
+recombinant human granulocyte colony-stimulating factor | 24
+recombinant human PLT growth factor | 24
+infection controlled | 168
+blood pressure normalized | 168
+body temperature normalized | 168
+negative blood culture | 168
+WBC count normalized | 168
+Hb normalized | 168
+persistent low platelets | 168
+bone marrow biopsy | 168
+malignant cells in bone marrow smear | 168
+suspected cancer metastasis to bone marrow | 168
+PET/CT examination | 168
+high metabolic signals in ascending colon | 168
+TCP due to bone marrow metastasis | 168
+contraindication for surgery | 168
+contraindication for endoscopy | 168
+conservative medical treatment | 168
+colon adenocarcinoma | 168
+tumor progression | 504
+death | 504

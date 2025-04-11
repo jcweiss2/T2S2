@@ -1,0 +1,64 @@
+41 years old | 0
+    female | 0
+    type 2 diabetes mellitus | -48
+    fever | -48
+    nausea | -48
+    vomiting | -48
+    diarrhea | -48
+    eating take-out Chinese food | -50
+    persistent symptoms | -48
+    decreased level of sensorium | -48
+    mild upper-respiratory tract infection | -168
+    marijuana use | 0
+    exposure to son with flu-like symptoms | 0
+    denied recent travel outside the United States | 0
+    blood pressure 115/64 mmHg | 0
+    heart rate 127 beats/min | 0
+    respiratory rate 28 breaths/min | 0
+    fever 38.8°C | 0
+    oxygen saturation 97% on room air | 0
+    weight 79 kg | 0
+    BMI 32 | 0
+    drowsiness | 0
+    mild epigastric tenderness | 0
+    chest X-ray bilateral lung infiltrates | 0
+    blood cultures sent for analysis | 0
+    started on metronidazole 500 mg/IV q8h | 0
+    started on ciprofloxacin 400 mg/IV q12h | 0
+    admitted to intensive care unit | 0
+    sepsis | 0
+    disseminated intravascular coagulopathy | 0
+    multi-organ failure | 0
+    progressive respiratory failure | 0
+    intubated | 12
+    acute respiratory distress syndrome | 168
+    anuric | 72
+    required hemodialysis | 72
+    acute liver failure | 72
+    acute pancreatitis without necrosis | 72
+    multiple transfusions | 72
+    anemia | 72
+    thrombocytopenia | 72
+    dry-foot gangrene | 72
+    amputated above the toes | 72
+    borderline hypotension (BP 90/60 mmHg) | 72
+    sepsis workup | 0
+    pan-sensitive Streptococcus pneumoniae | 0
+    treated with metronidazole 500 mg/IV q8h | 0
+    treated with cefepime 2 g/IV q8h | 0
+    treated with daptomycin 6 mg/kg/IV q48h | 0
+    limited clinical improvement | 0
+    extensive workup for autoimmune, viral, fungal, or bacterial etiology | 168
+    bicytopenia | 168
+    hypertriglyceridemia | 168
+    low fibrinogen | 168
+    hyperferritinemia | 168
+    intravenous immunoglobulin 100 g/IV q24h for 2 days | 168
+    high-dose dexamethasone therapy 20 mg/IV q24h for 8 days | 168
+    elevated sIL2 assay (1817 pg/mL) | 168
+    deferred etoposide-based regimen | 168
+    clinical improvement after IVIG and dexamethasone | 216
+    successfully extubated | 264
+    transferred to sub-acute rehab facility | 264
+    critical illness-induced myopathy | 264
+

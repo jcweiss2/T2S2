@@ -1,0 +1,85 @@
+30 years old | 0
+    male | 0
+    admitted to the hospital | 0
+    second dose of mRNA SARS-CoV-2 vaccine | -936
+    fever | -936
+    pleuritic chest pain | -936
+    symptom reduction | -912
+    presyncope | -240
+    hospital admission | -240
+    diagnosis of acute pericarditis | -240
+    cardiac tamponade | -240
+    pericardiocentesis | -240
+    non-steroid anti-inflammatory drugs | -240
+    colchicine | -240
+    relapse of pleuritic chest pain | -192
+    elevated inflammatory markers | -192
+    moderate pericardial effusion | -192
+    admitted to Cardiology ward | -192
+    admitted to cardiac intensive care unit | -168
+    worsening pericardial effusion | -168
+    mild signs of impaired ventricular filling | -168
+    CRP 306 mg/L | -168
+    anakinra started 100 mg twice daily | -168
+    anakinra 100 mg daily | -168
+    no chest pain | -144
+    CRP 287 mg/L | -144
+    no chest pain | -120
+    CRP 179 mg/L | -120
+    complete reabsorption of pericardial effusion | -96
+    CRP 104 mg/L | -96
+    CRP 34 mg/L | -48
+    discharge | 0
+    asymptomatic | 0
+    good clinical conditions | 0
+    large circumferential pericardial effusion | -168
+    diffuse ST elevation | -168
+    PR depression | -168
+    increased heart rate | -168
+    muffled heart sounds | -168
+    jugular vein distension | -168
+    low blood pressure | -168
+    positive anti-spike SARS-CoV-2 IgGs and IgMs | -168
+    negative Epstein–Barr virus serology and genoma | -168
+    negative Echovirus | -168
+    negative Coxsackevirus | -168
+    negative Adenovirus | -168
+    negative Cytomegalovirus serology | -168
+    negative Quantiferon | -168
+    negative autoimmunity tests | -168
+    negative high-sensitivity Troponin I | -168
+    normal biventricular global and regional function | -168
+    right ventricular diastolic collapse | -168
+    transmitral E wave peak velocity respiratory variation | -168
+    distended inferior vena cava | -168
+    emergency pericardiocentesis | -240
+    ibuprofen 600 mg t.i.d. | -240
+    colchicine 0.5 mg b.i.d. | -240
+    symptom remission | -240
+    downward trend of inflammatory markers | -240
+    negative pericardial fluid analysis | -240
+    ibuprofen tapering | -192
+    disease flare | -192
+    fever | -192
+    pleuritic chest pain | -192
+    increased inflammatory markers | -192
+    CRP 306 mg/L | -192
+    neutrophil leucocytosis | -192
+    ECG signs of acute pericarditis | -192
+    sinus tachycardia | -192
+    large pericardial effusion up to 25 mm | -192
+    incipient signs of impaired ventricular filling | -192
+    readmission to CICU | -192
+    defer pericardiocentesis | -168
+    start anakinra subcutaneously | -168
+    complete resolution of symptoms | -168
+    afebrile | -168
+    asymptomatic | -168
+    normal heart rate | -144
+    complete reabsorption of pericardial effusion | -96
+    abrupt reduction of inflammatory markers | -72
+    discharge on anakinra | 0
+    discharge on ibuprofen | 0
+    discharge on colchicine | 0
+    discharge on proton pump inhibitor | 0
+    asymptomatic at follow-up | 24

@@ -1,0 +1,50 @@
+26 years old | 0
+    female | 0
+    jaundice | -8760
+    intermittent epigastric pain | -8760
+    weight loss | -8760
+    pruritus | -8760
+    tea-colored urine | -8760
+    obstructive jaundice | 0
+    choledocholithiasis | 0
+    hepatobiliary tuberculosis | 0
+    ERCP | 0
+    sphincterotome-guidewire technique | 0
+    French 7–10 dilators | 0
+    partial sphincterotomy | 0
+    biliary stent insertion | 0
+    TB-PCR positive bile | 0
+    abdominal pain post-endoscopy | 24
+    fever post-endoscopy | 48
+    tachycardia | 48
+    epigastric tenderness | 48
+    post-ERCP pancreatitis | 48
+    elevated amylase (125 U/L) | 48
+    normal lipase (234 U/L) | 48
+    generalized abdominal pain | 72
+    hypotension (70/40 mmHg) | 72
+    distended abdomen | 72
+    direct tenderness | 72
+    rebound tenderness | 72
+    acute abdomen | 72
+    negative chest X-ray | 72
+    negative abdominal X-ray | 72
+    elevated WBC (12.9 × 10^9/L) | 72
+    elevated prothrombin time (22.7 s) | 72
+    elevated PT-INR (1.83) | 72
+    elevated aPTT (43.9 s) | 72
+    broad-spectrum antibiotics | 72
+    Vitamin K infusion | 72
+    FFP transfusion | 72
+    norepinephrine | 72
+    exploratory laparotomy | 72
+    generalized peritonitis | 72
+    duodenal perforation | 72
+    duodenorrhaphy | 72
+    primary repair | 72
+    peritoneal lavage | 72
+    tube jejunostomy | 72
+    intubated | 72
+    persistent hypotension | 96
+    supraventricular tachycardia | 96
+    death | 96

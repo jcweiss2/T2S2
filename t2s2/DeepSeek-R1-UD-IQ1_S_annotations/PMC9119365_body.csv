@@ -1,0 +1,98 @@
+event,time
+66 years old , 0  
+    female , 0  
+    admitted to the emergency department , 0  
+    fatigue , 0  
+    shortness of breath , 0  
+    denied fevers , 0  
+    denied rigors , 0  
+    denied changes in quality or color of sputum , 0  
+    denied chest pain , 0  
+    denied palpitations , 0  
+    reported dizziness , 0  
+    endorsed one episode of black stool , 0  
+    denied any history of acute epigastric pain , 0  
+    denied lower abdominal pain , 0  
+    denied rectal bleeding , 0  
+    denied recent bowel habits changes , 0  
+    confused , 0  
+    ill-looking , 0  
+    oxygen saturation of 81% , 0  
+    oxygen saturation improved to 95% , 0  
+    afebrile , 0  
+    blood pressure of 110/60 mm Hg , 0  
+    pulse rate of 100 beats/min , 0  
+    reduced breathing sounds over both lung fields , 0  
+    crackles , 0  
+    scattered wheezes , 0  
+    systemic examination unremarkable , 0  
+    nasopharyngeal swab for SARS-CoV-2 positive , 0  
+    commenced on dexamethasone 6 mg injection daily , 0  
+    commenced on remdesivir , 0  
+    passed a large amount of melena , 0  
+    became hypotensive to 90/65 mm Hg , 0  
+    responded to 1 L of intravenous fluids bolus , 0  
+    transferred to the intensive care unit , 0  
+    recommended pantoprazole injections , 0  
+    esophagogastroscopy (EGD) , 0  
+    bleeding duodenal ulcer , 0  
+    controlled by epinephrine injection , 0  
+    controlled by bipolar cauterization , 0  
+"    white cells count (WCC) 15,000/mm³ ", 0  
+    hemoglobin 12.5 g/dL , 0  
+"    platelets 390,000/mm³ ", 0  
+    C-reactive protein (CRP) 72 mg/dL , 0  
+    serum creatinine 1.7 mg/dL ,#ERROR  
+    serum sodium 132 mmol/L , 0  
+    serum potassium 3.2 mmol/L , 0  
+    serum magnesium 1.4 mmol/L , 0  
+    serum lactate 3.1 mmol/L , 0  
+"    serum glucose (point-of-care, POCG) 350 mg/dL ", 0  
+    hemoglobin A1c 9.5% , 0  
+    serum albumin 3.1 g/dL , 0  
+    spiked a high-grade fever (38.5 °C) , 72  
+    became hypotensive to 80/55 mm Hg , 72  
+    tachycardic to 140 beats/min , 72  
+    requiring vasopressors support , 72  
+    blood cultures obtained , 72  
+    inspiratory crackles over the left lower lung zone , 72  
+    vague generalized abdominal tenderness , 72  
+    altered mental status , 72  
+    chest X-rays revealed consolidation of the left lower lung lobe , 72  
+    commenced on empiric broad-spectrum antibiotics (cefepime) , 72  
+    blood cultures grew anaerobic gram-positive bacillus , 96  
+    identification using MALDI-TOF mass spectrometry isolated C. tertium , 120  
+    intravenous vancomycin and clindamycin added , 96  
+    computed tomography (CT) of the abdomen performed , 96  
+    extensive free intraperitoneal gas , 96  
+    thickened distal sigmoid colon wall , 96  
+    adjacent free fluids , 96  
+    colonic perforation , 96  
+    no evidence of mesenteric ischemia , 96  
+    surgical consultation recommended emergent laparotomy , 96  
+    operative intervention performed , 96  
+    perforated sigmoid diverticulitis , 96  
+    localized peritonitis , 96  
+    Hartmann’s procedure performed , 96  
+    remained on vasopressors support for 5 days postoperatively , 120  
+    repeat blood cultures on day 3 postoperatively grew C. tertium , 168  
+    repeat blood cultures on day 5 postoperatively grew C. tertium , 216  
+    susceptible to meropenem , 96  
+    susceptible to metronidazole , 96  
+    susceptible to amoxicillin-clavulanate , 96  
+    susceptible to piperacillin-tazobactam , 96  
+    switched to intravenous meropenem , 96  
+    switched to metronidazole , 96  
+    histology of resected colon biopsy confirmed perforated diverticulitis , 96  
+    no evidence of neoplasia , 96  
+    continued on parenteral meropenem , 96  
+    continued on metronidazole , 96  
+    serial blood cultures on day 10 postoperatively confirmed clearance , 240  
+    serial blood cultures on day 14 postoperatively confirmed clearance , 336  
+    challenging postoperative course over 2 weeks , 336  
+    complicated by difficult weaning from mechanical ventilator , 336  
+    ICU-AW necessitated transition into tracheostomy , 336  
+    transferred into long-term acute care facility , 336  
+    discharged on oral metronidazole , 336  
+    discharged on amoxicillin-clavulanate , 336  
+    delayed clearance of C. tertium bacteremia , 336  

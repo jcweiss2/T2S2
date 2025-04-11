@@ -1,0 +1,303 @@
+54 years old | 0
+    woman | 0
+    weighing 60 kg | 0
+    soft tissue sarcoma | 0
+    left above-knee amputation | 0
+    anaemic | 0
+    hemoglobin 7.5 mg dL−1 | 0
+    surgery planned under peripheral nerve stimulator-guided psoas compartment block with sciatic nerve block | 0
+    explained procedure to patient during preanaesthesia check-up | -24
+    written informed consent obtained | -24
+    routine standard monitors applied in operation theatre | 0
+    18-gauge intravenous cannula secured | 0
+    50 μg fentanyl injection given | 0
+    positioned in lateral decubitus | 0
+    fourth lumbar spine (L4) identified | 0
+    iliac crest identified | 0
+    introduced insulated 100 mm needle perpendicular to skin | 0
+    needle directed towards transverse process of L4 using peripheral nerve stimulator | 0
+    L4 transverse process reached at 7 cm depth | 0
+    needle angled caudally | 0
+    patellar movement seen | 0
+    current reduced | 0
+    patellar movement at 0.5 mA at 8 cm depth | 0
+    injected 25 mL of 0.5% ropivacaine | 0
+    confirmed negative aspiration for blood | 0
+    confirmed negative aspiration for cerebrospinal fluid | 0
+    continuous verbal communication with patient | 0
+    patient suddenly became unresponsive | 2
+    heart rate decreased to 30 beats min−1 | 2
+    hypotension 60/40 mm Hg | 2
+    made supine | 2
+    ventilation started with bag and mask using 100% oxygen | 2
+    0.6 mg atropine administered intravenously | 2
+    heart rate did not improve | 2
+    second dose of atropine 0.6 mg given | 2
+    two doses of mephentermine 6 mg given | 2
+    1 litre Ringer lactate administered quickly | 2
+    blood pressure improved after approximately 10 minutes | 12
+    patient intubated with 7.5 cuffed endotracheal tube | 12
+    respiration given with 100% oxygen | 12
+    surgery postponed | 12
+    decision to shift patient to intensive care unit | 12
+    haemodynamically stable in ICU | 24
+    regained consciousness after 2 hours | 24
+    shallow breathing | 24
+    fully awake after 3 hours | 27
+    adequate respiratory effort | 27
+    adequate tidal volume | 27
+    extubated | 27
+    dense bilateral sensory block up to second thoracic (T2) level | 27
+    sensory block disappeared completely after 6 hours | 33
+    fully recovered | 33
+    observed in ICU for next 24 hours | 33
+    shifted to ward next day | 57
+    total spinal anaesthesia diagnosed | 2
+    vasovagal attack differential diagnosis | 2
+    local anaesthetic toxicity differential diagnosis | 2
+    central neuraxial block differential diagnosis | 2
+    persistent haemodynamic instability | 2
+    unconsciousness despite resuscitation | 2
+    change of position | 2
+    no signs of local anaesthetic toxicity | 2
+    sudden onset of unconsciousness | 2
+    severe hypotension | 2
+    bradycardia | 2
+    dense bilateral motor blockade | 2
+    drug spread into subarachnoid space | 2
+    surgery postponed | 12
+    patient shifted to ICU | 12
+    patient observed in ICU | 24
+    patient shifted to ward | 57
+    written consent to publish obtained | -24
+    peer-reviewed | 0
+    financial disclosure | 0
+    
+    
+    54 years old | 0
+    woman | 0
+    weighing 60 kg | 0
+    soft tissue sarcoma | 0
+    left above-knee amputation | 0
+    anaemic | 0
+    hemoglobin 7.5 mg dL−1 | 0
+    surgery planned under peripheral nerve stimulator-guided psoas compartment block with sciatic nerve block | 0
+    explained procedure to patient during preanaesthesia check-up | -24
+    written informed consent obtained | -24
+    routine standard monitors applied in operation theatre | 0
+    18-gauge intravenous cannula secured | 0
+    50 μg fentanyl injection given | 0
+    positioned in lateral decubitus | 0
+    fourth lumbar spine (L4) identified |: 0
+    iliac crest identified | 0
+    introduced insulated 100 mm needle perpendicular to skin | 0
+    needle directed towards transverse process of L4 using peripheral nerve stimulator | 0
+    L4 transverse process reached at 7 cm depth | 0
+    needle angled caudally | 0
+    patellar movement seen | 0
+    current reduced | 0
+    patellar movement at 0.5 mA at 8 cm depth | 0
+    injected 25 mL of 0.5% ropivacaine | 0
+    confirmed negative aspiration for blood | 0
+    confirmed negative aspiration for cerebrospinal fluid | 0
+    continuous verbal communication with patient | 0
+    patient suddenly became unresponsive | 2
+    heart rate decreased to 30 beats min−1 | 2
+    hypotension 60/40 mm Hg | 2
+    made supine | 2
+    ventilation started with bag and mask using 100% oxygen | 2
+    0.6 mg atropine administered intravenously | 2
+    heart rate did not improve | 2
+    second dose of atropine 0.6 mg given | 2
+    two doses of mephentermine 6 mg given | 2
+    1 litre Ringer lactate administered quickly | 2
+    blood pressure improved after approximately 10 minutes | 12
+    patient intubated with 7.5 cuffed endotracheal tube | 12
+    respiration given with 100% oxygen | 12
+    surgery postponed | 12
+    decision to shift patient to intensive care unit | 12
+    haemodynamically stable in ICU | 24
+    regained consciousness after 2 hours | 24
+    shallow breathing | 24
+    fully awake after 3 hours | 27
+    adequate respiratory effort | 27
+    adequate tidal volume | 27
+    extubated | 27
+    dense bilateral sensory block up to second thoracic (T2) level | 27
+    sensory block disappeared completely after 6 hours | 33
+    fully recovered | 33
+    observed in ICU for next 24 hours | 33
+    shifted to ward next day | 57
+    total spinal anaesthesia diagnosed | 2
+    vasovagal attack differential diagnosis | 2
+    local anaesthetic toxicity differential diagnosis | 2
+    central neuraxial block differential diagnosis | 2
+    persistent haemodynamic instability | 2
+    unconsciousness despite resuscitation | 2
+    change of position | 2
+    no signs of local anaesthetic toxicity | 2
+    sudden onset of unconsciousness | 2
+    severe hypotension | 2
+    bradycardia | 2
+    dense bilateral motor blockade | 2
+    drug spread into subarachnoid space | 2
+    surgery postponed | 12
+    patient shifted to ICU | 12
+    patient observed in ICU | 24
+    patient shifted to ward | 57
+    written consent to publish obtained | -24
+    peer-reviewed | 0
+    financial disclosure | 0
+    
+    
+    54 years old | 0
+    woman | 0
+    weighing 60 kg | 0
+    soft tissue sarcoma | 0
+    left above-knee amputation | 0
+    anaemic | 0
+    hemoglobin 7.5 mg dL−1 | 0
+    surgery planned under peripheral nerve stimulator-guided psoas compartment block with sciatic nerve block | 0
+    explained procedure to patient during preanaesthesia check-up | -24
+    written informed consent obtained | -24
+    routine standard monitors applied in operation theatre | 0
+    18-gauge intravenous cannula secured | 0
+    50 μg fentanyl injection given | 0
+    positioned in lateral decubitus | 0
+    fourth lumbar spine (L4) identified | 0
+    iliac crest identified | 0
+    introduced insulated 100 mm needle perpendicular to skin | 0
+    needle directed towards transverse process of L4 using peripheral nerve stimulator | 0
+    L4 transverse process reached at 7 cm depth | 0
+    needle angled caudally | 0
+    patellar movement seen | 0
+    current reduced | 0
+    patellar movement at 0.5 mA at 8 cm depth | 0
+    injected 25 mL of 0.5% ropivacaine | 0
+    confirmed negative aspiration for blood | 0
+    confirmed negative aspiration for cerebrospinal fluid | 0
+    continuous verbal communication with patient | 0
+    patient suddenly became unresponsive | 2
+    heart rate decreased to 30 beats min−1 | 2
+    hypotension 60/40 mm Hg | 2
+    made supine | 2
+    ventilation started with bag and mask using 100% oxygen | 2
+    0.6 mg atropine administered intravenously | 2
+    heart rate did not improve | 2
+    second dose of atropine 0.6 mg given | 2
+    two doses of mephentermine 6 mg given | 2
+    1 litre Ringer lactate administered quickly | 2
+    blood pressure improved after approximately 10 minutes | 12
+    patient intubated with 7.5 cuffed endotracheal tube | 12
+    respiration given with 100% oxygen | 12
+    surgery postponed | 12
+    decision to shift patient to intensive care unit | 12
+    haemodynamically stable in ICU | 24
+    regained consciousness after 2 hours | 24
+    shallow breathing | 24
+    fully awake after 3 hours | 27
+    adequate respiratory effort | 27
+    adequate tidal volume | 27
+    extubated | 27
+    dense bilateral sensory block up to second thoracic (T2) level | 27
+    sensory block disappeared completely after 6 hours | 33
+    fully recovered | 33
+    observed in ICU for next 24 hours | 33
+    shifted to ward next day | 57
+    total spinal anaesthesia diagnosed | 2
+    vasovagal attack differential diagnosis | 2
+    local anaesthetic toxicity differential diagnosis | 2
+    central neuraxial block differential diagnosis | 2
+    persistent haemodynamic instability | 2
+    unconsciousness despite resuscitation | 2
+    change of position | 2
+    no signs of local anaesthetic toxicity | 2
+    sudden onset of unconsciousness | 2
+    severe hypotension | 2
+    bradycardia | 2
+    dense bilateral motor blockade | 2
+    drug spread into subarachnoid space | 2
+    surgery postponed | 12
+    patient shifted to ICU | 12
+    patient observed in ICU | 24
+    patient shifted to ward | 57
+    written consent to publish obtained | -24
+    peer-reviewed | 0
+    financial disclosure | 0
+    
+    
+    54 years old | 0
+    woman | 0
+    weighing 60 kg | 0
+    soft tissue sarcoma | 0
+    left above-knee amputation | 0
+    anaemic | 0
+    hemoglobin 7.5 mg dL−1 | 0
+    surgery planned under peripheral nerve stimulator-guided psoas compartment block with sciatic nerve block | 0
+    explained procedure to patient during preanaesthesia check-up | -24
+    written informed consent obtained | -24
+    routine standard monitors applied in operation theatre | 0
+    18-gauge intravenous cannula secured | 0
+    50 μg fentanyl injection given | 0
+    positioned in lateral decubitus | 0
+    fourth lumbar spine (L4) identified | 0
+    iliac crest identified | 0
+    introduced insulated 100 mm needle perpendicular to skin | 0
+    needle directed towards transverse process of L4 using peripheral nerve stimulator | 0
+    L4 transverse process reached at 7 cm depth | 0
+    needle angled caudally | 0
+    patellar movement seen | 0
+    current reduced | 0
+    patellar movement at 0.5 mA at 8 cm depth | 0
+    injected 25 mL of 0.5% ropivacaine | 0
+    confirmed negative aspiration for blood | 0
+    confirmed negative aspiration for cerebrospinal fluid | 0
+    continuous verbal communication with patient | 0
+    patient suddenly became unresponsive | 2
+    heart rate decreased to 30 beats min−1 | 2
+    hypotension 60/40 mm Hg | 2
+    made supine | 2
+    ventilation started with bag and mask using 100% oxygen | 2
+    0.6 mg atropine administered intravenously | 2
+    heart rate did not improve | 2
+    second dose of atropine 0.6 mg given | 2
+    two doses of mephentermine 6 mg given | 2
+    1 litre Ringer lactate administered quickly | 2
+    blood pressure improved after approximately 10 minutes | 12
+    patient intubated with 7.5 cuffed endotracheal tube | 12
+    respiration given with 100% oxygen | 12
+    surgery postponed | 12
+    decision to shift patient to intensive care unit | 12
+    haemodynamically stable in ICU | 24
+    regained consciousness after 2 hours | 24
+    shallow breathing | 24
+    fully awake after 3 hours | 27
+    adequate respiratory effort | 27
+    adequate tidal volume | 27
+    extubated | 27
+    dense bilateral sensory block up to second thoracic (T2) level | 27
+    sensory block disappeared completely after 6 hours | 33
+    fully recovered | 33
+    observed in ICU for next 24 hours | 33
+    shifted to ward next day | 57
+    total spinal anaesthesia diagnosed | 2
+    vasovagal attack differential diagnosis | 2
+    local anaesthetic toxicity differential diagnosis | 2
+    central neuraxial block differential diagnosis | 2
+    persistent haemodynamic instability | 2
+    unconsciousness despite resuscitation | 2
+    change of position | 2
+    no signs of local anaesthetic toxicity | 2
+    sudden onset of unconsciousness | 2
+    severe hypotension | 2
+    bradycardia | 2
+    dense bilateral motor blockade | 2
+    drug spread into subarachnoid space | 2
+    surgery postponed | 12
+    patient shifted to ICU | 12
+    patient observed in ICU | 24
+    patient shifted to ward | 57
+    written consent to publish obtained | -24
+    peer-reviewed | 0
+    financial disclosure | 0
+    

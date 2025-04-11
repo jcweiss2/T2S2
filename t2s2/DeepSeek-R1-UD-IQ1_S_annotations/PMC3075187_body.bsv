@@ -1,0 +1,55 @@
+71 years old | 0
+    man | 0
+    admitted to the hospital | 0
+    rectal bleeding | 0
+    denied abdominal pain | 0
+    denied nausea | 0
+    denied vomiting | 0
+    denied hematemesis | 0
+    denied previous history of gastrointestinal bleeding | 0
+    cirrhosis of the liver secondary to alcohol use | 0
+    hypertension | 0
+    coronary artery disease | 0
+    atrial fibrillation | 0
+    systolic congestive heart failure | 0
+    not taking warfarin | 0
+    coronary artery bypass surgery | 0
+    pallor | 0
+    hemodynamically stable | 0
+    nasogastric aspiration clear | 0
+    rectal examination revealed large amount of maroon-colored blood | 0
+    admitted to the intensive care unit | 0
+    hematocrit 11% | 0
+    received more than 6 units of packed red blood cells | 0
+    hematocrit 18% | 0
+    emergency endoscopy | 0
+    emergency colonoscopy | 0
+    bowel cleansing with polyethylene glycol | 0
+    upper gastrointestinal endoscopy revealed two clean based cratered ulcers in the duodenal bulb | 0
+    no blood found in the upper gastrointestinal tract | 0
+    colonoscopy revealed large amount of fresh and altered blood with clots in the entire colon | 0
+    no lesion identified to explain the bleeding | 0
+    vigorous irrigation and cleansing | 0
+    colonoscopy not completed to the cecum | 0
+    large pool of blood and clots interfered with visualization | 0
+    exploratory laparotomy | 0
+    two irregular appearing areas in the ascending colon | 0
+    right hemicolectomy | 0
+    controlled the bleeding | 0
+    pathology revealed MALT lymphoma | 0
+    marginal zone cells infiltrating the lamina propria in a diffuse pattern | 0
+    colonizing the reactive germinal center | 0
+    immunohistochemical stains reactive to CD20 | 0
+    immunohistochemical stains reactive to CD43 | 0
+    immunohistochemical stains reactive to BCL-2 antibodies | 0
+    immunohistochemical stains nonreactive to cyclin D1 | 0
+    immunohistochemical stains nonreactive to CD3 | 0
+    immunohistochemical stains nonreactive to CD5 | 0
+    immunohistochemical stains nonreactive to CD10 | 0
+    immunohistochemical stains nonreactive to BCL-6 antibodies | 0
+    H. pylori negative | 0
+    hematology/oncology team evaluated the patient | 0
+    staging work-up planned | 0
+    remained in the intensive care unit | 0
+    developed sepsis | 168
+    expired | 336

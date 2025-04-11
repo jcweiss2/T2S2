@@ -1,0 +1,118 @@
+event,time
+38 years old ,0.0
+    man ,0.0
+    presented to the hospital ,0.0
+    abdominal pain ,-3.0
+    nausea ,-3.0
+    discharged from the hospital ,-504.0
+    hospital course for COVID-19 pneumonia ,-672.0
+    endotracheal intubation ,-672.0
+    ventilatory support ,-672.0
+    CT PE study ,-672.0
+    no evidence of PE ,-672.0
+    previous medical history significant for PE at age 16 ,-168.0
+    PE provoked by trauma ,-168.0
+    treated with 6 months of warfarin ,-168.0
+    remained well until age 30 ,-168.0
+    diagnosed with second PE ,-168.0
+    chronic thromboembolic pulmonary hypertension ,-168.0
+    thromboendarterectomy ,-168.0
+    started on long-term warfarin therapy ,-168.0
+    regular INR checks ,-168.0
+    close follow-up visits ,-168.0
+    hypercoagulable work-up after second PE negative ,-168.0
+    reported with medication regimen ,0.0
+    INR levels consistently therapeutic ,0.0
+    blood pressure 129/86 mm Hg ,0.0
+    heart rate 99 bpm ,0.0
+    respiratory rate 16/min ,0.0
+    temperature 100.4 °F ,0.0
+    obesity ,0.0
+    moderate bilateral symmetrical lower extremity edema ,0.0
+    remained hemodynamically stable ,0.0
+    unremarkable basic metabolic panel ,0.0
+    negative high sensitivity troponins ,0.0
+    platelets within normal limit ,0.0
+    elevated white cell count 12.94×10^9/L ,0.0
+    INR therapeutic range ,0.0
+    PT elevated to 34.7 s ,0.0
+    PTT normal at 37.4 s ,0.0
+    CT abdomen ,0.0
+    no abnormalities in abdomen ,0.0
+    incidental finding of possible filling defect in dilated descending right pulmonary artery ,0.0
+    dedicated chest imaging with CTPE ,0.0
+    large filling defect within descending right main pulmonary artery ,0.0
+    filling defect not visualized during initial admission ,0.0
+    not evident on studies prior to COVID-19 infection ,0.0
+    echocardiogram ,0.0
+    dilated right atrium ,0.0
+    bowing of interatrial septum ,0.0
+    increased RA pressure 8 mm Hg ,0.0
+    severely dilated right ventricle ,0.0
+    severely reduced systolic function ,0.0
+    diastolic and systolic LV septal flattening ,0.0
+    dilated inferior vena cava ,0.0
+    lower extremity Doppler ultrasounds ,0.0
+    no deep vein thrombosis ,0.0
+    periumbilical abdominal pain ,0.0
+    nausea ,0.0
+    fever ,0.0
+    elevation in white cell count ,0.0
+    white cell count resolved by day 2 ,48.0
+    no diarrhea ,0.0
+    Clostridium difficile screen negative ,0.0
+    blood cultures negative ,0.0
+    CT abdomen and pelvis no infectious source ,0.0
+    stress ulcers considered ,0.0
+    no signs of gastrointestinal bleeding ,0.0
+    negative fecal occult blood test ,0.0
+    stable hemoglobin values ,0.0
+    acute pancreatitis ruled out ,0.0
+    normal serum amylase ,0.0
+    normal serum lipase ,0.0
+    normal appearance of pancreas on CT ,0.0
+    abdominal symptoms resolved ,0.0
+    fevers resolved ,0.0
+    leukocytosis resolved ,0.0
+    PE ruled in ,0.0
+    consideration of anticoagulation failure ,0.0
+    transiently on unfractionated intravenous heparin therapy ,0.0
+    decision to continue warfarin with higher INR target range ,0.0
+    advised to follow with hematology ,0.0
+    consideration of enoxaparin therapy after weight loss ,0.0
+    outcome decision to remain on warfarin ,0.0
+    close follow-up ,0.0
+    postdischarge attempts for follow-up ,0.0
+    no response to follow-up reminders ,0.0
+    recurrent pulmonary embolism ,0.0
+    COVID-19 disease ,0.0
+    therapeutic anticoagulation ,0.0
+    hypercoagulable state associated with COVID-19 ,0.0
+    challenges with treatment ,0.0
+    recurrent thrombosis despite therapeutic anticoagulation ,0.0
+"Alright, let's tackle this case report. I need to extract all the clinical events and assign timestamps based on the admission time (which is at 0). Any event before admission gets a negative timestamp, and any after gets a positive one. If there's no specific time mentioned, I'll have to approximate using context and medical knowledge.",
+"First, the patient is a 38-year-old man presenting to the hospital with a 3-hour history of abdominal pain and nausea. So the presenting symptoms (abdominal pain and nausea) started 3 hours before admission, which is timestamp -3.",
+"He was discharged two weeks prior to presentation from a previous hospital stay for COVID-19 pneumonia. Two weeks is 14 days, so 14*24 = 336 hours. But since the discharge was two weeks before the current admission, that's -336 hours. However, the case mentions he had a 3-week hospital course before discharge. So the hospital course started 3 weeks prior to discharge. But discharge was two weeks before presentation, so the hospital course started 3 weeks + 2 weeks = 5 weeks prior to admission. 5 weeks is 35 days, 35*24 = 840 hours. Wait, maybe I need to clarify. The case says he was discharged two weeks prior to presentation after a 3-week hospital stay. So the hospital course started 3 weeks before discharge, which was two weeks before presentation. So the hospital admission for COVID-19 pneumonia was 3 weeks + 2 weeks = 5 weeks ago. So 5 weeks is 35 days, 35*24 = 840 hours. Therefore, the hospital course for COVID3-19 pneumonia started at -840 hours. But in the events, ""discharged from the hospital"" was two weeks prior, which is -336 hours. Hmm, maybe better to assign the hospital course and intubation to around that time. Let me check the case again.",
+"The case says: Two weeks prior to presentation, he was discharged from the hospital after a 3-week-long hospital course for COVID-19 pneumonia. So the hospital course started 3 weeks before discharge. Discharge was two weeks before presentation (current admission). So the hospital admission for COVID-19 was 3 weeks + 2 weeks = 5 weeks before current admission. 5 weeks = 35 days = 840 hours. So events during that admission (endotracheal intubation, ventilatory support, CT PE study) would be at -840 hours. But the CT PE study during that time showed no PE, so that event is at -840.",
+"His previous PE at age 16: he's now 38, so 22 years ago. But the case says after 6 months of anticoagulation, he remained well until age 30. Age 30 was 8 years ago. So the second PE and chronic thromboembolic pulmonary hypertension diagnosis was at age 30, which is 8 years ago. 8 years is 2920 days, which is way too far back. But since these are historical events, perhaps the timestamps for previous medical history should be treated as before admission but with negative timestamps. However, the case doesn't specify when these occurred relative to current admission. Since they are part of his medical history, perhaps they should be assigned to an earlier time. However, the instructions say that if the event has no temporal information, use clinical judgment. ",
+"Wait, the user instruction says: ""If there is no temporal information of the event, please use your knowledge and events with temporal expression before and after the events to provide an approximation."" So for the PE at age 16, since it's historical but not tied to current admission, how to timestamp? Maybe assign it a very negative value, but the case also mentions he was diagnosed with a second PE at age 30, which is 8 years before current admission. So 8 years is 8*365*24=70080 hours. But that seems too far. However, the case report's focus is on the current admission and recent events. So perhaps the prior PE events are part of his history and not tied to the current admission timeline. Wait, but the user wants all events, even historical ones. So for the PE at age 16, which happened 22 years ago, and the second PE at age 30 (8 years ago), how to timestamp? ",
+"But the instruction says: ""If the event is not available, we treat the event, e.g. current main clinical diagnosis or treatment with timestamp 0."" Hmm, maybe historical events that are part of the patient's history but not tied to the current admission timeline should be assigned a timestamp based on when they occurred relative to the current admission. Since the PE at age 16 was 22 years ago, which is 22*365*24=192,720 hours before admission. That's a huge negative number. But including that might not be practical. However, the instructions say to include all events. Hmm, but maybe the case report's mention of the previous PE is part of the medical history, and in terms of the current admission's timeline, these are considered as part of the history before admission. But the exact timing isn't given, so approximation is needed.",
+"Alternatively, since the case mentions the prior PE in the context of his medical history, and the focus is on recent events (COVID-19 hospitalization two weeks prior), maybe we need to prioritize events related to the current admission and recent history. ",
+"Wait, the user instruction says: ""If there is no temporal information of the event, please use your knowledge and events with temporal expression before and after the events to provide an approximation."" So for example, the prior PE at age 16 and the second PE at age 30 are historical events with no specific timing relative to the current admission. However, the case mentions that after the first PE (age 16), he was treated for 6 months and remained well until age 30 when the second PE occurred. So the time between the first and second PE is 14 years (16 to 30). But how does that relate to the current admission? It's unclear. Since these events are part of his past medical history but not tied to the current admission timeline, perhaps they should be considered as occurring long before admission, so with large negative timestamps. However, the instructions might want us to include them with approximated times. For example, if the second PE was 8 years ago, that's 8*365*24=70080 hours before admission, so timestamp -70080. But that seems impractical. However, since the instructions say to include all events, perhaps we should list them with the best approximation possible.",
+"Alternatively, maybe since these are part of the patient's history and not tied to the current admission timeline, they are treated as having timestamp 0, but that might not be correct. Wait, the instruction says: ""If the event is not available, we treat the event, e.g. current main clinical diagnosis or treatment with timestamp 0."" So if the event's time is not available, it's treated as 0. But in this case, the PE at age 16 and 30 are historical, not current. So perhaps they are assigned timestamps relative to their occurrence time. However, without specific dates, this is challenging. Maybe we can approximate based on the case's timeline. For example, the patient had a hospital course for COVID-19 pneumonia three weeks prior to discharge two weeks before presentation. So COVID-related events are at -840 hours (five weeks prior). The prior PE at age 16 is mentioned in the context of his history, but since there's no temporal relation to the current admission, perhaps it's considered to have happened at an earlier time. But the instructions say to include all events, so perhaps they should be listed with approximated times. ",
+"Alternatively, maybe the prior PE and treatments are considered to have happened before the current admission but without specific times, so we assign them a timestamp of -infinity, but since we can't, perhaps use a placeholder. However, the instruction says to use approximation. Since the case doesn't provide specific times for these historical events, maybe we can assign them a very negative timestamp, but that's not feasible. Alternatively, perhaps group them under the current admission as historical and assign them 0, but that's conflicting. ",
+"Hmm, perhaps the key is to focus on events that have a temporal relationship to the current admission. The PE at age 16 and 30 are part of his medical history but not tied to the current timeline. The case says that after the second PE, he was on warfarin with regular checks. Since the case mentions that on presentation, his INR was therapeutic, and he was on warfarin, perhaps the ongoing treatment (warfarin) has a timestamp of 0, as it's part of the current admission. The prior PE and treatments (e.g., 6 months of warfarin, thromboendarterectomy) would be assigned to their respective times in the past. Since the case says ""Following 6 months of anticoagulation, he remained well until age 30, when he was diagnosed with a second PE..."" So the second PE was at age 30, 8 years ago. But in terms of the current admission, that's 8 years prior, which is 8*365*24=70080 hours before admission, so timestamp -70080. But this is a huge number and might not be practical. However, the instruction says to include all events, even historical ones. Therefore, perhaps these events should be included with approximated timestamps based on the case's narrative. ",
+"Similarly, hypercoagulable work-up after the second PE was negative, which would be after age 30, so 8 years ago. So timestamp -70080.",
+"But perhaps this level of detail is beyond what's needed. The case report's focus is on the current admission and the recent COVID-19 hospitalization. The prior PE and treatments are part of his history but not directly related to the current admission's timeline. Since the instructions say to include all events, even historical ones, but to assign timestamps based on approximation when times are not available.",
+"Alternatively, perhaps for events that are part of the patient's history before the current admission but without specific times, we can use the admission time (0) but that might not be correct. For example, the diagnosis of chronic thromboembolic pulmonary hypertension and thromboendarterectomy would be part of the second PE at age 30, which is 8 years ago. ",
+"This is getting complicated. Maybe I should list all events as per the case report and assign timestamps where possible, using approximations for others.",
+"Let's start with the patient's demographics: 38 years old, male, presented to the hospital (timestamp 0).",
+He had a 3-hour history of abdominal pain and nausea. So abdominal pain and nausea started 3 hours before admission: timestamp -3.,
+"Two weeks prior to presentation, he was discharged from the hospital after a 3-week hospital course for COVID-19 pneumonia. So discharge was at -336 hours (14 days * 24), and the hospital course started 3 weeks before that, so 3 weeks prior to discharge is 21 days, which is 504 hours before discharge. But discharge was at -336 hours, so the hospital admission for COVID-19 pneumonia was at -336 - 504 = -840 hours. So events during that hospitalization (endotracheal intubation, ventilatory support, CT PE study) would be at -840. The CT PE study during that time showed no PE, so that event is at -840.",
+"Previous medical history: PE at age 16 (22 years ago), treated with 6 months of warfarin. Since this is 22 years prior, timestamp would be -22*365*24 = -192,720 hours, but this is too far back. The case mentions that following 6 months of anticoagulation, he remained well until age 30 (8 years ago), when diagnosed with second PE and chronic thromboembolic pulmonary hypertension. So the second PE was at age 30, 8 years ago: -8*365*24 = -70080 hours. Thromboendarterectomy and starting long-term warfarin would be at that time as well. Hypercoagulable work-up after the second PE was negative, so that's also around -70080.",
+"On presentation, his blood pressure, heart rate, etc., are at 0. Physical exam findings (obesity, edema) are at 0. Investigations during current admission (basic metabolic panel, troponins, platelets, WBC count, INR, PT, PTT, CT abdomen, incidental finding, CTPE, echocardiogram findings) are at 0. ",
+"Treatment during current admission: transient heparin therapy, decision to continue warfarin, advice on enoxaparin after weight loss, outcome decisions, follow-up attempts. These are at 0. ",
+"Outcome: white cell count resolved by day 2, so 48 hours after admission (timestamp +48). Postdischarge attempts are after discharge, but discharge time isn't specified. The case doesn't mention the duration of the current admission, so discharge time is unclear. But the case says the patient was discharged after the current admission, but the duration isn't specified. So perhaps discharge is at a positive timestamp, but without specific info, we might have to assume it's at +24 (common discharge time) or leave it as 0. However, the case doesn't mention the admission duration, so perhaps discharge is not in the events. Wait, in the case presentation, the patient is presenting to the hospital, and the outcome includes postdischarge attempts, so he was discharged after the current admission. The duration isn't specified, so we can't determine the exact discharge time. So we might have to omit it or use approximation. Alternatively, if the case mentions ""After a multidisciplinary team weighed... he decided to remain on warfarin therapy with close follow-up. Multiple postdischarge attempts..."" So the discharge happened after the hospital stay, but the duration isn't given. Therefore, discharge timestamp is unknown. But since the instruction says to approximate, perhaps assign a typical discharge time, say +24 hours (1 day) or more. However, without specific info, it's difficult. Maybe omit it or assign 0. Alternatively, if the case mentions the patient's symptoms resolved by day 2, which is 48 hours, but discharge could be after that, maybe +72 hours. But without specific info, it's speculative. Perhaps discharge is not included as an event here since the duration isn't specified.",
+"Another point: the case mentions that during the current admission, the patient's INR was therapeutic, so that's at 0. The decision to continue warfarin with higher INR target is at 0. ",
+"Recurrent PE is diagnosed during the current admission, so timestamp 0. COVID-19 disease is part of the recent history (previous hospitalization), but during current admission, the patient is presenting with complications, so COVID-19 disease is considered ongoing? Or the prior infection was two weeks prior, so COVID-19 pneumonia was during the previous hospitalization. ",
+This is,

@@ -1,0 +1,113 @@
+event,time
+57 years old ,0
+    male ,0
+    hyperlipidemia ,0
+    chronic tobacco use ,0
+    bilateral foot pain ,-24
+    blue discoloration ,-24
+    coolness ,-24
+    denied trauma to lower extremities ,0
+    denied acute back injury ,0
+    eating abnormal tasting prosciutto ,-72
+    concerned salmonella infection ,-72
+    fever ,-72
+    fatigue ,-72
+    abdominal discomfort ,-72
+    5 episodes of nonbloody diarrhea ,-72
+    lost appetite ,-72
+    bitten by domesticated dog ,-168
+    left index finger lesion ,-168
+    not vaccinated for SARS-CoV-2 ,0
+    asymptomatic ,0
+    restaurant manager ,0
+    afebrile ,0
+    blood pressure 93/54 mm Hg ,0
+    heart rate 85 beats/min ,0
+    respiration 16 breaths/min ,0
+    saturation 98% ,0
+    regular heart rhythm ,0
+    no jugular venous distention ,0
+    clear breath sounds ,0
+    small left finger lesion ,0
+    surrounding erythema ,0
+    lower extremities slightly cyanotic ,0
+    palpable pulses ,0
+    extremely sensitive to touch ,0
+    white blood cell count 18.8 × 103/µL ,0
+    neutrophilic bands 40.8% ,0
+    hemoglobin 17.1 gm/dL ,0
+    no helmet cells ,0
+    platelets 72 × 103/µL ,0
+    ESR 28 mm/hr ,0
+    CRP 42 mg/dL ,0
+    sodium 130 mmol/L ,0
+    carbon dioxide 21 mmol/L ,0
+    blood urea nitrogen 47 mg/dL ,0
+    creatinine 3.41 mg/dL ,0
+    aspartate transaminase 502 IU/L ,0
+    alanine transaminase 257 IU/L ,0
+    alkaline phosphatase 136 IU/L ,0
+    NT-Pro-B Natriuretic peptide 5846 pg/mL ,0
+    troponin 26.2 ng/dL ,0
+    creatine kinase 1246 IU/L ,0
+    PT 12.4 seconds ,0
+    INR 1.08 ,0
+    PTT 43 seconds ,0
+    fibrinogen 380 mg/dL ,0
+    D-dimer greater than 128 mg/dL ,0
+    multiple SARS-CoV-2 PCR negative ,0
+    urinalysis negative for infection ,0
+    initial blood culture positive for gram-negative rods ,0
+    subsequently no organisms shown ,0
+    initial ECG ST-segment elevation in inferior leads ,0
+    repeat ECG persistent inferior STEMI ,20
+    borderline ST elevation in lead I ,20
+    chest discomfort ,20
+    emergent cardiac catheterization ,0
+    diffuse mild luminal irregularities ,0
+    no focal stenosis or occlusion ,0
+    LVEDP 25 mm Hg ,0
+    transthoracic echocardiography LVEF 30% ,0
+    diffuse hypokinesis ,0
+    grade I diastolic dysfunction ,0
+    low-dose norepinephrine ,0
+    CT chest and abdomen ,0
+    bilateral peripheral septal thickening ,0
+    no pulmonary emboli ,0
+    no lymphadenopathy ,0
+    MRI brain small acute punctate infarct ,0
+    bilateral lower extremity arterial Doppler ,0
+    ankle/brachial indices no stenosis or occlusion ,0
+    IV methylprednisolone ,0
+    heparin infusion ,0
+    cefepime ,0
+    doxycycline ,0
+    gabapentin ,0
+    morphine ,0
+    autoimmune panel negative ,0
+    stool cultures negative ,0
+    serology negative ,0
+    positive IgG mycoplasma pneumoniae ,0
+    positive IgG Epstein-Barr virus ,0
+    positive IgG toxoplasma ,0
+    positive IgG coxsackievirus ,0
+    positive IgG influenza A and B ,0
+    troponin peak 119 ng/mL ,13
+    ECG worsening ST elevation ,13
+    renal function recovered ,48
+    platelet count 28 × 103/µL ,48
+    evaluated for HIT ,48
+    evaluated for ITP ,48
+    evaluated for HUS ,48
+    evaluated for TTP ,48
+    negative diagnostic workup ,48
+    bluish discoloration of toes ,48
+    IVIG ,48
+    argatroban ,48
+    platelet count recovery ,144
+    repeat TTE LVEF 45% ,144
+    repeat ECG normalized ST-segments ,144
+    incomplete RBBB ,144
+    acral punctate erythema ,0
+    blue discoloration on feet ,0
+    discharge ,144

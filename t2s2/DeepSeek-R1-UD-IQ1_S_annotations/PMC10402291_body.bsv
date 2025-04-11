@@ -1,0 +1,88 @@
+52 years old | 0  
+    diabetes | -72  
+    myelofibrosis | -72  
+    administration of amikacin | -72  
+    E. coli-infected amputation stump of the big toe | -72  
+    hemorrhagic vesicular eruption | -72  
+    vesiculobullous lesions | -72  
+    necrotic eschar-covered erosive ulcerated lesions | -72  
+    right eye discharge | -72  
+    pale | -72  
+    looked unwell | -72  
+    severe lower gastrointestinal bleeding | -72  
+    blood pressure 98/54 mmHg | -72  
+    temperature 36.7°C | -72  
+    CBC including platelets: 396×109 | -72  
+    white blood cells (WBC): 17×109/L | -72  
+    hemoglobin: 5.7 G/dL | -72  
+    WBC differential: 85% neutrophils | -72  
+    WBC differential: 8% lymphocytes | -72  
+    platelet large cell ratio: 40% | -72  
+    arterial blood gas analyses: pH: 7.36 | -72  
+    arterial blood gas analyses: pCO2: 36.9 mmHg | -72  
+    arterial blood gas analyses: pO2: 31 mmHg | -72  
+    arterial blood gas analyses: aO2: 33.4% | -72  
+    urea: 39.7 mmol/L | -72  
+    creatinine: 290 µmol/L | -72  
+    aspartate transaminase: 424 U/L | -72  
+    alanine transaminase: 395 U/L | -72  
+    direct bilirubin: 20.8 µmol/L | -72  
+    international normalized ratio: 3.6% | -72  
+    partial thromboplastin time: 45.9 seconds | -72  
+    prothrombin time: 46.9 seconds | -72  
+    history of severe beta-lactam-induced allergic reactions | -72  
+    anaphylaxis suspected | -72  
+    hypotension | -72  
+    cutaneous rash | -72  
+    after systemic antibiotic ingestion | -72  
+    examination of cutaneous lesions by expert dermatologist | -72  
+    septic shock suspected | -72  
+    end-stage organ failure suspected | -72  
+    bacterial culture positive for Pseudomonas aeruginosa | 0  
+    epidermal necrosis | 0  
+    sloughing | 0  
+    sparse neutrophilic vasculitis | 0  
+    violaceous fibrinous debris surrounding the vascular wall | 0  
+    Gram stain preparation of the tissue revealed gram-negative rods | 0  
+    upper gastrointestinal endoscopy | 0  
+    lower gastrointestinal endoscopy | 0  
+    no necrotic, inflammatory, or pathologic causes of bleeding | 0  
+    deterioration of coagulation profile | 0  
+    ecthyma gangrenosum-induced septic shock | 0  
+    history of severe allergic reactions to beta-lactam antibiotics | 0  
+    antibacterial sensitivity results available | 0  
+    levofloxacin initiated | 24  
+    antibiotic-resistant Pseudomonas sp. infection | 0  
+    discharged from intensive care unit | 240  
+    discharged from hospital | 240  
+    renal functions normal | 240  
+    liver functions normal | 240  
+    coagulation profile normal | 240  
+    microscopic polyangiitis differential diagnosis | 0  
+    small-medium vessel neutrophilic vasculitis | 0  
+    acute kidney injury (AKI) | 0  
+    disseminated intravascular coagulation (DIC)-induced hemorrhage | 0  
+    bacterial sepsis | 0  
+    systolic blood pressure <90 mmHg | 0  
+    neutrophil/lymphocyte ratio >10:1 | 0  
+    relative thrombocytopenia | 0  
+    high platelet large cell ratio | 0  
+    septic shock complications | 0  
+    DIC | 0  
+    acute respiratory distress syndrome | 0  
+    afebrile | 0  
+    normothermia in immunocompromised patients | 0  
+    ecthyma gangrenosum | 0  
+    primary skin infection | 0  
+    blood cultures negative | 0  
+    urine cultures negative | 0  
+    prompt treatment strategies | 0  
+    multidisciplinary team involvement | 0  
+    antipseudomonal penicillins | 0  
+    gentamicin as empirical treatment | 0  
+    retained susceptibility | 0  
+    early detection of ecthyma gangrenosum | 0  
+    high suspicion of ecthyma gangrenosum | 0  
+    high mortality risk | 0  
+    cutaneous ecthyma gangrenosum complicated by septic shock | 0  
+    multidisciplinary teams in patient management | 0

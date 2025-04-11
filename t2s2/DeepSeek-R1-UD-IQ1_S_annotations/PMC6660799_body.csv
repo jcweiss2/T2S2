@@ -1,0 +1,55 @@
+event,time
+60 years old ,0.0
+    woman ,0.0
+    presented for elective percutaneous nephrolithotomy ,0.0
+    right-sided staghorn calculus ,0.0
+    pre-diabetes ,0.0
+    chronic obstructive pulmonary disease ,0.0
+    morbid obesity ,0.0
+    body mass index (BMI)=42 ,0.0
+    obstructive sleep apnea ,0.0
+    heart failure with preserved ejection fraction ,0.0
+    febrile (39.2°C) ,24.0
+    tachycardic (120–140 beats per minute) ,24.0
+    leukocytosis (17.6 x 10^9/L) ,24.0
+    vancomycin ,24.0
+    piperacillin/tazobactam ,24.0
+    meropenem ,24.0
+    presumed urosepsis ,24.0
+    respiratory distress ,48.0
+    hypoxemia refractory to non-invasive positive pressure ventilation ,48.0
+    endotracheal intubation ,48.0
+    lung protective ventilation (LPV) ,48.0
+    postoperative day 2 (POD2) chest X-ray ,48.0
+    CT angiogram ,48.0
+    bilateral pulmonary ground glass opacities ,48.0
+    infectious process ,48.0
+    acute respiratory distress syndrome (ARDS) ,48.0
+    pulmonary edema ,48.0
+    no evidence of pulmonary embolism ,48.0
+    transthoracic echocardiogram ,48.0
+    normal ejection fraction ,48.0
+    normal ventricular size ,48.0
+    early paralysis for ventilator desynchrony ,72.0
+    refractory hypoxemia ,72.0
+    bronchoalveolar lavage samples from POD6 ,144.0
+    negative for infectious pathogens ,144.0
+    nasopharyngeal swob on POD6 ,144.0
+    rhinovirus pneumonia ,144.0
+    antibiotics discontinued ,144.0
+    no antivirals administered ,144.0
+    continued requirement for higher airway pressures ,144.0
+    PaO2 to FiO2 ratio of 110 ,144.0
+    moderate to severe ARDS ,144.0
+    transitioned from LPV to APRV ,144.0
+    mechanical ventilation settings adjusted ,144.0
+    weaned to extubation on POD9 ,216.0
+    discharged home on POD13 ,312.0
+    Here is the explanation of the thought process:,
+"The patient is a 60-year-old woman presenting for elective percutaneous nephrolithotomy, which is the admission event (time 0). Her medical history includes pre-diabetes, chronic obstructive pulmonary disease, morbid obesity (BMI=42), obstructive sleep apnea, and heart failure with preserved ejection fraction—all chronic conditions documented at admission, so their timestamps are 0.",
+"On the day after the procedure (postoperative day 1, 24 hours), she developed fever, tachycardia, leukocytosis, and was started on antibiotics for presumed urosepsis. These events are assigned timestamp 24.",
+"Within 24 hours of the fever (so 24 + 24 = 48 hours), she developed respiratory distress and hypoxemia refractory to NIPPV, leading to intubation and LPV. The chest X-ray and CT angiogram on POD2 (postoperative day 2) are also at 48 hours. Findings include bilateral pulmonary ground glass opacities, concern for infectious process, ARDS, pulmonary edema, and no pulmonary embolism. The transthoracic echocardiogram showing normal ejection fraction and ventricular size is also at 48 hours.",
+"Early paralysis for ventilator desynchrony and refractory hypoxemia started on POD2 (48 hours) and lasted 48 hours, so the start time is 48 (POD2). However, the text states ""starting on POD2,"" so the initiation is at 48 hours.",
+Bronchoalveolar lavage and nasopharyngeal swab on POD6 (postoperative day 6) would be 144 hours (6 days * 24). The diagnosis of rhinovirus pneumonia and discontinuation of antibiotics also occur at 144 hours. Continued requirement for higher airway pressures and the PaO2/FiO2 ratio indicating moderate to severe ARDS are at the same time.,
+"Transition to APRV occurs on POD6 (144 hours). Weaning to extubation on POD9 is 216 hours, and discharge on POD13 is 312 hours.",
+"Each event is listed with the calculated timestamp based on postoperative days or explicit timing provided in the case. Chronic conditions and admission events are at time 0, while subsequent events are timed relative to the admission.",

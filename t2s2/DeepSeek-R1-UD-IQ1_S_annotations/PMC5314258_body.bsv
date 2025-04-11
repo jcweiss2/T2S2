@@ -1,0 +1,230 @@
+21 years old | 0
+    female | 0
+    admitted to the hospital | 0
+    dyspnea | -48
+    fever | -48
+    malaise | -48
+    blood pressure of 109/57 mmHg | 0
+    temperature of 38.2 °C | 0
+    heart rate of 118 bpm | 0
+    respiratory rate of 24 breaths/min | 0
+    oxygen saturation of 78% | 0
+    oxygen saturation improved to 97% | 0
+    chest X-ray demonstrated multifocal pneumonia | 0
+    treatment with ceftriaxone | 0
+    treatment with azithromycin | 0
+    axillary lymphadenopathy | 0
+    cervical lymphadenopathy | 0
+    inguinal lymphadenopathy | 0
+    respiratory decline | 0
+    endotracheal intubation | 0
+    mechanical ventilation | 0
+    CT chest | 0
+    CT abdomen | 0
+    CT pelvis | 0
+    cervical lymphadenopathy | 0
+    axillary lymphadenopathy | 0
+    bilateral lung consolidation | 0
+    moderate pericardial effusion | 0
+    HIV negative | 0
+    streptococcus pneumonia negative | 0
+    legionella negative | 0
+    histoplasma negative | 0
+    brucella negative | 0
+    aspergillus negative | 0
+    tuberculosis negative | 0
+    influenza negative | 0
+    respiratory syncytial virus negative | 0
+    mild elevation in mycoplasma IgM | 0
+    mild elevation in chlamydia antibody titer | 0
+    bronchoscopy | 0
+    bronchoalveolar lavage | 0
+    no mucus plugs | 0
+    no active bleeding | 0
+    no endobronchial lesions | 0
+    no anatomical abnormalities | 0
+    acute inflammatory cells | 0
+    transthoracic echocardiogram | 0
+    normal systolic function | 0
+    elevated LDH of 2319 unit/L | 0
+    cervical lymph node biopsy | 0
+    histopathology demonstrating necrotizing lymphadenitis | 0
+    karyorrhectic debris | 0
+    abundant histiocytes | 0
+    blood cultures negative | 0
+    sputum cultures negative | 0
+    urine cultures negative | 0
+    aggressive antibiotic therapy | 0
+    high dose steroids | 0
+    supportive care | 0
+    increasing pressure support | 0
+    IVIG administration | 0
+    hemoglobin decrease | 0
+    hemolytic work up | 0
+    haptogobin < 10 mg/dL | 0
+    schistocytes on peripheral smear | 0
+    thrombocytopenia | 0
+    platelet level of 26 K/mcL | 0
+    elevated partial thromboplastin time | 0
+    elevated prothrombin time | 0
+    elevated D-dimer levels | 0
+    fresh frozen plasma transfusion | 0
+    clinical deterioration | 0
+    laboratory deterioration | 0
+    expired | 0
+    DIC | 0
+    Kikuchi-Fujimoto disease | 0
+    multiorgan failure | 0
+
+    21 years old | 0
+female | 0
+admitted to the hospital | 0
+dyspnea | -48
+fever | -48
+malaise | -48
+blood pressure of 109/57 mmHg | 0
+temperature of 38.2 °C | 0
+heart rate of 118 bpm | 0
+respiratory rate of 24 breaths/min | 0
+oxygen saturation of 78% | 0
+oxygen saturation improved to 97% | 0
+chest X-ray demonstrated multifocal pneumonia | 0
+treatment with ceftriaxone | 0
+treatment with azithromycin | 0
+axillary lymphadenopathy | 0
+cervical lymphadenopathy | 0
+inguinal lymphadenopathy | 0
+respiratory decline | 0
+endotracheal intubation | 0
+mechanical ventilation | 0
+CT chest | 0
+CT abdomen | 0
+CT pelvis | 0
+cervical lymphadenopathy | 0
+axillary lymphadenopathy | 0
+bilateral lung consolidation |/home/wenjichao/Projects/KnowledgeGraphs/EventTimeline/example_case_2.tsv
+Okay, I'm trying to create a timeline of events for this patient's case report. Let me start by reading through the case report carefully to understand what happened and when. 
+
+First, the patient is a 21-year-old female who presented with a two-day history of dyspnea, fever, and malaise. So those symptoms started two days before admission. Since the admission event is timestamp 0, these would be at -48 hours (2 days * 24 hours/day = 48 hours). So dyspnea, fever, and malaise each get -48.
+
+Upon admission, her vital signs were taken: BP 109/57, temp 38.2°C, HR 118, RR 24, O2 sat 78% on room air. These are all at admission time, so timestamp 0. Then they gave her 4L nasal cannula, which improved her O2 to 97%—this is also at admission, so 0.
+
+The chest X-ray showing multifocal pneumonia was done on admission, so 0. Treatment with ceftriaxone and azithromycin started then, so those treatments are at 0.
+
+On physical exam, she had axillary, cervical, and inguinal lymphadenopathy. These findings are at admission, so 0.
+
+Her respiratory decline continued despite treatment, leading to endotracheal intubation and mechanical ventilation. Since this happened after admission but there's no specific time mentioned, I'll assign 0 as the main event. Maybe the decline started at 0 and intubation happened a bit later, but without time given, I'll keep it at 0.
+
+CT scans of chest, abdomen, pelvis were done after admission. Results showed lymphadenopathy, lung consolidation, pericardial effusion. These are part of the initial workup, so 0.
+
+The lab results (HIV, strep, legionella, etc.) all came back negative. These tests were done during admission, so 0. The mild elevations in mycoplasma IgM and chlamydia antibodies are also at 0.
+
+Bronchoscopy with bronchoalveolar lavage was done, showing no mucus plugs, bleeding, lesions, or abnormalities. Acute inflammatory cells found—these procedures are part of the admission workup, so 0.
+
+Transthoracic echo showed normal systolic function but pericardial effusion. Done during admission, 0.
+
+Elevated LDH of 2319—part of labs during admission, 0.
+
+Cervical lymph node biopsy done, histopathology showing necrosis and histiocytes consistent with KFD. This would be during admission, so 0.
+
+Cultures (blood, sputum, urine) remained negative throughout admission. Since they were ongoing, but the initial results are part of admission, 0.
+
+Aggressive antibiotics, steroids, supportive care started at admission, so 0.
+
+Respiratory decline requiring increased pressure support and IVIG—these interventions happened after admission but without specific timing. Since the main decline is part of the admission, I'll assign 0.
+
+Hemoglobin decrease led to hemolytic workup showing low haptoglobin and schistocytes. These occurred during admission, 0.
+
+Thrombocytopenia (platelets 26K) and elevated coagulation times (PT, PTT, D-dimer) leading to FFP transfusion. These are part of the DIC development during admission, so 0.
+
+Despite treatment, she deteriorated and expired due to DIC. Death is the endpoint, but since DIC led to death and both are during admission, I'll assign 0. However, maybe death happened after some time, but the case report doesn't specify, so I'll stick with 0.
+
+Diagnosis of KFD was made during admission, so 0. Multiorgan failure is part of the terminal stages, also 0.
+
+Wait, the patient was admitted, then had various tests and treatments. Some events like intubation might have happened a few hours after admission, but without exact times, I have to approximate. Since the case doesn't provide specific times beyond the initial two-day history, most events are at 0. Only the initial symptoms (dyspnea, fever, malaise) are at -48. Everything else is during the hospital stay, so timestamp 0. The expiration event is the endpoint, but since it's the outcome, maybe it's after some time, but without specifics, it's safer to assign 0. Alternatively, perhaps the discharge/death is at +24 hours, but the case doesn't say. The case says she expired despite resuscitative efforts, but no timeline is given. So I'll leave expiration at 0.
+
+I should also include all events mentioned, like negative findings (no mucus plugs, etc.), and treatments. Each gets 0 as they're part of the admission period. 
+
+So the table would have rows for each event with their timestamps. I need to separate conjunctive phrases into individual events. For example, "axillary, cervical and inguinal lymphadenopathy" becomes three separate events. Same with the CT findings: CT chest, abdomen, pelvis as separate events. Each gets 0.
+
+I think that's all. Let me list them out.
+</think>
+
+21 years old | 0  
+female | 0  
+admitted to the hospital | 0  
+dyspnea | -48  
+fever | -48  
+malaise | -48  
+blood pressure of 109/57 mmHg | 0  
+temperature of 38.2 °C | 0  
+heart rate of 118 bpm | 0  
+respiratory rate of 24 breaths/min | 0  
+oxygen saturation of 78% | 0  
+oxygen saturation improved to 97% | 0  
+chest X-ray demonstrated multifocal pneumonia | 0  
+treatment with ceftriaxone | 0  
+treatment with azithromycin | 0  
+axillary lymphadenopathy | 0  
+cervical lymphadenopathy | 0  
+inguinal lymphadenopathy |C:\Users\Acer\Documents\GitHub\KnowledgeGraphs\EventTimeline\example_case_2.tsv
+0  
+respiratory decline | 0  
+endotracheal intubation | 0  
+mechanical ventilation | 0  
+CT chest | 0  
+CT abdomen | 0  
+CT pelvis | 0  
+cervical lymphadenopathy | 0  
+axillary lymphadenopathy | 0  
+bilateral lung consolidation | 0  
+moderate pericardial effusion | 0  
+HIV negative | 0  
+streptococcus pneumonia negative | 0  
+legionella negative | 0  
+histoplasma negative | 0  
+brucella negative | 0  
+aspergillus negative | 0  
+tuberculosis negative | 0  
+influenza negative | 0  
+respiratory syncytial virus negative | 0  
+mild elevation in mycoplasma IgM | 0  
+mild elevation in chlamydia antibody titer | 0  
+bronchoscopy | 0  
+bronchoalveolar lavage | 0  
+no mucus plugs | 0  
+no active bleeding | 0  
+no endobronchial lesions | 0  
+no anatomical abnormalities | 0  
+acute inflammatory cells | 0  
+transthoracic echocardiogram | 0  
+normal systolic function | 0  
+elevated LDH of 2319 unit/L | 0  
+cervical lymph node biopsy | 0  
+histopathology demonstrating necrotizing lymphadenitis | 0  
+karyorrhectic debris | 0  
+abundant histiocytes | 0  
+blood cultures negative | 0  
+sputum cultures negative | 0  
+urine cultures negative | 0  
+aggressive antibiotic therapy | 0  
+high dose steroids | 0  
+supportive care | 0  
+increasing pressure support | 0  
+IVIG administration | 0  
+hemoglobin decrease | 0  
+hemolytic work up | 0  
+haptogobin < 10 mg/dL | 0  
+schistocytes on peripheral smear | 0  
+thrombocytopenia | 0  
+platelet level of 26 K/mcL | 0  
+elevated partial thromboplastin time | 0  
+elevated prothrombin time | 0  
+elevated D-dimer levels | 0  
+fresh frozen plasma transfusion | 0  
+clinical deterioration | 0  
+laboratory deterioration | 0  
+expired | 0  
+DIC | 0  
+Kikuchi-Fujimoto disease | 0  
+multiorgan failure | 0

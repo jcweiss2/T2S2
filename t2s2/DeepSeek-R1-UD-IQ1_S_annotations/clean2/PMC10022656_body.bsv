@@ -1,0 +1,83 @@
+32 years old | 0
+female | 0
+admitted to BC Women's Hospital | 0
+opioid withdrawal | 0
+anemia | 0
+malnourishment | 0
+hypertension | 0
+severe edema | 0
+sepsis | 0
+opioid intravenous drug use (IVDU) for 5 years | -131040
+fentanyl use (2 g/day) | -131040
+methamphetamine use (0.5 g/day) | -131040
+cigarette smoking (10/day) | -131040
+previous hospital admissions for OUD stabilization | -17520
+methadone trials | -17520
+slow-release oral morphine trials | -17520
+oral hydromorphone trials | -17520
+iOAT offered at 29 weeks gestation | -2160
+sepsis treatment | -2160
+IVDU treatment | -2160
+left hospital against medical advice | -2160
+antibiotic treatment for endocarditis | -2160
+sublingual buprenorphine trials | -131040
+precipitated withdrawal | -131040
+adverse reactions to buprenorphine | -131040
+stable housing | 0
+income assistance | 0
+IV fentanyl use before labor | 0
+caesarean section | 0
+APGAR scores 6, 8, 9 | 0
+postpartum hemorrhage | 0
+intrauterine balloon tamponade | 0
+blood transfusion | 0
+anesthesia support for IV access | 0
+perinatal iOAT initiation | 0
+iOAT titration | 0
+IV hydromorphone 20 mg starting dose | 0
+IV hydromorphone 120 mg TID | 0
+oral hydromorphone PRN 32 mg q1h | 0
+oral methadone 70 mg daily | 0
+highest iOAT dose on day 5 | 120
+IV hydromorphone 120 mg TID | 120
+oral hydromorphone PRN 60 mg q1h | 120
+oral methadone 100 mg | 120
+infant admission to NICU | 0
+respiratory distress | 0
+meconium aspirations | 0
+ESC assessment tool | 0
+nasogastric feeds | 48
+infant oral morphine 0.04 mg/kg q4h PRN | 48
+infant weight loss 5.8% | 144
+transfer to FIR | 144
+maternal desire to breastfeed | 0
+informed consent for breastfeeding on iOAT | 0
+maternal HIV PCR test negative | 216
+expressed breast milk (EBM) 72 mL | 216
+infant morphine discontinued | 216
+morphine PRN ordered | 216
+formula feeding | 0
+breastfeeding initiation | 240
+infant latching to breast for 30 minutes | 240
+infant alert and active | 240
+infant feeding well | 240
+infant sleeping well | 240
+continuous infant monitoring | 0
+cardiopulmonary monitoring | 0
+oxygen saturation monitoring | 0
+q1h vitals | 0
+q3h vitals | 0
+maternal iOAT titration down | 336
+methadone titration up | 336
+slow-release oral morphine addition | 1008
+iOAT discontinuation | 1128
+methadone 190 mg at discharge | 1392
+slow-release oral morphine 1200 mg at discharge | 1392
+no maternal substance use | 0
+voluntary urine drug screens negative | 0
+infant discharge | 1392
+community supports | 1392
+collaboration with child services | 1392
+Ages & Stages Questionnaire at 4 months | 2880
+infant developmental domains above cutoff | 2880
+maternal custody of two other children regained | 2880

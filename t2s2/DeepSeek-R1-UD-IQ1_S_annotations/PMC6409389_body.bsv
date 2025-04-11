@@ -1,0 +1,127 @@
+62 years old | 0
+    woman | 0
+    Indian | 0
+    end-stage kidney disease | -2160
+    hypertension | -2160
+    diabetes | -2160
+    solitary kidney | -2160
+    deceased donor renal transplantation | -2160
+    presented | 0
+    fatigue | 0
+    bilateral lower extremity pain | 0
+    weakness | 0
+    unable to eat | -48
+    unable to drink | -48
+    compliant with immunosuppressive regimen | 0
+    episode of rhabdomyolysis | -2160
+    calcineurin inhibitor−statin interaction | -2160
+    did not restart statin | -2160
+    denied chest pain | 0
+    denied cough | 0
+    denied shortness of breath | 0
+    denied back pain | 0
+    denied headache | 0
+    denied visual symptoms | 0
+    denied speech difficulties | 0
+    denied nausea | 0
+    denied vomiting | 0
+    denied diarrhea | 0
+    denied fever | 0
+    denied chills | 0
+    denied rigors |3
+    pain in thighs bilaterally | 0
+    no overlying skin changes | 0
+    denied sick contacts | 0
+    voiding without difficulty | 0
+    serum calcium of 18.0 mg/dl | 0
+    ionized calcium of 2.26 mmol/l | 0
+    low parathyroid hormone level (8 pg/dl) | 0
+    creatinine of 3.9 mg/dl | 0
+    oral calcium dosage increased | -2160
+    hypocalcemia | -2160
+    hyperphosphatemia | -2160
+    3-month interval between rhabdomyolysis and hypercalcemia | -2160
+    hypercalcemia | 0
+    acute kidney injury (AKI) | 0
+    pretransplantation serum calcium of 9 mg/dl | -2160
+    pretransplantation serum phosphorus of 4.3 mg/dl | -2160
+    pretransplantation alkaline phosphatase of 82 U/l | -2160
+    pretransplantation magnesium of 2 mg/dl | -2160
+    last urinalysis several months before transplantation | -2160
+    1+ leukocyte esterase | -2160
+    2+ protein | -2160
+    pH of 5 | -2160
+    posttransplantation nadir serum creatinine of 1.1 mg/dl | -2160
+    posttransplantation serum calcium of 9.3 mg/dl | -2160
+    posttransplantation phosphorus of 4.7 mg/dl | -2160
+    posttransplantation magnesium of 1.4 mg/dl | -2160
+    posttransplantation alkaline phosphatase of 65 U/l | -2160
+    most recent urinalysis before admission | -48
+    1+ leucocyte esterase | -48
+    negative for protein | -48
+    pH of 7.0 | -48
+    medical history of recurrent renal calculi | -2160
+    left native nephrectomy in 2012 | -2160
+    symptomatic obstructive uropathy | -2160
+    thyroidectomy in 2016 | -2160
+    multinodular goiter | -2160
+    incidental removal of 2 adenomatous parathyroid glands | -2160
+    PTH dropped from 300 pg/ml to 9 pg/ml | -2160
+    suppressed PTH | -2160
+    regular oral calcium carbonate supplementation | -2160
+    increased calcium dose from 500 to 2500 mg 3 times daily | -2160
+    addition of calcitriol 0.5 μg daily | -2160
+    serum calcium remained normal | -2160
+    PPI stopped several weeks before admission | -2160
+    losartan dose up titrated | -2160
+    vigorous saline rehydration | 0
+    gradual improvement in serum calcium | 0
+    gradual improvement in ionized calcium | 0
+    i.v. bolus doses of furosemide | 0
+    became euvolemic | 0
+    forced diuresis | 0
+    calcium levels continued to correct | 0
+    mental status improved | 0
+    did not require additional measures | 0
+    AKI slow to resolve | 0
+    tacrolimus trough levels 5-7 ng/ml | 0
+    renal ultrasound revealed new renal calculi | 0
+    mild hydronephrosis | 0
+    nuclear medicine renogram showed delayed excretion | 0
+    acute tubular necrosis (ATN) | 0
+    no significant obstruction | 0
+    suppressed PTH (8 pg/ml) | 0
+    25-OH-vitamin D level of 10 ng/ml | 0
+    PTH-related peptide level of 0.9 pmol/l | 0
+    normal serum protein electrophoresis | 0
+    serum free light chain ratio of 1.14 | 0
+    thyroid-stimulating hormone elevated to 16 mIU/l | 0
+    levothyroxine dose increased | 0
+    urinalysis positive for 1+ protein | 0
+    no further abnormalities | 0
+    hypocalcemic | 0
+    calcitriol reintroduced | 0
+    calcium carbonate reintroduced | 0
+    50% of initial dose | 0
+    Escherichia coli urosepsis | 0
+    short critical care admission | 0
+    antibiotics | 0
+    i.v. fluid resuscitation | 0
+    mycophenolate mofetil dose reduced | 0
+    leukopenia | 0
+    renal allograft function decline | 0
+    renal biopsy performed | 0
+    calcium deposition in tubules | 0
+    ATN | 0
+    interstitial inflammation | 0
+    borderline rejection | 0
+    no acute vascular changes | 0
+    no glomerular changes | 0
+    oral pulse of prednisone | 0
+    tacrolimus trough level increased to 8-10 ng/ml | 0
+    gradual increase in mycophenolate mofetil | 0
+    leukopenia improved | 0
+    serum creatinine returned to baseline | 0
+    nadir of 0.8 mg/dl | 0
+    no recurrence of hypercalcemia | 0
+    PTH level <10 pg/ml | 0

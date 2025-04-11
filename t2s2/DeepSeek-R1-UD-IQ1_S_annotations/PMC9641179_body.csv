@@ -1,0 +1,225 @@
+event,time
+25 years old ,0.0
+    primiparous ,0.0
+    healthy ,0.0
+    uneventful pregnancy ,0.0
+    presented to the labour ward ,0.0
+    spontaneous labour ,0.0
+    39 weeks pregnant ,0.0
+    normal vaginal delivery ,0.0
+    right medio-lateral episiotomy ,0.0
+    discharged home ,24.0
+    postpartum day 1 ,24.0
+    postpartum day 2 ,48.0
+    presented to the emergency room ,48.0
+    general weakness ,48.0
+    severe pain ,48.0
+    swelling at the episiotomy site ,48.0
+    tachycardia ,48.0
+    pulse rate of 110 BPM ,48.0
+    normal blood pressure ,48.0
+    125/80 mmHg ,48.0
+    perineal examination ,48.0
+    ecchymosis ,48.0
+    induration ,48.0
+    severe tenderness ,48.0
+    no crepitus ,48.0
+    elevated white blood count ,48.0
+    WBC 40 × 10^9/L ,48.0
+    elevated C-reactive protein ,48.0
+    CRP 170 mg/L ,48.0
+    intravenous fluids ,48.0
+    broad-spectrum antibiotics ,48.0
+    ceftriaxone ,48.0
+    metronidazole ,48.0
+    gentamicin ,48.0
+    urgent exploration of the episiotomy site ,48.0
+    general anaesthesia ,48.0
+    no obvious hematoma ,48.0
+    no pus collection ,48.0
+    viable tissues in the episiotomy bed ,48.0
+    culture swabs collected ,48.0
+    surgical drain sited ,48.0
+    episiotomy wound edges approximated with interrupted sutures ,48.0
+    clinical picture deteriorated rapidly ,72.0
+    tachycardia ,72.0
+    hypotension ,72.0
+    no response to IV fluids resuscitation ,72.0
+    transferred to the intensive care unit ,72.0
+    CRP rise to 200 mg/L ,72.0
+    WBC rise to 60 × 10^9/L ,72.0
+    pelvic CT scan ,72.0
+    bulky uterus ,72.0
+    pelvic ascites ,72.0
+    no evidence of tissue fluid or gas collection ,72.0
+    surgical consultation sought ,72.0
+    laparoscopy ,72.0
+    explore ascites ,72.0
+    exclude uterine rupture ,72.0
+    re-explore episiotomy site ,72.0
+    no evidence of uterine rupture ,72.0
+    no pelvic hematoma ,72.0
+    100 mL ascitic fluid drained ,72.0
+    culture swabs obtained ,72.0
+    incision lateral to episiotomy site ,72.0
+    unviable tissue ,72.0
+    tissue extending from right labia majora to upper medial thigh ,72.0
+    extensive tissue debridement ,72.0
+    healthy viable tissues reached ,72.0
+    wound left open ,72.0
+    iodine-soaked pack applied ,72.0
+    antibiotics adjusted ,72.0
+    clinical condition improved ,96.0
+    several debridements under anaesthesia ,96.0
+    viable tissues in wound ,96.0
+    V-Y advancement fascial flap ,168.0
+    complete closure of wound ,168.0
+    discharged ,168.0
+    followed up in outpatient department ,168.0
+    recovered completely ,168.0
+    pregnant again six months later ,168.0
+    regular antenatal care ,168.0
+    elective cesarean section ,168.0
+    39 weeks gestation ,168.0
+    Hailey-Hailey disease ,72.0
+    acantholysis ,72.0
+    dyskeratosis ,72.0
+    epidermal hyperplasia ,72.0
+    polymicrobial infection ,72.0
+    E. coli ,72.0
+    Enterococcus faecalis ,72.0
+    Bacteroides fragilis ,72.0
+    histopathological examination ,72.0
+    no Group A Streptococcus ,72.0
+    no Group B Streptococcus ,72.0
+    no Staphylococcus ,72.0
+    no Klebsiella ,72.0
+    no Pseudomonas ,72.0
+    no Peptostreptococcus ,72.0
+    no Peptococcus ,72.0
+    written consent obtained ,0.0
+"Alright, so I need to extract clinical events and their timestamps from this case report. Let me start by understanding the structure and content of the report.",
+"First, the patient is a 25-year-old primiparous woman with an uneventful pregnancy. She was admitted to the labor ward at 39 weeks pregnant, had a normal vaginal delivery with an episiotomy, and was discharged home on day 1 postpartum. On day 2 postpartum, she presented to the ER with symptoms like weakness, pain, and swelling at the episiotomy site.",
+"I need to assign timestamps. Admission (presentation to the labor ward) is at 0 hours. The delivery and discharge would be after admission. Wait, but the initial admission for delivery is the main event here. Let's see:",
+"She was admitted to the labor ward in spontaneous labor at 39 weeks. That's the admission event, timestamp 0. The delivery and discharge happened after. So discharge home on day 1 postpartum would be 24 hours after admission. Then, postpartum day 2 would be 48 hours after admission when she presented to the ER.",
+"Next, in the ER, they found tachycardia, normal BP, perineal examination findings, lab results, etc. All these events occur at 48 hours (since admission is at 0). Then she received IV fluids, antibiotics, urgent exploration of the episiotomy site. That's all at 48 hours.",
+"After that, 24 hours after exploration (which was at 48 hours), her condition deteriorated. So 48 + 24 = 72 hours. At 72 hours, she had tachycardia, hypotension, transferred to ICU, more lab results, CT scan, surgical consultation, laparoscopy, etc.",
+"Then, the laparoscopy and perineal re-exploration happened at 72 hours. Debridement, wound left open, iodine pack, antibiotics adjusted. Then her condition improved, several debridements under anesthesia, viable tissues. These would be a day after the deterioration, so maybe 72 + 24 = 96 hours? Then finally, V-Y flap at 168 hours (7 days), discharge, follow-up, subsequent pregnancy, etc.",
+"Also, the histopathological findings (Hailey-Hailey disease) were from the debrided tissue, which was during the surgical exploration at 72 hours. The polymicrobial results would also be from cultures taken at 72 hours. The negative findings for other pathogens (Group A Streptococcus, etc.) are also part of the discussion, so maybe timestamp 72.",
+The written consent is at admission (0) since it's part of the case report preparation.,
+"Wait, but some events might have different timings. Let me check again:",
+- Admission to labor ward (0),
+"%3 days later, she was discharged home on day 1 postpartum. So discharge is 24 hours after admission.",
+Postpartum day 2 is 48 hours.,
+ER presentation at 48 hours.,
+"All the ER events (exams, tests, treatments) at 48.",
+"24 hours after exploration (48 +24 =72), deterioration occurs.",
+"CT scan, surgical consult, laparoscopy at 72.",
+Debridement at 72.,
+"Then subsequent debridements under anesthesia over the next days, say 96 hours.",
+V-Y flap at 168 (assuming 7 days after admission).,
+Discharge after that at 168.,
+"Follow-up and subsequent pregnancy at later times, but since they are after discharge, maybe 168 as well?",
+"Also, the Hailey-Hailey disease diagnosis was based on histopathology from the debridement at 72 hours, so that's timestamp 72.",
+"Negative findings like no crepitus, no hematoma, no pus, etc., are at 48 hours during the initial exploration.",
+So compiling all events with their timestamps accordingly.,
+</think>,
+25 years old ,0.0
+primiparous ,0.0
+healthy ,0.0
+uneventful pregnancy ,0.0
+presented to the labour ward ,0.0
+spontaneous labour ,0.0
+39 weeks pregnant ,0.0
+normal vaginal delivery ,0.0
+right medio-lateral episiotomy ,0.0
+discharged home ,24.0
+postpartum day 1 ,24.0
+postpartum day 2 ,48.0
+presented to the emergency room ,48.0
+general weakness ,48.0
+severe pain ,48.0
+swelling at the episiotomy site ,48.0
+tachycardia ,48.0
+pulse rate of 110 BPM ,48.0
+normal blood pressure ,48.0
+125/80 mmHg ,48.0
+perineal examination ,48.0
+ecchymosis ,48.0
+induration ,48.0
+severe tenderness ,48.0
+no crepitus ,48.0
+elevated white blood count ,48.0
+WBC 40 × 10^9/L ,48.0
+elevated C-reactive protein ,48.0
+CRP 170 mg/L ,48.0
+intravenous fluids ,48.0
+broad-spectrum antibiotics ,48.0
+ceftriaxone ,48.0
+metronidazole ,48.0
+gentamicin ,48.0
+urgent exploration of the episiotomy site ,48.0
+general anaesthesia ,48.0
+no obvious hematoma ,48.0
+no pus collection ,48.0
+viable tissues in the episiotomy bed ,48.0
+culture swabs collected ,48.0
+surgical drain sited ,48.0
+episiotomy wound edges approximated with interrupted sutures ,48.0
+clinical picture deteriorated rapidly ,72.0
+tachycardia ,72.0
+hypotension ,72.0
+no response to IV fluids resuscitation ,72.0
+transferred to the intensive care unit ,72.0
+CRP rise to 200 mg/L ,72.0
+WBC rise to 60 × 10^9/L ,72.0
+pelvic CT scan ,72.0
+bulky uterus ,72.0
+pelvic ascites ,72.0
+no evidence of tissue fluid or gas collection ,72.0
+surgical consultation sought ,72.0
+laparoscopy ,72.0
+explore ascites ,72.0
+exclude uterine rupture ,72.0
+re-explore episiotomy site ,72.0
+no evidence of uterine rupture ,72.0
+no pelvic hematoma ,72.0
+100 mL ascitic fluid drained ,72.0
+culture swabs obtained ,72.0
+incision lateral to episiotomy site ,72.0
+unviable tissue ,72.0
+tissue extending from right labia majora to upper medial thigh ,72.0
+extensive tissue debridement ,72.0
+healthy viable tissues reached ,72.0
+wound left open ,72.0
+iodine-soaked pack applied ,72.0
+antibiotics adjusted ,72.0
+clinical condition improved ,96.0
+several debridements under anaesthesia ,96.0
+viable tissues in wound ,96.0
+V-Y advancement fascial flap ,168.0
+complete closure of wound ,168.0
+discharged ,168.0
+followed up in outpatient department ,168.0
+recovered completely ,168.0
+pregnant again six months later ,168.0
+regular antenatal care ,168.0
+elective cesarean section ,168.0
+39 weeks gestation ,168.0
+Hailey-Hailey disease ,72.0
+acantholysis ,72.0
+dyskeratosis ,72.0
+epidermal hyperplasia ,72.0
+polymicrobial infection ,72.0
+E. coli ,72.0
+Enterococcus faecalis ,72.0
+Bacteroides fragilis ,72.0
+histopathological examination ,72.0
+no Group A Streptococcus ,72.0
+no Group B Streptococcus ,72.0
+no Staphylococcus ,72.0
+no Klebsiella ,72.0
+no Pseudomonas ,72.0
+no Peptostreptococcus ,72.0
+no Peptococcus ,72.0
+written consent obtained ,0.0

@@ -1,0 +1,445 @@
+event,time
+29 years old ,0.0
+    male ,0.0
+    regular consumer of alcohol ,0.0
+    heavy consumer of alcohol ,0.0
+    lumberjack ,0.0
+    fever ,-336.0
+    cough ,-336.0
+    confused state ,0.0
+    septic shock ,0.0
+    neck stiffness ,0.0
+    bilateral upper limbs power normal ,0.0
+    bilateral lower limbs power normal ,0.0
+    normal tone ,0.0
+    normal reflexes ,0.0
+    normal heart sounds ,0.0
+    no murmur ,0.0
+    bilateral lung crepitations ,0.0
+    fluid resuscitation ,0.0
+    vasopresssor required ,0.0
+    mechanical ventilator ,0.0
+    admitted to intensive care unit ,0.0
+    anaemia ,0.0
+    thrombocytopenia ,0.0
+    normal total white cells ,0.0
+    normal renal function ,0.0
+    splenic microabscesses ,0.0
+    bilateral lung fields consolidation ,0.0
+    normal computed tomography of the brain ,0.0
+    no signs of inflammation in cerebrospinal fluid ,0.0
+    no signs of infection in cerebrospinal fluid ,0.0
+    Burkholderia pseudomallei blood culture ,0.0
+    ventilator associated pneumonia ,72.0
+    multidrug-resistant Acinetobacter baumanii respiratory tract infection ,192.0
+    bacteraemic with Burkholderia pseudomallei ,288.0
+    left side hemiplegia ,600.0
+    pansystolic murmur ,600.0
+    right corona radiata infarct ,600.0
+    high parietal petechia haemorrhage ,600.0
+    thickened mitral valve ,600.0
+    vegetation on posterior mitral valve leaflet ,600.0
+    moderate eccentric mitral regurgitation ,600.0
+    sepsis-induced supraventricular tachycardia ,168.0
+    persistent high-grade temperature ,96.0
+    leukopenia ,96.0
+    oral trimethoprim-sulfamethoxazole started ,168.0
+    IV ceftazidime ,0.0
+    IV C-penicillin ,0.0
+    IV imipenem ,96.0
+    IV ampicilin-sulbactam ,336.0
+    IV gentamicin ,168.0
+    oral co-trimoxazole continued ,2016.0
+    discharged ,2016.0
+    minimal residual left sided weakness ,2016.0
+    Modified Rankin Score of 2 ,2016.0
+    activities of daily living independently ,2016.0
+    intact cognitive function ,2016.0
+    transferred to cardiac referral centre ,2016.0
+    vegetation on mitral valve resolved ,6048.0
+    residual moderate mitral regurgitation ,6048.0
+    left ventricular ejection fraction 66.5% ,6048.0
+    Modified Rankin Score of 2 at nine months ,6048.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    septic emboli to the brain ,600.0
+    disseminated melioidosis ,0.0
+    infective endocarditis ,600.0
+    cerebral infarct complication ,600.0
+    haemorrhages complication ,600.0
+    blood culture no growth ,576.0
+    blood culture no growth ,624.0
+    blood culture no growth ,648.0
+    blood culture Burkholderia pseudomallei ,144.0
+    blood culture Burkholderia pseudomallei ,288.0
+    multidrug-resistant Acinetobacter baumanii respiratory tract ,264.0
+    fluid resuscitation ,0.0
+    vasopresssor highest dose 0.27 mcg/kg/min ,96.0
+    ventilator support high setting ,336.0
+    IV noradrenaline ,0.0
+    IV ceftazidime ,0.0
+    IV C-penicillin ,0.0
+    IV imipenem ,96.0
+    oral trimethoprim-sulfamethoxazole ,168.0
+    IV ampicilin-sulbactam ,336.0
+    IV gentamicin ,168.0
+    IV ceftazidime continued ,1008.0
+    oral co-trimoxazole monotherapy ,2016.0
+    discharged after 12 weeks ,2016.0
+    transferred to cardiac referral centre ,2016.0
+    follow-up at nine months ,6048.0
+    echocardiogram resolved vegetation ,6048.0
+    residual moderate mitral regurgitation ,6048.0
+    left ventricular ejection fraction 66.5% ,6048.0
+    Modified Rankin Score of 2 ,6048.0
+    no known medical illness ,0.0
+    missing from work ,-96.0
+    bilateral lung crepitations ,0.0
+    bilateral lung fields consolidation ,0.0
+    normal heart sounds ,0.0
+    no murmur ,0.0
+    normal computed tomography of the brain ,0.0
+    no signs of inflammation in cerebrospinal fluid ,0.0
+    no signs of infection in cerebrospinal fluid ,0.0
+    Burkholderia pseudomallei confirmed by PCR ,0.0
+    gentamicin-susceptible isolate ,0.0
+    positive blood cultures on Day 6 ,144.0
+    positive blood cultures on Day 12 ,288.0
+    blood culture no growth on Day 24 ,576.0
+    blood culture no growth on Day 26 ,624.0
+    blood culture no growth on Day 27 ,648.0
+    left-sided hemiparesis ,600.0
+    pansystolic murmur ,600.0
+    right corona radiata infarct ,600.0
+    high parietal petechia haemorrhage ,600.0
+    thickened mitral valve ,600.0
+    vegetation on posterior mitral valve leaflet ,600.0
+    moderate eccentric mitral regurgitation ,600.0
+    septic embolus suspected ,600.0
+    prolapsed mitral valve ,600.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    intensive phase therapy extended to 6 weeks ,1008.0
+    IV ceftazidime continued ,1008.0
+    IV gentamicin for 14 days ,168.0
+    concurrent oral co-trimoxazole ,168.0
+    eradication phase therapy ,2016.0
+    activities of daily living independently ,2016.0
+    intact cognitive function ,2016.0
+    transferred to cardiac referral centre ,2016.0
+    follow-up at nine months ,6048.0
+    echocardiogram resolved vegetation ,6048.0
+    residual moderate mitral regurgitation ,6048.0
+    left ventricular ejection fraction 66.5% ,6048.0
+    Modified Rankin Score of 2 ,6048.0
+    no medical illness ,0.0
+    alcohol consumption ,0.0
+    fever duration 2 weeks ,-336.0
+    cough duration 2 weeks ,-336.0
+    missing from work ,-96.0
+    brought to hospital ,0.0
+    septic shock secondary to pneumonia ,0.0
+    blood culture Burkholderia pseudomallei ,0.0
+    started IV ceftazidime and IV C-penicillin ,0.0
+    ventilator associated pneumonia ,72.0
+    multidrug-resistant Acinetobacter baumanii ,192.0
+    bacteraemic on Day 6 ,144.0
+    bacteraemic on Day 12 ,288.0
+    blood culture no growth on Day 24 ,576.0
+    blood culture no growth on Day 26 ,624.0
+    blood culture no growth on Day 27 ,648.0
+    left side hemiplegia ,600.0
+    pansystolic murmur ,600.0
+    echocardiography ,600.0
+    computed tomography of the brain ,600.0
+    started IV gentamicin ,168.0
+    completed intensive phase antibiotics ,504.0
+    discharged from hospital ,2016.0
+    last follow-up visit ,6048.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    septic emboli ,600.0
+    infective endocarditis ,600.0
+    mitral valve vegetation ,600.0
+    gentamicin-susceptible strain ,0.0
+    IV ceftazidime and gentamicin combination ,168.0
+    oral co-trimoxazole continuation ,2016.0
+    residual left sided weakness ,2016.0
+    Modified Rankin Score of 2 ,2016.0
+    activities of daily living ,2016.0
+    intact cognitive function ,2016.0
+    transferred to cardiac centre ,2016.0
+    follow-up at nine months ,6048.0
+    resolved vegetation ,6048.0
+    residual mitral regurgitation ,6048.0
+    left ventricular ejection fraction 66.5% ,6048.0
+    Modified Rankin Score of 2 ,6048.0
+    no known medical illness ,0.0
+    regular alcohol consumer ,0.0
+    heavy alcohol consumer ,0.0
+    lumberjack occupation ,0.0
+    fever for 2 weeks ,-336.0
+    cough for 2 weeks ,-336.0
+    missing from work ,-96.0
+    confused state ,0.0
+    septic shock ,0.0
+    neck stiffness ,0.0
+    normal limbs power ,0.0
+    normal tone ,0.0
+    normal reflexes ,0.0
+    normal heart sounds ,0.0
+    no murmur ,0.0
+    bilateral lung crepitations ,0.0
+    fluid resuscitation ,0.0
+    vasopresssor ,0.0
+    mechanical ventilator ,0.0
+    ICU admission ,0.0
+    anaemia ,0.0
+    thrombocytopenia ,0.0
+    normal white cells ,0.0
+    normal renal function ,0.0
+    splenic microabscesses ,0.0
+    bilateral lung consolidation ,0.0
+    normal CT brain ,0.0
+    no inflammation in CSF ,0.0
+    no infection in CSF ,0.0
+    B. pseudomallei blood culture ,0.0
+    ventilator-associated pneumonia ,72.0
+    MDR A. baumanii ,192.0
+    bacteraemia Day 6 ,144.0
+    bacteraemia Day 12 ,288.0
+    no growth Day 24 ,576.0
+    no growth Day 26 ,624.0
+    no growth Day 27 ,648.0
+    left hemiplegia ,600.0
+    pansystolic murmur ,600.0
+    CT brain infarct ,600.0
+    CT brain haemorrhage ,600.0
+    echocardiogram vegetation ,600.0
+    mitral regurgitation ,600.0
+    supraventricular tachycardia ,168.0
+    high temperature ,96.0
+    leukopenia ,96.0
+    started co-trimoxazole ,168.0
+    IV imipenem ,96.0
+    IV ampicilin-sulbactam ,336.0
+    IV gentamicin ,168.0
+    extended ceftazidime ,1008.0
+    co-trimoxazole monotherapy ,2016.0
+    discharged ,2016.0
+    residual weakness ,2016.0
+    Modified Rankin 2 ,2016.0
+    daily activities independent ,2016.0
+    intact cognition ,2016.0
+    transferred ,2016.0
+    follow-up 9 months ,6048.0
+    resolved vegetation ,6048.0
+    residual regurgitation ,6048.0
+    LVEF 66.5% ,6048.0
+    Modified Rankin 2 ,6048.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    septic emboli ,600.0
+    infective endocarditis ,600.0
+    mitral vegetation ,600.0
+    gentamicin susceptibility ,0.0
+    ceftazidime and gentamicin ,168.0
+    co-trimoxazole continued ,2016.0
+    residual weakness ,2016.0
+    Rankin 2 ,2016.0
+    activities independent ,2016.0
+    intact cognition ,2016.0
+    transfer to cardiac centre ,2016.0
+    follow-up ,6048.0
+    resolved vegetation ,6048.0
+    residual regurgitation ,6048.0
+    LVEF 66.5% ,6048.0
+    Rankin 2 ,6048.0
+    no medical history ,0.0
+    alcohol use ,0.0
+    lumberjack ,0.0
+    fever 2 weeks ,-336.0
+    cough 2 weeks ,-336.0
+    missing work ,-96.0
+    confusion ,0.0
+    septic shock ,0.0
+    neck stiffness ,0.0
+    normal limbs ,0.0
+    normal tone ,0.0
+    normal reflexes ,0.0
+    heart sounds normal ,0.0
+    no murmur ,0.0
+    lung crepitations ,0.0
+    fluid resuscitation ,0.0
+    vasopresssor ,0.0
+    ventilator ,0.0
+    ICU ,0.0
+    anaemia ,0.0
+    thrombocytopenia ,0.0
+    normal WBC ,0.0
+    normal renal ,0.0
+    splenic abscesses ,0.0
+    lung consolidation ,0.0
+    CT brain normal ,0.0
+    CSF no inflammation ,0.0
+    CSF no infection ,0.0
+    B. pseudomallei culture ,0.0
+    ventilator pneumonia ,72.0
+    MDR A. baumanii ,192.0
+    bacteraemia Day 6 ,144.0
+    bacteraemia Day 12 ,288.0
+    no growth Day 24 ,576.0
+    no growth Day 26 ,624.0
+    no growth Day 27 ,648.0
+    hemiplegia ,600.0
+    murmur ,600.0
+    CT infarct ,600.0
+    CT haemorrhage ,600.0
+    echocardiogram vegetation ,600.0
+    regurgitation ,600.0
+    tachycardia ,168.0
+    high temp ,96.0
+    leukopenia ,96.0
+    co-trimoxazole start ,168.0
+    imipenem ,96.0
+    ampicilin-sulbactam ,336.0
+    gentamicin ,168.0
+    extended ceftazidime ,1008.0
+    co-trimoxazole mono ,2016.0
+    discharge ,2016.0
+    weakness residual ,2016.0
+    Rankin 2 ,2016.0
+    activities independent ,2016.0
+    cognition intact ,2016.0
+    transfer ,2016.0
+    follow-up 9 months ,6048.0
+    vegetation resolved ,6048.0
+    regurgitation residual ,6048.0
+    LVEF 66.5% ,6048.0
+    Rankin 2 ,6048.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    emboli ,600.0
+    endocarditis ,600.0
+    mitral vegetation ,600.0
+    gentamicin use ,168.0
+    co-trimoxazole ,2016.0
+    residual weakness ,2016.0
+    Rankin 2 ,2016.0
+    activities ,2016.0
+    cognition ,2016.0
+    transfer ,2016.0
+    follow-up ,6048.0
+    resolved vegetation ,6048.0
+    regurgitation ,6048.0
+    LVEF ,6048.0
+    Rankin 2 ,6048.0
+    no medical issues ,0.0
+    alcohol regular ,0.0
+    alcohol heavy ,0.0
+    lumberjack ,0.0
+    fever 2 weeks ,-336.0
+    cough 2 weeks ,-336.0
+    missing work days ,-96.0
+    confusion ,0.0
+    septic shock ,0.0
+    neck stiffness ,0.0
+    limb power normal ,0.0
+    tone normal ,0.0
+    reflexes normal ,0.0
+    heart normal ,0.0
+    no murmur ,0.0
+    lung sounds ,0.0
+    fluid given ,0.0
+    vasopresssor ,0.0
+    ventilator ,0.0
+    ICU ,0.0
+    anaemia ,0.0
+    thrombocytopenia ,0.0
+    WBC normal ,0.0
+    renal normal ,0.0
+    spleen abscesses ,0.0
+    lung consolidation ,0.0
+    CT brain normal ,0.0
+    CSF normal ,0.0
+    B. pseudomallei positive ,0.0
+    ventilator pneumonia ,72.0
+    MDR A. baumanii ,192.0
+    blood culture Day 6 ,144.0
+    blood culture Day 12 ,288.0
+    no growth Day 24 ,576.0
+    no growth Day 26 ,624.0
+    no growth Day 27 ,648.0
+    hemiplegia ,600.0
+    murmur ,600.0
+    CT infarct ,600.0
+    CT haemorrhage ,600.0
+    echo vegetation ,600.0
+    regurgitation ,600.0
+    tachycardia ,168.0
+    high temperature ,96.0
+    leukopenia ,96.0
+    co-trimoxazole start ,168.0
+    imipenem ,96.0
+    ampicilin-sulbactam ,336.0
+    gentamicin ,168.0
+    ceftazidime extended ,1008.0
+    co-trimoxazole alone ,2016.0
+    discharge ,2016.0
+    weakness ,2016.0
+    Rankin 2 ,2016.0
+    daily activities ,2016.0
+    cognition intact ,2016.0
+    transfer ,2016.0
+    follow-up ,6048.0
+    vegetation gone ,6048.0
+    regurgitation remains ,6048.0
+    LVEF 66.5% ,6048.0
+    Rankin 2 ,6048.0
+    cerebral infarct ,600.0
+    haemorrhages ,600.0
+    emboli ,600.0
+    endocarditis ,600.0
+    vegetation ,600.0
+    gentamicin ,168.0
+    co-trimoxazole continued ,2016.0
+    weakness ,2016.0
+    Rankin 2 ,2016.0
+    activities ,2016.0
+    cognition ,2016.0
+    transfer ,2016.0
+    follow-up ,6048.0
+    resolved ,6048.0
+    regurgitation ,6048.0
+    LVEF ,6048.0
+    Rankin ,6048.0
+    no medical problems ,0.0
+    alcohol ,0.0
+    job ,0.0
+    fever ,-336.0
+    cough ,-336.0
+    missing ,-96.0
+    confused ,0.0
+    septic shock ,0.0
+    neck stiff ,0.0
+    limbs normal ,0.0
+    tone ,0.0
+    reflexes ,0.0
+    heart ,0.0
+    no murmur ,0.0
+    lungs ,0.0
+    fluids ,0.0
+    vasopresssor ,0.0
+    ventilator ,0.0
+    ICU ,0.0
+    anaemia ,0.0
+    low platelets ,0.0
+    WBC ,0.0
+    kidneys ,0.0
+    spleen abscess ,0.0
+    lung consolidation ,0.0
+    CT brain ,0.0
+    CSF ,0.0
+    B. pseudomallei ,0.0
+    ventilator pneumonia ,72.0
+    MDR A.,

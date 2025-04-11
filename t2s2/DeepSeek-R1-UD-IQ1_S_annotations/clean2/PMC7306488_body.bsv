@@ -1,0 +1,84 @@
+57 years old | 0
+menopausal | 0
+female | 0
+admitted to the gynecological emergency unit | 0
+left lower quadrant abdominal pain | -1008
+pelvic heaviness | -1008
+urinary frequency | -1008
+past history of 5 miscarriages | 0
+tubal ligation | 0
+active smoker | 0
+no medication | 0
+large and painful mass | 0
+mass extending up to the umbilicus | 0
+pelvic MRI | 0
+mass measuring 18 × 17 × 12 cm | 0
+well-delimited mass | 0
+polylobed mass | 0
+poorly vascularized mass | 0
+mass with central fluid component | 0
+mass seemingly located on the left ovary | 0
+no lymphadenopathy | 0
+no ascites | 0
+no peritoneal implants | 0
+normal uterus | 0
+normal adnexa | 0
+negative serum tumor markers | 0
+surgical pelvic exploration | 672
+30-centimeter mass of the left broad ligament | 672
+no ascites | 672
+no peritoneal carcinomatosis | 672
+normal uterus | 672
+normal right adnexa | 672
+total hysterectomy | 672
+adnexectomy | 672
+removal of the mass | 672
+median infraBumbilical laparotomy | 672
+definitive histological diagnosis of leiomyosarcoma | 672
+fever of 39 °C | 732
+major inflammatory syndrome | 732
+leukocytes 15,000/μL | 732
+C-reactive protein 317 mg/dL | 732
+contrast-enhanced computed tomography scan | 732
+bilobed air and fluid collection suggesting an abscess | 732
+abscess located in the retroperitoneum | 732
+abscess extending along the left psoas muscle (9.1 × 7.4 × 7.5 cm) | 732
+abscess in the Douglas pouch (7.1 × 5.1 cm) | 732
+sudden blood pressure drop (74/46 mmHg) | 732
+no response to intravenous volume replacement with 2 L of Ringer Lactate | 732
+vasopressor therapy (noradrenaline) started | 732
+blood pressure stabilization at 100/60 mmHg | 732
+transfer to the operating room for emergency revision surgery | 732
+peritoneal cavity exploration | 732
+moderately abundant non-purulent serosanginous peritoneal fluid | 732
+adhesions to the Douglas pouch | 732
+peritonitis | 732
+no surgical wound explaining the infection | 732
+antibacterial treatment with piperacillin/tazobactam and gentamicin administered | 732
+microbiological samples taken | 732
+extubated without complications | 732
+hemodynamic support with noradrenaline needed | 732
+transferred to the intensive care unit | 732
+slow clinical improvement | 732
+noradrenaline requirement decreased | 768
+discontinuation of noradrenaline on day 3 after revision surgery | 768
+decrease in inflammatory markers | 768
+microbiological analysis of the peritoneal fluid identified Gardnerella vaginalis | 756
+gentamicin discontinued | 756
+metronidazole added to the antibacterial treatment | 756
+Atopobium vaginae identified in the peritoneal fluid | 936
+preoperative blood cultures remained sterile | 0
+Gardnerella vaginalis resistant to metronidazole and ciprofloxacin | 936
+Gardnerella vaginalis susceptible to penicillin G | 936
+Gardnerella vaginalis susceptible to amoxicillin/clavulanate | 936
+Gardnerella vaginalis susceptible to cefotaxim | 936
+Gardnerella vaginalis susceptible to clindamicin | 936
+Gardnerella vaginalis susceptible to vancomycin | 936
+Atopobium vaginae susceptible to all tested antibacterials | 936
+Atopobium vaginae susceptible to metronidazole | 936
+piperacillin/tazobactam active against both bacteria | 936
+final diagnosis of early postoperative peritonitis-induced septic shock caused by Gardnerella vaginalis and Atopobium vaginae | 936
+discharged from the intensive care unit on day 5 after the second surgery | 1152
+antibacterial therapy stopped on day 7 | 168
+septic shock caused by Gardnerella vaginalis and Atopobium vaginae | 0
+total hysterectomy with adnexectomy due to leiomyosarcoma | 672

@@ -1,0 +1,65 @@
+54 years old | 0
+    male | 0
+    admitted to the hospital | 0
+    acute myeloid leukemia | 0
+    prostate cancer | 0
+    hepatitis C virus | 0
+    non-insulin dependent diabetes mellitus | 0
+    hypertension | 0
+    chemotherapy initiation | -672
+    neutropenic fevers | -672
+    pneumonia | -672
+    respiratory distress | -672
+    intubation | -672
+    septic shock | -672
+    Serratia marcescens in blood cultures | -672
+    vancomycin | -672
+    piperacillin-tazobactam | -672
+    prophylactic acyclovir | -672
+    prophylactic fluconazole | -672
+    condom catheter placement | -672
+    extubation | -672
+    condom catheter removal | -672
+    penile pain | 528
+    lesion observed | 528
+    urology consultation | 528
+    white blood cell count <0.1 × 10³/mcL | 528
+    hemoglobin 7.2 g/dL | 528
+    platelet count 42 × 10³/mcL | 528
+    serum sodium 130 mEq/L | 528
+    glucose 230 mg/dL | 528
+    creatinine 0.52 ng/dl | 528
+    genitourinary exam | 528
+    blackened scrotum | 528
+    penile shaft with crepitus | 528
+    eschars | 528
+    no foul smell | 528
+    Fournier's gangrene | 528
+    genitourinary debridement | 528
+    left testis necrosis | 528
+    left orchiectomy | 528
+    left hemiscrotectomy | 528
+    post-operative stability | 528
+    afebrile | 528
+    altered mental status | 528
+    confusion episodes | 528
+    zygomycetes positive quantitative analysis | 528
+    systemic liposomal Amphotericin B | 528
+    mottled wound | 528
+    paucity of granulation tissue | 528
+    second debridement | 528
+    right orchiectomy | 528
+    suprapubic tube placement | 528
+    penectomy | 528
+    further groin debridement | 528
+    Burn team consultation | 528
+    amphotericin soaked dressing changes | 528
+    amphotericin bladder irrigation | 528
+    third debridement | 528
+    hypotensive | 528
+    tachycardic | 528
+    febrile | 528
+    green growth on groin | 528
+    scheduled further debridement | 528
+    condition worsening | 528
+    demise | 528

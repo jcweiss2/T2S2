@@ -1,0 +1,87 @@
+80 years old| 0
+male | 0
+admitted to the Intensive care unit (ICU) | 0
+admitted to the hospital | 0
+presented to the emergency department | 0
+three day history of severe right sided chest pain | -72
+chest pain | -72
+dyspnea | -72
+fever | -72
+denied any use of alcohol | 0
+denied any use of tobacco | 0
+hypertension | 0
+hypothyroidism | 0
+calcified pleural plaques | 0
+autoimmune hemolytic anemia (AIHA) | -1008
+hospitalized | -1008
+oral prednisone 70 mg daily | -1008
+negative HIV serology | 0
+negative hepatitis B serology | 0
+negative hepatitis C serology | 0
+antinuclear antibodies positive | 0
+anti double-stranded DNA titer 1:360 | 0
+plasma protein electrophoresis normal | 0
+Positron emission tomography (PET) scan normal | 0
+chest-abdomen-pelvis computed tomography (CT) normal | 0
+dyspneic | 0
+respiratory rate of 27 breaths/min | 0
+heart rate of 93 beats/min | 0
+fever of 39 °C | 0
+lung auscultation negative for crackles | 0
+hypotensive | 0
+blood pressure of 80/60 mmHg | 0
+intravenous fluids | 0
+norepinephrine | 0
+sepsis shock | 0
+leukocytosis | 0
+white blood cell count of 27,100/mm3 | 0
+hemoglobin level of 14.5 g/dL | 0
+platelet count of 187,000/mm3 | 0
+arterial blood gas pH 7.48 | 0
+PaO2 of 62 mmHg | 0
+PaCO2 of 35 mmHg | 0
+C-reactive protein (CRP) elevated at 130 mg/L | 0
+acute kidney injury | 0
+creatinine at 1.386 mg/dL | 0
+lactic acid elevated to 31.53 mg/dL | 0
+Procalcitonin (PCT) increased to 14.6 ng/mL | 0
+blood cultures obtained | 0
+pneumococcal urine antigen negative | 0
+Legionella urine antigen negative | 0
+AP chest x-ray pulmonary consolidation in the right upper lobe (RUL) | 0
+AP chest x-ray cavity | 0
+chest-abdomen-pelvic CT RUL consolidation | 0
+chest-abdomen-pelvic CT septated cavitation | 0
+intravenous (IV) cefotaxime 2 g x 3 daily | 0
+IV levofloxacin 500 mg twice daily | 0
+blood cultures positive for pan-sensitive P. aeruginosa | 24
+IV cefepime 2 g over eight hours twice daily | 24
+bronchoscopy | 0
+bronchoalveolar lavage (BAL) | 0
+BAL culture positive for P. aeruginosa | 0
+acid-fast bacilli stain negative | 0
+vasopressor weaned | 48
+oxygen therapy stopped | 96
+transferred out of the ICU | 0
+discharged from the hospital | 504
+repeat chest x-ray at 2 weeks | 336
+dramatic decrease of the pulmonary consolidation | 336
+residual 10 cm cavity | 336
+PET scan normal | 0
+chest-abdomen-pelvis CT normal | 0
+autoimmune hemolytic anemia (AIHA) diagnosed | -1008
+prednisone 70 mg daily | -1008
+septic shock | 0
+Pseudomonas aeruginosa necrotizing CAP | 0
+bacteremia | 0
+IV cefepime monotherapy | 24
+cavitation | 0
+consolidation | 0
+septic shock secondary to P. aeruginosa necrotizing CAP with bacteremia | 0
+favorable outcome | 504
+ExoU exotoxin negative | 0
+Colistin resistance negative | 0
+no virulence factors | 0
+no conflict of interest | 0
+no funding source | 0
+ethical approval not required | 0

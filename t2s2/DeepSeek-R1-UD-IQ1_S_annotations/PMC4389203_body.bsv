@@ -1,0 +1,62 @@
+68 years old | 0
+    woman | 0
+    hospitalized in the University Hospital of Strasbourg, France | 0
+    admitted to a digestive surgery unit | 0
+    metastatic adenocarcinoma of the ampulla of Vater | 0
+    no chemotherapy | 0
+    pancreaticoduodenectomy | 0
+    lymphadenectomy | 0
+    sample of bile taken | 0
+    no antifungal chemoprophylaxis | 0
+    central venous catheter placed | 0
+    drains placed | 0
+    bile culture positive for Enterococcus faecalis | 24
+    bile culture positive for Klebsiella pneumoniae | 24
+    bi-antibiotherapy started with meropenem | 24
+    bi-antibiotherapy started with vancomycine | 24
+    bi-antibiotherapy continued for 19 days | 24
+    shivering | 528
+    fever of 38.5°C | 528
+    two blood cultures drawn on peripheral vein | 528
+    blood cultures remained negative | 528
+    two blood cultures drawn on central venous catheter | 552
+    blood cultures positive on day +26 | 624
+    blood cultures positive on day +27 | 648
+    microscopic examination revealed unusual fungal elements | 624
+    intravenous fluconazole 800 mg/day initiated | 624
+    switched to liposomal amphotericin B 3 mg/kg/day | 648
+    central venous catheter withdrawn | 552
+    central venous catheter sent to Bacteriology Laboratory | 552
+    central venous catheter culture negative | 552
+    control blood cultures drawn on peripheral vein | 552
+    control blood cultures remained negative | 552
+    no other specimen addressed to Mycology Laboratory | 552
+    septic shock | 648
+    blood cultures drawn on peripheral vein | 648
+    blood cultures drawn on arterial catheter | 648
+    blood cultures drawn on central venous catheter | 648
+    blood cultures positive to Candida albicans | 648
+    blood cultures positive to Candida glabrata | 648
+    transferred to intensive care unit | 648
+    evolution favorable | 648
+    admitted back in digestive surgery unit | 648
+    liposomal amphotericin B continued for two weeks | 648
+    blood subcultured on chromID™ Candida agar | 624
+    blood subcultured on Sabouraud-Chloramphenicol-Agar | 624
+    isolate grew in 24 hours | 624
+    better growth observed at 27°C | 624
+    colonies blue on chromogenic medium | 624
+    colonies produced yellow-beige pigment | 624
+    colonies tan, dry, wrinkled after several days | 624
+    microscopic examination similar to blood cultures | 624
+    MALDI-TOF mass spectrometry inconclusive | 624
+    APID 32C strip inconclusive | 624
+    yeast urease positive | 624
+    yeast nitrate positive | 624
+    morphological study on Potato-Carrot-Bile medium | 624
+    final identification by sequencing | 624
+    sequencing matched P. aphidis | 624
+    susceptibility tested by Etest method | 624
+    MIC values determined | 624
+    patient discharged after two weeks of amphotericin B | 336
+    

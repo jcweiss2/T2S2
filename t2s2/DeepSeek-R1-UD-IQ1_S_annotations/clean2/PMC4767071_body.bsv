@@ -1,0 +1,75 @@
+23 years old | 0
+G2P1L1 | 0
+28 weeks gestation | 0
+previous normal vaginal delivery | 0
+admitted to emergency labor room | 0
+shock | 0
+unrecordable blood pressure | 0
+unrecordable pulse | 0
+unconscious | 0
+unrecordable fetal heart sound | 0
+amenorrhea | -5040
+bleeding per vaginam | -24
+no drug abuse | 0
+no alcohol intake | 0
+admitted in three different private hospitals | -24
+untreated for bleeding per vaginam | -24
+secured large bore intravenous cannula | 0
+started intravenous colloids | 0
+started intravenous crystalloids | 0
+sent relevant samples | 0
+Foley's catheter inserted | 0
+hourly urine output measurement | 0
+negative urine albumin | 0
+normal electrolytes | 0
+blood sugar level 84 mg% | 0
+absent fetal heart on ultrasound | 0
+shifted to ICU | 0
+no immediate hysterotomy | 0
+dead fetus | 0
+sudden cardiac arrest | 0
+chest compressions started | 0
+intubated | 0
+endotracheal tube number 7 fixed | 0
+rescue breaths with AMBU | 0
+adrenaline 1 mg IV twice | 0
+resuscitated within 4 minutes | 0
+started dopamine 10 µg/kg | 0
+started noradrenaline 1610 µg/kg | 0
+SIMV-VC ventilator settings: FiO2 100%, TV 500 ml, PEEP Off, PSV 15 | 0
+BP 92/60 mmHg | 0
+pulse rate 120 bpm | 0
+SPO2 95% | 0
+managed with 4 whole blood | 0
+continued vasopressors | 0
+second bout of bleeding per vaginam | 24
+obstetrician examination | 24
+uterus 28 weeks, oblique lie | 24
+Grade 4 placenta previa | 24
+shifted to operation theater | 24
+BP 100/64 mmHg | 24
+PR 128 bpm | 24
+emergency LSCS performed | 24
+general anesthesia | 24
+ketamine 80 mg IV | 24
+vecuronium 4 mg IV | 24
+isoflurane | 24
+dead baby extracted | 24
+placenta removed | 24
+uterus closed in layers | 24
+3 whole blood transfusions | 24
+1 L Ringer lactate | 24
+4 fresh frozen plasma | 24
+blood samples sent for lab | 24
+shifted back to ICU | 24
+SIMV-VC ventilator settings: FiO2 50%, TV 500 ml, PEEP 3, PSV 15 | 24
+BP 120/72 mmHg | 24
+PR 115 bpm | 24
+SpO2 95% | 24
+inotropes tapered off | 96
+regained consciousness | 168
+responded to verbal commands | 168
+weaned off ventilator | 168
+shifted to ward | 216
+discharged | 216
+intact neurological functions | 216

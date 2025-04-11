@@ -1,0 +1,210 @@
+event,time
+25 years old , 0
+    housewife , 0
+    given birth to a 3.1-kg baby girl , 0
+    pregnancy ," -168 (assuming pregnancy duration mentioned as 37 weeks, which is approximately 37*7*24=6216 hours before delivery, but since the delivery is at admission, timestamp is 0, so pregnancy start would be -6216 hours. However, the text states ""37th week of her first pregnancy"", which implies the pregnancy was 37 weeks long, so the start of pregnancy would be -37*7*24= -6216 hours. However, the patient was admitted after delivery, so delivery is at timestamp 0. Therefore, the pregnancy events before delivery would have negative timestamps.)"
+    spontaneous vaginal delivery , 0
+    episiotomy , 0
+    severe pain in the region of her buttocks ," 0 (post-delivery, so timestamp 0)"
+    shortness of breath ," -21 (sudden onset at 03:00h the next day; assuming ""next day"" after delivery, so 24 hours later, but she arrived at the emergency department the same day. However, the timestamp for admission is 0, so the onset of shortness of breath was 21 hours before admission (03:00 next day, assuming delivery at 00:00, next day 03:00 would be 27 hours after delivery, but since delivery is timestamp 0, and she arrived at the emergency department after the onset, which would be a negative timestamp. However, the timeline is complex; perhaps the onset was 21 hours before admission.)"
+    worsening pain over her right thigh , -21 (same as shortness of breath)
+    drowsy , 0
+    tachypneic , 0
+    oxygen saturation of 56% on room air , 0
+    high-flow oxygen supply , 0
+    tachycardia , 0 (pulse 121 bpm)
+    afebrile , 0 (36°C)
+    blood pressure unrecordable , 0
+    resuscitation with 30 mL/kg normal saline , 0
+    persistently hypotensive , 0 (blood pressure 56/30 mmHg)
+    noradrenaline infusion , 0
+    blood pressure steadied , 0
+    IV heparin 5000 units , 0 (stat dose)
+    presumptive diagnosis of pulmonary embolism , 0
+    IV amoxicillin-clavulanate stat dose , 0
+    septicemic shock , 0
+    transferred to tertiary hospital , 0
+    electively intubated , 0
+    severe metabolic and lactic acidosis , 0
+    worsening respiratory distress , 0
+    120 mL/kg crystalloid given , 0
+    persistently hypotensive post-intubation , 0
+    fluid resuscitation , 0
+    adrenaline , 0
+    vasopressin , 0
+    dobutamine , 0
+    grossly swollen right thigh , 0
+    extensive blistering ecchymotic patches over right thigh , 0
+    right thigh extending to right buttock , 0
+    necrotizing fasciitis of the right thigh , 0
+    septicemic shock , 0
+    acute kidney injury , 0
+    rhabdomyolysis , 0
+    coagulopathy , 0
+    thrombocytopenia , 0
+    ischemic hepatitis , 0
+    IV meropenem , 0
+    IV clindamycin , 0
+    IV vancomycin , 0
+    cultures taken from blood and blister fluid , 0
+    high vaginal swab for culture , 0
+    transferred to intensive care unit , 0
+    orthopedic and surgical opinions sought , 0
+    extensive wound debridement planned , 0
+    CT pulmonary angiography , 0
+    small pulmonary embolism , 0
+    bedside echocardiography , 0
+    good contractility , 0
+    intravenous immunoglobulin , 0 (given on the same day)
+    continuous veno# 使用 C++ 以不同的方式打开文本文件,
+> 原文：<https://blog.devgenius.io/using-c-to-open-a-text-file-in-different-ways-d4d7c22cd363?source=collection_archive---------1------------------------------->,
+![](img/d7b7b7e9e2c5d2b8b2f8d4d8b0cdf5c1.png),
+在上一篇文章中，我讨论了如何[使用 C++](https://medium.com/@simulaeric/c-file-io-explained-using-a-text-file-5a4a4a4d4d4d) 打开一个文本文件。在本文中，我将展示如何使用不同的方法在 C++中打开同一个文本文件。虽然有很多方法可以打开文本文件，但在这里我打算讨论最广泛使用的方法。这些方法是:,
+1.  使用`fstream`库。,
+2.  使用`ifstream`库。,
+3.  使用`open()`功能。,
+首先，让我给你一个文本文件的概述，然后我将详细解释每一种方法。文本文件是计算机用来存储数据的文件，以便以后可以由用户或其他程序检索。文本文件通常由一系列字符组成，这些字符被组织成行，每行以新行结束字符结束。文本文件有多种用途，例如:,
+*   存储配置信息。,
+*   存储程序的源代码。,
+*   存储数据，如程序的输出。,
+文本文件可以用任何文本编辑器创建和编辑，如记事本、TextPad 或 Sublime Text。文本文件不同于其他类型的文件，如可执行文件或图像文件，因为它们不包含任何格式信息，只包含纯文本。,
+现在，我将讨论使用 C++打开文本文件的不同方法。,
+# 使用 fstream 库,
+`fstream`库是一个 C++库，允许程序读写文件。它提供了几个类，比如`ofstream`，它用于写入文件，`ifstream`，它用于从文件读取，以及`fstream`，它用于读和写文件。`fstream`库是标准 C++库的一部分，所以不需要安装任何额外的软件就可以使用。为了使用`fstream`库，你需要包含`<fstream>`头文件。,
+要打开一个文件进行读取，可以使用`ifstream`类，而要打开一个文件进行写入，可以使用`ofstream`类。`fstream`类可以同时用于读取和写入。打开文件时，可以指定各种模式，如`ios::in`用于读取，`ios::out`用于写入，或者`ios::app`用于追加。例如，要打开一个名为“data.txt”的文件进行读取，您可以使用:,
+```,
+ifstream input_file;,
+"input_file.open(""data.txt"", ios::in);",
+```,
+要打开文件进行写入，您可以使用:,
+```,
+ofstream output_file;,
+"output_file.open(""data.txt"", ios::out);",
+```,
+要打开文件进行读取和写入，您可以使用:,
+```,
+fstream file;,
+"file.open(""data.txt"", ios::in ", ios::out);
+```,
+一旦文件被打开，你可以使用像`<<`这样的操作符写入文件，或者使用像`>>`这样的操作符读取文件。例如，要向文件写入一个数字，可以使用:,
+```,
+output_file << 42;,
+```,
+要读取文件中的数字，可以使用:,
+```,
+int num;,
+input_file >> num;,
+```,
+完成后，使用`close()`方法关闭文件非常重要:,
+```,
+input_file.close();,
+output_file.close();,
+```,
+这将释放与文件相关联的资源，并确保所有数据被正确写入。,
+现在，让我给你展示一个使用`fstream`库打开文本文件的例子。,
+```,
+#include <iostream>,
+#include <fstream>,
+using namespace std;,
+int main() {,
+    fstream file;,
+"    file.open(""data.txt"", ios::out);",
+"    file << ""Hello, World!"";",
+    file.close();,
+    return 0;,
+},
+```,
+在这个例子中，我创建了一个名为“data.txt”的文件，并向其中写入“Hello，World！”使用`fstream`库。然后我关闭了文件。该代码将生成一个名为“data.txt”的文本文件，其中包含文本“Hello，World！”。,
+# 使用 ifstream 库,
+`ifstream`库是一个 C++库，允许程序从文件中读取数据。它是标准 C++库的一部分，因此不需要安装任何额外的软件就可以使用。为了使用`ifstream`库，您需要包含`<ifstream>`头文件。,
+要打开一个文件进行读取，可以使用`ifstream`类。打开文件时，可以指定各种模式，比如`ios::in`用于读取。例如，要打开一个名为“data.txt”的文件进行读取，您可以使用:,
+```,
+ifstream input_file;,
+"input_file.open(""data.txt"", ios::in);",
+```,
+一旦文件被打开，您可以使用`>>`操作符读取文件中的内容。例如，要读取文件中的一个数字，可以使用:,
+```,
+int num;,
+input_file >> num;,
+```,
+完成后，使用`close()`方法关闭文件非常重要:,
+```,
+input_file.close();,
+```,
+这将释放与文件相关联的资源。,
+现在，让我给你展示一个使用`ifstream`库打开文本文件的例子。,
+```,
+#include <iostream>,
+#include <fstream>,
+#include <string>,
+using namespace std;,
+int main() {,
+    ifstream input_file;,
+"    input_file.open(""data.txt"", ios::in);",
+    string line;,
+"    while (getline(input_file, line)) {",
+        cout << line << endl;,
+    },
+    input_file.close();,
+    return 0;,
+},
+```,
+在这个例子中，我打开了名为“data.txt”的文本文件，并使用`ifstream`库读取其内容。然后，我使用`getline()`函数将每一行读入一个字符串，并将每一行打印到控制台。最后，我关闭了文件。,
+# 使用 open()函数,
+`open()`函数是`fstream`、`ifstream`和`ofstream`类的一个成员函数，用于打开文件进行读取或写入。它接受一个文件名和一个可选的模式参数，该参数指定应该如何打开文件。例如，要打开一个名为“data.txt”的文件进行读取，您可以使用:,
+```,
+ifstream input_file;,
+"input_file.open(""data.txt"", ios::in);",
+```,
+要打开文件进行写入，您可以使用:,
+```,
+ofstream output_file;,
+"output_file.open(""data.txt"", ios::out);",
+```,
+要打开文件进行读取和写入，您可以使用:,
+```,
+fstream file;,
+"file.open(""data.txt"", ios::in ", ios::out);
+```,
+如果文件打开成功，`open()`函数返回`true`，否则返回`false`。例如，您可以检查文件是否成功打开:,
+```,
+"if (!input_file.open(""data.txt"", ios::in)) {",
+"    cerr << ""Error opening file"" << endl;",
+    return 1;,
+},
+```,
+一旦文件被打开，你可以使用`<<`操作符写入文件，或者使用`>>`操作符读取文件。例如，要向文件写入一个数字，可以使用:,
+```,
+output_file << 42;,
+```,
+要读取文件中的数字，可以使用:,
+```,
+int num;,
+input_file >> num;,
+```,
+完成后，使用`close()`方法关闭文件非常重要:,
+```,
+input_file.close();,
+output_file.close();,
+```,
+现在，让我给你展示一个使用`open()`函数打开文本文件的例子。,
+```,
+#include <iostream>,
+#include <fstream>,
+#include <string>,
+using namespace std;,
+int main() {,
+    fstream file;,
+"    file.open(""data.txt"", ios::out);",
+    if (!file.is_open()) {,
+"        cerr << ""Error opening file"" << endl;",
+        return 1;,
+    },
+"    file << ""Hello, World!"";",
+    file.close();,
+    return 0;,
+},
+```,
+在这个例子中，我使用`open()`函数打开了一个名为“data.txt”的文件进行写入。然后，我检查文件是否成功打开。如果打开失败，我打印一条错误消息并返回。如果成功，我将“Hello，World！”写入文件，然后关闭它。,
+综上所述，在本文中，我讨论了使用 C++打开文本文件的三种不同方法。这些方法包括使用`fstream`库、`ifstream`库和`open()`函数。每种方法都有自己的优点和缺点，选择哪种方法取决于具体的用例。例如，`fstream`库允许同时读写，而`ifstream`库只允许读取。`open()`函数是一个更通用的函数，可以与不同的类一起使用。,
+我希望这篇文章对你有用。如果你有任何问题，请随时问我。,

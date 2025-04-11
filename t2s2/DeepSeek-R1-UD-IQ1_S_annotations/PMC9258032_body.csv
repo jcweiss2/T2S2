@@ -1,0 +1,238 @@
+event,time
+58 years old ,0
+    male ,0
+    presented to ED complaining of recurrent episodes of syncope ,-48
+    sore throat ,-168
+    fever ,-168
+    flu-like symptoms ,-168
+    syncope during a febrile episode ,-8760
+    haemoconcentration (haemoglobin 18.7 g/dL) ,-8760
+    oedema of lower extremities ,-8760
+    hospital admission for suspected myopericarditis ,-26280
+    normotensive (blood pressure 115/70 mmHg) ,0
+    normal heart rate (80 bpm) ,0
+    normal oxygen saturation (98%) ,0
+    physical examination negative ,0
+    electrocardiogram showed sinus rhythm ,0
+    transthoracic echocardiogram revealed decreased LVEF (40%) ,0
+    mild concentric remodelling ,0
+    diffuse mild pericardial effusion ,0
+    chest X-ray negative ,0
+    moderate leukocytosis (16.170 × 109 L) ,0
+    polyglobulia (haematocrit 57%) ,0
+    decreased serum albumin (2.85 g/L) ,0
+    elevated CRP (2.0 mg dL) ,0
+    elevated hs-TnT (400 ng/L) ,0
+    elevated NT-proBNP (14343 ng/L) ,0
+    hospitalized for suspected myopericarditis ,0
+    clinical status deteriorated within 48 hours ,48
+    hypotension (systolic BP 60-70 mmHg) ,48
+    pulmonary oedema ,48
+"    hypoperfusion (cold extremities, oliguria) ",48
+    raise of blood lactates (4 mmoL/L) ,48
+    repeated echocardiography showed LVEF 20% ,48
+    increased LV wall thickness ,48
+    restrictive transmitral filling pattern ,48
+    admitted to ICU ,48
+    mechanical ventilation started ,48
+    high dosage vasoactive drugs ,48
+    coronary angiography performed ,48
+    endomyocardial biopsy performed ,48
+    biopsy showed active myocarditis ,48
+    myocardial necrosis ,48
+    PCR positive for PVB19 ,48
+    blood cultures negative ,48
+    mechanical support with IABP ,48
+    pulmonary artery catheter inserted ,48
+    right heart catheterization showed mixed hypovolemic-cardiogenic shock ,48
+    administration of methylprednisolone ,48
+    diagnosis of SCLS suspected ,48
+    rhabdomyolysis (CK 9297 U/L) ,48
+    acute kidney injury ,48
+    CRRT started ,48
+    cytokine adsorber haemofilter added ,48
+    LVEF raised to 35% ,72
+    weaned from IABP on Day 7 ,168
+    weaned from inotropes and vasopressors on Day 11 ,264
+    haemofiltration stopped after 72 hours ,72
+    ventilatory-associated pneumonia ,264
+    ventilatory weaning accomplished on Day 12 ,288
+    CMRI performed 20 days after admission ,480
+    LVEF 50% ,480
+    resolution of myocardial oedema ,480
+    pre-discharge echocardiogram showed LVEF 52% ,672
+    reduced LV wall thickness ,672
+    tests for autoimmune diseases negative ,672
+    JAK 2 mutation excluded ,672
+    discharged 30 days after admission ,720
+    restoration of normal haematocrit ,720
+    restoration of renal function ,720
+    new ISCLS flare 5 months later ,8760
+    hypotension ,8760
+    syncope ,8760
+"    haemoconcentration (Hb 16.4 g/dL, HcT 49%) ",8760
+    rhinovirus infection ,8760
+    admitted to ICU ,8760
+    haemodynamically stable ,8760
+    IVIG started ,8760
+    no new syncopal episodes ,8760
+    good clinical condition at 3 years ,26280
+    no new SCLS flares ,26280
+    58 years old ,0
+    male ,0
+    presented to Emergency Department complaining of recurrent episodes of syncope ,-48
+    sore throat ,-168
+    fever ,-168
+    flu-like symptoms ,-168
+    syncope during a febrile episode ,-8760
+    haemoconcentration (haemoglobin 18.7 g/dL) ,-8760
+    oedema of lower extremities ,-8760
+    hospital admission for suspected myopericarditis ,-26280
+    normotensive (blood pressure 115/70 mmHg) ,0
+    normal heart rate (80 bpm) ,0
+    normal oxygen saturation (98%) ,0
+    physical examination negative ,0
+    electrocardiogram showed sinus rhythm ,0
+    transthoracic echocardiogram revealed decreased LVEF (40%) ,0
+    mild concentric remodelling ,0
+    diffuse mild pericardial effusion ,0
+    chest X-ray negative ,0
+    moderate leukocytosis (16.170 × 10⁹/L) ,0
+    polyglobulia (haematocrit 57%) ,0
+    decreased serum albumin (2.85 g/L) ,0
+    elevated CRP (2.0 mg/dL) ,0
+    elevated hs-TnT (400 ng/L) ,0
+    elevated NT-proBNP (14343 ng/L) ,0
+    hospitalized for suspected myopericarditis ,0
+    clinical status deteriorated within 48 hours ,48
+    hypotension (systolic BP 60-70 mmHg) ,48
+    pulmonary oedema ,48
+"    hypoperfusion (cold extremities, oliguria) ",48
+    raise of blood lactates (4 mmol/L) ,48
+    repeated echocardiography showed LVEF 20% ,48
+    increased LV wall thickness ,48
+    restrictive transmitral filling pattern ,48
+    admitted to ICU ,48
+    mechanical ventilation started ,48
+    high dosage vasoactive drugs ,48
+    coronary angiography performed ,48
+    endomyocardial biopsy performed ,48
+    biopsy showed active myocarditis ,48
+    myocardial necrosis ,48
+    PCR positive for PVB19 ,48
+    blood cultures negative ,48
+    mechanical support with IABP ,48
+    pulmonary artery catheter inserted ,48
+    right heart catheterization showed mixed hypovolemic-cardiogenic shock ,48
+    administration of methylprednisolone ,48
+    diagnosis of SCLS suspected ,48
+    rhabdomyolysis (CK 9297 U/L) ,48
+    acute kidney injury ,48
+    CRRT started ,48
+    cytokine adsorber haemofilter added ,48
+    LVEF raised to 35% ,72
+    weaned from IABP on Day 7 ,168
+    weaned from inotropes and vasopressors on Day 11 ,264
+    haemofiltration stopped after 72 hours ,72
+    ventilatory-associated pneumonia ,264
+    ventilatory weaning accomplished on Day 12 ,288
+    CMRI performed 20 days after admission ,480
+    LVEF 50% ,480
+    resolution of myocardial oedema ,480
+    pre-discharge echocardiogram showed LVEF 52% ,672
+    reduced LV wall thickness ,672
+    tests for autoimmune diseases negative ,672
+    JAK 2 mutation excluded ,672
+    discharged 30 days after admission ,720
+    restoration of normal haematocrit ,720
+    restoration of renal function ,720
+    new ISCLS flare 5 months later ,8760
+    hypotension ,8760
+    syncope ,8760
+"    haemoconcentration (Hb 16.4 g/dL, HcT 49%) ",8760
+    rhinovirus infection ,8760
+    admitted to ICU ,8760
+    haemodynamically stable ,8760
+    IVIG started ,8760
+    no new syncopal episodes ,8760
+    good clinical condition at 3 years ,26280
+    no new SCLS flares ,26280
+    58 years old ,0
+    male ,0
+    presented to Emergency Department complaining of recurrent episodes of syncope ,-48
+    sore throat ,-168
+    fever ,-168
+    flu-like symptoms ,-168
+    syncope during a febrile episode ,-8760
+    haemoconcentration (haemoglobin 18.7 g/dL) ,-8760
+    oedema of lower extremities ,-8760
+    hospital admission for suspected myopericarditis ,-26280
+    normotensive (blood pressure 115/70 mmHg) ,0
+    normal heart rate (80 bpm) ,0
+    normal oxygen saturation (98%) ,0
+    physical examination negative ,0
+    electrocardiogram showed sinus rhythm ,0
+    transthoracic echocardiogram revealed decreased LVEF (40%) ,0
+    mild concentric remodelling ,0
+    diffuse mild pericardial effusion ,0
+    chest X-ray negative ,0
+    moderate leukocytosis (16.170 × 10⁹/L) ,0
+    polyglobulia (haematocrit 57%) ,0
+    decreased serum albumin (2.85 g/L) ,0
+    elevated CRP (2.0 mg/dL) ,0
+    elevated hs-TnT (400 ng/L) ,0
+    elevated NT-proBNP (14343 ng/L) ,0
+    hospitalized for suspected myopericarditis ,0
+    clinical status deteriorated within 48 hours ,48
+    hypotension (systolic BP 60-70 mmHg) ,48
+    pulmonary oedema ,48
+"    hypoperfusion (cold extremities, oliguria) ",48
+    raise of blood lactates (4 mmol/L) ,48
+    repeated echocardiography showed LVEF 20% ,48
+    increased LV wall thickness ,48
+    restrictive transmitral filling pattern ,48
+    admitted to ICU ,48
+    mechanical ventilation started ,48
+    high dosage vasoactive drugs ,48
+    coronary angiography performed ,48
+    endomyocardial biopsy performed ,48
+    biopsy showed active myocarditis ,48
+    myocardial necrosis ,48
+    PCR positive for PVB19 ,48
+    blood cultures negative ,48
+    mechanical support with IABP ,48
+    pulmonary artery catheter inserted ,48
+    right heart catheterization showed mixed hypovolemic-cardiogenic shock ,48
+    administration of methylprednisolone ,48
+    diagnosis of SCLS suspected ,48
+    rhabdomyolysis (CK 9297 U/L) ,48
+    acute kidney injury ,48
+    CRRT started ,48
+    cytokine adsorber haemofilter added ,48
+    LVEF raised to 35% ,72
+    weaned from IABP on Day 7 ,168
+    weaned from inotropes and vasopressors on Day 11 ,264
+    haemofiltration stopped after 72 hours ,72
+    ventilatory-associated pneumonia ,264
+    ventilatory weaning accomplished on Day 12 ,288
+    CMRI performed 20 days after admission ,480
+    LVEF 50% ,480
+    resolution of myocardial oedema ,480
+    pre-discharge echocardiogram showed LVEF 52% ,672
+    reduced LV wall thickness ,672
+    tests for autoimmune diseases negative ,672
+    JAK 2 mutation excluded ,672
+    discharged 30 days after admission ,720
+    restoration of normal haematocrit ,720
+    restoration of renal function ,720
+    new ISCLS flare 5 months later ,8760
+    hypotension ,8760
+    syncope ,8760
+"    haemoconcentration (Hb 16.4 g/dL, HcT 49%) ",8760
+    rhinovirus infection ,8760
+    admitted to ICU ,8760
+    haemodynamically stable ,8760
+    IVIG started ,8760
+    no new syncopal episodes ,8760
+    good clinical condition at 3 years ,26280
+    no new SCLS flares ,26280

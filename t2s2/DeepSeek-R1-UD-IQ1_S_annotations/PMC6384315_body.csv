@@ -1,0 +1,181 @@
+event,time
+71 years old ,0.0
+    female ,0.0
+    hypertension ,0.0
+    presented to the emergency department ,-4320.0
+    dyspnea on exertion ,-4320.0
+    malaise ,-2160.0
+    anorexia ,-2160.0
+    fatigue ,-2160.0
+    unintentional weight loss ,-2160.0
+    atrial fibrillation ,0.0
+    heart failure ,0.0
+    referred to internal medicine service ,0.0
+    abdominal ultrasound ,0.0
+    pelvic ultrasound ,0.0
+    clinical ascites ,0.0
+    bilateral adnexal masses ,0.0
+    solid and cystic changes ,0.0
+    abdominal CT scan ,0.0
+    solid peritoneal deposits ,0.0
+    moderate ascites ,0.0
+    large volume ascites ,0.0
+    ovarian malignancy suspected ,0.0
+    CA-125 level low ,0.0
+    discharged home ,0.0
+    urgent follow-up ,0.0
+    assessed at gynecology-oncology clinic ,120.0
+    paracentesis performed ,120.0
+    malignant cells ,120.0
+    poorly differentiated carcinoma ,120.0
+    sarcoma ,120.0
+    epithelioid morphology ,120.0
+    planned 3 cycles of Paclitaxel ,120.0
+    planned 3 cycles of Carboplatin ,120.0
+    interval debulking ,120.0
+    presumed epithelial ovarian cancer ,120.0
+    received first dose of chemotherapy ,264.0
+    presented to emergency department ,384.0
+    diarrhea ,384.0
+    fatigue ,384.0
+    generalized weakness ,384.0
+    afebrile ,384.0
+    clinically dehydrated ,384.0
+    hypotension ,384.0
+    pre-renal acute kidney injury ,384.0
+    pancytopenic ,384.0
+    received volume resuscitation ,384.0
+    received PRBC ,384.0
+    received GCSF ,384.0
+    received prophylactic antibiotics ,384.0
+    diagnosis of tumour lysis syndrome ,384.0
+    AKI ,384.0
+    hyperphosphatemia ,384.0
+    hypocalcemia ,384.0
+    uric acid elevated ,384.0
+    given Rasburicase ,384.0
+    transferred to ICU ,384.0
+    intubation ,384.0
+    hypoxic respiratory failure ,384.0
+    volume overload ,384.0
+    vasopressor support ,384.0
+    septic shock ,384.0
+    CRRT initiated ,384.0
+    blood cultures grew Group B streptococcus ,384.0
+    urine positive for E. coli ,384.0
+    continued piperacillin-tazobactam ,384.0
+    remained dependant on CRRT ,384.0
+    no improvement in haemodynamic state ,384.0
+    no improvement in respiratory status ,384.0
+    developed fungemia ,384.0
+    clinical deterioration ,384.0
+    opted for comfort care ,384.0
+    life support withdrawn ,384.0
+    passed away ,384.0
+    autopsy ,384.0
+    intramural uterine malignant neoplasm ,384.0
+    extensive necrosis ,384.0
+    undifferentiated endometrial stromal sarcoma ,384.0
+    metastatic involvement ,384.0
+    marked autolytic changes ,384.0
+    granular casts ,384.0
+"Alright, I need to extract clinical events and assign timestamps from this case report. The main admission event is at time 0, and events before admission have negative times, while those after are positive. Let me go through the report step by step.",
+"First, the patient is a 71-year-old woman with hypertension. Her initial presentation to the emergency department was with increasing dyspnea and a 3-month history of malaise, anorexia, fatigue, and weight loss. The 3-month history translates to about 2160 hours (since 3 months is roughly 90 days, 90*24 = 2160). Since this is a history before the admission, the timestamp should be negative. So dyspnea on exertion, malaise, anorexia, fatigue, and weight loss would be at -2160 hours. However, when she presented to the ED, that event is before admission, so the timestamp for presenting to ED needs to be calculated. She was discharged after initial admission and then readmitted later. Wait, the timeline is a bit confusing. Let me parse each section carefully.",
+"2.1 Initial Presentation: She presented to the ED with increasing dyspnea and a 3-month history of other symptoms. She was found to have atrial fibrillation and heart failure, referred to internal medicine. During admission, imaging showed adnexal masses, etc., suspected ovarian cancer. After stabilization, she was discharged with follow-up.",
+"2.2 Outpatient Clinic Visit: Five days after discharge, she was assessed at the clinic (so 5 days after discharge, but discharge was after the initial admission. Wait, the initial admission and discharge are at time 0? Or is the first admission the time 0? Let me clarify. The main admission event is the initial presentation? Or the readmission? ",
+The case report structure: ,
+- Initial presentation: She was admitted to the hospital (time 0). Then discharged. ,
+"Five days after discharge, she went to the clinic. Then, eleven days after the first clinic visit, she received chemotherapy. ",
+"Then, four days after chemotherapy, she was readmitted. So the readmission is the event with timestamp 0? Or is the initial admission the timestamp 0?",
+"Wait, according to the instructions: The admission event has timestamp 0. If the event is not available, we treat the main diagnosis or treatment at time 0. But in this case, there are multiple admissions. The main admission related to the TLS seems to be the readmission after chemotherapy. But the initial presentation admission is another event.",
+"But according to the problem statement: ""If the event is not available, we treat the event, e.g. current main clinical diagnosis or treatment with timestamp 0."" So in this case, the main events leading to TLS would be during the readmission, so perhaps the readmission is the timestamp 0.",
+"Wait, the case report is divided into sections:",
+"2.1 Initial presentation: admitted, then discharged.",
+"2.2 Outpatient clinic: five days after discharge, clinic visit. Then 11 days after clinic visit, chemo.",
+"2.3 Re-admission: four days after chemo, presented to ED, admitted. This is probably the main admission for TLS, so timestamp 0.",
+"So for the readmission, that's the main admission (timestamp 0). The events before that would have negative timestamps, and events after would be positive.",
+"So the initial presentation admission is a prior event, which would have a negative timestamp relative to the readmission.",
+"But according to the user's instruction: ""The admission event has timestamp 0. If the event is not available, we treat the event, e.g. current main clinical diagnosis or treatment with timestamp 0."" So if there are multiple admissions, perhaps the main one related to the case's focus (TLS) is timestamp 0.",
+"So in this case, the readmission after chemotherapy is the main admission (timestamp 0). Therefore, events before that would be negative.",
+So:,
+"- Initial presentation to ED: this was during the first admission, which was before the readmission. So time would be negative.",
+But how much time elapsed between the initial presentation and the readmission?,
+Looking at the timeline:,
+"Initial presentation: admitted, discharged.",
+"Five days after discharge, outpatient clinic visit.",
+"Eleven days after clinic visit, first chemo.",
+"Four days after chemo, readmission.",
+So the timeline in days:,
+Initial admission: day 0.,
+"Discharged: say day X (exact time not given, but after stabilization).",
+Five days after discharge: clinic visit (day X +5).,
+Eleven days after clinic visit: chemo (day X +5 +11 = day X +16).,
+Four days after chemo: readmission (day X +16 +4 = day X +20).,
+"But since the exact time from initial admission to discharge isn't given, we can't calculate the exact hours. However, we need to approximate based on the given info.",
+"Wait, perhaps for the purpose of this task, the main admission (readmission) is timestamp 0. So all events leading up to that are negative, and events after are positive.",
+So:,
+"Initial presentation to ED: this was prior to readmission, so timestamp negative.",
+But how much time before readmission? Let's calculate:,
+"From initial presentation to discharge: time in hospital not specified, but after discharge, five days later she went to clinic. Then 11 days later chemo, then four days after chemo readmission.",
+"So total time from initial discharge to readmission: 5 + 11 + 4 = 20 days = 480 hours. But the initial presentation and discharge happened before that. So the initial admission would be 480 hours before the readmission (timestamp -480). But the case report says during the initial admission, the imaging was done, so those events would be at -480 hours.",
+"But perhaps the initial admission is considered a separate event, but according to the instructions, the admission event (which is the main one related to the case's focus, the TLS) is timestamp 0. So the readmission is timestamp 0.",
+"Therefore, the initial presentation and first admission occurred 20 days before the readmission. So those events would be at -480 hours.",
+"But the case report states that during the initial admission, abdominal and pelvic ultrasound was done, CT scan, etc. Those would be at -480 hours.",
+"Then, discharged home, which would be a few days after the initial admission, but exact time not specified. Then five days after discharge is the clinic visit (so 5 days after discharge). But without knowing discharge time from initial admission, perhaps we can approximate. If initial admission was for, say, 3 days, then discharged on day 3, then clinic visit on day 8 (3 +5), then chemo on day 19 (8 +11), then readmission on day 23 (19 +4). So total time from initial admission to readmission is 23 days, 552 hours. So initial admission events would be at -552 hours.",
+"But the case report does not specify the duration of the initial admission. Therefore, it's challenging to calculate exact hours. The user instructions say if no temporal info, use clinical judgment and approximate based on events.",
+"Alternatively, since the main focus is the TLS during readmission, perhaps all events leading up to the readmission are assigned relative to that.",
+So the readmission is timestamp 0.,
+The events before that:,
+"- Initial presentation to ED with dyspnea and 3-month history of malaise, etc. This was before the initial admission, which was before the readmission. The 3-month history would be 2160 hours before the initial presentation. Then the time between initial presentation and readmission is 20 days (5+11+4) = 480 hours. So the initial presentation to ED was 480 hours before readmission, so timestamp -480. The 3-month history symptoms started 2160 hours before that, so total -480 -2160 = -2640. But according to instructions, events with history should be timestamped as their occurrence time relative to admission. Wait, the user said: ""If the event is not available, please use your knowledge and events with temporal expression before and after the events to provide an approximation.""",
+"Alternatively, the 3-month history of malaise, etc., would have started 3 months before the initial presentation, which itself was 20 days before readmission. So 3 months = 90 days = 2160 hours. The initial presentation was 20 days before readmission (480 hours). So the malaise, anorexia, fatigue, weight loss started 2160 + 480 = 2640 hours before readmission (timestamp -2640). But the case report says ""a 3-month history of malaise, anorexia, fatigue and progressive unintentional weight loss"" when she presented to the ED initially. So the symptoms started 3 months prior to the initial ED presentation, which was 20 days before readmission. Therefore, the symptoms started at -2640 hours.",
+"But perhaps for simplicity, the initial ED presentation is considered at -480 hours, and the 3-month history symptoms are at -2640.",
+"But the user instructions say to use the text span without modifications except for 'history of' where applicable. So the case report says she presented with ""a 3-month history of malaise..."", so the malaise, anorexia, fatigue, weight loss are each events that started 3 months before the initial ED presentation. Since the initial ED presentation was 20 days (480 hours) before readmission (timestamp 0), these symptoms started 480 + 2160 = 2640 hours before readmission (timestamp -2640). But the user wants the timestamp as the start of the time interval. So each of these symptoms (malaise, anorexia, fatigue, weight loss) would be at -2640.",
+"But the case report says she presented to the ED with increasing dyspnea on exertion and a 3-month history of the other symptoms. So the dyspnea on exertion is part of the initial presentation (timestamp -480), while the other symptoms started earlier (-2640).",
+"Wait, but the dyspnea on exertion is part of why she presented to the ED initially. So the dyspnea would have started around the time of the ED presentation, which was -480 hours. The other symptoms (malaise, etc.) started 3 months earlier.",
+So:,
+- dyspnea on exertion ,-480.0
+9malaise ,-2640.0
+- anorexia ,-2640.0
+: fatigue ,-2640.0
+- unintentional weight loss ,-2640.0
+"Then, during the initial admission (which happened after the ED presentation), she was found to have atrial fibrillation and heart failure. That would be during the initial admission, which lasted some days, but since the exact time isn't given, we can assign atrial fibrillation and heart failure to the initial admission time, which is -480 hours. Or is the initial admission another timestamp?",
+"Wait, the initial presentation led to admission (timestamp -480), during which atrial fibrillation and heart failure were diagnosed. So atrial fibrillation and heart failure would be at -480.",
+"Then, during that admission, abdominal and pelvic ultrasound were done, showing adnexal masses, etc. Those events are during the initial admission, so timestamp -480.",
+"Then she was discharged, which would be a few days later (but exact time not specified). The discharge is part of the initial admission, so timestamp perhaps a few days after -480, but without exact time, we might consider it as the end of the initial admission, but since the focus is on the readmission, perhaps all events during the initial admission are at -480.",
+"After discharge, she had urgent follow-up.",
+"Then, five days after discharge, she went to the gynecology-oncology clinic. Five days is 120 hours. Since discharge was at the end of the initial admission (which was at -480), the clinic visit would be at -480 + 120 = -360 hours? But wait, the readmission is at 0, so the time from clinic visit to readmission is 5 days (clinic) + 11 days until chemo + 4 days until readmission = 20 days. So clinic visit is 20 days before readmission? Wait, perhaps the timeline is:",
+"- Initial admission: day 0 (timestamp -480, 20 days before readmission)",
+"@Discharged: let's say day 3 (duration of initial admission not specified, but assuming a few days). Then five days after discharge is day 8 (5 days after day 3 is day 8). Then 11 days after clinic visit is day 19 (8 +11), chemo on day 19. Then four days after chemo is day 23, readmission on day 23. So relative to readmission (day 23), the clinic visit was 15 days before (23 -8 = 15 days = 360 hours). So clinic visit is at -360 hours.",
+"But the case report says ""five days following discharge"" she was assessed at the clinic. So discharge is after initial admission. If discharge was day X, then clinic visit is X +5. But without knowing X, perhaps we need to approximate.",
+"Alternatively, given that the time between initial discharge and readmission is 5 (clinic) +11 (chemo) +4 (readmission) = 20 days, so 480 hours. So the clinic visit is 20 -5 =15 days before readmission, 360 hours. So clinic visit at -360.",
+"But this is getting complicated. Since the case report doesn't specify the exact duration of the initial admission, perhaps it's better to assign relative timestamps based on the described intervals.",
+So:,
+- Readmission (2.3) is at timestamp 0.,
+"Four days after chemotherapy (2.2), which was administered eleven days after the first clinic visit (which was five days after discharge from initial admission). So:",
+- First clinic visit: five days after discharge from initial admission.,
+- Chemotherapy: eleven days after clinic visit.,
+@Readmission: four days after chemotherapy.,
+So from clinic visit to readmission: 11 +4 =15 days = 360 hours.,
+So clinic visit is -360 hours.,
+"Chemotherapy is 11 days after clinic visit: 11*24=264 hours after clinic visit, which is -360 +264 = -96 hours.",
+"But since the chemotherapy was given at a subsequent clinic visit eleven days after the first, the chemo is at -96 hours.",
+Then readmission is four days (96 hours) after chemo: -96 +96 =0.,
+So the timeline:,
+- Readmission: 0.,
+- Chemotherapy: -96.,
+A clinic visit: -360.,
+But how long after initial discharge was the clinic visit? Five days. So initial discharge was five days before clinic visit. Initial discharge would be at -360 -5 days = -360 -120 = -480 hours.,
+"Initial admission duration: the time from initial presentation to discharge is not specified, but if we assume the initial admission lasted, say, 3 days, then initial presentation (ED visit) was at -480 -3 days = -480 -72 = -552 hours. But this is speculative.",
+"Alternatively, perhaps the key is to assign the readmission as 0 and calculate all events relative to that.",
+So:,
+- Readmission (2.3) at 0.,
+- Chemotherapy was four days before readmission: -96 hours.,
+- First chemo was eleven days after clinic visit: so clinic visit was 11 days before chemo: -96 -264 = -360 hours.,
+- Clinic visit was five days after discharge from initial admission: discharge was five days before clinic visit: -360 -120 = -480 hours.,
+"- Initial admission lasted from ED presentation to discharge: let's say the initial admission was 3 days, so ED presentation was 3 days before discharge: -480 -72 = -552 hours.",
+"But the case report doesn't specify the duration of the initial admission. Therefore, without exact times, it's challenging. The user instructions allow approximation using clinical judgment.",
+"Therefore, for the purpose of this task, perhaps the key events are:",
+- Readmission (2.3) at 0.,
+- Chemotherapy four days prior: -96 hours.,
+- Clinic visit eleven days before chemo: -264 hours (11 days = 264 hours).,
+- Clinic visit five days after discharge from initial,

@@ -1,0 +1,118 @@
+53 years old | 0  
+    male | 0  
+    admitted to the emergency department | 0  
+    progressive fatigue | -2928  
+    pain | -168  
+    weakness of legs | -168  
+    diclofenac use | -168  
+    no fever | 0  
+    no weight loss | 0  
+    no night sweats | 0  
+    spastic paraparesis | 0  
+    sensitive level at T8 | 0  
+    pale | 0  
+    gingival hemorrhage | 0  
+    ecchymosis of left thigh | 0  
+    hepatomegaly | 0  
+    spinal MRI showing posterolateral extradural mass from T6 through T8 | 0  
+    anemia (hemoglobin 10.6 g/dL) | 0  
+    thrombocytopenia (12 x 10^9/L) | 0  
+    WBC count 7.5 x 10^9/L | 0  
+    absolute promyelocyte count 4.8 | 0  
+    absolute blast count 1.3 | 0  
+    fibrinogen 1.04 g/L | 0  
+    INR 1.86 | 0  
+    normal partial thromboplastin time | 0  
+    normal electrolytes | 0  
+    normal hepatic function | 0  
+    normal renal function | 0  
+    uric acid 588 µmol/L | 0  
+    lactate dehydrogenase 712 UI/L | 0  
+    bone marrow biopsy showing hypercellularity with massive infiltration of promyelocytes | 0  
+    PCR positive for PML-RARα gene | 0  
+    cytogenetic t(15;17)(q22q21) | 0  
+    ATRA therapy initiated | 0  
+    daunorubicin initiated | 0  
+    ATRA syndrome | 24  
+    dexamethasone use | 24  
+    febrile neutropenia | 24  
+    ceftazidime use | 24  
+    amikacin use | 24  
+    deterioration in leg weakness | 72  
+    loss of bladder sphincter control | 72  
+    radiotherapy attempted | 96  
+    no clinical improvement | 96  
+    nephrotic syndrome | 120  
+    ATRA interruption | 120  
+    hematological remission of APL | 144  
+    persistence of extradural mass | 144  
+    respiratory distress | 168  
+    hypotension | 168  
+    shock | 168  
+    pneumonia diagnosed | 168  
+    vancomycin use | 168  
+    imipenem use | 168  
+    ventilation support | 168  
+    sepsis | 168  
+    death | 192  
+    no recovery from neurologic deficit | 192  
+    
+    53 years old | 0  
+    male | 0  
+    admitted to the emergency department | 0  
+    progressive fatigue | -2928  
+    pain | -168  
+    weakness of legs | -168  
+    diclofenac use | -168  
+    no fever | 0  
+    no weight loss | 0  
+    no night sweats | 0  
+    spastic paraparesis | 0  
+    sensitive level at T8 | 0  
+    pale | 0  
+    gingival hemorrhage | 0  
+    ecchymosis of left thigh | 0  
+    hepatomegaly | 0  
+    spinal MRI showing posterolateral extradural mass from T6 through T8 | 0  
+    anemia (hemoglobin 10.6 g/dL) | 0  
+    thrombocytopenia (12 x 10^9/L) | 0  
+    WBC count 7.5 x 10^9/L | 0  
+    absolute promyelocyte count 4.8 | 0  
+    absolute blast count 1.3 | 0  
+    fibrinogen 1.04 g/L | 0  
+    INR 1.86 | 0  
+    normal partial thromboplastin time | 0  
+    normal electrolytes | 0  
+    normal hepatic function | 0  
+    normal renal function | 0  
+    uric acid 588 µmol/L | 0  
+    lactate dehydrogenase 712 UI/L | 0  
+    bone marrow biopsy showing hypercellularity with massive infiltration of promyelocytes | 0  
+    PCR positive for PML-RARα gene | 0  
+    cytogenetic t(15;17)(q22q21) | 0  
+    ATRA therapy initiated | 0  
+    daunorubicin initiated | 0  
+    ATRA syndrome | 24  
+    dexamethasone use | 24  
+    febrile neutropenia | 24  
+    ceftazidime use | 24  
+    amikacin use | 24  
+    deterioration in leg weakness | 72  
+    loss of bladder sphincter control | 72  
+    radiotherapy attempted | 96  
+    no clinical improvement | 96  
+    nephrotic syndrome | 120  
+    ATRA interruption | 120  
+    hematological remission of APL | 144  
+    persistence of extradural mass | 144  
+    respiratory distress | 168  
+    hypotension | 168  
+    shock | 168  
+    pneumonia diagnosed | 168  
+    vancomycin use | 168  
+    imipenem use | 168  
+    ventilation support | 168  
+    sepsis | 168  
+    death | 192  
+    no recovery from neurologic deficit | 192  
+    

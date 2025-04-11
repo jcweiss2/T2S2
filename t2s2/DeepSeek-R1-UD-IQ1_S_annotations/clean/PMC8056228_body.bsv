@@ -1,0 +1,89 @@
+27 years old | 0
+woman | 0
+Mayer Rokitansky Syndrome (Mullerian agenesis) | 0
+underwent sigmoid neovaginoplasty | -78768
+lower abdominal pain | -336
+bilateral pelvic pain | -336
+denied routinely irrigating or dilating her neovagina | 0
+had penetrative sexual intercourse every couple of weeks with her husband | 0
+had not had intercourse in a few months | -336
+CT imaging of the abdomen demonstrated tubular, heterogenous, fluid-filled structure | 0
+outpatient referral to the gynecologist arranged | 0
+abdominal pain acutely worsened over the next 24 hours | 24
+presented to the local Emergency Department (ED) with diaphoresis | 24
+significant distress due to pain | 24
+vitals were unremarkable on presentation | 24
+complete blood count (CBC) revealed leukocytosis of 15.6 k/mm3 | 24
+absolute neutrophils of 9.8 k/mm3 | 24
+repeat abdominal CT demonstrated increasing inflammatory process in the pelvis | 48
+received empiric intravenous (IV) piperacillin-tazobactam | 24
+transferred emergently to our children's hospital | 24
+hypotensive (blood pressure BP 87/54 mmHg) | 24
+tachycardic (heart rate HR 150 s/minute) | 24
+afebrile (temperature 98.4 °F) | 24
+tachypneic (respiratory rate 31 s/minute) | 24
+oxygen saturation of 95 % on room air | 24
+received four IV fluid boluses | 24
+antimicrobials changed to IV ceftriaxone, IV vancomycin, IV metronidazole | 24
+taken emergently to the operative room (OR) | 24
+exploratory laparotomy | 24
+cystoscopy | 24
+vaginoscopy | 24
+normal bladder | 24
+normal urethra | 24
+entirely obliterated introitus | 24
+diffuse intra-abdominal spillage of the mucus | 24
+perforated sigmoid neovagina | 24
+one liter of purulent fluid drained | 24
+three intrabdominal drains placed | 24
+remained intubated requiring mechanical ventilation | 24
+in septic shock requiring three vasopressor agents | 24
+antimicrobials transitioned to IV cefepime, IV vancomycin, IV metronidazole | 24
+blood cultures remained negative | 24
+peritoneal culture growing gram-negative rods | 24
+peritoneal cultures finalized to Bacterioides thetaioaomicron, Bacteroides caccae, Actinomyces species | 168
+antimicrobials changed to IV piperacillin-tazobactam | 168
+weaned off vasopressors | 192
+extubated | 192
+transferred to the general floor | 288
+Infectious Diseases team consulted | 288
+additional susceptibilities requested | 288
+discharged home | 360
+abdominal wound vacuum | 360
+IV piperacillin-tazobactam for four weeks | 360
+plan for close follow-up | 360
+generalized malaise two weeks post-discharge | 720
+diffuse abdominal pain two weeks post-discharge | 720
+readmitted with sepsis | 720
+white blood count 13.2 k/cmm3 | 720
+absolute neutrophil count 9.5 k/cmm3 | 720
+d-dimer >5000 ng/mL DDU | 720
+lactate 0.9 mmol/L | 720
+CT of the chest, abdomen and pelvis showed bilateral pleural effusions | 720
+loculated left pleural effusion | 720
+multiple new abdominal abscesses | 720
+largest next to the liver (15.6 cm) | 720
+transcutaneous drainage catheter in pelvis | 720
+open anterior midline wound with wound vacuum | 720
+hypoxemia | 720
+transferred to the intensive care unit (ICU) | 720
+IV piperacillin-tazobactam continued | 720
+placement of a right perihepatic drain | 720
+aspiration of 20 mL of purulence | 720
+unsuccessful drainage of peri-splenic collection | 720
+blood cultures remained negative | 720
+interventional radiology reconsulted | 720
+drained 350 mL of pus from the right perinephric abscess | 720
+drained 90 mL of pus from her perisplenic abscess | 720
+broad-spectrum PCR sent on the drained fluid | 720
+improved clinically | 720
+antimicrobials narrowed to IV ampicillin-sulbactam | 768
+discharged | 768
+susceptibilities from the original surgical cultures | 768
+broad spectrum PCR positive for Gleimia europaea, Alistipes onderdonkil, Varibaculum timonense, Jonquetella anthropi | 768
+followed up at the adult infectious diseases clinic | 1056
+continued on ampicillin-sulbactam | 1056
+plans to reimage on day 60 | 1440
+repeat CT abdomen demonstrated decreased size of right and left sub-phrenic abscesses | 1440
+transitioned from IV ampicillin-sulbactam to oral amoxicillin-clavulanate | 1440
+complete resolution of the abscesses | 1440

@@ -1,0 +1,76 @@
+57 years old | 0
+male | 0
+hypertension | 0
+hepatitis C | 0
+Crohn’s disease | 0
+Prinzmetal angina | 0
+recurrent chest pain | 0
+single episode of fever | 0
+general malaise | 0
+diarrhea | 0
+Crohn’s disease treatments | 0
+infliximab started recently | -336
+azathioprine | 0
+exposure to animals harboring Salmonella species | 0
+ongoing alcohol abuse | 0
+ongoing tobacco abuse | 0
+remote history of cocaine abuse | 0
+substernal chest pain three weeks prior to admission | -504
+coronary angiography three weeks prior to admission | -504
+recurrence of substernal chest pain | 0
+CT scan of the chest | 0
+large pericardial effusion | 0
+transferred to our facility | 0
+blood pressure of 90/60 mmHg | 0
+temperature of 36.8 °C | 0
+tachycardia | 0
+respiratory rate of 26 breaths per minute | 0
+dehydration | 0
+leukocytosis | 0
+left shift | 0
+negative troponin level | 0
+transthoracic echocardiogram | 0
+cardiac tamponade physiology | 0
+cardiothoracic consultation | 0
+pericardial window | 0
+drainage of 500 mL purulent fluid | 0
+pericardial fluid culture grew nontyphoid Salmonella enterica | 0
+stool specimen culture grew nontyphoid Salmonella enterica | 0
+blood cultures | 0
+vancomycin initiated | 0
+piperacillin/tazobactam initiated | 0
+de-escalated to ceftriaxone | 0
+intensive care unit admission | 0
+general medical ward transfer | 240
+recurrence of fevers up to 40 °C | 240
+no hemodynamic instability | 240
+negative investigations for other fever causes | 240
+negative nosocomial infection | 240
+fever resolved | 240
+clearance of infliximab | 0
+reconstitution of the immune system | 0
+last dose of infliximab two weeks prior to admission | -336
+completion of four weeks of ceftriaxone | 672
+eight-week follow-up | 1344
+asymptomatic at follow-up | 1344
+purulent pericarditis | 0
+cardiac tamponade | 0
+nontyphoid Salmonella infection | 0
+risk factors for Salmonella infection | 0
+immunosuppression due to infliximab and azathioprine | 0
+rural community residence | 0
+poultry farming exposure | 0
+alcohol abuse | 0
+tobacco abuse | 0
+cocaine abuse history | 0
+chest pain recurrence | 0
+pericardial effusion identified | 0
+tamponade physiology identified | 0
+pericardial drainage performed | 0
+Salmonella pericarditis | 0
+infliximab immune suppression | 0
+masked systemic symptoms | 0
+robust inflammatory response | 240
+resolved over three weeks | 672
+antimicrobial therapy completed | 672
+survival | 1344

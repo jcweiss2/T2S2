@@ -1,0 +1,102 @@
+77 years old | 0
+    woman | 0
+    menopause at 52 years | -21672
+    adenocarcinoma | -672
+    endometrial cytology | -672
+    MRI revealed primary malignant tumor in uterine cervix | -672
+    small amount of fluid accumulation in uterine cavity | -672
+    cervical biopsy | -672
+    Stage IIB cervical cancer (FIGO 2018) | -672
+    CCRT with cisplatin | -672
+    whole-pelvis irradiation | -672
+    brachytherapy | -672
+    MRI before brachytherapy | -168
+    primary tumor shrunk | -168
+    fluid retention in uterine cavity increasing | -168
+    first brachytherapy | -72
+    no signs of infection | -72
+    WBC 1400/µL | -72
+    neutrophils 868/µL | -72
+    lymphocytes 448/µL | -72
+    CRP 0.41 mg/dL | -72
+    fifth cycle of cisplatin administered | -48
+    two days after fifth cisplatin administration | 0
+    three days after brachytherapy | 0
+    fever 38.8°C | 0
+    malaise | 0
+    confirmed negative for COVID-19 | 0
+    discharged from outpatient clinic | 0
+    following day | 24
+    emergency department visit | 24
+    decreased consciousness | 24
+    worsening general condition | 24
+    fever 37.9°C | 24
+    GCS score 13 points | 24
+    WBC 2300/µL | 24
+    neutrophils 2254/µL | 24
+    lymphocytes 56/µL | 24
+    CRP 1.39 mg/dL | 24
+    CT imaging showed extensive pyometra | 24
+    small inflammation of small intestine | 24
+    consciousness level worsened to GCS 7 points | 24
+    left conjugate eye deviation | 24
+    suspected right paralysis | 24
+    no nuchal rigidity | 24
+    head CT | 24
+    MRI showed subacute cerebral infarction in left occipital lobe | 24
+    transcervical drainage performed | 24
+    intrauterine purulent material reddish-yellow | 24
+    suspected sepsis | 24
+    intravenous meropenem administered | 24
+    general condition continued to worsen | 24
+    respiratory condition became unstable | 24
+    frequent seizures | 24
+    tracheal intubation performed | 24
+    anti-epileptic levetiracetam administered | 24
+    third day after hospitalization | 72
+    L. monocytogenes detected in pyometra material | 72
+    L. monocytogenes detected in blood culture | 72
+    ampicillin initiated | 72
+    gentamicin initiated | 72
+    lumbar puncture performed | 72
+    CSF pressure 18 cmH2O | 72
+    CSF sunshine dust | 72
+    CSF polynuclear cell count 1157/µL | 72
+    CSF total protein 455 mg/dL | 72
+    FilmArray detected L. monocytogenes | 72
+    FilmArray detected cytomegalovirus | 72
+    diagnosed with L. monocytogenes meningitis | 72
+    intravenous ampicillin continued | 72
+    intravenous gentamicin continued | 72
+    ganciclovir initiated | 72
+    vital signs improved | 576
+    blood test results improved | 576
+    moved to general bed | 576
+    four months after first admission | 2928
+    spontaneous eye opening | 2928
+    consciousness stable (GCS 8 points) | 2928
+    pyometra exacerbation during CCRT | 0
+    sepsis | 24
+    meningitis | 72
+    uterine perforation | 0
+    peritonitis | 0
+    septic shock | 0
+    no abdominal pain | 24
+    no intra-abdominal free space on CT | 24
+    grade 2 leukopenia | -72
+    grade 3 neutropenia | -72
+    grade 4 lymphopenia | -72
+    brachytherapy under immunosuppression | -72
+    L. monocytogenes intrauterine infection | 72
+    hematogenous spread | 72
+    applicators inserted into uterine cavity | -72
+    L. monocytogenes meningitis high-risk factors | 0
+    meropenem initiated | 24
+    vancomycin initiated | 24
+    appropriate antibiotics selected | 72
+    fever | 0
+    deterioration of general condition | 24
+    consciousness deterioration | 24
+    differential diagnosis of meningitis | 72
+    immediate diagnostic tests performed | 72
+    written informed consent obtained | 0

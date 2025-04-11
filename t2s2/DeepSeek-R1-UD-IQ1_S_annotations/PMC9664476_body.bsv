@@ -1,0 +1,245 @@
+48 years old | 0
+    female | 0
+    Roux-en-Y gastric bypass | -18240 (assuming 5 years prior, 18240 hours ago)
+    Crohn's disease | -18240
+    rheumatoid arthritis | -18240
+    atrial fibrillation | -18240
+    anticoagulation | -18240
+    septic ascending cholangitis | -72 (assuming 3 days prior to admission)
+    laparoscopic cholecystectomy | -24 (assuming 1 day prior to admission)
+    endoscopic retrograde cholangiopancreatography (ERCP) | -24
+    admitted to intensive care unit | 0
+    acute tubular necrosis | 0
+    temporary dialysis | 0
+    atrial fibrillation with rapid ventricular response | 0
+    spontaneous rectus sheath hematoma | 0
+    intravenous heparin | 0
+    cessation of anticoagulation | 24 (after admission)
+    blood transfusions | 24
+    embolization of right inferior epigastric artery | 24
+    hematoma perforated right lateral wall of bladder | 24
+    bladder injury not recognized | 24
+    gross hematuria | 24
+    pain | 24
+    leaking around Foley catheter | 24
+    hematoma induced bladder spasms | 24
+    persistent lower urinary tract symptoms | 2160 (3 months later, 2160 hours)
+    urgency | 2160
+    frequency | 2160
+    dysuria | 2160
+    gross hematuria | 2160
+    cystoscopy | 2160
+    large friable right sided bladder mass | 2160
+    biopsy | 2160
+    necrotic debris | 2160
+    rare reactive urothelium | 2160
+    referred to institution | 2160
+    Magnetic resonance urography (MRU) | 2160
+    hematoma decreased in size from 15cm to 10cm | 2160
+    perforating through right lateral wall of bladder | 2160
+    transurethral resection (TUR) | 2160
+    large, smooth, homogeneous bladder mass | 2160
+    resection to bladder mucosa | 2160
+    clot extending through bladder wall defect | 2160
+    bladder diverticulum | 2160
+    pathology negative for malignancy | 2160
+    worsening urgency | 2160 + 1344 (8 weeks later, 1344 hours) = 3504
+    terminal voiding pain | 3504
+    repeat MRU | 3504
+    further extrusion of hematoma within bladder lumen | 3504
+    discussion of management options | 3504
+    repeat TUR | 3504
+    large organized hematoma protruding from 4 cm cavity | 3504
+    extensive resection | 3504
+    entering right lateral wall cavity | 3504
+    amputating base of hematoma stalk | 3504
+    visualized healed epithelium | 3504
+    complete resolution of irritative voiding symptoms | 3504
+    MRU 13 weeks after second TUR | 3504 + 2184 (13 weeks, 2184 hours) = 5688
+    hematoma evacuated | 5688
+    bladder sacculation | 5688
+    residual hematoma 3.7 cm | 5688
+    episode of gross hematuria | 5688 + 8760 (2 years later, 8760 hours) = 14448
+    UTI | 14448
+    CT urogram | 14448
+    thickening right lateral bladder | 14448
+    tethering to pelvic sidewall | 14448
+    cystoscopy | 14448
+    persistent right lateral diverticulum | 14448
+    well healed epithelium | 14448
+
+    48 years old | 0
+    female | 0
+    Roux-en-Y gastric bypass | -18240
+    Crohn's disease | -18240
+    rheumatoid arthritis | -18240
+    atrial fibrillation | -18240
+    anticoagulation | -18240
+    septic ascending cholangitis | -72
+    laparoscopic cholecystectomy | -24
+    endoscopic retrograde cholangiopancreatography (ERCP) | -24
+    admitted to intensive care unit | 0
+    acute tubular necrosis | 0
+    temporary dialysis | 0
+    atrial fibrillation with rapid ventricular response |5
+    spontaneous rectus sheath hematoma |0
+    intravenous heparin |0
+    cessation of anticoagulation |24
+    blood transfusions |24
+    embolization of right inferior epigastric artery |24
+    hematoma perforated right lateral wall of bladder |24
+    bladder injury not recognized |24
+    gross hematuria |24
+    pain |24
+    leaking around Foley catheter |24
+    hematoma induced bladder spasms |24
+    persistent lower urinary tract symptoms |2160
+    urgency |2160
+    frequency |2160
+    dysuria |2160
+    gross hematuria |2160
+    cystoscopy |2160
+    large friable right sided bladder mass |2160
+    biopsy |2160
+    necrotic debris |2160
+    rare reactive urothelium |2160
+    referred to institution |2160
+    Magnetic resonance urography (MRU) |2160
+    hematoma decreased in size from 15cm to 10cm |2160
+    perforating through right lateral wall of bladder |2160
+    transurethral resection (TUR) |2160
+    large, smooth, homogeneous bladder mass |2160
+    resection to bladder mucosa |2160
+    clot extending through bladder wall defect |2160
+    bladder diverticulum |2160
+    pathology negative for malignancy |2160
+    worsening urgency |3504
+    terminal voiding pain |3504
+    repeat MRU |3504
+    further extrusion of hematoma within bladder lumen |3504
+    discussion of management options |3504
+    repeat TUR |3504
+    large organized hematoma protruding from 4 cm cavity |3504
+    extensive resection |3504
+    entering right lateral wall cavity |3504
+    amputating base of hematoma stalk |3504
+    visualized healed epithelium |3504
+    complete resolution of irritative voiding symptoms |3504
+    MRU 13 weeks after second TUR |5688
+    hematoma evacuated |5688
+    bladder sacculation |5688
+    residual hematoma 3.7 cm |5688
+    episode of gross hematuria |14448
+    UTI |14448
+    CT urogram |14448
+    thickening right lateral bladder |14448
+    tethering to pelvic sidewall |14448
+    cystoscopy |14448
+    persistent right lateral diverticulum |14448
+    well healed epithelium |14448
+
+Okay, so I need to process this case report and extract clinical events along with their timestamps. The main admission event is at timestamp 0. Events before admission have negative times, and those after have positive times. If there's no explicit time info, I need to use context or my medical knowledge to approximate.
+
+First, let's read through the case report again. The patient is a 48-year-old female with several medical issues: Roux-en-Y gastric bypass, Crohn's disease, rheumatoid arthritis, atrial fibrillation on anticoagulation. She became critically ill with septic ascending cholangitis. Initial management included laparoscopic cholecystectomy and ERCP, then ICU admission. Complications included acute tubular necrosis needing dialysis, atrial fibrillation with rapid response, spontaneous rectus sheath hematoma on heparin. Despite stopping anticoagulation, she needed transfusions and embolization of the right inferior epigastric artery. The hematoma perforated the bladder but wasn't recognized initially. Later, she had lower urinary symptoms, leading to cystoscopy showing a mass. After procedures, she had various follow-ups and another hematuria episode with UTI two years later.
+
+Now, breaking down events and their timestamps. The admission to ICU is time 0. Events before that would be negative.
+
+- Roux-en-Y gastric bypass, Crohn's, rheumatoid arthritis, atrial fibrillation, anticoagulation: these are historical, so I need to assign a time. The case mentions "remote" for the gastric bypass. Assuming remote means several years prior, perhaps 5 years (18240 hours), so timestamp -18240. The other conditions are chronic, so they'd be at the same time.
+- Septic ascending cholangitis: she became critically ill with this. Since she was admitted after initial management (lap choley and ERCP), the cholangitis likely started a few days before admission. Assuming 3 days prior (-72 hours).
+? Lap choley and ERCP were done before ICU admission. So those events are -24 hours (1 day before admission).
+- Admission to ICU: 0.
+- Complications during hospitalization: acute tubular necrosis, temporary dialysis, atrial fibrillation with rapid response, spontaneous rectus sheath hematoma, heparin use—all at 0.
+- Cessation of anticoagulation: after admission, so +24 hours.
+C Blood transfusions and embolization: also +24.
+- Hematoma perforating bladder: happened while in hospital, so after admission. The case says "at some point"—so maybe same day as embolization? Assign +24.
+- Bladder injury not recognized: same time.
+- Gross hematuria, pain, leaking Foley, spasms: also +24.
+
+Then months later, persistent lower urinary symptoms: three months later (2160 hours). Cystoscopy, biopsy, MRU, TUR all at +2160.
+
+After first TUR, symptoms worsen 8 weeks later (3504). Repeat MRU, TUR, etc., at +3504.
+
+Second TUR, then MRU 13 weeks later (5688).
+
+Two years later (14448 hours), another hematuria with UTI, CT urogram, cystoscopy—all at +14448.
+
+Wait, some events might have different durations. For example, the initial hospitalization had the hematoma perforating, which was not recognized. Then months later, the lower urinary symptoms. The exact timeline from initial hospitalization to referral to the institution is three months after hemorrhage. The initial hemorrhage event is during the first hospitalization, which is at +24 hours (embolization). So three months after that is 2160 hours.
+
+So, the persistent lower urinary symptoms start at 2160. Then MRU three months after hemorrhage (so 2160). The first TUR is at 2160. Then after that, 8 weeks later (3504), repeat MRU and TUR. Then 13 weeks after second TUR (5688), MRU shows evacuation. Two years later (14448) another episode.
+
+Need to ensure all events are captured and timestamps assigned correctly. Also, separating conjunctive phrases into components. For example, "urgency/frequency" becomes two events. Also include pertinent negatives if mentioned, but the case doesn't have many.
+
+So the final table should list all events with their timestamps, each on a separate line with '|' separating event and time. Make sure chronic conditions are assigned to remote times, and acute events are placed relative to admission (time 0).
+
+I think I have all events now. Let me list them step by step.
+</think>
+
+48 years old | 0  
+female | 0  
+Roux-en-Y gastric bypass | -18240  
+Crohn's disease | -18240  
+rheumatoid arthritis | -18240  
+atrial fibrillation | -18240  
+anticoagulation | -18240  
+septic ascending cholangitis | -72  
+laparoscopic cholecystectomy | -24  
+endoscopic retrograde cholangiopancreatography (ERCP) | -24  
+admitted to intensive care unit | 0  
+acute tubular necrosis | 0  
+temporary dialysis | 0  
+atrial fibrillation with rapid ventricular response | 0  
+spontaneous rectus sheath hematoma | 0  
+intravenous heparin | 0  
+cessation of anticoagulation | 24  
+blood transfusions | 24  
+embolization of right inferior epigastric artery | 24  
+hematoma perforated right lateral wall of bladder | 24  
+bladder injury not recognized | 24  
+gross hematuria | 24  
+pain | 24  
+leaking around Foley catheter | 24  
+hematoma induced bladder spasms | 24  
+persistent lower urinary tract symptoms | 2160  
+urgency | 2160  
+frequency | 2160  
+dysuria | 2160  
+gross hematuria | 2160  
+cystoscopy | 2160  
+large friable right sided bladder mass | 2160  
+biopsy | 2160  
+necrotic debris | 2160  
+rare reactive urothelium | 2160  
+referred to institution | 2160  
+Magnetic resonance urography (MRU) | 2160  
+hematoma decreased in size from 15cm to 10cm | 2160  
+perforating through right lateral wall of bladder | 2160  
+transurethral resection (TUR) | 2160  
+large, smooth, homogeneous bladder mass | 2160  
+resection to bladder mucosa | 2160  
+clot extending through bladder wall defect | 2160  
+bladder diverticulum | 2160  
+pathology negative for malignancy | 2160  
+worsening urgency | 3504  
+terminal voiding pain | 3504  
+repeat MRU | 3504  
+further extrusion of hematoma within bladder lumen | 3504  
+discussion of management options | 3504  
+repeat TUR | 3504  
+large organized hematoma protruding from 4 cm cavity | 3504  
+extensive resection | 3504  
+entering right lateral wall cavity | 3504  
+amputating base of hematoma stalk | 3504  
+visualized healed epithelium | 3504  
+complete resolution of irritative voiding symptoms | 3504  
+MRU 13 weeks after second TUR | 5688  
+hematoma evacuated | 5688  
+bladder sacculation | 5688  
+residual hematoma 3.7 cm | 5688  
+episode of gross hematuria | 14448  
+UTI | 14448  
+CT urogram | 14448  
+thickening right lateral bladder | 14448  
+tethering to pelvic sidewall | 14448  
+cystoscopy | 14448  
+persistent right lateral diverticulum | 14448  
+well healed epithelium | 14448

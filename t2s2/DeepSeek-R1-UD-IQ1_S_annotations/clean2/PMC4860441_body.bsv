@@ -1,0 +1,65 @@
+21 years old | 0
+male | 0
+diagnosed with MNGIE | -17520
+energy loss | -17520
+foot-drop | -17520
+difficulty swallowing | -17520
+weight loss | -17520
+duodenojejunostomy operation | -8760
+SMA syndrome | -8760
+central venous catheterization (CVC) | -8760
+TPN initiated | -8760
+CVC changed 4 times | -8760
+last catheterization | -8760
+catheter inserted | -672
+catheter composition | -672
+admitted to hospital | 0
+fever | 0
+palpitation | 0
+body temperature 38.5° | 0
+blood pressure 120/77 mmHg | 0
+pulse 157 beats/min | 0
+elevated sedimentation | 0
+elevated CRP | 0
+MRSA growth in blood cultures | 0
+catheter-related infection | 0
+catheter removal decision | 0
+echocardiography | 0
+thrombus visualized | 0
+heparin treatment | 0
+antibiotic treatment | 0
+prothrombin time 12.9 second | 0
+INR 1.1 | 0
+platelet count 380.000/mm3 | 0
+open heart surgery | 24
+ECG monitoring | 24
+SpO2 monitoring | 24
+invasive arterial catheterization | 24
+systemic arterial pressure 120/80 mmHg | 24
+heart rate 130/min | 24
+SpO2 97% | 24
+anesthesia induction | 24
+intubation | 24
+central venous catheterization to right femoral vein | 24
+extracorporeal circulation | 24
+thrombus removed | 24
+hemodynamic stability | 24
+neurologic stability | 24
+extracorporeal circulation duration 40 minutes | 24
+operation duration 150 minutes | 24
+hemoglobin 10.9 g/dl | 24
+hemoglobin decreased to 7.1 g/dl | 24
+blood transfusion | 24
+RBC given | 24
+FFP given | 24
+moved to ICU | 72
+extubated | 72
+transported to Cardiovascular Surgery Department | 72
+catheter culture sterile | 72
+pathology report consistent with infected thrombus | 72
+refused permanent catheter insertion | 72
+discharged | 72
+recommendation for enteral nutrition | 72
+supportive peripheral nutrition | 72
+regression of sedimentation | 72
+regression of CRP | 72

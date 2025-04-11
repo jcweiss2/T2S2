@@ -1,0 +1,174 @@
+6 years old | 0
+    girl | 0
+    102 cm tall | 0
+    weighing 17 kg | 0
+    chronic intestinal pseudo-obstruction | 0
+    scheduled for multivisceral organ transplantation | 0
+    visited a hospital for abdominal distention | -34560
+    diagnosed with gastric volvulus | -34560
+    diagnosed with congenital megacolon | -34560
+    underwent gastropexy | -34560
+    underwent segmental resection of the transverse colon | -34560
+    symptoms did not improve | -17520
+    referred to our center | -17520
+    underwent transverse colostomy | -17520
+    repeatedly hospitalized | -17520
+    maintained on total parenteral nutrition | -17520
+    continuously recurring mechanical ileus | -17520
+    malnutrition | -17520
+    electrolyte imbalance | -17520
+    admitted due to abdominal distension | -1440
+    admitted due to malfunctioning colostomy | -1440
+    colostomy function normalized | -1344
+    received conservative medical care | -1344
+    including total parenteral nutrition | -1344
+    scheduled for multivisceral organ transplantation | 0
+    liver transplantation | 0
+    spleen transplantation | 0
+    stomach transplantation | 0
+    duodenum transplantation | 0
+    small bowel transplantation | 0
+    colon transplantation | 0
+    pancreas transplantation | 0
+    cadaveric donor | 0
+    5-year-old female | 0
+    110 cm tall | 0
+    weighed 21 kg | 0
+    brain death due to increased intracranial pressure | 0
+    medulloblastoma | 0
+    preservation solution used | 0
+    histidine-tryptophan-ketoglutarate solution | 0
+    ischemic time 170 min | 0
+    intraoperative gross finding of grafts showed no significant abnormality | 0
+    recipient not premedicated | 0
+    arrived at operating room | 0
+    blood pressure 120/64 mmHg | 0
+    heart rate 120 beats/min | 0
+    oxygen saturation 100% | 0
+    hemoglobin 9.4 g/dl | 0
+    Na+ 142 mmol/L | 0
+    K+ 3.7 mmol/L | 0
+    creatinine 0.34 mg/dl | 0
+    AST 43 IU/L | 0
+    ALT 35 IU/L | 0
+    total bilirubin 0.5 mg/dl | 0
+    albumin 4.4 g/dl | 0
+    prothrombin time 1.00 INR | 0
+    anesthesia induced | 0
+    pentothal sodium 75 mg | 0
+    rocuronium 15 mg | 0
+    fentanyl 50 µg | 0
+    tracheal intubation | 0
+    anesthesia maintained | 0
+    sevoflurane 1% | 0
+    oxygen 50% | 0
+    continuous fentanyl infusion 100 µg/h | 0
+    vecuronium 2 mg/h | 0
+    brachial artery cannulated | 0
+    central venous catheter inserted into right internal jugular vein | 0
+    central venous catheter inserted into subclavian vein | 0
+    femoral venous pressure monitored | 0
+    mean arterial blood pressure 86 mmHg | -600
+    heart rate 90 bpm | -600
+    central venous pressure 4 mmHg | -600
+    femoral venous pressure 16 mmHg | -600
+    body temperature 36.7℃ | -600
+    pH 7.32 | -600
+    base excess -9.5 mEq/L | -600
+    arterial lactate concentration 5.6 mmol/L | -600
+    Na+ 142 mmol/L | -600
+    K+ 2.5 mmol/L | -600
+    Ca2+ 0.83 mmol/L | -600
+    hemoglobin 10.8 g/dl | -600
+    blood glucose 98 mg/dl | -600
+    injected 20 mEq NaHCO3 | -600
+    graft reperfusion performed | 0
+    MAP decreased to 39 mmHg | 0
+    femoral venous pressure decreased to 4 mmHg | 0
+    central venous pressure maintained around 4 mmHg | 0
+    PRS definition met | 0
+    administered 5 µg epinephrine | 0
+    MAP 44 mmHg | 0
+    repeated injections of 10 µg epinephrine | 0
+    volume replacement required | 0
+    hypotension sustained over 10 minutes | 0
+    averaged arterial pressure 38 mmHg | 0
+    arterial blood gas analysis | 0
+    pH 7.09 | 0
+    base excess -17.9 mEq/L | 0
+    arterial lactate concentration 8.5 mmol/L | 0
+    K+ 4.8 mmol/L | 0
+    Ca2+ 0.84 mmol/L | 0
+    glucose 114 mg/dl | 0
+    hemoglobin 8.5 g/dl | 0
+    injected 30 mEq NaHCO3 | 0
+    injected 10 µg epinephrine | 0
+    body temperature decreased to 33.4℃ | 0
+    hypothermia sustained for 30 min | 0
+    nadir body temperature 33.0℃ | 0
+    active warming with air warmer | 0
+    continuous infusion of norepinephrine 0.1 µg/kg/min | 0
+    body temperature increased to 35.7℃ | 0
+    metabolic acidosis sustained | 0
+    pH 7.23 | 0
+    base excess -10.0 mEq/L | 0
+    administered NaHCO3 | 0
+    infused 2,900 ml fluid | 0
+    balanced crystalloid solution 1,500 ml | 0
+    half-normal saline 100 ml | 0
+    5% dextrose water 300 ml | 0
+    5% albumin 1,000 ml | 0
+    packed red blood cells 2 units | 0
+    transferred to intensive care unit | 216
+    AST 2,108 IU/L | 216
+    ALT 2,351 IU/L | 216
+    AST 7,300 IU/L | 360
+    ALT 6,400 IU/L | 360
+    continuous infusion of fresh frozen plasma | 216
+    prothrombin time prolonged | 216
+    total bilirubin increased to 3.4 mg/dl | 216
+    diagnosed with primary hepatic graft failure | 432
+    scheduled for re-transplantation of liver | 432
+    adult to child living donor liver transplantation | 432
+    vital signs stable | 432
+    MAP 70C80 mmHg | 432
+    pH 7.49 | 432
+    base excess -0.1 mEq/L | 432
+    arterial lactate concentration 3.8 mmol/L | 432
+    Na+ 137 mmol/L | 432
+    K+ 3.3 mmol/L | 432
+    Ca2+ 0.97 mmol/L | 432
+    hemoglobin 8.2 g/dl | 432
+    blood glucose 170 mg/dl | 432
+    reperfusion performed | 432
+    PRS developed | 432
+    injected 4 µg epinephrine | 432
+    injected 20 µg phenylephrine | 432
+    MAP maintained | 432
+    arterial lactate concentration 3.1 mmol/L | 432
+    pH 7.44 | 432
+    base excess -2.2 mEq/L | 432
+    Na+ 138 mmol/L | 432
+    K+ 2.9 mmol/L | 432
+    Ca2+ 1.00 mmol/L | 432
+    hemoglobin 6.8 g/dl | 432
+    transfused packed red blood cells 1 unit | 432
+    vital signs remained stable | 432
+    hemoglobin 11.9 g/dl | 432
+    AST 453 IU/L | 432
+    ALT 695 IU/L | 432
+    total bilirubin 3.6 mg/dl | 432
+    creatinine 0.6 mg/dl | 432
+    albumin 2.9 g/dl | 432
+    prothrombin time 1.74 INR | 432
+    AST decreased | 648
+    ALT decreased | 648
+    AST 69 IU/L | 1008
+    ALT 150 IU/L | 1008
+    total bilirubin 1.4 mg/dl | 1008
+    prothrombin time 1.07 INR | 1008
+    feeding through gastrostomy tube started | 1008
+    managed conservatively for 3 months | 3336
+    50 day stay in intensive care unit | 3336
+    discharged 139 days after transplantation | 3336
+    

@@ -1,0 +1,70 @@
+66 years old | 0  
+    male | 0  
+    coronary syndrome | 0  
+    dual platelet antiaggregant therapy | 0  
+    chronic kidney failure | 0  
+    arterial hypertension | 0  
+    gout arthritis | 0  
+    obesity | 0  
+    hyperlipidemia | 0  
+    necrotizing pancreatitis | -174240  
+    open necrosectomy | -174240  
+    incisional hernia | -174240  
+    synthetic mesh repair | -174240  
+    hypovolemic shock | -48  
+    gastrointestinal bleeding | -48  
+    abdominal wound | -48  
+    mesh exposition | -48  
+    cloudy discharge | -48  
+    high output enterocutaneous fistula | -48  
+    oral intake suppression | -48  
+    subatmospheric pressure device | -48  
+    periodical changes | -48  
+    parenteral nutrition | -48  
+    somatostatin analogous | -48  
+    fistula bleeding | -48  
+    infection | -48  
+    intensive care unit admission | -48  
+    blood transfusions | -48  
+    antibiotics | -48  
+    antifungal management | -48  
+    recurrent bleeding | -48  
+    septic episodes | -48  
+    severe peritoneal adherence syndrome | 0  
+    computed tomography imaging | 0  
+    laparoscopic access | 0  
+    peritoneal adhesion lysis | 0  
+    paramedian laparotomy | 0  
+    parietectomy | 0  
+    en-bloc resection of small bowel | 0  
+    enteric anastomosis | 0  
+    mechanical sutures | 0  
+    absorbable sutures | 0  
+    open abdomen | 0  
+    subatmospheric pressure device placement | 0  
+    clinical deterioration | 48  
+    higher respiratory support | 48  
+    hemodynamic support | 48  
+    cloudy abdominal drainage | 48  
+    anastomosis dehiscence | 48  
+    anastomosis resection | 48  
+    deferred enteric anastomosis | 48  
+    nasogastric tube | 48  
+    septic shock | 96  
+    necrotizing fasciitis | 96  
+    debridement | 96  
+    respiratory deterioration | 120  
+    hemodynamic deterioration | 120  
+    death | 120  
+    squamous cell carcinoma diagnosis | -48  
+    keratinizing squamous cell carcinoma | -48  
+    infiltrating squamous cell carcinoma | -48  
+    giant cell squamous cell carcinoma | -48  
+    moderate differentiation | -48  
+    low differentiation | -48  
+    skin depth involvement | -48  
+    subcutaneous cellular tissue involvement | -48  
+    intestinal wall involvement | -48  
+    negative resection margins | -48  
+    keloid scarring | -48  
+    foreign body reactions | -48  

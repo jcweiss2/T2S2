@@ -1,0 +1,161 @@
+20 years old | 0
+female | 0
+presented with pharyngitis | -336
+evaluated via telemedicine | -336
+prescribed azithromycin | -336
+exposure to group A beta-hemolytic streptococcus | -336
+exposure to Epstein-Barr virus | -336
+traveled to Florida | -672
+attended social events | -672
+stayed in college dormitory | -672
+returned home from Florida | -504
+presents to emergency room | 0
+persistent fever | -120
+cough | -120
+swollen glands | -120
+worsening sore throat | -120
+shortness of breath | -120
+increased work of breathing | -120
+rash on left wrist | -120
+scleral icterus | -120
+bright blurry vision | -120
+ER vitals: afebrile at 98.4 °F | 0
+O2 saturation 93% | 0
+blood pressure 98/67 | 0
+respiratory rate 40 | 0
+heart rate 116 | 0
+physical exam: erythema of posterior pharynx | 0
+mild exudate | 0
+anterior cervical lymphadenopathy | 0
+neck stiffness | 0
+decreased breath sounds at bases bilaterally | 0
+dullness on percussion of left lung | 0
+diffuse abdominal tenderness | 0
+admitted at outside hospital | 0
+diagnosis of respiratory distress | 0
+possible sepsis | 0
+pharyngitis | 0
+blood culture | 0
+four negative COVID-19 PCR tests | 0
+white blood cell count of 3.9 thousand/ul | 0
+absolute neutrophil count >2000 | 0
+C-reactive protein 30.75 mg/dL | 0
+ferritin >1600 ng/mL | 0
+procalcitonin 100 ng/mL | 0
+chest x-ray | 0
+CT scan of chest | 0
+bilateral cavitary pneumonia | 0
+left pleural effusion | 0
+no pulmonary emboli | 0
+HIV negative | 0
+urine legionella negative | 0
+urine streptococcus antigen negative | 0
+CMV PCR negative | 0
+EBV IgM negative | 0
+EBV IgG positive | 0
+throat culture negative | 0
+acid-fast bacillus sputum negative | 0
+mycoplasma pneumonia IgM negative | 0
+Rickettsia rickettsia serology negative | 0
+started on doxycycline | 0
+started on ceftriaxone | 0
+transferred to BMSCH PICU | 0
+admission vitals: afebrile at 99.0 °F | 0
+pulse 100 bpm | 0
+BP 111/55 | 0
+RR 31 bpm | 0
+SpO2 95% | 0
+physical exam: mild acute respiratory distress | 0
+tachypnea with suprasternal retractions | 0
+rashes along ulnar side of left hand | 0
+swelling | 0
+tenderness | 0
+diminished breath sounds at lung bases | 0
+no wheezes | 0
+no rales | 0
+no rhonchi | 0
+placed on high-flow nasal cannula | 0
+blood culture growing gram-negative rods | 0
+started on vancomycin | 0
+started on cefepime | 0
+added metronidazole | 0
+suspected LS | 0
+repeat CT scan on day three | 72
+bilateral multifocal necrotizing pneumonia | 72
+pleural effusions with loculations | 72
+cavitary abscess | 72
+left empyema | 72
+mediastinal lymphadenopathy | 72
+CT of neck showed right palatine tonsil abscess | 72
+thyroid abscess | 72
+no thrombi of bilateral internal jugular veins | 72
+attempted bedside drainage | 72
+unsuccessful | 72
+daily chest radiographs showed worsening pneumonia | 72
+Fusobacterium nucleatum identified on day six | 144
+cefepime changed to ceftriaxone | 144
+vancomycin continued | 144
+metronidazole continued | 144
+left wrist pain migrated to entire left hand | 144
+left arm pain | 144
+limited mobility of left shoulder | 144
+platelets decreased to 11,000 | 144
+plasma transfusions | 144
+platelet transfusions | 144
+initial echocardiogram: fractional shortening 38.5% | 144
+ejection fraction 60% | 144
+placed on SIMV | 144
+worsening respiratory distress | 144
+septic shock | 144
+requiring inotropes | 144
+worsening pneumonia | 144
+left pleurocentesis | 144
+video-assisted bilateral thoracoscopic surgery | 144
+insertion of bilateral chest tubes | 144
+tubes drained 950 mL pleural fluid | 144
+pleural fluid purulent | 144
+LDH 2786 IU/L | 144
+glucose <5 mg/dL | 144
+protein 1.5 g/dL | 144
+red blood cell count 46,906 | 144
+total nucleated cells 6156 | 144
+polysegmented neutrophils 81% | 144
+lymphocytes 8% | 144
+monocytes 4% | 144
+histiocytes 7% | 144
+surgical pathology: left pleura-fibrinopurulent exudate | 144
+negative cytology for malignancy | 144
+repeat pleural fluid cultures negative | 144
+weaned to HFLNC | 144
+procalcitonin trended down | 648
+C-reactive protein trended down | 648
+hemodynamic status improved | 648
+additional chest tubes placed | 648
+total chest tube drainage 7702 mL | 648
+repeat echocardiogram: tissue near tricuspid valve | 648
+small pericardial effusion | 648
+no vegetation | 648
+prolonged hospitalization for fevers | 648
+oxygen dependence | 648
+pain in left scapular area | 648
+limited range of left shoulder motion | 648
+MR of left upper extremity | 648
+musculoskeletal edema | 648
+proximal humeral osteomyelitis | 648
+T12 vertebral body emphysematous osteomyelitis | 648
+bilateral duplex venous ultrasounds negative | 648
+duplex ultrasound of carotids unremarkable | 648
+consulted multiple specialists | 648
+diagnosis of Lemierre's syndrome | 0
+septic shock | 0
+bilateral necrotizing pneumonia | 0
+lung abscesses | 0
+osteomyelitis | 0
+pericardial effusion | 0
+bilateral pleural effusions | 0
+multi-organ abscesses | 0
+no jugular vein thrombophlebitis | 0
+continued antibiotics | 0
+chest tube drainage | 0
+surgical interventions | 0
+discharged | pending

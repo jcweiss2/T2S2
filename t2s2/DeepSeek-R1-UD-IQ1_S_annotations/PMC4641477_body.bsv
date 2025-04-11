@@ -1,0 +1,72 @@
+26 years old|0
+    male|0
+    admitted to the local hospital|0
+    kidney transplant|-134352
+    end-stage kidney disease|-134352
+    immunosuppression|0
+    mycophenolate sodium 720 mg bid|0
+    methylprednisolone 4 mg qd|0
+    eGFR 35.9 mL/min/1.73 qm|0
+    proteinuria 117 mg/d|0
+    chronic kidney transplant disease stage 3bA1|0
+    status post vascular rejection|-134352
+    chronic calcineurin-inhibitor toxicity|0
+    contrast-enhancing intracerebral lesions|0
+    perifocal edema|0
+    dexamethasone administration|0
+    transmitted to university department of Nephrology|0
+    transmitted to department of Neurosurgery|0
+    brain biopsy|0
+    cerebral PTLD diagnosis|0
+    diffuse large B-cell lymphoma|0
+    Epstein-Barr virus positive|0
+    no additional manifestations of lymphoma|0
+    high-dose cytarabin|0
+    rituximab 375 mg/qm|0
+    complete remission of PTLD|0
+    eGFR 25.4 mL/min/1.73 qm|0
+    cytomegalovirus reactivation|0
+    pneumocystis jirovecii pneumonia|0
+    rituximab 500 mg/qm|0
+    antiviral therapy|0
+    antibiotic therapy|0
+    mycophenolate sodium 360 mg bid|0
+    generalized seizure|0
+    cerebral MRI recurrence of PTLD|0
+    HDMTX 4 g/m2|0
+    leukovorine 30 mg/m2|0
+    rituximab 500 mg/m2|0
+    vigorous hydration|0
+    high-flux hemodialysis|24
+    MTX-level clearance|24
+    no acute kidney failure|0
+    leucopenia 1.11/nL|240
+    severe CMV pneumonia|312
+    E. coli pneumonia|312
+    sepsis|312
+    acute kidney transplant failure|312
+    invasive ventilation|312
+    discontinuation of mycophenolate sodium|312
+    cerebral radiation|408
+    no relevant response to radiotherapy|408
+    dialysis sessions|24
+    MTX-level measurements|0
+    dialysis parameters|0
+    Gambro machine AK 200|0
+    high-flux dialyser|0
+    unfractionated heparin|0
+    MTX fluorescence polarization immunoassay|0
+    protein bound MTX|0
+    large distribution volume|0
+    successful MTX elimination|0
+    limited hematological toxicity|0
+    CMV reactivation risk|0
+    posttransplant immunosuppressive therapy|0
+    impaired kidney function|0
+    rituximab use|0
+    HDMTX as ultima ratio|0
+    recurrent PTLD|0
+    comorbidities|0
+    aggressive therapy limitations|0
+    dialysis timing|0
+    duration of dialysis|0

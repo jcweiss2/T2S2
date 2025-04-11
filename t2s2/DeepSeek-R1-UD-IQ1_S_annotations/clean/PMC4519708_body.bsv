@@ -1,0 +1,81 @@
+47 years old | 0
+female | 0
+dysuria | -168
+vomiting | -168
+right lower back pain | -168
+altered level of consciousness | -168
+abdominal pain | -168
+urinary disorders | -168
+fever | -168
+loss of appetite | -168
+treated with nitrofurantoin | -168
+soft abdomen | 0
+painless abdomen | 0
+bilateral lung crackles | 0
+normal heart auscultation | 0
+increased urea level | -168
+increased creatinine level | -168
+urine culture showing Proteus mirabilis | 0
+initiated cephalothin | 0
+acute pyelonephritis | 0
+acute renal failure | 0
+dehydration | 0
+admitted to hospital | 0
+clinical worsening | 48
+blood dyscrasia | 48
+mechanical ventilation | 48
+vasopressor use | 48
+transferred to ICU | 48
+replaced antibiotic with piperacillin-tazobactam | 48
+anti-HIV test requested | 48
+dialysis started | 48
+urea increased to 194 mg/dL | 72
+creatinine increased to 6.28 mg/dL | 72
+hemoglobin 10.7 g/dL | 72
+hematocrit 30% | 72
+leukocytes 4.2 × 10^9/L | 72
+erythroblasts 1.05 × 10^9/L | 72
+multiple organ dysfunction | 72
+coagulopathy | 72
+renal failure | 72
+circulatory failure | 72
+pulmonary failure | 72
+petechiae on chest and abdomen | 72
+diffuse bleeding in oral cavity | 72
+oral mucosa lesions | 72
+hemoglobin 6.5 g/dL | 72
+hematocrit 18.6% | 72
+received packed red blood cells | 72
+white blood count changes | 72
+structures suspected as bacteria or fungi | 72
+blood culture negative for bacteria | 72
+presence of yeasts | 72
+anuria | 96
+cyanotic extremities | 96
+refractory shock | 96
+hemoglobin 6.9 g/dL | 96
+hematocrit 20% | 96
+erythroblasts 8.62 × 10^9/L | 96
+leukocytes 0.5 × 10^9/L | 96
+platelets 15.0 × 10^9/L | 96
+platelet-like structures suspected as yeasts | 96
+yeast phagocytized by monocytes | 96
+confirmed presence of yeasts | 96
+budding yeast cells detected | 96
+initiated micafungin | 96
+died | 96
+blood culture confirmed Histoplasma capsulatum | 96
+anti-HIV test positive | 96
+leukopenia | 0
+lymphopenia | 0
+anemia | 0
+elevated transaminase | 0
+elevated LDH | 0
+elevated ferritin | 0
+pancytopenia | 0
+sepsis | 72
+severe anemia | 72
+disseminated histoplasmosis | 96
+HIV infection | 96
+opportunistic mycosis | 96
+AIDS | 96

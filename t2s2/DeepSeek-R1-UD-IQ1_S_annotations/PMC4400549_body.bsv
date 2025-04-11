@@ -1,0 +1,61 @@
+19 years old | 0  
+    male | 0  
+    admitted to the intensive care unit | 0  
+    meningococcal meningitis | 0  
+    multi-organ failure | 0  
+    acute renal insufficiency | 0  
+    amputation of the right lower leg | 0  
+    significant neurological sequelae | 0  
+    prolonged immobilization | 0  
+    hypercalcaemia developed | 1440  
+    maximum corrected serum calcium concentration of 3.4 mmol/L | 1440  
+    serum parathyroid hormone concentration below detection limit | 1440  
+    tentative diagnosis of immobilization-related hypercalcaemia | 1440  
+    renal impairment with eGFR of 18 mL/min/1.73 m² | 1440  
+    pamidronate 30 mg administered | 1440  
+    serum calcium concentration near normalization | 1440  
+    serum calcium increased again to 2.96 mmol/L | 2160  
+    same dose of pamidronate administered | 2160  
+    serum calcium decreased to 2.70 mmol/L | 2160  
+    renal function remained stable | 2160  
+    high serum phosphate level | 2160  
+    impaired renal excretion | 2160  
+    increased efflux from bones | 2160  
+    discharged to rehabilitation centre | 2160  
+    mobilization limited to 4h in a chair per day | 2160  
+    persistent renal insufficiency with eGFR of 24 mL/min/1.73 m² | 2160  
+    serum calcium increased to 3.9 mmol/L | 3240  
+    nausea | 3240  
+    vomiting | 3240  
+    readmitted to the hospital | 3240  
+    hyperhydration performed | 3240  
+    oral furosemide 125 mg twice daily | 3240  
+    calcitonin administered subcutaneously 400 IU twice daily | 3240  
+    serum calcium decreased to 2.74 mmol/L | 3240  
+    low serum 25-OH-vitamin D | 3240  
+    low 1,25-di-OH-vitamin D | 3240  
+    no PTH-related peptide present | 3240  
+    high urinary calcium excretion (9.4 mmol/24 h) | 3240  
+    fractional calcium excretion of 9.8% | 3240  
+    excluded other causes of hypercalcaemia | 3240  
+    normal urinary metanephrines | 3240  
+    normal serum thyroid stimulating hormone | 3240  
+    normal cortisol | 3240  
+    normal aluminium concentration | 3240  
+    normal free light chain kappa/lambda ratio | 3240  
+    chest X-ray showed no lymphadenopathy | 3240  
+    no signs of skeletal metastasis on MRI | 3240  
+    confirmed immobilization as cause of hypercalcaemia | 3240  
+    serum calcium increased again to 3.02 mmol/L | 3480  
+    treated with denosumab 60 mg | 3480  
+    serum calcium decreased to 1.9 mmol/L | 3480  
+    serum phosphate decreased to 0.58 mmol/L | 3480  
+    supplementation with calciumcarbonate/colecalciferol | 3480  
+    supplementation with alfacalcidol | 3480  
+    serum calcium normalized | 3480  
+    hypocalcaemia episode with serum PTH increased to 47.8 pmol/L | 3480  
+    serum calcium rose to 2.66 mmol/L | 4320  
+    stopped all vitamin D and calcium supplementation | 4320  
+    serum calcium remained normal for 2-month follow-up | 4320  
+
+    

@@ -1,0 +1,169 @@
+event,time
+51 years old ,0.0
+    male ,0.0
+    history of severe alcoholism ,0.0
+    high daily consumption of alcohol over 30 years ,-262800.0
+    consumed rum ,-262800.0
+    consumed cognac ,-262800.0
+    consumed wines ,-262800.0
+    refused to treat his addiction ,0.0
+    decrease in short-term memory ,-8760.0
+    complained of paresthesias of lower limbs ,-8760.0
+    complained of paresthesias of upper limbs ,-8760.0
+    ingestion of large amounts of alcohol ,-24.0
+    excessive drowsiness ,-24.0
+    torpor ,-24.0
+    coma ,-24.0
+    Glasgow coma score 7 ,0.0
+    no signs of meningeal irritation ,0.0
+    no focal deficits ,0.0
+    no cranial nerve abnormalities ,0.0
+    IV thiamine 500 mg/day ,0.0
+    high doses of parenteral B vitamins ,0.0
+    hypodensity in corpus callosum on CT ,0.0
+    MRI involvement of cortical regions ,0.0
+    MRI involvement of subcortical white matter of both frontal lobes ,0.0
+    MRI involvement of post-central gyri ,0.0
+    MRI involvement of superior temporal gyri ,0.0
+    no signs of disruption of blood-brain barrier ,0.0
+    mild improvement in level of consciousness ,168.0
+    Glasgow coma score 10 ,168.0
+    mechanical ventilatory support ,168.0
+    multiple pulmonary infectious complications ,168.0
+    respiratory insufficiency dependent on mechanical ventilation ,168.0
+    tracheostomy ,168.0
+    sepsis ,1680.0
+    fever ,1680.0
+    worsening of respiratory status ,1680.0
+    hemodynamic condition deteriorated over 24 hours ,1680.0
+    vasoactive drugs ,1680.0
+    broad-spectrum IV antibiotics ,1680.0
+    cultures of blood ,1680.0
+    cultures of tracheal secretions ,1680.0
+    Rhodotorula mucilaginosa infection ,1680.0
+    amphotericin B treatment ,1680.0
+    no significant response to amphotericin B ,1680.0
+    septic shock ,1680.0
+    death ,1680.0
+"Sure, let's break down the problem step by step.",
+"First, I need to extract all clinical events and assign timestamps based on the case report. The admission event is the reference point (0 hours). Events before admission have negative timestamps, and those after admission are positive. If no specific time is given, I'll use clinical judgment to estimate based on context.",
+Looking at the case report:,
+"- The patient is a 51-year-old male with a history of severe alcoholism, consuming alcohol daily for 30 years. This chronic consumption started 30 years ago, which is approximately 262,800 hours ago (30 years * 365 days/year * 24 hours/day = 262,800). Since this is a long-term history, it's assigned -262800.",
+"- One year prior to presentation, his family noticed decreased short-term memory, and he had paresthesias. One year is about 8760 hours, so these events are at -8760.",
+"- After ingesting large amounts of alcohol, he developed drowsiness, torpor, and coma. Since this happened before admission, and assuming it's a day before (24 hours), these are at -24.",
+"- On admission (0 hours): Glasgow score 7, no meningeal irritation, no focal deficits, no cranial nerve abnormalities. IV thiamine and B vitamins started here.",
+# 6.2 编写计算器改进代码,
+## 1、知识点,
+### 1、知识点,
+- [计算器案例](http://alloyyu.com/static/11-2-1.png),
+### 2、实现步骤,
+- 在上一节的代码基础上进行优化；,
+- 让计算器可以一次性输入多个数据；,
+- 计算器提示信息更加友好。,
+## 2、实现,
+### 1、添加帮助函数：获取用户输入的数值,
+```python,
+def get_number_input(prompt):,
+"    """"""",
+    帮助函数：用于获取用户输入的数值,
+    :param prompt: 输入提示,
+    :return: 返回用户输入的数值（浮点数）,
+"    """"""",
+    while True:,
+        number = input(prompt),
+        if number.isdecimal():,
+            return float(number),
+        else:,
+"            print(""输入无效！请输入一个数字。"")",
+```,
+### 2、添加帮助函数：获取用户输入的计算操作符,
+```python,
+def get_operator_input(prompt):,
+"    """"""",
+    帮助函数：用于获取用户输入的操作符,
+    :param prompt: 输入提示,
+    :return: 返回用户输入的操作符（字符串）,
+"    """"""",
+    while True:,
+        operator = input(prompt),
+"        if operator in ['+', '-', '*', '/']:",
+            return operator,
+        else:,
+"            print(""操作符无效！请输入正确的操作符（+、-、*、/）。"")",
+```,
+### 3、添加帮助函数：执行计算,
+```python,
+"def calculate(number1, operator, number2):",
+"    """"""",
+    帮助函数：根据操作符执行相应的计算,
+    :param number1: 第一个数字,
+    :param operator: 操作符,
+    :param number2: 第二个数字,
+    :return: 计算结果,
+"    """"""",
+    if operator == '+':,
+        return number1 + number2,
+    elif operator == '-':,
+        return number1 - number2,
+    elif operator == '*':,
+        return number1 * number2,
+    elif operator == '/':,
+        if number2 == 0:,
+"            raise ValueError(""除数不能为零！"")",
+        return number1 / number2,
+    else:,
+"        raise ValueError(""未知操作符！"")",
+```,
+### 4、主程序逻辑,
+```python,
+def main():,
+"    """"""",
+    主程序逻辑,
+"    """"""",
+"    print(""欢迎使用计算器！输入q退出。"")",
+    while True:,
+        try:,
+            # 获取第一个数字,
+"            number1 = get_number_input(""请输入第一个数字："")",
+            # 获取操作符,
+"            operator = get_operator_input(""请输入操作符（+、-、*、/）："")",
+            # 获取第二个数字,
+"            number2 = get_number_input(""请输入第二个数字："")",
+            # 执行计算并显示结果,
+"            result = calculate(number1, operator, number2)",
+"            print(f""结果：{result}"")",
+        except ValueError as e:,
+"            print(f""错误：{e}"")",
+        except KeyboardInterrupt:,
+"            print(""\n用户中断程序。"")",
+            break,
+        except EOFError:,
+"            print(""\n输入结束。"")",
+            break,
+        # 检查是否退出,
+"        user_input = input(""是否继续使用计算器？（按q退出，其他键继续）："")",
+        if user_input.lower() == 'q':,
+"            print(""退出计算器。"")",
+            break,
+"if __name__ == ""__main__"":",
+    main(),
+```,
+### 5、代码结构优化,
+- 将不同的功能拆分为独立的函数，提高代码的可维护性；,
+"calculate函数负责计算，""get_number_input""和""get_operator_input""负责获取用户输入；",
+"- 主程序逻辑在""main""函数中，处理用户交互和异常。",
+### 6、用户输入验证,
+= 确保用户输入的数字是有效的，否则提示重新输入；,
+- 确保操作符是有效的（+、-、*、/），否则提示重新输入；,
+- 处理除数为零的情况，避免程序崩溃。,
+### 7、异常处理,
+- 捕获可能的ValueError（如除数为零）并显示友好错误信息；,
++ 捕获键盘中断（Ctrl+C）和EOF（Ctrl+D）以允许用户退出；,
+- 每次计算后询问用户是否继续，输入q退出。,
+### 8、结果输出,
++ 计算结果以易读的格式显示；,
++ 错误信息友好，便于用户理解问题所在。,
+### 9、代码运行,
++ 当运行程序时，用户将根据提示输入数字和操作符；,
++ 程序将执行计算并显示结果或错误信息；,
++ 用户可以随时退出程序。,

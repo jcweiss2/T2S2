@@ -1,0 +1,76 @@
+event,time
+21 years old ,0
+    female ,0
+    non-obese ,0
+    no co-morbid illness ,0
+    referred to ICU ,0
+    high grade fever ,-192
+    chills ,-192
+    respiratory distress ,-144
+    altered sensorium ,-48
+    intubated ,-48
+    mechanical ventilation ,-48
+    received mechanical ventilation for 48 hours ,-48
+    referred in state of shock ,0
+    vasopressors infusions ,0
+    dopamine through peripheral line ,0
+    edematous peripheries ,0
+    right upper limb swelling ,0
+"    leukocytopenia (2,400/cmm) ",0
+"    thrombocytopenia (20,000/cmm) ",0
+    normal prothrombin time ,0
+    normal activated partial thromboplastin time ,0
+    normal thrombin time ,0
+    normal fibrinogen levels ,0
+    neck ultrasonography ,0
+    non-compressible right IJV ,0
+    absence of venous flow in right IJV ,0
+    right IJV thrombus ,0
+    left IJV compressible ,0
+    left SCV patent ,0
+    central line inserted in left SCV ,0
+    radiologists confirmed right IJV thrombus ,0
+    thrombus extension towards right SCV ,0
+    normal lower limb Doppler study ,0
+    mild tricuspid regurgitation ,0
+    ejection fraction <55% ,0
+    mild dilatation of main pulmonary arteries ,0
+    thoracic CT angiography ,0
+    left distal pulmonary artery thrombosis ,0
+    started unfractionated heparin ,0
+    target APTT 2-2.5 times normal ,0
+    APC-R demonstrated ,0
+    homozygous Factor V Leiden mutation ,0
+    started warfarin 5 mg ,0
+    target INR 2-2.5 ,0
+    achieved target INR in 5 days ,120
+    heparin stopped ,120
+    warfarin continued ,120
+    fluids management ,0
+    sedation ,0
+    vasopressors ,0
+    broad spectrum antibiotics ,0
+    enteral nutrition ,0
+    mechanical ventilation ,0
+    Dengue IgM ELISA positive ,0
+    hemodynamic status improved ,168
+    weaned off ventilator ,168
+    shock recovered ,168
+    thrombophilia testing ,168
+    right upper limb swelling regressed ,168
+    right IJV and SCV thrombus persisted ,168
+    partial recanalization in follow-up USG ,168
+    discharged ,168
+    oral warfarin treatment ,168
+    under follow-up ,168
+    family members tested negative for Factor V Leiden mutation ,168
+    spontaneous central vein thrombosis ,0
+    APC-R ,0
+    homozygous Factor V Leiden mutation ,0
+    pulmonary artery thrombosis ,0
+    right IJV and SCV thrombosis ,0
+    dengue infection mediated endothelial injury ,0
+    dengue virus sepsis syndrome ,0
+    venous thromboembolism ,0
+    anticoagulation therapy ,120
+    duration of anticoagulation 6 months ,168

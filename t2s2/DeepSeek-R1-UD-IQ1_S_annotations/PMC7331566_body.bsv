@@ -1,0 +1,81 @@
+89 years old | 0
+    male | 0
+    admitted to the ICU | -336
+    chronic obstructive pulmonary disease (COPD) | -432
+    nocturnal oxygen therapy | -432
+    hospitalized | -384
+    COPD exacerbation | -384
+    condition improved | -336
+    new-onset fever | -264
+    hypoxemia | -264
+    bilateral lung infiltrates | -264
+    RT-PCR positive for SARS-CoV-2 | -264
+    treated with hydroxychloroquine | -264
+    treated with azithromycin | -264
+    intubated | 0
+    worsening hypoxemia | 0
+    sedated | 0
+    mechanically ventilated | 0
+    tidal volume of 6.5 ml/kg | 0
+    rate of 20 breaths per minute | 0
+    PEEP of 8cmH2O | 0
+    unremarkable physical examination | 0
+    hemodynamically stable | 0
+    PaO2/FiO2 of 110 | 0
+    respiratory system compliance 35 ml/cmH2O | 0
+    airway resistance 18cmH2O/L/sec | 0
+    intrinsic PEEP of 2cmH2O | 0
+    CVP of 12 mmHg | 0
+    ScvO2 of 76 % | 0
+    incomplete RBBB on ECG | 0
+    chest X-ray signs of emphysema | 0
+    chest X-ray bilateral infiltrates | 0
+    mild leukocytosis | 0
+    low lymphocyte count (800/μL) | 0
+    elevated C-reactive protein (24.77 mg/dL) | 0
+    elevated ferritin (2279 ng/mL) | 0
+    elevated interleukin-6 (52 pg/mL) | 0
+    elevated d-dimer levels (1.65 μg/mL) | 0
+    negative lower respiratory specimen panel | 0
+    negative urinary antigen testing for Legionella pneumophila | 0
+    negative urinary antigen testing for Streptococcus pneumoniae | 0
+    acute circulatory collapse | 24
+    non-responding to fluid resuscitation | 24
+    non-responding to high dose vasopressors | 24
+    CVP of 18 mmHg | 24
+    ScvO2 of 58 % | 24
+    cardiogenic or obstructive shock | 24
+    infero-lateral ST elevation on ECG | 24
+    elevated high sensitive cardiac troponin I (35 pg/mL) | 24
+    anterior pericardial effusion | 24
+    right ventricular diastolic collapse | 24
+    mitral valve inflow variation of 30 % | 24
+    normal left ventricular systolic function | 24
+    LVEF of 60 % | 24
+    echo-guided pericardiocentesis | 24
+    aspiration of 200 mL serous fluid | 24
+    hemodynamic improvement | 24
+    pericardial drainage maintained | 24
+    total fluid drained 240 mL | 24
+    pericardial fluid negative Gram stain | 24
+    negative acid-fast bacilli smear | 24
+    no growth on bacterial cultures | 24
+    no growth on fungal cultures | 24
+    negative molecular testing for Mycobacterium tuberculosis | 24
+    negative RT-PCR for SARS-CoV-2 in pericardial fluid | 24
+    negative fluid cytology for malignant cells | 24
+    normal thyroid function tests | 24
+    negative serologic tests for Coxsackievirus | 24
+    negative serologic tests for Echovirus | 24
+    negative serologic tests for hepatitis viruses | 24
+    negative serologic tests for cytomegalovirus | 24
+    negative serologic tests for HIV | 24
+    negative serologic tests for autoantibodies | 24
+    treatment with colchicine started | 24
+    weaned off vasopressors | 24
+    no recurrence of pericardial effusion | 24
+    septic shock | 144
+    multi-organ failure | 144
+    multi-drug resistant Acinetobacter baumanii | 144
+    died | 144
+    

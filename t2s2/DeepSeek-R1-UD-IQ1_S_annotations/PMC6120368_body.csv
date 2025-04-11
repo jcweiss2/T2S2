@@ -1,0 +1,167 @@
+event,time
+23 years old ,0.0
+    woman ,0.0
+    referred to medical high-dependency unit ,0.0
+    hypogastric pain ,-168.0
+    vomiting ,-168.0
+    suicide attempt 7 years ago ,-1344.0
+    expressive aphasia ,0.0
+    vertigo ,0.0
+    unsteady gait ,0.0
+    severe metabolic acidosis ,0.0
+    hyperlactataemia ,0.0
+    brain computed tomography ,0.0
+    lumbar puncture ,0.0
+    treated with 680 mmol i.v. bicarbonate ,0.0
+    infusions ,0.0
+    antipyretics ,0.0
+    pyrexia ,0.0
+    toxicology screening showed ethylene glycol traces ,0.0
+    glycolic acid in urine ,0.0
+    immediate therapy with i.v. ethanol ,0.0
+    lost consciousness ,16.0
+    developed convulsions ,16.0
+    intubated ,16.0
+    admitted to intensive care unit ,16.0
+    aspiration pneumonia ,16.0
+    sepsis ,16.0
+    renal failure ,16.0
+    ethylene glycol poisoning confirmed ,16.0
+    treatment included antibiotics for pneumonia ,16.0
+    continuous haemodiafiltration ,16.0
+    CRRT with bicarbonate-buffered solutions ,16.0
+    citrate-calcium module ,16.0
+    estimated citrate level 4.0–4.7 mmol/L ,16.0
+    improvement of consciousness ,168.0
+    extubation attempt on day 7 ,168.0
+    failed extubation on day 8 due to sputum retention ,192.0
+    reintubation ,192.0
+    dilatation tracheostomy on day 12 ,288.0
+    required two revisions due to bleeding ,288.0
+    referred to tertiary hospital on day 16 ,384.0
+    intractable metabolic alkalosis ,384.0
+    two organ failures ,384.0
+    bleeding from tracheostomy ,384.0
+    initial bronchoscopy ,384.0
+    eliminated atelectasis ,384.0
+    secured open bronchial tree ,384.0
+    microbiology specimens ,384.0
+    ceasing antibiotics after 5 days (day 21) ,504.0
+    echocardiography showed reduced ejection fraction ,504.0
+    thrombus in right internal jugular vein ,504.0
+    chest X-ray showed infiltration of right lower lobe ,504.0
+    metabolic alkalosis on admission to tertiary centre ,384.0
+    hypernatraemia ,384.0
+    urea 37 mmol/L ,384.0
+    serum creatinine 422 μmol/L ,384.0
+    total to ionised calcium ratio 2.42 ,384.0
+    total plasma protein 107.7 g/L ,384.0
+    electrophoresis performed ,384.0
+    immunoassay on free light chains on day 21 ,504.0
+    free kappa 170 mg/L ,504.0
+    free lambda 106 mg/L ,504.0
+    kappa/lambda ratio 1.61 ,504.0
+    treated with CRRT ,384.0
+    RCA ,384.0
+    trisodium citrate ,384.0
+    calcium chloride replacement ,384.0
+    calcium-free lactate-buffered solution ,384.0
+    dialysate flow 1.5 L/h ,384.0
+    plasmatic natrium lowered by 10 mmol/L ,408.0
+    dialysate flow increment to 2.2 L/h ,408.0
+    normal acid-base parameters reached on day 20 ,480.0
+    restored consciousness ,480.0
+    weaning of respiratory support ,480.0
+    decannulated on day 22 ,528.0
+    CRRT ceased on day 23 ,552.0
+    diuresis restored ,552.0
+    transferred back to regional hospital ,552.0
+    improving slowly ,552.0
+    discharged home on day 48 ,1152.0
+    no need for renal replacement therapy ,1152.0
+    healed tracheostomy ,1152.0
+    normal renal functions ,1152.0
+    taking care of child ,1152.0
+    23 years old ,0.0
+    woman ,0.0
+    referred to medical high-dependency unit ,0.0
+    hypogastric pain ,-168.0
+    vomiting ,-168.0
+    suicide attempt 7 years ago ,-1344.0
+    expressive aphasia ,0.0
+    vertigo ,0.0
+    unsteady gait ,0.0
+    severe metabolic acidosis ,0.0
+    hyperlactataemia ,7.0
+    brain computed tomography ,0.0
+    lumbar puncture ,0.0
+    treated with 680 mmol i.v. bicarbonate ,0.0
+    infusions ,0.0
+    antipyretics ,0.0
+    pyrexia ,0.0
+    toxicology screening showed ethylene glycol traces ,0.0
+    glycolic acid in urine ,0.0
+    immediate therapy with i.v. ethanol ,0.0
+    lost consciousness ,16.0
+    developed convulsions ,16.0
+    intubated ,16.0
+    admitted to intensive care unit ,16.0
+    aspiration pneumonia ,16.0
+    sepsis ,16.0
+    renal failure ,16.0
+    ethylene glycol poisoning confirmed ,16.0
+    treatment included antibiotics for pneumonia ,16.0
+    continuous haemodiafiltration ,16.0
+    CRRT with bicarbonate-buffered solutions ,16.0
+    citrate-calcium module ,16.0
+    estimated citrate level 4.0–4.7 mmol/L ,16.0
+    improvement of consciousness ,168.0
+    extubation attempt on day 7 ,168.0
+    failed extubation on day 8 due to sputum retention ,192.0
+    reintubation ,192.0
+    dilatation tracheostomy on day 12 ,288.0
+    required two revisions due to bleeding ,288.0
+    referred to tertiary hospital on day 16 ,384.0
+    intractable metabolic alkalosis ,384.0
+    two organ failures ,384.0
+    bleeding from tracheostomy ,384.0
+    initial bronchoscopy ,384.0
+    eliminated atelectasis ,384.0
+    secured open bronchial tree ,384.0
+    microbiology specimens ,384.0
+    ceasing antibiotics after 5 days (day 21) ,504.0
+    echocardiography showed reduced ejection fraction ,504.0
+    thrombus in right internal jugular vein ,504.0
+    chest X-ray showed infiltration of right lower lobe ,504.0
+    metabolic alkalosis on admission to tertiary centre ,384.0
+    hypernatraemia ,384.0
+    urea 37 mmol/L ,384.0
+    serum creatinine 422 μmol/L ,384.0
+    total to ionised calcium ratio 2.42 ,384.0
+    total plasma protein 107.7 g/L ,384.0
+    electrophoresis performed ,384.0
+    immunoassay on free light chains on day 21 ,504.0
+    free kappa 170 mg/L ,504.0
+    free lambda 106 mg/L ,504.0
+    kappa/lambda ratio 1.61 ,504.0
+    treated with CRRT ,384.0
+    RCA ,384.0
+    trisodium citrate ,384.0
+    calcium chloride replacement ,384.0
+    calcium-free lactate-buffered solution ,384.0
+    dialysate flow 1.5 L/h ,384.0
+    plasmatic natrium lowered by 10 mmol/L ,408.0
+    dialysate flow increment to 2.2 L/h ,408.0
+    normal acid-base parameters reached on day 20 ,480.0
+    restored consciousness ,480.0
+    weaning of respiratory support ,480.0
+    decannulated on day 22 ,528.0
+    CRRT ceased on day 23 ,552.0
+    diuresis restored ,552.0
+    transferred back to regional hospital ,552.0
+    improving slowly ,552.0
+    discharged home on day 48 ,1152.0
+    no need for renal replacement therapy ,1152.0
+    healed tracheostomy ,1152.0
+    normal renal functions ,1152.0
+    taking care of child ,1152.0

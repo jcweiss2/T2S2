@@ -1,0 +1,136 @@
+3-year-old | 0
+    female | 0
+    presented to the emergency department | 0
+    fever | 0
+    diarrhea | 0
+    abdominal pain | 0
+    severe dehydration | 0
+    critically ill | 0
+    pediatric intensive care unit admission | 0
+    feverish | 0
+    temperature 39.5°C | 0
+    tachypneic | 0
+    rapid shallow breathing | 0
+    respiratory rate 40 breaths/min | 0
+    hypotensive | 0
+    blood pressure 60/40 mmHg | 0
+    dry tongue | 0
+    sunken eyes | 0
+    poor skin turgor | 0
+    oliguria | 0
+    urine output <1 mL/kg/h | 0
+    pale | 0
+    purpuric eruption | 0
+    no organomegaly | 0
+    no lymphadenopathy | 0
+    pancytopenia | 0
+    absolute neutropenia | 0
+    white blood cells 500/mm3 | 0
+    absolute neutrophil count 200/mm3 | 0
+    hemoglobin 6.4 g/dL | 0
+    platelets 2000/cm3 | 0
+    renal impairment | 0
+    electrolyte imbalance | 0
+    BUN 104 mg/dL | 0
+    creatinine 2.5 mg/dL |4
+    potassium 6.5 mmol/L | 0
+    ph 21.9 mg/dL | 0
+    sodium 128 mmol/L | 0
+    calcium 5.3 mg/dL | 0
+    hyperuricemia | 0
+    uric acid 37 mg/dL | 0
+    coagulopathy | 0
+    disseminated intravascular coagulation | 0
+    prothrombin time 16.3 s | 0
+    partial thromboplastin time 40.1 s | 0
+    D-dimer 17 ng/mL | 0
+    high inflammatory markers | 0
+    CRP 287 mg/L | 0
+    stool culture positive for gram-negative bacilli Escherichia coli | 0
+    blood culture positive for gram-negative bacilli Escherichia coli | 0
+    intravenous fluid therapy | 0
+    blood components transfusion | 0
+    correction of electrolyte disturbance | 0
+    antibiotic therapy | 0
+    acute infectious gastroenteritis | 0
+    sepsis | 0
+    severe dehydration | 0
+    acute renal failure | 0
+    disseminated intravascular coagulation | 0
+    pelvi-abdominal ultrasound normal | 0
+    bone marrow aspirate | 0
+    hypocellular bone marrow | 0
+    no abnormal cells | 0
+    gradual improvement | 0
+    electrolytes normalized | 0
+    renal functions normalized | 0
+    blood indices normalized | 0
+    coagulation parameters normalized | 0
+    inflammatory markers normalized | 0
+    discharged | 336
+    irritability | 672
+    abnormal behavior | 672
+    hallucinations | 672
+    failure to recognize parents | 672
+    vitally stable | 672
+    well hydrated | 672
+    normal hematological indices | 672
+    normal coagulation parameters | 672
+    normal renal panel | 672
+    normal serum electrolytes | 672
+    brain MRI | 672
+    brain MRA | 672
+    brain MRV | 672
+    thrombosis left sigmoid sinus | 672
+    thrombosis left transverse sinus | 672
+    thrombophilia workup | 672
+    no thrombocytosis | 672
+    normal coagulation profile | 672
+    normal protein C | 672
+    normal protein S | 672
+    normal antithrombin III | 672
+    genetic testing for thrombophilia mutations panel | 672
+    pediatric cardiologist assessment | 672
+    electrocardiogram normal | 672
+    echocardiography normal | 672
+    low molecular weight heparin initiated | 672
+    improved | 672
+    discharged on therapeutic dose of LMW heparin | 672
+    follow-up appointment | 672
+    thrombophilia genetic testing results pending | 672
+    readmitted for third time | 1008
+    fever | 1008
+    temperature 39.5°C | 1008
+    pallor | 1008
+    abdominal enlargement | 1008
+    leukocytosis | 1008
+    total leukocytic count 68,000/mcL | 1008
+    anemia | 1008
+    hemoglobin 8.4 g/dL | 1008
+    thrombocytopenia | 1008
+    platelet count 20,000/mcL | 1008
+    blast cells on peripheral smear | 1008
+    hepatosplenomegaly | 1008
+    bone marrow examination | 1008
+    hypercellular bone marrow | 1008
+    96% blast cells | 1008
+    immunophenotyping CD10 positive | 1008
+    immunophenotyping CD20 positive | 1008
+    immunophenotyping CD79a positive | 1008
+    diagnosis of Common ALL | 1008
+    St. Jude’s total XV protocol started | 1008
+    induction therapy | 1008
+    consolidation therapy | 1008
+    thrombophilia mutations panel results received | 1344
+    factor XIII V34L mutation positive | 1344
+    MTHFR A1298C homozygous mutation positive | 1344
+    factor V Leiden heterozygous mutation positive | 1344
+    follow-up MRV | 1344
+    complete recanalization | 1344
+    no new thrombi | 1344
+    no modification of chemotherapeutic regimen | 1344
+    no reduction of L-asparaginase dose | 1344
+    complete remission | 1344
+    regular follow-up | 1344
+    no thrombotic events | 1344
+    no leukemia relapses | 1344

@@ -1,0 +1,178 @@
+55 years old| 0
+male | 0
+accidental ingestion of methidathion | 0
+semi-comatose | 0
+intermittent myoclonus-like movements | 0
+blood pressure 67/50 mmHg | 0
+heart rate 48 beats per minute | 0
+trachea intubated | 0
+mechanical ventilation | 0
+intravenous infusion of atropine | 0
+norepinephrine | 0
+vasopressin | 0
+dobutamine | 0
+epinephrine | 0
+PAM-A (pralidoxime chloride) | 0
+intravascular volume expansion with crystalloids | 0
+midazolam | 0
+remifentanyl | 0
+vecuronium | 0
+gastric lavage | 0
+arterial blood gas analysis: pH 6.96 | 0
+PCO2 98 mmHg | 0
+PO2 85 mmHg | 0
+HCO-3 19 mEq/L | 0
+BE -14.8 | 0
+ethanol level 144 mg/dl | 0
+albumin 4.4 g/dl | 0
+glucose 359 mg/dl | 0
+Hemoglobin A1c 11.4% | 0
+total CO2 content 16.9 mEq/L | 0
+normal bilirubin | 0
+normal aminotransferases | 0
+normal electrolytes (sodium, chloride, potassium) | 0
+normal troponin I | 0
+normal coagulation studies (PT, INR, aPTT) | 0
+leukocyte count 17,400 cells/mm3 | 0
+hemoglobin 15.4 g | 0
+hematocrit 46% | 0
+platelets 266,000/mm3 | 0
+repeated arterial blood gases: pH 7.09 | 0
+PCO2 29 mmHg | 0
+PO2 66 mmHg | 0
+HCO-3 20 mEq/L | 0
+BE –11.3 | 0
+lactate 7.8 mEq/L | 0
+urine output 200-600 mL/hour | 0
+serum cholinesterase level 12 units/L | 0
+transfer to intensive care unit | 0
+negative hepatitis A, B, C tests | 0
+negative HIV test | 0
+free T4 level 3.84 mcg/L | 0
+arterial blood gases: pH 7.23 | 0
+PCO2 59 mmHg | 0
+PO2 78 mmHg | 0
+HCO-3 24 mEq/L | 0
+lactate 1.7 mEq/L | 0
+blood cultures negative | 0
+vecuronium discontinued | 24
+epinephrine tapered off | 48
+norepinephrine reduced to 0.15 mcg/kg/min | 48
+vasopressin reduced to 0.15 units/min | 48
+dobutamine reduced to 20 mcg/kg/min | 48
+no metabolic acidosis | 48
+urine output decreased to 300 ml/h | 48
+atropine discontinued | 96
+glycopyrrolate given intermittently | 96
+urine output 100 ml/h | 96
+daily chest radiography unremarkable | 96
+sputum culture: Klebsiella pneumoniae | 96
+piperacillin/tazobactam started | 96
+vasopressors and inotropic doses not reducible | 120
+interleukin-6 335 pg/ml | 120
+procalcitonin 92 ng/ml | 120
+remifentanil and midazolam maintained | 120
+warm and pink hands and feet | 120
+no metabolic acidosis | 120
+lactate level 1.3 mEq/L | 144
+fibrinogen 966 mg/dl | 144
+d-dimer 6.53 mg/L | 144
+absence of deep vein thrombosis | 144
+no pulmonary embolism | 144
+total parenteral nutrition started | 144
+enteral feeding not appropriate | 144
+midazolam discontinued | 216
+vasopressors and inotropic gradually reduced | 216
+all vasoactive medications tapered off | 264
+opens eyes on command | 264
+ketamine added | 264
+ulnar nerve stimulation test: depolarizing block | 336
+sputum culture: methicillin-resistant Staphylococcus aureus | 336
+vancomycin started | 336
+pH 7.29 | 408
+PCO2 56 mmHg | 408
+leukocyte count 17,750 cells/mm3 | 408
+platelet count 765,000/mm3 | 408
+ultrasonography: ascites | 408
+CT scan: multiple small bowel perforations | 408
+exploratory laparotomy arranged | 408
+pulmonary artery catheter inserted | 408
+pulmonary artery pressure 36/18 mmHg | 408
+pulmonary capillary wedge pressure 12 mmHg | 408
+laparotomy findings: gangrenous small bowel | 408
+small bowel resected | 408
+peritoneum closed | 408
+vasopressors and inotropic required postoperatively | 408
+urine output 1005-300 ml/h | 408
+arterial blood gases: pH 7.44 | 408
+PCO2 44 mmHg | 408
+PO2 83 mmHg | 408
+HCO-3 29.2 mEq/L | 408
+lactate 1.8 mEq/L | 408
+creatinine 1.15 mg/dl | 408
+leukocyte count 17,690 cells/mm3 | 408
+platelet count 352,000/mm3 | 408
+fibrinogen 305 mg/dl | 408
+glycopyrrolate last given | 480
+peritoneal drain and blood cultures negative | 480
+procalcitonin 5.03 ng/dl | 480
+interleukin-6 92.2 pg/dl | 480
+C-reactive protein 16.32 | 480
+fibrinogen 432 mg/dl | 480
+platelet count 230,000/mm3 | 480
+repeated ulnar nerve stimulation test: depolarizing block | 480
+aspergillosis infection confirmed | 480
+voriconazole started | 480
+peritoneal drain culture: methicillin-resistant S. aureus | 648
+blood culture negative | 648
+second laparotomy: diffuse peritonitis | 744
+gangrenous colon | 744
+abscess formation | 744
+colon perforations | 744
+total colectomy | 744
+postoperative septic shock | 744
+vasopressors and inotropic escalated | 744
+intravascular volume expansion | 744
+thermodilution cardiac output 10-12 L/min | 744
+severe metabolic acidosis | 744
+lactate rising | 744
+lactate level 10.7 mEq/L | 912
+Aspergillus antigen positive (5.42 index) | 912
+sudden cardiac arrest | 912
+cardiopulmonary resuscitation | 912
+fatal outcome | 912
+diabetes mellitus | 0
+non-insulin dependent diabetes mellitus | 0
+body weight 75 kg | 0
+height 173 cm | 0
+no shortness of breath | 0
+denies chest pain | 0
+no evidence of peritonitis | 408
+no gross evidence of peritonitis | 408
+negative Aspergillus antigen (galactomannan) | 480
+repeated Aspergillus antigen positive (5.42 index) | 912
+MRSA in peritoneal drain fluid | 648
+Klebsiella pneumoniae in sputum | 96
+biofilm-forming organisms | 0
+biofilm-forming fungal infection | 0
+invasive aspergillosis | 408
+gangrene and abscess formation | 408
+multiple bowel perforations | 408
+diffuse peritonitis | 744
+biofilm-producing bacteria | 0
+biofilm-producing fungus | 0
+cholinergic crisis | 0
+prolonged muscle paralysis | 0
+circulatory collapse | 0
+severe bradycardia | 0
+metabolic acidosis postoperatively | 744
+rising lactate | 744
+prolonged hypotension | 0
+splanchnic ischemia | 0
+endotoxemia | 0
+increased inflammatory markers | 120
+platelet antifungal activity | 408
+negative galactomannan initially | 480
+positive galactomannan later | 912
+unsuccessful CPR | 912
+no conflict of interest | 0

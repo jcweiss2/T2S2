@@ -1,0 +1,76 @@
+33 years old | 0
+    unmarried | 0
+    nullipara | 0
+    family history of brother with testicular cancer | 0
+    explorative laparoscopy | -43800
+    nonspecific abdominal pain | -43800
+    gelatinous tumor spread detected | -43800
+    biopsy specimens confirming disseminated peritoneal adenomucinosis (DPAM) | -43800
+    peritoneal lesions originated from perforated mucinous cystadenoma of the appendix | -43800
+    advised peritonectomy | -43800
+    advised bilateral oophorectomy | -43800
+    referred for fertility preservation consultation | -43800
+    decided to undergo IVF and embryo cryopreservation | -43800
+    20 oocytes retrieved | -43800
+    18 embryos fertilized with donor sperm | -43800
+    embryo cryopreservation at 2 pronuclear stage | -43800
+    PMP surgery performed by multidisciplinary team | -43800
+    extended spread of disease in Douglas pouch | -43800
+    disease over omentum | -43800
+    disease underneath diaphragm | -43800
+    disease over spleen | -43800
+    two large masses on both ovaries | -43800
+    mass on appendix | -43800
+    lesions over surface of uterus | -43800
+    parietal peritoneum resected | -43800
+    omentectomy | -43800
+    appendectomy | -43800
+    splenectomy | -43800
+    bilateral adnexectomy | -43800
+    lesions peeled off over uterus | -43800
+    uterus left intact | -43800
+    postoperative heated intraperitoneal infusions of mitomycin C | -43800
+    disease relapse 18 months later | 12960
+    moderate elevation of carcinoembryonic antigen (CEA) | 12960
+    intra-abdominal fluid accumulation | 12960
+    multiple peritoneal lesions by CT | 12960
+    explorative laparotomy | 12960
+    numerous small lesions over peritoneum | 12960
+    lesion over left diaphragm | 12960
+    lesion over posterior wall of uterus | 12960
+    cytoreduction | 12960
+    peritonectomy | 12960
+    5-day intraperitoneal infusion of 5# `Tis the Season
+
+### This is a time of giving and receiving, so I have a few gifts for you, and one request.
+
+`Tis the season. The season when we’re supposed to be in good moods, full of joy, and giving to those who need more. But the season can bring stress too. There’s family drama, shopping, and other obligations. This time of year can be a lot. But in this issue, I want to bring you three gifts and one request. Let’s get started.
+
+## A Book
+
+## A Book
+
+First, let me give you a book. This book is about finding your purpose and aligning your life to that. It’s a book about how to create the life you want. I have a lot of books about how to get started, but this one is about how to get to the next level. The author is a friend of mine, a former colleague, and a person whom I’ve followed for years. His name is Ken Coleman, and the book is The Proximity Principle. If you want to find purpose and align your life to your goals, this is the book for you. The book is a great read, and you can get it here.
+
+## A Podcast
+
+## A Podcast
+
+Next, I want to share a podcast with you. The podcast is The Ken Coleman Show. If you want to learn how to get to the next level in your career, your life, or your relationships, this is the podcast for you. Ken has been a guest on my podcast, and he’s a great speaker. He’s also a great person to follow if you want to get to the next level. You can find his podcast here.
+
+## A Course
+
+## A Course
+
+Finally, I want to share a course with you. The course is called The Career Playbook, and it’s designed to help you get to the next level in your career. The course is taught by Ken Coleman, and it’s a great resource for anyone who wants to take their career to the next level. You can find the course here.
+
+## A Request
+
+## A Request
+
+Now, my request. If you’ve read my newsletter, listened to my podcast, or watched my videos, and you’ve found value in them, please consider supporting my work. I don’t ask for money often, but this is the time of year when I need to ask. I’m trying to reach as many people as possible with my message of hope, purpose, and alignment. Your support helps me do that. If you can, please consider donating to my work. You can do that here.
+
+That’s it for this issue. I hope you have a great holiday season, and I’ll see you in the new year.
+
+
+No posts

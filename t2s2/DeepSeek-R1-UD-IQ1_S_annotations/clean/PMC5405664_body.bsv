@@ -1,0 +1,39 @@
+55 years old | 0
+male | 0
+right femoropopliteal bypass | -105120
+intermittent claudication in right lower limb | -105120
+arterial insufficiency in superficial femoral vessels | -105120
+reexplored for stenosis of graft | -91296
+recurrence of symptoms | -91296
+right iliac artery – right popliteal artery bypass using PTFE graft | -87600
+sudden onset gross hematuria | -1488
+sepsis | -1488
+insertion of three-way Foley catheter | -1488
+irrigation | -1488
+hemodynamic stabilization | -1488
+CT scan (abdomen + pelvis) with angiography | -1488
+fistulous communication between right iliac artery and right ureter | -1488
+surrounding inflammatory changes | -1488
+covered stenting with PTFE graft | 0
+antibiotic coverage | 0
+monitored in intensive care unit for 48 hours | 0
+Foley catheter removed | 120
+afebrile throughout postoperative period | 0
+discharged | 168
+no urinary complaints | 168
+no episode of hematuria | 168
+followed up | 168
+stable | 168
+watery discharge from scar | 240
+fistulous communication between right ureter and overlying skin | 240
+no communication with iliac artery | 240
+no other urinary complaints | 240
+cystoscopy | 240
+retrograde pyelography | 240
+JJ stent placed | 240
+discharged | 672
+no discharge | 672
+no signs of arterial insufficiency | 672
+no lower urinary tract symptoms | 672
+JJ stent removed | 4032
+stable on subsequent follow-ups | 4032

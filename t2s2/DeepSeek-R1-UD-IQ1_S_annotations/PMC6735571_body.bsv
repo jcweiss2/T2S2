@@ -1,0 +1,96 @@
+34 years old | 0
+    male | 0
+    admitted to the emergency department | 0
+    moderate hematemesis | -96
+    dyspnea | -96
+    hemoptysis | -96
+    non-measured fever | -96
+    denied gastrointestinal complaints | 0
+    denied genitourinary complaints | 0
+    denied illicit drug use | 0
+    not taking any medications | 0
+    homosexual relations | -52560
+    tachycardia | 0
+    pulse rate 136 beats per minute | 0
+    blood pressure 100/58 mmHg | 0
+    tachypnea | 0
+    respiratory rate 34 per minute | 0
+    diaphoresis | 0
+    coma Glasgow scale 15 | 0
+    pulse oximetry 70% | 0
+    rales in left base | 0
+    normal heart examination | 0
+    normal abdomen examination | 0
+    normal limbs examination | 0
+    hemorrhagic pangastritis | 0
+    moderate duodenitis | 0
+    sparse mucosal bleeding | 0
+    blood clots adhered to bronchial mucosa | 0
+    diffuse bilateral reticulo-nodular pattern | 0
+    negative blood cultures | 0
+    negative bronchoalveolar lavage | 0
+    HIV serology positive | 0
+    viral load >500,000 copies | 0
+    CD4 count 58 cells/mm3 | 0
+    progressive respiratory insufficiency | 0
+    transferred to ICU | 0
+    orotracheal intubation | 0
+    vasoactive drugs | 0
+    hemoglobin 9.8 g% | 0
+    hematocrit 28.5% |5
+    leukocytes 20.4 × 103/mm3 |0
+    myelocytes 1% |0
+    metamyelocytes 3% |0
+    rods 34% |0
+    segmented 53% |0
+    eosinophils 0% |0
+    basophils 0% |0
+    lymphocytes 2% |0
+    monocytes 7% |0
+    platelets 283 × 103/mm3 |0
+    creatinine 0.6 mg/dL |0
+    AST 79 U/L |0
+    ALT 84 U/L |0
+    LDH 405 U/L |0
+    amylase 106 U/L |0
+    albumin 3.1 g/dL |0
+    lactate 7.4 mg/dL |0
+    CRP 140 mg/L |0
+    trimethoprim-sulfamethoxazole |0
+    ceftriaxone |0
+    clarithromycin |0
+    prednisone |0
+    petechiae over periumbilical area |72
+    bronchoscopy |72
+    refractory shock |72
+    fever 41.9°C |72
+    cardiac arrest |72
+    death |72
+    autopsy |72
+    mild meningeal inflammatory infiltrate |72
+    filamentary structure in brain parenchyma |72
+    filariform larva of Strongyloides stercoralis |72
+    enlarged lungs |72
+    intra-alveolar hemorrhage |72
+    diffuse alveolar damage |72
+    hyaline membrane |72
+    healing process |72
+    fragments of S. stercoralis larvae |72
+    S. mansoni eggs |72
+    enlarged liver |72
+    centrilobular ischemic areas |72
+    microvesicular steatosis |72
+    infective larvae in liver |72
+    hemorrhagic gastritis |72
+    adult S. stercoralis females in stomach |72
+    hemorrhagic enteritis |72
+    mucosal necrosis |72
+    adult S. stercoralis females in duodenum |72
+    S. mansoni eggs in large intestine |72
+    calcified S. mansoni eggs in urinary bladder |72
+    adult S. mansoni worms in urinary bladder |72
+    S. mansoni eggs in seminal vesicle |72
+    generalized visceral congestion |72
+    reactive bone marrow |72
+    
+    

@@ -1,0 +1,68 @@
+65 years old | 0
+female | 0
+obesity | -168
+type 2 diabetes mellitus | -168
+hypertension | -168
+hyperlipidaemia | -168
+transient ischaemic attack | -168
+left-sided breast cancer | -168
+docetaxel | -168
+cyclophosphamide | -168
+fever | -168
+dry cough | -168
+exertional dyspnoea | -168
+hypoxia | -72
+bilateral lung ground-glass opacities | -72
+SARS-CoV-2 positive | -72
+remdesivir | -72
+ceftriaxone | -72
+azithromycin | -72
+community-acquired pneumonia | -72
+shock | 0
+multiorgan system failure | 0
+acute heart failure | 0
+rapid sequence intubation | 0
+transfer to medical ICU | 0
+severe biventricular failure | 0
+LVEF 25% | 0
+tocilizumab | 0
+norepinephrine | 0
+vasopressin | 0
+dobutamine | 0
+sodium bicarbonate | 0
+inhaled epoprostenol | 0
+hydrocortisone | 0
+clinical improvement | 24
+LVEF 64% | 48
+diminished breath sounds | 0
+bilateral infiltrates | 0
+pneumonitis | 0
+acute respiratory distress syndrome | 0
+acute kidney injury | 0
+eGFR 26 mL/min/1.73 m² | 0
+ischaemic hepatitis | 0
+elevated inflammatory markers | 0
+cytokine storm | 0
+T-wave inversions V1-V2 | 0
+QTc 457 ms | 0
+high-sensitivity troponin I 1.058 ng/mL | 0
+BNP 401 pg/mL | 0
+paradoxical septal motion | 0
+RV systolic dysfunction | 0
+sepsis-induced cardiomyopathy | 0
+Takotsubo syndrome | 0
+viral lymphocytic myocarditis | 0
+acute coronary syndrome | 0
+myocardial recovery | 48
+small circumferential pericardial effusion | 48
+mild RV systolic dysfunction | 48
+grade 2 diastolic dysfunction | 48
+tracheostomy | 168
+discharge from ICU | 168
+discharge from hospital | 168
+prolonged ventilatory wean | 168
+no dysrhythmia | 24
+no acute coronary syndrome | 0
+no viral lymphocytic myocarditis | 0
+no mechanical circulatory support | 0
+no ECMO | 0

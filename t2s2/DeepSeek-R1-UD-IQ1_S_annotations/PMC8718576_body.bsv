@@ -1,0 +1,120 @@
+36 years old | 0
+    male | 0
+    presented to the emergency department (ED) with hypotension | 0
+    presented to the emergency department (ED) with altered mental status | 0
+    ingestion of an unknown quantity of medication | -unknown
+    possibly metformin ingestion | -unknown
+    systolic blood pressure was 70 mmHg | 0
+    heart rate was 90 beats per minute | 0
+    hypothermic to 32 °C | 0
+    lethargic | 0
+    Glasgow coma scale of 10 | 0
+    dry skin | 0
+    mid-size pupils | 0
+    reactive pupils | 0
+    no focal neurologic findings | 0
+    no hypertonicity | 0
+    no clonus | 0
+    unclear timing of ingestion | -unknown
+    unclear substances ingested | -unknown
+    unclear amounts of substances ingested | -unknown
+    found empty pill bottle | 0
+    previous contents were expired metformin | 0
+    patient unable to provide history regarding ingestion | 0
+    unable to reach family or friends for more information | 0
+    volume resuscitation initiated | 0
+    labs obtained | 0
+    lactic acidosis of 6.5 mmol/L | 0
+    hyperkalemia of 6.0 mmol/L |C
+    normal transaminase | 0
+    normal troponin | 0
+    normal creatine kinase | 0
+    undetectable acetaminophen | 0
+    undetectable salicylate | 0
+    pre-hospital blood glucose 167 mg/dl | 0
+    delayed hypoglycemia with blood glucose 27 mg/dl | 0
+    hypoglycemia treated with dextrose | 0
+    hypoglycemia treated with octreotide | 0
+    acute dialysis catheter placed | 0
+    hemodialysis initiated emergently | 0
+    concern for severe metformin toxicity | 0
+    dialysis started 3.5 h after ED arrival | 210
+    progressively worsening hypotension | 210
+    norepinephrine drip initiated | 210
+    worsening mental status | 210
+    lactic acidosis to 18 mmol/L | 210
+    admitted to medical intensive care unit | 210
+    intubated for worsening altered mental status | 210
+    intubated for shock | 210
+    profound vasoplegia refractory to high doses of norepinephrine | 210
+    profound vasoplegia refractory to vasopressin | 210
+    profound vasoplegia refractory to epinephrine | 210
+    profound vasoplegia refractory to phenylephrine | 210
+    echocardiography revealed normal left ventricular function | 210
+    echocardiography revealed normal right ventricular function | 210
+    received bicarbonate pushes | 210
+    received bicarbonate drip | 210
+    treated with hydroxocobalamin 5 gm intravenously | 210
+    concern for possible cyanide toxicity | 210
+    cyanide levels later normal | 210
+    hydroxocobalamin had no clinical effect | 210
+    received methylene blue 2 mg/kg | 210
+    transient improvement in blood pressure | 210
+    attempted continuous renal replacement therapy (CRRT) | 210
+    CRRT not tolerated hemodynamically | 210
+    significant vasopressor support | 210
+    methylene blue administered | 210
+    decided VA ECMO support | 210
+    arterial blood gas pH 7.05 | 210
+    arterial blood gas PaCO2 19 mmHg | 210
+    lactate 33.8 mmol/L | 210
+    peripherally cannulated for VA ECMO | 210
+    25 F drainage cannula in right femoral vein | 210
+    17 F return cannula in left femoral artery | 210
+    5 F distal perfusion cannula placed | 210
+    retrograde flow to superficial femoral artery | 210
+    cannulation performed using fluoroscopy | 210
+    VA ECMO initiated 19 h after ED arrival | 1140
+    hemodynamic support from VA ECMO allowed CRRT initiation | 1140
+    shock resolved over 48 h | 1680
+    decannulated | 1680
+    no longer requiring vasopressors | 1680
+    lactic acid improved to normal range over 96 h | 2880
+    mental status improved | 2880
+    extubated | 2880
+    endorsed attempting suicide by ingesting metformin and trazodone | 2880
+    evaluated by psychiatry as inpatient | 2880
+    no longer suicidal | 2880
+    discharged home 20 days after admission | 480
+    serum metformin level 678 μg/mL | 7
+    serum trazodone level 2.1 μg/mL | 7
+    metformin concentration quantitation performed | 0
+    trazodone and mCPP quantitation performed | 0
+    sulfonylureas not detected | 0
+    initial serum metformin level 678 μg/mL | 7
+    initial serum trazodone level 2.1 μg/mL | 7
+    trazodone metabolite mCPP found in urine | 7
+    serum metformin level 309 μg/mL | 340
+    serum trazodone level 2.4 μg/mL | 340
+    serum metformin level 255 μg/mL | 621
+    serum trazodone level 1.1 μg/mL | 621
+    serum metformin level 219 μg/mL | 701
+    serum trazodone level 0.8 μg/mL | 701
+    urine metformin level 2224 μg/mL | 0
+    urine trazodone level 3.6 μg/mL | 0
+    peak lactate 33.8 mmol/L | 210
+    hypoglycemia observed | 0
+    hemodialysis recommended for lactic acid > 20 mmol/L | 0
+    highest recorded serum metformin level | 7
+    increase in nitric oxide synthase activity | 0
+    methylene blue as rescue therapy | 210
+    VA ECMO support used successfully | 1140
+    complications bleeding | 0
+    complications limb ischemia | 0
+    recognized metformin toxicity early | 0
+    treated with rapid hemodialysis | 0
+    treated with vasopressor support | 0
+    initiated VA ECMO if refractory | 0
+    good outcome | 480
+    </text>
+    

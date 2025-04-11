@@ -1,0 +1,157 @@
+25 years old | 0
+    male | 0
+    perineal pain | -96
+    swelling | -96
+    discharge | -96
+    high-grade fever | -96
+    vomiting | -96
+    unspecified po medication | -96
+    no history of trauma to the perineum | -96
+    no recent surgery | -96
+    no history of diabetes | -96
+    no history of hypertension | -96
+    no history of chronic illness | -96
+    no history of chronic alcohol abuse | -96
+    seronegative for HIV | -96
+    no history of drug intake | -96
+    no known drug allergy | -96
+    temperature 38.8 °C | 0
+    blood pressure 85/46 mmHg | 0
+    pulse rate 120 bpm | 0
+    respiratory rate 24 bpm | 0
+    no shortness of breath | 0
+    BMI 19 kg/m² | 0
+    distressed | 0
+    aware of spatial and temporal surroundings | 0
+    distended abdomen | 0
+    guarding | 0
+    rebound | 0
+    severe direct tenderness in hypogastrium | 0
+    normal bowel sounds | 0
+    bilateral necrotic scrotum | 0
+    necrotic perineum | 0
+    foul-smelling pus discharge | 0
+    palpable crepitus on perineum | 0
+    palpable crepitus on lower anterior abdominal wall | 0
+    enlarged scrotum | 0
+    edematous scrotum | 0
+    tender scrotum | 0
+    ruptured perianal abscess | 0
+    resuscitated with normal saline | 0
+    broad spectrum antibiotics | 0
+    ceftriaxone | 0
+    metronidazole | 0
+    crystalline penicillin | 0
+    transferred to operation room | 0
+    general anesthesia | 0
+    lithotomy position | 0
+    edematous scrotal skin | 0
+    foul-smelling abscess | 0
+    necrotic tissue | 0
+    abscess track through inguinal canal | 0
+    multiple thrombosed vessels | 0
+    debridement | 0
+    wound washed with hydrogen peroxide | 0
+    wound washed with normal saline | 0
+    transfused with 2 units blood | 0
+    drain left in retroperitoneum | 0
+    re-debridement planned after 24 h | 24
+    transferred to surgical ICU | 0
+    vital signs monitored | 0
+    input and output monitoring | 0
+    antibiotics continued | 0
+    wound care BID | 0
+    wound dressing | 0
+    no NPWT | 0
+    stayed in ICU for 5 days | 120
+    multiple debridements | 0
+    infection controlled | 0
+    wound granulated well | 0
+    primary closure of abdominal skin | 0
+    bilateral testicles buried | 0
+    scrotal reconstruction | 0
+    rough initial postoperative day | 0
+    improved remarkably | 0
+    no postoperative complications | 0
+    discharged home | 0
+    follow-up at surgical referral clinic | 0
+    doing well | 0
+
+    25 years old | 0  
+    male | 0  
+    perineal pain | -96  
+    swelling | -96  
+    discharge | -96  
+    high-grade fever | -96  
+    vomiting | -96  
+    unspecified po medication | -96  
+    no history of trauma to the perineum | -96  
+    no recent surgery | -96  
+    no history of diabetes | -96  
+    no history of hypertension | -96  
+    no history of chronic illness | -96  
+    no history of chronic alcohol abuse | -96  
+    seronegative for HIV | -96  
+    no history of drug intake | -96  
+    no known drug allergy | -96  
+    temperature 38.8 °C | 0  
+    blood pressure 85/46 mmHg | 0  
+    pulse rate 120 bpm | 0  
+    respiratory rate 24 bpm | 0  
+    no shortness of breath | 0  
+    BMI 19 kg/m² | 0  
+    distressed | 0  
+    aware of spatial and temporal surroundings | 0  
+    distended abdomen | 0  
+    guarding | 0  
+    rebound | 0  
+    severe direct tenderness in hypogastrium | 0  
+    normal bowel sounds | 0  
+    bilateral necrotic scrotum | 0  
+    necrotic perineum | 0  
+    foul-smelling pus discharge | 0  
+    palpable crepitus on perineum | 0  
+    palpable crepitus on lower anterior abdominal wall | 0  
+    enlarged scrotum | 0  
+    edematous scrotum | 0  
+    tender scrotum | 0  
+    ruptured perianal abscess | 0  
+    resuscitated with normal saline | 0  
+    broad spectrum antibiotics | 0  
+    ceftriaxone | 0  
+    metronidazole | 0  
+    crystalline penicillin | 0  
+    transferred to operation room | 0  
+    general anesthesia | 0  
+    lithotomy position | 0  
+    edematous scrotal skin | 0  
+    foul-smelling abscess | 0  
+    necrotic tissue | 0  
+    abscess track through inguinal canal | 0  
+    multiple thrombosed vessels | 0  
+    debridement | 0  
+    wound washed with hydrogen peroxide | 0  
+    wound washed with normal saline | 0  
+    transfused with 2 units blood | 0  
+    drain left in retroperitoneum | 0  
+    re-debridement planned after 24 h | 24  
+    transferred to surgical ICU | 0  
+    vital signs monitored | 0  
+    input and output monitoring | 0  
+    antibiotics continued | 0  
+    wound care BID | 0  
+    wound dressing | 0  
+    no NPWT | 0  
+    stayed in ICU for 5 days | 120  
+    multiple debridements | 0  
+    infection controlled | 0  
+    wound granulated well | 0  
+    primary closure of abdominal skin | 0  
+    bilateral testicles buried | 0  
+    scrotal reconstruction | 0  
+    rough initial postoperative day | 0  
+    improved remarkably | 0  
+    no postoperative complications | 0  
+    discharged home | 0  
+    follow-up at surgical referral clinic | 0  
+    doing well | 0  

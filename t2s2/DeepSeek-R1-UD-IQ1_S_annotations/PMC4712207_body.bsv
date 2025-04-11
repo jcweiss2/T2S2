@@ -1,0 +1,94 @@
+47 years old | 0
+    female | 0
+    came to the emergency department | 0
+    altered mental status | -24
+    agitation | -24
+    confusion | -24
+    fever | -24
+    respiratory distress | -24
+    sinusitis | -24
+    chronic sinusitis | -24
+    nasal polyp removal | -24
+    diabetes mellitus type II | -24
+    no history of tobacco | -24
+    no history of alcohol | -24
+    no history of illicit drug use | -24
+    rectal temperature of 106.2 °F | 0
+    heart rate of 141 beats per minute | 0
+    blood pressure of 107/59 mmHg | 0
+    respiratory rate of 32 breaths per minute | 0
+    alert | 0
+    not oriented to time | 0
+    not oriented to place | 0
+    not oriented to person | 0
+    respiratory distress using accessory muscles of respiration | 0
+    diaphoretic | 0
+    agitated | 0
+    pupils equal | 0
+    pupils reactive to light | 0
+    no lesions in the nares | 0
+    no nasal drainage | 0
+    nuchal rigidity | 0
+    photophobia | 0
+    right upper quadrant tender to palpation | 0
+    distended abdomen | 0
+    rebound tenderness | 0
+    unremarkable cardiac examination | 0
+    sodium 135 mmol/L | 0
+    potassium 3.3 mmol/L | 0
+    chloride 98 mmol/L | 0
+    bicarbonate 23 mmol/L | 0
+    blood urea nitrogen 12 mg/dL | 0
+    creatinine 0.6 mg/dL | 0
+    glucose 542 mg/dL | 0
+    white blood cell count 35.1 × 10^9 cells/L | 0
+    granulocytes 95.7% | 0
+    hemoglobin 12.1 mg/dL | 0
+    MCV 75.5 fL | 0
+    hematocrit 40.3% | 0
+    platelets 258,000/mcL | 0
+    started on ceftriaxone | 0
+    started on vancomycin | 0
+    started on acyclovir | 0
+    lumbar puncture | 0
+    opening pressure 46 mm H2O | 0
+    cloudy CSF | 0
+    bloody CSF | 0
+    CSF WBC 820/mm³ | 0
+    CSF RBC 5500/mm³ | 0
+    CSF glucose 177 mg/dL | 0
+    CSF protein 672 mg/dL | 0
+    Gram stain gram-positive cocci in chains | 0
+    CSF glucose to blood glucose ratio 0.375 | 0
+    head CT unremarkable | 0
+    blood cultures negative | 0
+    admitted to intensive care unit | 0
+    CSF culture grew S. agalactiae | 0
+    sensitive to gentamicin | 0
+    sensitive to ampicillin | 0
+    antibiotics changed to gentamicin | 0
+    antibiotics changed to ampicillin | 0
+    repeat CT head | 96
+    acute intracerebral hemorrhage 4 cm | 96
+    surrounding edema | 96
+    mass effect | 96
+    extubated | 168
+    opening eyes to verbal stimuli | 168
+    not following commands | 168
+    respiratory distress | 168
+    reintubated | 168
+    repeat head CT | 168
+    intraparenchymal hematoma increased | 168
+    new 1.7 cm hematoma left frontal lobe | 168
+    diffuse cerebral edema | 168
+    right to left midline shift | 168
+    neurosurgery not recommend draining | 168
+    improving clinically | 168
+    Clostridium difficile associated diarrhea | 168
+    treated with metronidazole | 168
+    antibiotics course completed | 168
+    mental status improved | 168
+    health care associated pneumonia | 168
+    treated for pneumonia | 168
+    discharged | 168
+    

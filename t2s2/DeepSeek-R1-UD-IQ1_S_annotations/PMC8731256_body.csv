@@ -1,0 +1,85 @@
+event,time
+37 years old ,0
+    woman ,0
+    visited the emergency room (ER) ,0
+    altered mental state ,0
+    cortisol-secreting ACC ,-12960
+    adrenalectomy ,-12960
+    cancer reoccurred ,-4392
+    radical nephrectomy ,-4392
+    adjuvant radiotherapy ,-4392
+    recurrent lesion reappeared ,-4392
+    hypercortisolemia aggravated ,-4392
+    chemotherapy with Avastin + FOLFOX ,-648
+    mental change ,-648
+    blood pressure = 76/30 mmHg ,0
+    heart rate = 91/min ,0
+    respiratory rate = 36/min ,0
+    body temperature = 37.2°C ,0
+    oxygen saturation = 86% ,0
+    O2 level as low as 15 L/min ,0
+    progressive septic shock ,0
+    respiratory failure ,0
+    fluid resuscitation ,0
+    vasopressor support ,0
+    invasive ventilation ,0
+    white blood cell count = 140/mm3 ,0
+    hemoglobin level = 7.2 g/dL ,0
+"    platelet count = 8,000/mm3 ",0
+    total bilirubin level = 1.6 mg/dl ,0
+    serum aspartate aminotransferase/alanine aminotransferase = 102/102 IU/L ,0
+    blood urea nitrogen/serum creatinine = 24.1/1.12 mg/dL ,0
+    lactic acid level = 8.13 mmol/L ,0
+    c-reactive protein level = 21.86 mg/dl ,0
+    procalcitonin level = 42.46 ng/ml ,0
+    chest radiograph showed lobar consolidation in the right lower lung zone (RLLZ) ,0
+    neutropenic septic shock ,0
+    pneumonia ,0
+    suspected catheter-related infection ,0
+"    antibiotics (meropenem, vancomycin) ",0
+    removed the central catheter ,0
+    septic shock improved ,48
+    respiratory failure improved ,48
+    vasopressor tapered ,48
+    mechanical ventilation support discontinued ,96
+"    neutrophil count recovered (absolute neutrophil count >1,500/mm3) ",72
+    MRSA identified in initial peripheral culture ,48
+    MRSA identified in central blood cultures ,48
+    respiratory failure relapsed ,120
+    re-intubated ,120
+    chest CT on hospital day five ,120
+    multifocal ground-glass opacities ,120
+    worsening consolidation in RLLZ ,120
+    serum galactomannan titer increased ,72
+    Aspergillus fumigatus growth in tracheal aspirate cultures ,120
+    diagnosed with IPA ,120
+    intravenous voriconazole ,120
+    P. jirovecii observed in bronchoscopic lavage sample ,120
+    diagnosed with pneumocystis pneumonia ,120
+    trimethoprim/sulfamethoxazole ,120
+    MRSA bacteremia persisted ,120
+    echocardiography conducted ,120
+    duplex scan conducted ,120
+    no evidence of metastatic infection ,120
+    antibiotic switched to linezolid ,120
+    MRSA decreased in blood cultures ,168
+    Candida albicans in follow-up blood cultures ,168
+    candidemia began to resolve ,168
+    combined bacterial pneumonia ,120
+    purulent sputum ,120
+    lobar consolidation progression on chest X-ray ,120
+    Stenotrophomonas maltophilia growth ,120
+    administered trimethoprim/sulfamethoxazole ,120
+    administered levofloxacin ,120
+    mitotane as cortisol-lowering therapy ,120
+    mitotane 500 mg twice daily ,120
+    cortisol level decreased ,120
+    recurrent hemoptysis ,720
+    pneumonia-associated cavitary lesion ,720
+    ventilator readings deteriorated ,720
+    oxygen requirements increased ,720
+    CT scan showed interval increases in peritoneal seeding ,720
+    lymph node metastases ,720
+    no other medical intervention options ,720
+    discharged ,720
+    died ,744

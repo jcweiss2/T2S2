@@ -1,0 +1,99 @@
+event,time
+67 years old ,0.0
+    woman ,0.0
+    backache ,0.0
+    calculi in both kidneys ,0.0
+    ureteral calculi ,0.0
+    admitted ,0.0
+    holmium laser lithotripsy ,0.0
+    double J catheterization ,0.0
+    purulent urine ,0.0
+    severe fever ,-30.0
+    body temperature 39.5 °C ,-30.0
+    chill ,-30.0
+    low blood pressure ,-30.0
+    60/42 mmHg ,-30.0
+    empiric anti-infection drugs ,-30.0
+    imipenem ,-30.0
+    cilastatin sodium ,-30.0
+    fluid resuscitation ,-30.0
+    30 mL/kg ,-30.0
+    vasoactive agent ,-30.0
+    norepinephrine ,-30.0
+    hydrocortisone sodium succinate ,-30.0
+    symptoms progressively deteriorated ,-48.0
+    anuric ,-48.0
+    ARDS ,-48.0
+    invasive ventilatory support ,-48.0
+    endotracheal intubation ,-48.0
+    CRRT ,-48.0
+    transferred to ICU ,0.0
+    sedated state ,0.0
+    Richmond agitation-sedation scale -4 ,0.0
+    blood pressure 80/62 mmHg ,0.0
+    norepinephrine 1.5 μg/kg/min ,0.0
+    epinephrine 1.0 μg/kg/min ,0.0
+    heart rate 139 beats/min ,0.0
+    transcutaneous oxygen saturation 80% ,0.0
+    cold clammy extremities ,0.0
+    loud bubbling sound in lung ,0.0
+    oxygen partial pressure 50 mmHg ,0.0
+    lactic acid 10.6 mmol/L ,0.0
+    bicarbonate 10.8 mmol/L ,0.0
+    central venous pressure 20 cmH20 ,0.0
+    B lines in lung ,0.0
+    diffuse dysfunction ,0.0
+    severe damage in left ventricle ,0.0
+    LVEF 20.3% ,0.0
+    normal right ventricle function ,0.0
+    sinus tachycardia ,0.0
+    broad ST depression ,0.0
+    troponin I 10.2 ng/mL ,0.0
+"    NT-BNP >35,000 pg/L ",0.0
+    creatinine 356 μmol/L ,0.0
+    anuria ,0.0
+    multiple organ function failure ,0.0
+    VA-ECMO initiated ,0.0
+    ECMO catheter placement ,0.0
+    arterial catheter placement ,0.0
+    centrifugal pump Maquet Rotaflow RF 32 ,0.0
+    3000 rpm ,0.0
+    blood flow 3.5 L/min ,0.0
+    arterial pressure 135 mmHg ,0.0
+    venous pressure -29 mmHg ,0.0
+    cyclic dynamics improved ,0.5
+    norepinephrine stopped ,0.5
+    epinephrine stopped ,0.5
+    CRRT initiated ,0.0
+    imipenem and cilastatin sodium ,0.0
+    vancomycin ,0.0
+    lactic acid declined ,2.0
+    vasoactive drugs stopped ,10.0
+    arterial lactate normal ,12.0
+    extended-spectrum β-lactamase-positive E. coli ,48.0
+    inflammatory indices diminished ,48.0
+    vancomycin trough 15-20 μg/mL ,48.0
+    LVEF 35% ,120.0
+    necrotic skin in extremities ,120.0
+    ECMO weaned ,144.0
+    acute kidney injury grade 3 ,144.0
+    CRRT discontinued ,144.0
+    urinating ,144.0
+    urine volume 1000 mL/day ,144.0
+    vascular ultrasonography ,336.0
+    computed tomography angiography ,336.0
+    necrotic tissues amputated ,336.0
+    tracheal intubation ,0.0
+    spontaneous breathing ,120.0
+    weaning failed ,120.0
+    trachea opened ,240.0
+    anti-infection regimen changed ,240.0
+    cefoperazone sodium ,240.0
+    sulbactam sodium ,240.0
+    physical rehabilitation ,480.0
+    ventilator weaned ,480.0
+    tracheotomy tube sealed ,600.0
+    discharged ,768.0
+    intermittent hemodialysis ,768.0
+    self-care at 6 months ,4320.0
+    intermittent hemodialysis ongoing ,4320.0

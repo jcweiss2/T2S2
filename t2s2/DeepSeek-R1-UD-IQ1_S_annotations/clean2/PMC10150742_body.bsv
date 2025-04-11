@@ -1,0 +1,165 @@
+24 years old | 0
+woman | 0
+gravida 2 | 0
+para 1 | 0
+admitted to another hospital | -72
+fever | -72
+right low abdominal pains | -72
+ovarian cyst | -672
+dichorionic-diamniotic twin pregnancy | 0
+increased fetal heart rate | 0
+intrauterine hypoxia | 0
+ascites | 0
+WBC count 19.85×10⁹/L | -72
+neutrophils 84.9% | -72
+CRP 20.22mg/L | -72
+oral cephalosporin | -72
+temperature fluctuated 37.5 to 38.6°C | -72
+TORCH tests negative | -672
+serological status negative | -672
+transferred to our hospital | 0
+intrauterine death of one fetus | -72
+temperature 36.6°C | 0
+WBC count 22.14×10⁹/L | 0
+neutrophils 81.6% | 0
+CRP 195.76mg/L | 0
+intravenous cefuroxime sodium | 0
+intramuscular dexamethasone sodium phosphate | 0
+chest distress | 24
+could not lie flat | 24
+blood gas analysis | 24
+PH 7.456 | 24
+PCO₂ 28.4 mmHg | 24
+PO₂ 75.7 mmHg | 24
+Ca²⁺ 0.94mmol/L | 24
+K⁺ 3.01mmol/L | 24
+nasal cannula oxygen therapy | 24
+calcium and potassium supplement | 24
+chest distress recurred | 48
+temperature 39.5°C | 48
+blood pressure 105/59 mmHg | 48
+WBC count 12.6×10⁹/L | 48
+RBC count 3.71×10¹²/L | 48
+hemoglobin 80g/L | 48
+neutrophils 86.5% | 48
+lymphocyte 6.8% | 48
+Ca²⁺ 2.00mmol/L | 48
+K⁺ 3.4mmol/L | 48
+Na⁺ 134mmol/L | 48
+albumin 29g/L | 48
+BNP 175.0pg/mL | 48
+blood culture | 48
+chest CT | 48
+heart failure | 48
+pulmonary edema | 48
+respiratory alkalosis | 48
+metabolic acidosis | 48
+intrauterine infection of Listeria monocytogenes | 48
+ampicillin-sulbactam | 48
+hypotension 102/58 mmHg | 72
+hypoxemia PO₂ 67.9 mmHg | 72
+caesarean section | 72
+could not lie flat | 72
+blood pressure decreased 60–70/40–50 mmHg | 72
+heart rate 120–140 bpm | 72
+septic shock | 72
+anti-shock treatment | 72
+general anesthesia | 72
+cesarean section | 72
+alive fetus 1505g | 72
+Apgar scores 8, 10, 10 | 72
+dead fetus | 72
+aeruginous amniotic fluid | 72
+placenta and fetal membrane swab | 72
+uterus limp and feeble | 72
+bilateral uterine artery ligation | 72
+B-Lynch suture | 72
+transferred to ICU | 72
+blood pressure 90/60 mmHg | 72
+heart rate 115 bpm | 72
+SPO₂ 93% | 72
+ampicillin-sulbactam | 72
+oxytocin | 72
+pelvic drainage 1350 mL | 96
+cryoprecipitate infusion | 96
+erythrocyte suspension infusion | 96
+blood pressure 98/66 mmHg | 96
+hemoglobin 50g/L | 96
+exploratory laparotomy | 96
+poor uterine contraction | 96
+oozing blood | 96
+hemostatic suture | 96
+oxytocin injection into myometrium | 96
+plasma infusion 900mL | 96
+erythrocyte suspension 1600mL | 96
+cryoprecipitate 10U | 96
+blood pressure 105/75mmHg | 96
+heart rate 88bpm | 96
+SPO₂ 99% | 96
+hemoglobin 80g/L | 96
+mechanical ventilation | 96
+hemostasis | 96
+anti-infection therapy | 96
+blood pressure 110/78mmHg | 96
+heart rate 84bpm | 96
+SPO₂ 100% | 96
+temperature 36.5°C | 96
+blood pressure 122/81mmHg | 96
+heart rate 73bpm | 96
+transferred to obstetrics department | 96
+ampicillin-sulbactam continued | 96
+blood culture Listeria monocytogenes | 168
+placenta tissue culture Listeria monocytogenes | 168
+multifocal fibrinous exudate | 168
+focal infarction | 168
+regional infarction | 168
+inflammatory cell infiltration | 168
+multifocal abscess | 168
+acute inflammation | 168
+infarction in fetal membrane | 168
+ampicillin-sulbactam for 16 days | 432
+no fever | 432
+blood culture negative | 432
+WBC count 7.07×10⁹/L | 432
+neutrophils 44% | 432
+discharged | 432
+readmitted with fever | 1344
+WBC count 10.09×10⁹/L | 1344
+neutrophils 62.8% | 1344
+CRP 15.69 mg/L | 1344
+blood culture negative | 1344
+chest CT relief | 1344
+brain MRI no abnormalities | 1344
+inflammation in ethmoid and maxillary sinuses | 1344
+survived newborn admitted to NICU | 24
+difficult feeding | 24
+repeated vomiting | 24
+neonatal dehydration | 24
+premature | 24
+low birth weight | 24
+suspected neonatal sepsis | 24
+suspected intracranial infection | 24
+lumbar puncture | 24
+CSF transparent yellow | 24
+Pandy test 1+ | 24
+aerobic cultures negative | 24
+brain MRI no abnormalities | 24
+prolonged PT 22.0s | 24
+prolonged APTT 75.2s | 24
+D-dimer 553ng/mL | 24
+anti-infection | 24
+nutrition support | 24
+episodes of apnea | 24
+blood pressure 74/47 mmHg | 672
+SPO₂ 68% | 672
+hs-CRP >5 mg/L | 672
+CRP 75.42 mg/L | 672
+PCT 13.356 ng/mL | 672
+neonatal sepsis | 672
+meropenem | 672
+immune globulin | 672
+feeding refusal | 672
+abdominal distension | 672
+abdominal plain radiography gas accumulation | 672
+neonatal necrotizing enterocolitis | 672
+transferred to another hospital | 672

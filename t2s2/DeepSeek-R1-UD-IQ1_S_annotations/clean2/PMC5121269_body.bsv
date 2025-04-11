@@ -1,0 +1,75 @@
+75 years old | 0
+male | 0
+high fever | -72
+cough | -72
+sore throat | -72
+upper respiratory tract infection | -72
+dyspnea | 0
+mental fog | 0
+moderate-poor general condition | 0
+blood pressure 140/100 mmHg | 0
+pulse 109/min | 0
+temperature 38.4°C | 0
+drowsiness | 0
+PA chest x-ray normal | 0
+Thorax CT normal | 0
+PaO2 30 mmHg | 0
+PaCO2 60 mmHg | 0
+pH 7.27 | 0
+FiO2 40% | 0
+rapid-sequence intubation | 0
+endotracheal tube 8 mm | 0
+transferred to respiratory ICU | 0
+mechanical ventilation AC mode | 0
+tidal volume 600 mL | 0
+FiO2 100% | 0
+PEEP 5 mmHg | 0
+antibiotic treatment | 0
+fever | 0
+leukocytosis 23000/μL | 0
+CRP 50 mg/L | 0
+blood gases improved | 24
+ventilator mode changed to SIMV + PS | 24
+tidal volume 550 mL | 24
+respiratory rate 10/min | 24
+FiO2 0.4-0.6 | 24
+PS 15 mmHg | 24
+trigger 2 lit/min | 24
+PS decreased | 72
+respiratory rate decreased | 72
+ventilator mode changed to PSV 8 mmHg | 72
+blood gases normal | 72
+disconnected from mechanical ventilator | 72
+extubated | 72
+non-invasive ventilation | 72
+PaCO2 increased | 72
+intubated again | 72
+mechanical ventilator support | 72
+neurology consultation | 72
+bilateral hemiptosis | 72
+minimal restriction in eye movements | 72
+weakness | 72
+inability | 72
+easy exhaustibility | 72
+occasional diplopia | 72
+chewing difficulty | 72
+symptomatic treatments | 72
+COPD diagnosis | -3624
+dyspnea | -3624
+COPD treatment discontinued | -3624
+Neostigmine Methylsulphate 0.5 mg | 72
+spontaneous respiratory activity | 72
+mechanical ventilator assisted inspiration | 72
+tidal volume increased from 200 mL/m to 330 mL/m | 72
+spontaneous respiratory activity stopped | 72
+mechanical ventilator controlled inspiration | 72
+electromyoneurography normal | 72
+AChR Ab 205 nmol/L | 72
+MG diagnosis | 72
+pyridostigmine bromide 180 mg/day | 72
+IVIG 0.4 mg/kg/day | 72
+serial blood gas analysis | 120
+weaning process successful | 120
+azathioprine 100 mg/day | 120
+complaints disappeared | 120
+discharged | 120

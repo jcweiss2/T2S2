@@ -1,0 +1,276 @@
+44 years old | 0
+    man | 0
+    pulmonary sarcoidosis | -336
+    endobronchial ultrasound (EBUS) bronchoscopy | -336
+    pleuritic chest pain | 0
+    fever | 0
+    chills | 0
+    night sweats | 0
+    chest pain | 0
+    chest pain (continuous) | 0
+    chest pain (sharp) | 0
+    chest pain (relieved with leaning forward) | 0
+    tachycardia (110 beats/min) | 0
+    oxygen saturation (92% on room air) | 0
+    mild distress | 0
+    distant heart sounds | 0
+    no pericardial rubs | 0
+    oral temperature (97.9°F/36.6°C) | 0
+    blood pressure (110/71 mm Hg) | 0
+    no pulsus paradoxus | 0
+    essential hypertension | -336
+    mediastinal and hilar lymphadenopathy | -336
+    noncaseating granulomas | -336
+    denied smoking | 0
+    denied alcohol use | 0
+    denied illicit drug use | 0
+    denied prior international travel | 0
+    no pets | 0
+    chest x-ray (6 years prior) | -52560
+    pulmonary nodules | -52560
+    chest CT (6 years prior) | -52560
+    electrocardiogram (diffuse ST-segment elevations) | 0
+    electrocardiogram (PR depression) |! 0
+    negative troponin | 0
+    D-dimer (>250 ng/mL) | 0
+    CRP (204.5 mg/L) | 0
+    sedimentation rate (65 mm/h) | 0
+    chest CT with pulmonary angiography | 0
+    no pulmonary embolism | 0
+    circumferential pericardial effusion | 0
+    worsening pulmonary nodules | 0
+    negative blood cultures | 0
+    echocardiogram (preserved LVEF 55%) | 0
+    pericardial effusion (moderate-size) | 0
+    early diastolic right ventricular collapse | 0
+    variation in mitral inflow E velocity | 0
+    plethoric inferior vena cava | 0
+    supplemental oxygen | 0
+    oral analgesia | 0
+    pericardiocentesis | 0
+    drainage of 250 mL purulent material | 0
+    admitted to ICU | 0
+    piperacillin/tazobactam | 0
+    vancomycin | 0
+    pericardial drain | 0
+    chest CT (day 4) | 96
+    worsening left pleural effusion | 96
+    left thoracocentesis | 96
+    left chest tube placement | 96
+    intrapleural thrombolysis | 96
+    exudative pericardial fluid | 0
+    exudative pleural fluid | 0
+    Actinomyces odortolyticus growth | 0
+    antibiotics de-escalated | 0
+    pericardial drain removed | 144
+    chest tube removed | 168
+    recurrent pericardial effusion | 240
+    pericardial window | 312
+    CRP improvement | 360
+    sedimentation rate improvement | 360
+    discharged | 360
+    6-week intravenous antibiotics | 360
+    no recurrence of pericarditis | 360
+
+Alright, so I'm trying to understand this case and extract the events with their timestamps. The patient is a 44-year-old man with pulmonary sarcoidosis who presented to the emergency department with pleuritic chest pain. He had symptoms like fever, chills, night sweats, and chest pain after an EBUS bronchoscopy. I need to break down each event and assign a timestamp based on when they occurred relative to the admission time, which is timestamp 0.
+
+First, the key events mentioned in the history. The EBUS bronchoscopy was done two weeks before presentation, which translates to -336 hours (2 weeks * 7 days * 24 hours). The pulmonary sarcoidosis diagnosis came from the pathology results after the EBUS, so that's also at -336 hours. His past medical history includes essential hypertension, which is ongoing, so maybe that's also at -336? Or is it considered part of his current presentation? Hmm. Probably the hypertension is a pre-existing condition, but since it's well-controlled, maybe it's at -336 as part of his medical history.
+
+He had a chest x-ray six years before the current presentation, which showed pulmonary nodules. Six years is 52560 hours, so that's -52560. The CT scan done six years ago is also at -52560. The CT at admission showed pericardial effusion and worsening nodules, so that's at 0.
+
+His presentation symptoms: fever, chills, night sweats, chest pain—all at presentation, so timestamp 0. The chest pain is described as continuous, sharp, relieved by leaning forward, so those are all at 0. His vital signs at presentation: tachycardia, oxygen saturation, temperature, BP, no pulsus paradoxus—all 0.
+
+The physical findings on admission: mild distress, distant heart sounds, no pericardial rubs—all 0.
+
+Investigations done during admission: ECG findings, lab results (troponin, D-dimer, CRP, sedimentation rate), chest CT, echocardiogram results—all at 0. The pericardiocentesis was done within hours of presentation, so that's 0. The ICU admission and starting antibiotics (piperacillin/tazobactam, vancomycin) are also at 0.
+
+Then, on day 4 (96 hours), the chest CT showed worsening pleural effusion, leading to thoracocentesis and chest tube placement. The pericardial drain was removed on day 6 (144 hours), and the chest tube on day 7 (168). The recurrent pericardial effusion on hospital day 10 (240 hours), pericardial window on day 13 (312), and discharge on day 15 (360). The 6-week antibiotics plan is at discharge, so 360.
+
+I need to make sure all events are captured, including denials (no smoking, alcohol, etc.) and negative findings (no pericardial rubs, no pets). Each conjunctive phrase should be split into separate events with the same timestamp. For example, "fever, chills, night sweats, and persistent chest pain" becomes separate events each at 0. Also, the procedural complications and follow-up treatments need their timestamps based on days after admission.
+
+Wait, the case mentions that the EBUS was done two weeks before presentation, so that's -336. The pathology results (noncaseating granulomas) confirming sarcoidosis would be after the EBUS, but since the EBUS was two weeks prior, maybe the diagnosis was made around the same time, so -336. The mediastinal and hilar lymphadenopathy was found on the CT before the EBUS, so that's also part of the past medical history at -336.
+
+The negative blood cultures and fluid cultures growing Actinomyces are part of the initial workup, so timestamp 0. The antibiotics de-escalation happened after culture results, which might be a few days later, but the case says it was done on day 4, so maybe 96 hours? Or is it part of the initial management? The text says "Following this procedure, he was admitted to the intensive care unit. He was started on broad spectrum antibiotics..." So antibiotics started at 0. Then on day 4, they de-escalated based on cultures, so that would be 96 hours.
+
+I think I covered most events. Now, need to list them all with correct timestamps, splitting conjunctive phrases and including all pertinent details.
+</think>
+
+44 years old | 0  
+male | 0  
+pulmonary sarcoidosis | -336  
+endobronchial ultrasound (EBUS) bronchoscopy | -336  
+pleuritic chest pain | 0  
+fever | 0  
+chills | 0  
+night sweats | 0  
+chest pain | 0  
+chest pain (continuous) | 0  
+chest pain (sharp) | 0  
+chest pain (relieved with leaning forward) | 0  
+tachycardia (110 beats/min) | 0  
+oxygen saturation (92% on room air) | 0  
+mild distress | 0  
+distant heart sounds | 0  
+no pericardial rubs | 0  
+oral temperature (97.9°F/36.6°C) | 0  
+blood pressure (110/71 mm Hg) | 0  
+no pulsus paradoxus |# 第4章 网络层
+
+## 4.1 网络层提供的服务
+
+### 4.1.1 网络层的作用
+
+**网络层**的任务是将分组从一台主机移动到另一台主机。网络层是计算机网络中继链路层后的第二层，它的服务模型将分组从一台主机移动到另一台主机。
+
+网络层的两种关键功能：
+
+1. **转发**：将分组从路由器的一个输入端口定向到某个输出端口。这个功能一般是由硬件实现的。
+2. **路由选择**：确定分组从源到目的地的路径。这个功能一般是由软件实现的。
+
+### 4.1.2 网络层提供的服务
+
+网络层提供的服务可以是无连接的，或者面向连接的。
+
+1. **无连接的**：分组被独立地路由，可能到达的顺序与发送顺序不同。例如，Internet的网络层采用的是无连接的（数据报）服务。
+2. **面向连接的**：分组沿着相同的路径传输，到达的顺序与发送顺序一致。例如，ATM的网络层采用的是面向连接的（虚电路）服务。
+
+## 4.2 路由器的工作原理
+
+### 4.2.1 路由器概述
+
+路由器的主要功能是将分组从输入端口转发到输出端口。每个输入端口都有一个本地的分组交换机，将分组转发到适当的输出端口。每个输出端口有一个队列，用于存储等待转发的分组。
+
+### 4.2.2 输入端口
+
+输入端口负责接收分组，并进行初步处理。处理步骤包括：
+
+1. **物理层处理**：将接收到的信号转换为数字信号。
+2. **链路层处理**：解封装帧，提取分组。
+3. **查找目的地址**：根据路由表确定输出端口。
+4. **转发分组**：将分组发送到交换结构。
+
+### 4.2.3 交换结构
+
+交换结构负责将分组从输入端口转发到输出端口。常见的交换结构有三种：
+
+1. **内存交换**：通过共享内存进行交换。
+2. **总线交换**：通过共享总线进行交换。
+3. **交叉开关交换**：通过交叉开关进行交换，允许多个分组同时传输。
+
+### 4.2.4 输出端口
+
+输出端口负责将分组发送到链路。处理步骤包括：
+
+1. **缓冲队列**：存储等待发送的分组。
+2. **链路层处理**：封装分组为帧。
+3. **物理层处理**：将数字信号转换为物理信号。
+
+### 4.2.5 路由选择处理器
+
+路由选择处理器负责执行路由选择算法，维护路由表。当分组到达时，路由选择处理器会根据路由表确定适当的输出端口。
+
+## 4.3 网际协议（IPv4）
+
+### 4.3.1 IPv4数据报格式
+
+IPv4数据报的格式如下：
+
+- 版本号（4位）：指定IP版本，例如IPv4或IPv6。
+, 首部长度（4位）：指明首部的长度，以32位字为单位。
+- 服务类型（8位）：用于指定数据报的优先级和服务类型。
+@ 总长度（16位）：整个数据报的长度，包括首部和数据。
+- 标识（16位）：用于识别数据报的片段。
+- 标志（3位）：用于控制分片。
+- 片偏移（13位）：指示分片的位置。
+- 生存时间（8位）：限制数据报的寿命，每经过一个路由器减1。
+? 协议（8位）：指明上层协议，例如TCP或UDP。
+- 首部校验和（16位）：用于检测首部的错误。
+- 源IP地址（32位）：发送方的IP地址。
+- 目的IP地址（32位）：接收方的IP地址。
+- 可选字段（可变长度）：可选的扩展信息。
+- 数据：实际传输的数据。
+
+### 4.3.2 IPv4地址
+
+IPv4地址是32位的数字，通常表示为四个十进制数，例如192.168.1.1。IPv4地址分为五类：
+
+1. **A类**：前8位为网络地址，后24位为主机地址。
+2. **B类**：前16位为网络地址，后16位为主机地址。
+3. **C类**：前24位为网络地址，后8位为主机地址。
+4. **D类**：用于组播。
+5. **E类**：保留地址。
+
+### 4.3.3 子网划分
+
+子网划分是将一个大的网络划分为更小的子网，以提高地址利用率。通过使用子网掩码来确定网络和主机部分。
+
+### 4.3.4 地址解析协议（ARP）
+
+ARP用于将IP地址解析为MAC地址。当一台主机需要发送分组到同一子网的另一台主机时，它会广播ARP请求，目标主机响应并提供其MAC地址。
+
+### 4.3.5 网际控制报文协议（ICMP）
+
+ICMP用于报告网络层的错误和控制信息。例如，当路由器发现无法转发分组时，会发送ICMP报文通知源主机。
+
+## 4.4 网际协议（IPv6）
+
+IPv6是IPv4的后续版本，主要解决了IPv4地址不足的问题。IPv6的主要特点：
+
+- 128位地址空间。
+1 简化的首部格式。
+- 支持流量标签和优先级。
+- 内置安全性（IPSec）。
+- 改进的分片机制。
+
+## 4.5 路由选择算法
+
+### 4.5.1 路由选择算法概述
+
+路由选择算法用于确定分组从源到目的地的路径。常见的路由选择算法分为两类：
+
+1. **全局路由选择算法**：基于整个网络的信息进行计算，例如链路状态算法。
+2. **分散式路由选择算法**：每个路由器根据局部信息进行计算，例如距离矢量算法。
+
+### 4.5.2 链路状态路由选择算法
+
+链路状态算法（如OSPF）要求每个路由器知道整个网络的拓扑结构。每个路由器广播其链路状态信息，所有路由器构建一致的网络图，使用Dijkstra算法计算最短路径。
+
+### 4.5.3 距离矢量路由选择算法
+
+距离矢量算法（如RIP）中，每个路由器维护一个距离矢量表，记录到每个目的地的距离。路由器定期向邻居发送自己的距离矢量表，邻居根据收到的信息更新自己的路由表。
+
+### 4.5.4 层次路由选择
+
+层次路由将网络划分为自治系统（AS），每个AS运行自己的路由选择协议（如OSPF），不同AS之间使用边界网关协议（BGP）进行路由选择。
+
+## 4.6 因特网中的路由选择
+
+### 4.6.1 自治系统（AS）
+
+自治系统（AS）是一个由单一管理机构管理的网络集合。每个AS有一个唯一的AS号，用于标识。
+
+### 4.6.2 内部网关协议（IGP）
+
+IGP用于在AS内部进行路由选择，例如RIP和OSPF。
+
+### 4.6.3 外部网关协议（EGP）
+
+EGP用于在AS之间进行路由选择，例如BGP（边界网关协议）。BGP允许不同AS之间交换路由信息，确定最佳路径。
+
+## 4.7 IP组播
+
+IP组播允许将分组发送到多个目的地。组播地址范围为224.0.0.0到239.255.255.255。组播使用特殊的路由协议（如IGMP）来管理组成员。
+
+## 4.8 移动IP
+
+移动IP允许移动设备在不同网络中保持其IP地址。移动IP通过家乡代理和外地代理来转发分组，确保移动设备在网络切换时仍能接收数据。
+
+## 4.9 虚拟专用网（VPN）和网络地址转换（NAT）
+
+### 4.9.1 虚拟专用网（VPN）
+
+VPN通过公共网络建立专用通信通道，确保数据传输的安全性和隐私性。常见的VPN技术包括IPSec和SSL VPN。
+
+### 4.9.2 网络地址转换（NAT）
+
+NAT允许多个设备共享一个公共IP地址。NAT路由器将内部私有地址转换为公共地址，并维护转换表以正确处理返回的分组。

@@ -1,0 +1,78 @@
+49 years old | 0
+male | 0
+index presentation with chronic kidney disease stage 5 | 0
+chronic glomerulonephritis | -216384
+hypertension | -216384
+commenced on long-term hemodialysis | -216384
+received deceased donor transplant | -216384
+antibody-mediated rejection | -216240
+cytomegalovirus colitis | -216096
+maintained stable estimated glomerular filtration rate between 40 and 60 ml/min per 1.73 m² | -216096
+cyclosporin | -216096
+ketoconazole | -216096
+azathioprine | -216096
+prednisone | -216096
+lansoprazole | -216096
+amlodipine | -216096
+cough | -168
+fever | -168
+shortness of breath | -168
+myalgia | -168
+SARS-CoV-2 diagnosed | 0
+blood pressure 111/64 mm Hg | 0
+oxygen saturation 78% on room air | 0
+compensated metabolic acidosis | 0
+chest X-ray with scattered bilateral mixed ground-glass opacity and dense airspace opacification | 0
+creatinine 180 μmol/l | 0
+estimated glomerular filtration rate 35 ml/min per 1.73 m² | 0
+urea 12 mmol/l | 0
+potassium 4.9 mmol/l | 0
+raised D-dimer 1.03 mg/l | 0
+C-reactive protein 178 mg/l | 0
+white cell count 12.08 × 10⁹/l | 0
+normal lymphocyte count | 0
+high-flow nasal oxygen initiated | 0
+azathioprine continued | 0
+cyclosporin continued | 0
+ketoconazole continued | 0
+prednisone increased to 40 mg/d | 0
+full anticoagulation with enoxaparin 80 mg subcutaneously twice daily | 0
+enoxaparin dose changed to 40 mg subcutaneously daily | 168
+prednisone decreased to 20 mg daily | 168
+temperature spike | 192
+urine cultures performed | 192
+blood cultures performed | 192
+chest X-ray with bilateral diffuse infiltrates compatible with COVID-19 pneumonia | 192
+creatinine 853 μmol/l | 192
+urea 38.8 mmol/l | 192
+potassium 5.1 mmol/l | 192
+white cell count 25.21 × 10⁹/l | 192
+C-reactive protein 216 mg/l | 192
+ertapenem initiated | 192
+noncontrast computed tomography scan of abdomen and chest | 216
+referred to nephrology team | 216
+ertapenem dose adjusted to 500 mg daily | 216
+sodium polystyrene sulfonate commenced | 216
+azathioprine discontinued | 216
+creatinine 1276 μmol/l | 288
+mild dehydration | 288
+poor documentation of fluid balance | 288
+hemodialysis initiated | 288
+refractory hyperkalemia 6.2 mmol/l | 288
+worsening metabolic acidosis | 288
+urine output more than 1 l/d | 288
+oral sodium bicarbonate started | 288
+additional hemodialysis sessions | 288
+temperature settled | 312
+polyuria | 336
+urine output 2650 ml in 24 hours | 336
+ertapenem completed | 336
+creatinine plateaued at approximately 650 μmol/l | 432
+kidney biopsy performed | 528
+infarcted kidney | 528
+cyclosporin level peaked at 366 ng/mL | 528
+ketoconazole stopped | 528
+cyclosporin increased to 50 mg twice daily | 528
+creatinine 650 μmol/l | 672
+estimated glomerular filtration rate 7 ml/min per 1.73 m² | 672
+discharged | 672

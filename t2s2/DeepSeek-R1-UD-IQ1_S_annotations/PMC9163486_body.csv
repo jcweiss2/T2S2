@@ -1,0 +1,91 @@
+event,time
+51 years old,0
+    male,0
+    admitted to ICU for acute circulatory failure ,0
+    diarrhea ,-48
+    rigors ,-48
+    chronic kidney disease ,0
+    serum creatinine 120 µmol/L ,0
+    diabetes mellitus ,0
+    sarcoidosis ,0
+    hepatosplenic involvement ,0
+    splenectomy fourteen years ago ,-131448
+    treated with hydroxychloroquine ,0
+    no immunosuppressive drug ,0
+    one dog ,0
+    no other pet ,0
+    vaccinated against Streptococcus pneumoniae ,0
+    vaccinated against Neisseria meningitidis ,0
+    no antibiotic prophylaxis ,0
+    central body temperature 34.4°C ,0
+    heart rate 121/min ,0
+    arterial blood pressure 80/40 mmHg ,0
+    respiratory rate 20/min ,0
+    SpO2 99% ,0
+    coma Glasgow score 15 ,0
+    alert ,0
+    oriented ,0
+    no neck stiffness ,0
+    irrelevant lung auscultation ,0
+    irrelevant abdominal examination ,0
+    no heart murmur ,0
+    extensive non-blanching rash of trunk ,0
+    marked non-blanching rash of trunk ,0
+    non-blanching rash of head ,0
+    non-blanching rash of limbs ,0
+    severe lactic acidosis ,0
+    pH 6.92 ,0
+    lactate 13 mmol/L ,0
+    acute-on-chronic kidney failure ,0
+    serum creatinine 273 µmol/L ,0
+    disseminated intravascular coagulation ,0
+    prothrombin time 20% ,0
+    platelet count 18 G/L ,0
+    fibrinogen 1.9 g/L ,0
+"    D-dimer 20,000 ng/mL ",0
+    marked biological inflammatory syndrome ,0
+"    leukocytes count 45,000/mm3 ",0
+    procalcitonin 57 ng/mL ,0
+    thoracic CT-scan ruled out mesenteric ischemia ,0
+    abdominal CT-scan ruled out mesenteric ischemia ,0
+    ruled out obstructive urinary infection ,0
+    ruled out biliary tract infection ,0
+    ruled out pneumonia ,0
+    transthoracic echocardiography no valvular regurgitation ,0
+    transthoracic echocardiography no vegetation ,0
+    direct examination of urinary sample negative ,0
+    pneumococcal urinary antigen test negative ,0
+    initial management included empirical antibiotic therapy ,0
+    high-dose cefotaxime ,0
+    massive fluid loading ,0
+    renal replacement therapy for anuria ,0
+    hyperkaliemia ,0
+    invasive mechanical ventilation ,0
+    hydrocortisone ,0
+    vasopressor support ,0
+    high-dose norepinephrine ,0
+    death from refractory circulatory failure ,10
+    multi-organ failure ,10
+    two sets of blood cultures drawn at ICU admission ,0
+    blood cultures grew immotile Gram-positive cocci in chains ,0
+    identification by MALDI-TOF yielded Enterococcus cecorum ,0
+    confirmed by another MALDI-TOF ,0
+    susceptible to ampicillin ,0
+    susceptible to vancomycin ,0
+    susceptible to linezolid ,0
+    susceptible to rifampicin ,0
+    susceptible to cefotaxime ,0
+    susceptible to ceftriaxone ,0
+    third set of blood cultures remained sterile ,6
+    Enterococcus cecorum infection ,0
+    purpura fulminans ,0
+    overwhelming sepsis ,0
+    OPSI ,0
+    dog exposure ,0
+    denied recent bite ,0
+    denied scratch ,0
+    denied lick ,0
+    possible endogenous gastrointestinal source ,0
+    Enterococcus cecorum susceptibility to third-generation cephalosporins ,0
+    no conflict of interest ,0
+    consent obtained ,0

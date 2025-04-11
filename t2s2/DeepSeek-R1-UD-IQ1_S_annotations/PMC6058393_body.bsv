@@ -1,0 +1,72 @@
+21 years old|0
+    male|0
+    gunshot wound to the chest|0
+    bullet fragments embolization|0
+    retrograde venous bullet embolization|0
+    right atrium|0
+    hepatic inferior vena cava (IVC)|0
+    admitted to the emergency department|0
+    tachycardia|-1
+    hypotension|-1
+    pain in right posterior thorax|-1
+    penetrating injury|-1
+    shortness of breath|-1
+    decreased breath sounds in the right thorax|-1
+    right-sided pleural effusion|-1
+    right pneumothorax|-1
+    shrapnel material overlying the right inferior thorax|-1
+    right-sided chest tube placement|-1
+    drained 1,000 mL of blood|-1
+    heart rate normalization|-1
+    blood pressure normalization|-1
+    CT of the chest and abdomen|-1
+    metallic fragment within the right atrium|-1
+    emergently brought to the operating room|0
+    general endotracheal anesthesia|0
+    left radial arterial catheter|0
+    right femoral arterial catheter|0
+    right internal jugular central venous catheter|0
+    sternotomy|0
+    cardiopulmonary bypass initiation|0
+    volatile agents|0
+    opiates|0
+    benzodiazepines|0
+    crystalloid|0
+    blood products|0
+    vasopressor agents|0
+    TEE before sternotomy|0
+    normal left ventricle|0
+    suspicious for IVC or right atrial hematoma|0
+    IVC repair|0
+    good right ventricular function|0
+    good left ventricular function|0
+    radiolucent particle within the intrahepatic IVC|0
+    portable intraoperative CXR|0
+    weaned from cardiopulmonary bypass|24
+    chest closure|24
+    transferred to hybrid operating suite|24
+    inferior venacavagraphy|24
+    removal of 2-cm bullet fragment|24
+    hemodynamically stable throughout the procedure|24
+    hemoglobin never below 6.1 g/dL|24
+    transported to cardiothoracic intensive care unit|24
+    estimated blood loss of 300 mL|24
+    sudden output of 2.5 L of bloody discharge from chest tube|72
+    transfused 6 U packed red blood cells|72
+    transfused 4 U fresh frozen plasma|72
+    transfused 1 U cryoprecipitate|72
+    transfused one pack of pooled platelets|72
+    chest reopened at bedside|72
+    no active bleeders found|72
+    coagulopathy corrected|72
+    chest tube output decreased|72
+    chest packed and remained open overnight|72
+    vacuum suction applied|72
+    chest closed on postoperative day 1|24
+    sedation weaned|48
+    successfully extubated on postoperative day 2|48
+    no medical history|0
+    no exit site|0
+    no obvious cardiovascular findings (other than metallic fragment)|-1
+    no intracardiac bullet fragments identified during initial TEE|0
+    

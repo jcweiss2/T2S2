@@ -1,0 +1,129 @@
+76 years old | 0
+married farmer | 0
+rural background | 0
+presented to ER | 0
+non-healing wound to posterior left thigh | -168
+falling from a tree | -168
+no significant medical history | 0
+no significant surgical history | 0
+no known allergies | 0
+regular alcohol use | 0
+independent living | 0
+3x2 cm ulcerated suppurative wound | 0
+wound exploration | 0
+wound debridement | 0
+tetanus toxoid administered | 0
+infected wound suspicion | 0
+wound swab sent for culture | 0
+discharged | 0
+oral Flucloxacillin | 0
+oral Metronidazole | 0
+analgesics | 0
+advised outpatient follow-up | 0
+local medical center visit | -168
+wound cleaning | -168
+analgesics given | -168
+temporary pain relief | -168
+recurrent pain | -168
+swelling | -168
+purulent discharge | -168
+ER presentation for unrelieved pain | 0
+increased white blood cell count | 0
+pus cells in urine | 0
+discharged home | 0
+Ofloxacin added | 0
+ER presentation again | 0
+slurring of speech | 0
+disorientation | 0
+board-like abdominal rigidity | 0
+muscle spasms | 0
+risus sardonicus | 0
+symptoms induced by stimuli | 0
+down-going bilateral plantar reflexes | 0
+increased jaw reflex | 0
+tetanus suspicion | 0
+ICU admission | 0
+Intravenous Immunoglobulin (IVIG) started | 0
+antibiotics upgraded | 0
+Tazobactam-Piperacillin | 0
+Vancomycin | 0
+Metronidazole continued | 0
+lumbar puncture impossible | 0
+non-contrast CT head normal | 0
+elective intubation | 0
+fentanyl sedation | 0
+midazolam sedation | 0
+neuromuscular blocking agent (Vecuronium) started | 0
+blood culture growth of Clostridium tetani | 0
+renal function deterioration | 24
+4 hemodialysis sessions | 24
+hemoglobin drop to 3 | 24
+5 units packed red cells | 24
+family counseling | 24
+left ICU against medical advice | 192
+succumbed to disease | 216
+76 years old|0
+married farmer|0
+rural background|0
+presented to ER|0
+non-healing wound to posterior left thigh|-168
+falling from a tree|-168
+no significant medical history|0
+no significant surgical history|0
+no known allergies|0
+regular alcohol use|0
+independent living|0
+3x2 cm ulcerated suppurative wound|0
+wound exploration|0
+wound debridement|0
+tetanus toxoid administered|0
+infected wound suspicion|0
+wound swab sent for culture|0
+discharged|0
+oral Flucloxacillin|0
+oral Metronidazole|0
+analgesics|0
+advised outpatient follow-up|0
+local medical center visit|-168
+wound cleaning|-168
+analgesics given|-168
+temporary pain relief|-168
+recurrent pain|-168
+swelling|-168
+purulent discharge|-168
+ER presentation for unrelieved pain|0
+increased white blood cell count|0
+pus cells in urine|0
+discharged home|0
+Ofloxacin added|0
+ER presentation again|0
+slurring of speech|0
+disorientation|0
+board-like abdominal rigidity|0
+muscle spasms|0
+risus sardonicus|0
+symptoms induced by stimuli|0
+down-going bilateral plantar reflexes|0
+increased jaw reflex|0
+tetanus suspicion|0
+ICU admission|0
+Intravenous Immunoglobulin (IVIG) started|0
+antibiotics upgraded|0
+Tazobactam-Piperacillin|0
+Vancomycin|0
+Metronidazole continued|0
+lumbar puncture impossible|0
+non-contrast CT head normal|0
+elective intubation|0
+fentanyl sedation|0
+midazolam sedation|0
+neuromuscular blocking agent (Vecuronium) started|0
+blood culture growth of Clostridium tetani|0
+renal function deterioration|24
+4 hemodialysis sessions|24
+hemoglobin drop to 3|24
+5 units packed red cells|24
+family counseling|24
+left ICU against medical advice|192
+succumbed to disease|216
+no known allergies |: 0

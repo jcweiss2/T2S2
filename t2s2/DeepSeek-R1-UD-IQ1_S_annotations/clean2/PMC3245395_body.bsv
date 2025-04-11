@@ -1,0 +1,87 @@
+62 years old|0
+female|0
+referred to the emergency department|0
+acute myocardial infarction|0
+admitted to a local hospital|-144
+fever|-144
+abdominal pain|-144
+abdominal computed tomography scan|-144
+large (9 × 8 cm) multi-septated abscess|-144
+adjacent hepatic venous thrombosis|-144
+empirical antibiotics|-144
+pus drained|-144
+8.5 Fr pigtail catheter|-144
+Klebsiella oxytoca isolated|-144
+acute onset of chest pain|0
+acute onset of dyspnea|0
+ST elevation in leads V3-V6|0
+poor R progression|0
+troponin I level elevated (4.10 ng/mL)|0
+transferred|0
+clinical examination|0
+anxious patient|0
+acute respiratory distress|0
+blood pressure 91/62 mmHg|0
+temperature 37.7℃|0
+respiratory rate 28 breaths per minute|0
+oxygen saturation 88%|0
+decreased breath sounds at the base of the right lung|0
+diffuse crackles in the lower two-thirds of both lung fields|0
+regular rhythm|0
+no gallops|0
+no murmurs|0
+electrocardiographic findings similar to previous|0
+ventricular response rate 120 bpm|0
+B-type natriuretic peptide level 1,512 pg/mL|0
+white blood cell count 18,600/mm3|0
+predominant neutrophils|0
+C-reactive protein level 14.44 mg/dL|0
+troponin I normalized|0
+severely impaired LV function|0
+ejection fraction 30%|0
+akinesia in the mid$-$ to distal portion of the LV chamber|0
+TTC suspected|0
+stressful physical condition|0
+apical ballooning on echocardiography|0
+diagnosis confirmed by coronary angiography|0
+normal epicardial coronary vessels|0
+systolic blood pressure dropped to 70 mmHg|0
+hypotension persisted|0
+transferred to the medical ICU|0
+given vasopressors|0
+given dobutamine|0
+given diuretic support|0
+hemodynamically stable|120
+improved symptoms|120
+improved chest radiographic findings|120
+follow$-$up echocardiography|168
+persistent apical ballooning|168
+ejection fraction 18%|168
+improved liver abscess|168
+improved bacteremia|168
+medical treatment for heart failure|168
+beta$-$blocker|168
+nitrate|168
+diuretics|168
+angiotensin$-$converting enzyme inhibitor|168
+persistent LV dysfunction|504
+serial echocardiography|504
+cardiac magnetic resonance imaging|504
+no signs of tissue hyperenhancement|504
+absence of scarred myocardial tissue|504
+ruled out infiltrating diseases|504
+LV dysfunction slightly improved|840
+ejection fraction 36%|840
+newly developed apical thrombus|840
+full$-$dose heparin administered|840
+oral anticoagulation therapy with warfarin|840
+no embolic event|840
+follow$-$up echocardiography 3 months later|2160
+persistent akinesia of the LV apex|2160
+slightly improved contractility of the mid$-$ventricular wall segment|2160
+ejection fraction 40%|2160
+apical thrombus completely resolved|2160
+Takotsubo cardiomyopathy|0
+apical thrombus|840
+LV mural thrombus|840
+normal coronary angiographic findings|0

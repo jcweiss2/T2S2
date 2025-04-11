@@ -1,0 +1,221 @@
+event,time
+74 years old , 0
+    woman , 0
+    newly diagnosed diabetes mellitus , -504
+    hypertension , -?
+    hyperlipidemia , -?
+    small cell lung cancer metastatic to the brain , -504
+    presented to the emergency department , 0
+    lethargy , -48
+    weakness , -48
+    significantly worsened over the past 2 days , -48
+    cancer diagnosed , -504
+    gamma knife radiation therapy , -504
+    dexamethasone 4 mg twice daily , -504
+    cerebral edema , -504
+    diabetes mellitus diagnosed , -504
+    hemoglobin A1c 6.5% , -504
+    blood glucose >799 mg/dL , 0
+    hemoglobin A1c 10.8% , 0
+    follow-up appointment with oncologist , -?
+    blood glucose elevated , -?
+    no symptoms , -?
+    advised to follow up with primary care provider , -?
+    started to feel ill , -?
+    went to ED instead , 0
+    admitted with hyperosmolar hyperglycemic state , 0
+    left eyelid swelling , 0
+    erythema , 0
+    preseptal cellulitis , 0
+    ophthalmoplegia , 0
+    visual impairment left eye , 0
+    worsened mental status , 0
+    difficulty following commands , 0
+    aggressive hydration with IV fluids , 0
+    insulin , 0
+    septic shock , 0
+    broad-spectrum antibiotics , 0
+    vasopressors via central venous catheter , 0
+    evaluated in medical ICU , ?
+    poor prognosis , 0
+    not a candidate for ICU-level care , 0
+    medically managed on inpatient medicine service , 0
+    computed tomography scan head and neck , 0
+    left ocular proptosis , 0
+    invasive rhinomaxillary fungal disease , 0
+    amphotericin B started , 0
+    urgent surgical debridement , 0
+    magnetic resonance imaging head and neck , ?
+    invasive fungal disease left inferior frontal lobe , 0
+    multidisciplinary meeting , ?
+    healthcare agent declined further surgery , ?
+    orbital exenteration offered , ?
+    skull base surgery offered , ?
+    healthcare agent preferred conservative medical management , ?
+    surgical pathology confirmed invasive mucormycosis (R. oryzae) , ?
+    concomitant infection S. maltophilia , ?
+    blood cultures grew methicillin-susceptible S. aureus , ?
+    treated with liposomal amphotericin B , 0
+    cefazolin , 0
+    levofloxacin , 0
+    herpetic lesion , ?
+    resolved with valacyclovir , ?
+    vasopressor support until hospital day 19 , 19 * 24 = 456
+    electrolyte abnormalities , 0
+    hypokalemia , 0
+    pronounced after liposomal amphotericin B started on day 5 , 5 * 24 = 120
+    potassium level 4.2 mmol/L , 0
+    hypokalemia persisted , 120
+    potassium supplementation , 120
+    spironolactone , 120
+    completed course on day 25 , 25 * 24 = 600
+    discharged day 26 , 26 * 24 = 624
+    lost to follow-up , 624
+    declined appointments , 624
+"Alright, let's tackle this problem. The user provided a case report and asked me to extract all clinical events with their timestamps relative to the admission time (which is considered 0 hours). Events before admission have negative timestamps, and those after admission have positive ones. The challenge is to parse the case report accurately and assign the correct timestamps based on the information given.",
+"First, I'll start by reading the case report carefully to identify all events and their temporal relationships. The key here is to note any explicit time mentions or implicit ones based on events relative to admission. The admission event is at time 0. Any event happening before admission will have a negative timestamp, calculated in hours. Events after admission are positive.",
+The case report is quite detailed. Let's break it down section by section:,
+"**Background**: This section provides general information about mucormycosis but doesn't include patient-specific events, so I can ignore it for event extraction.",
+**Case Report**:,
+"- The patient is a 74-year-old woman with newly diagnosed DM, hypertension, hyperlipidemia, and metastatic small cell lung cancer (SCLC) to the brain. She presented to the ED with lethargy and weakness that worsened over the past 2 days. ",
+"- Her cancer was diagnosed 3 weeks before admission and treated with gamma knife radiation therapy 1 week after that (so 3 weeks before admission + 1 week later = 4 weeks before admission? Wait, need to clarify that timeline).",
+- She was taking dexamethasone (4 mg twice daily) for cerebral edema.,
+"%3 weeks before admission, she was diagnosed with DM (HbA1c 6.5%).",
+"- At admission, her blood glucose was >799 mg/dL, HbA1c 10.8%.",
+"- Several days before ED presentation, during a follow-up with oncologist, blood glucose was elevated but she had no symptoms.",
+ She was advised to follow up with primary care but felt ill and went to ED instead.,
+- Admitted with hyperosmolar hyperglycemic state.,
+"- Physical exam showed left eyelid swelling, erythema, concerning for preseptal cellulitis. She developed ophthalmoplegia, visual impairment in left eye, worsened mental status, difficulty following commands.",
+"+ Treated with IV fluids, insulin, then went into septic shock, started on broad-spectrum antibiotics and vasopressors.",
+- Evaluated in ICU but not a candidate due to poor prognosis; managed on inpatient service.,
+"- CT scan showed left ocular proptosis, invasive rhinomaxillary fungal disease. Started on amphotericin B, surgical debridement.",
+MRI showed invasive fungal disease extending into left inferior frontal lobe.,
+- Healthcare agent declined further surgery; opted for conservative management.,
+- Surgical pathology confirmed mucormycosis (R. oryzae) and S. maltophilia. Blood cultures grew MSSA.,
+"- Treated with amphotericin B, cefazolin, levofloxacin. Herpetic lesion resolved with valacyclovir.",
+6 Vasopressor support until day 19.,
+"- Electrolyte abnormalities, hypokalemia (pronounced after amphotericin B started on day 5).",
+- Hypokalemia persisted despite supplementation and spironolactone after stopping vasopressors.,
+"- Completed treatment on day 25, discharged on day 26.",
+- Lost to follow-up as she declined appointments.,
+"**Discussion and other sections**: These are more about general discussion, so events here are not patient-specific.",
+"Now, assigning timestamps:",
+Admission is time 0. Events before admission need negative timestamps.,
+Key time references:,
+1. Cancer diagnosed 3 weeks before admission. 3 weeks = 21 days = 504 hours. So timestamp -504.,
+"2. Gamma knife radiation therapy 1 week after cancer diagnosis: 3 weeks before admission - cancer diagnosed at 3 weeks before, then radiation 1 week after that would be 2 weeks before admission. 2 weeks = 336 hours. So timestamp -336. Wait, the case says ""gamma knife radiation therapy 1 week after that"" (after cancer diagnosis). So cancer diagnosed 3 weeks before admission, radiation 1 week after diagnosis (i.e., 3 weeks before admission - 1 week after diagnosis would be 3 weeks - 1 week = 2 weeks before admission). So radiation at 2 weeks before admission, timestamp -336.",
+"But the case says: ""Her cancer had been diagnosed 3 weeks before admission and was treated with gamma knife radiation therapy 1 week after that."" So 3 weeks before admission is the cancer diagnosis. Then, radiation therapy was done 1 week after diagnosis, which would be 3 weeks - 1 week = 2 weeks before admission. Therefore, gamma knife radiation therapy is at -336 hours.",
+"Similarly, she was taking dexamethasone twice daily for cerebral edema. Since the cancer was diagnosed 3 weeks before admission, and radiation was 1 week after diagnosis (2 weeks before admission), the dexamethasone was likely started around the time of radiation therapy. But the case says: ""She was taking 4 mg of dexamethasone twice a day to treat cerebral edema."" The timing isn't explicitly stated, but it's implied that this started after the radiation therapy. So possibly started 2 weeks before admission, but the text isn't clear. However, the case also mentions ""Three weeks before admission, she had been diagnosed with DM..."" So DM diagnosed at 3 weeks before admission (-504 hours), and HbA1c 6.5% at that time.",
+"At admission, blood glucose >799 mg/dL and HbA1c 10.8% (timestamp 0).",
+"Several days before ED presentation: during follow-up with oncologist, blood glucose was elevated. Since ED presentation led to admission, and the follow-up was ""several days"" before presenting to ED. If ED presentation is at time 0, then ""several days"" before is -72 hours (assuming 3 days) or -48 hours (2 days). But the case says ""several days before presenting to the ED"", which led to admission. The exact duration isn't specified, but ""several"" could be 3-4 days, so timestamp around -72 to -96 hours. However, since the case mentions that she was admitted with symptoms that worsened over the past 2 days, the ED presentation was prompted by 2 days of worsening, so the follow-up with oncologist was ""several days"" before that. Let's assume the follow-up was 5 days before admission (e.g., 2 days of worsening, plus 3 days earlier for the follow-up). But this is unclear. Alternatively, the follow-up could have been a few days before she went to ED, but the exact time isn't given. Since it's not specified, we might have to assign an approximate time or leave it as -? But the instruction says to approximate if possible.",
+"Other events at admission (time 0): left eyelid swelling, erythema, preseptal cellulitis, ophthalmoplegia, visual impairment, worsened mental status, difficulty following commands, aggressive hydration, insulin, septic shock, broad-spectrum antibiotics, vasopressors.",
+"Evaluation in ICU happened after admission, but since the patient was not admitted to ICU, managed on inpatient service. The timestamp for ICU evaluation would be after admission, but the exact time isn't specified. However, the case mentions ""The patient next was evaluated in the Medical ICU..."" which implies shortly after admission. We can assign a timestamp based on hospital day. For example, if evaluated on day 1, that's 24 hours. But the case doesn't specify. We might have to assign an approximate time or leave it as unknown.",
+"CT scan and MRI timestamps: since these were done after admission, but the exact day isn't clear. However, the case mentions ""A computed tomography scan... revealed..."" likely shortly after admission, so timestamp 0 or shortly after. Similarly, MRI was performed after CT, so perhaps a few hours later, but without specific timing, we might assign 0 or approximate.",
+Amphotericin B started on day 5: day 5 is 120 hours (5*24). Surgical debridement also on day 5.,
+Vasopressors started on day 4: 96 hours.,
+Vasopressors stopped on day 19: 456 hours (19*24).,
+Hypokalemia noted after starting amphotericin B on day 5: 120 hours.,
+Completed treatment on day 25: 600 hours.,
+Discharged on day 26: 624 hours.,
+"Other events like ""herpetic lesion"" and resolution with valacyclovir: timing unclear, but likely after admission. If it's mentioned without a specific day, assign to 0 or approximate.",
+"Now, compiling all events:",
+"- Demographics: 74 years old, female (timestamp 0).",
+"- Conditions: newly diagnosed DM (3 weeks before admission: -504), hypertension, hyperlipidemia (no time given, but part of history, so assign -504?), metastatic SCLC to brain (diagnosed 3 weeks before: -504).",
+"- Presented to ED with lethargy and weakness worsened over 2 days: the lethargy and weakness started at least 2 days before admission, so -48 hours. ""Significantly worsened over the past 2 days"" implies the onset was 2 days prior, so timestamp -48.",
+/ Cancer diagnosed 3 weeks before admission: -504.,
+- Gamma knife radiation 1 week after diagnosis: 3 weeks before admission (diagnosis) + 1 week later = 2 weeks before admission: -336 hours.,
+"' Dexamethasone started: assuming started around the time of radiation therapy (2 weeks before admission), timestamp -336.",
+"- Cerebral edema: timestamp tied to dexamethasone use, so -336.",
+"- DM diagnosed 3 weeks before: -504, HbA1c 6.5% at that time.",
+"- At admission (0): blood glucose >799, HbA1c 10.8%.",
+"- Follow-up with oncologist several days before ED: assuming 5 days before admission (-120 hours), but since not specified, might need to approximate or leave as -?.",
+- Blood glucose elevated at follow-up: same timestamp as follow-up.,
+& No symptoms at follow-up: same time.,
+- Advised to follow up with PCP: same time.,
+"- Started to feel ill: unclear, but led to ED visit. Since she went to ED instead, the feeling ill happened shortly before ED visit, maybe -24 hours.",
+- Admitted with hyperosmolar state: 0.,
+"- Physical exam findings at admission (0): left eyelid swelling, erythema, preseptal cellulitis, ophthalmoplegia, visual impairment, worsened mental status, difficulty following commands.",
+"- Treatments at admission: IV fluids, insulin (0).",
+"- Septic shock: occurred after admission, but exact time unclear. Since it's part of the initial treatment, perhaps timestamp 0 or shortly after. The case says ""she went into septic shock and was started on broad-spectrum antibiotics and vasopressors..."" This likely happened early in admission, so timestamp 0 or a few hours later. Without specific info, assign 0.",
+- Vasopressors started on day 4 (96 hours).,
+"- Evaluated in ICU: since ICU consultation was on day 4, timestamp 96.",
+- Not candidate for ICU care: same time as evaluation.,
+"( Medically managed on inpatient service: ongoing from admission, timestamp 0.",
+"- CT scan: done after admission, timestamp 0 or shortly after. Since it's part of the initial workup, assign 0.",
+"- Left ocular proptosis, invasive rhinomaxillary disease: found on CT, so 0.",
+- Started amphotericin B: on day 5 (120 hours).,
+; Urgent surgical debridement: day 5 (120).,
+"- MRI performed after CT, perhaps a day later (24 hours), but case doesn't specify. Assign 0 or 24.",
+"- Invasive fungal disease in frontal lobe: found on MRI, same timestamp as MRI.",
+"- Multidisciplinary meeting: timing unclear, after MRI, perhaps day 5 (120).",
+- Healthcare agent declined surgery: same time as meeting.,
+- Orbital exenteration offered: same time.,
+- Conservative management preferred: same time.,
+"- Surgical pathology confirmed mucormycosis: timing after debridement, which was day 5 (120). So result available a few days later, but not specified. Assign 120 or later.",
+- Concomitant S. maltophilia: same timestamp as pathology.,
+"- Blood cultures grew MSSA: timing unclear, but likely after admission, assigned 0 or based on when cultures were taken.",
+"- Treated with amphotericin B (from day 5: 120), cefazolin (for MSSA, started when culture result available, say day 2: 48), levofloxacin (for S. maltophilia, same time).",
+"- Herpetic lesion: timing unclear, resolved with valacyclovir (timestamp based on when it occurred, but not specified).",
+- Vasopressors until day 19: 456 hours.,
+= Electrolyte abnormalities: started after amphotericin B on day 5 (120).,
+- Hypokalemia: same time.,
+"- Potassium level 4.2 mmol/L at start: timestamp 0 (on admission), then hypokalemia after day 5.",
+- Potassium supplementation and spironolactone: started after day 5 (120).,
+- Completed treatment day 25: 600.,
+- Discharged day 26: 624.,
+- Lost to follow-up: same as discharge time.,
+- Declined appointments: same.,
+"Now, translating this into the table. Some events have clear timestamps, others are approximated. For the hypertension and hyperlipidemia, since they are part of her history but no time given, we can assign them to the time when DM was diagnosed (3 weeks before admission, -504) as they are part of her existing conditions.",
+Putting it all together:,
+74 years old , 0  
+woman , 0  
+newly diagnosed diabetes mellitus , -504  
+hypertension , -504  
+hyperlipidemia , -504  
+small cell lung cancer metastatic to the brain , -504  
+presented to the emergency department , 0  
+lethargy , -48  
+weakness , -48  
+significantly worsened over the past 2 days , -48  
+cancer diagnosed , -504  
+gamma knife radiation therapy , -336  
+dexamethasone 4 mg twice daily , -336  
+cerebral edema , -336  
+diabetes mellitus diagnosed , -504  
+hemoglobin A1c 6.5% , -504  
+blood glucose >799 mg/dL , 0  
+hemoglobin A1c 10.8% , 0  
+follow-up appointment with oncologist , -120  
+blood glucose elevated , -120  
+no symptoms , -120  
+advised to follow up with primary care provider , -120  
+started to feel ill , -24  
+went to ED instead , 0  
+admitted with hyperosmolar hyperglycemic state , 0  
+left eyelid swelling , 0  
+erythema , 0  
+preseptal cellulitis , 0  
+ophthalmoplegia , 0  
+visual impairment left eye , 0  
+worsened mental status , 0  
+difficulty following commands ,> 0  
+aggressive hydration with IV fluids , 0  
+insulin , 0  
+septic shock , 0  
+broad-spectrum antibiotics , 0  
+vasopressors via central venous catheter , 0  
+evaluated in medical ICU , 96  
+poor prognosis , 96  
+not a candidate for ICU-level care , 96  
+medically managed on inpatient medicine service , 0  
+computed tomography scan head and neck , 0  
+left ocular proptosis , 0  
+invasive rhinomaxillary fungal disease , 0  
+amphotericin B started , 120  
+urgent surgical debridement , 120  
+magnetic resonance imaging head and neck , 120  
+invasive fungal disease left inferior frontal lobe , 120  
+multidisciplinary meeting , 120  
+healthcare agent declined further surgery , 120  
+orbital exenteration offered , 120  
+skull base,

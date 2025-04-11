@@ -1,0 +1,58 @@
+29 years old | 0
+    female | 0
+    admitted to ICU | 0
+    critical condition | 0
+    high fever | 0
+    rapidly progressing organ damage | 0
+    bacteremia following caesarean section | 0
+    pregnancy at 37 wk and 6 d | -72
+    hip position | -72
+    labor admission | -72
+    cesarean section | -48
+    breeched position of the fetus | -48
+    fever with peak body temperature 38.4°C | -24
+    abdominal distension | -24
+    chills | 0
+    shortness of breath | 0
+    intermittent tingling on lower abdomen | 0
+    temperature 40°C | 0
+    heart rate 115 beats/min | 0
+    blood pressure 147/84 mmHg | 0
+    respiratory rate 20/min | 0
+    oxygen saturation 92% | 0
+    white blood cells 14.83 × 10^9/L | 0
+    neutrophils 83.2% | 0
+    lymphocytes 9.9% | 0
+    procalcitonin 5.19 μg/L | 0
+    Gram-negative bacteria detected in blood culture | 0
+    intestinal obstruction | 0
+    abdominal and pelvic effusion | 0
+    peritonitis | 0
+    increased uterine volume | 0
+    intermixed high and low intrauterine density | 0
+    pulmonary embolism | 0
+    coffee-color liquid from gastric tube | 0
+    light-yellow ascites | 0
+    gastrointestinal bleeding | 0
+    white blood count >20.00 × 10^9/L | 120
+    wheezing | 168
+    SpO2 68% | 168
+    disseminated intravascular coagulation | 168
+    fibrinogen 4.03 g/L | 168
+    D-dimer 23.70 mg/L FEU | 168
+    fibrin degradation products 59.53 mg/mL | 168
+    antithrombin III 56.20% | 168
+    serum sodium 164 mmol/L | 168
+    C. kerstersii detected in blood and posterior fornix fluid | 168
+    clindamycin treatment | 0
+    metronidazole treatment | 48
+    levofloxacin treatment | 48
+    fasting | 48
+    enema | 48
+    piperacillin-tazobartan treatment | 168
+    meropenem treatment | 168
+    low-molecular-weight heparin anticoagulant | 168
+    transferred back to obstetrics department | 288
+    symptoms completely relieved | 336
+
+    

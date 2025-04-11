@@ -1,0 +1,76 @@
+78 years old | 0
+male | 0
+referred to the one-stop breast clinic | -720
+red swelling lump on left breast | -720
+tender lump on left breast | -720
+hot swelling lump on left breast | -720
+pus discharge from left breast | -720
+treated in primary care | -720
+no improvement | -720
+given Flucloxacillin 500 mg TDS | -720
+developed sinus discharging pus | -720
+residual abscess underneath | -720
+history of bilateral simple gynecomastia | -26208
+previous referral to breast clinic three years ago | -26208
+not diabetic | 0
+doesn't smoke | 0
+no family history of breast cancer | 0
+hypertension | -26208
+atrial fibrillation | -26208
+diabetes | -26208
+hyperlipidaemia | -26208
+allopurinol | -26208
+amlodipine | -26208
+warfarin | -26208
+large bilateral gynecomastia noted | 0
+abscess/inflammatory mass present on left side | 0
+ultrasound scan organized | 0
+mammogram not possible due to severe pain | 0
+ultrasound showed large abscess in left retroareolar region | 0
+aspiration attempted | 0
+no fluid yield | 0
+advised to continue antibiotics | 0
+another appointment arranged | 0
+mammogram performed | 0
+mammogram showed well-marginated round 60 mm mass | 0
+overlying skin thickening on left breast | 0
+right side showed simple gynecomastia | 0
+repeat ultrasound showed irregular vascularised hypoechoic mass | 24
+mass measuring up to 55 mm | 24
+invaded thickened overlying skin | 24
+ultrasound of left axilla showed four enlarged lymph nodes | 24
+lymph nodes morphologically abnormal | 24
+core biopsy done for left breast | 24
+core biopsy done for axillary lymph node | 24
+grade 2 invasive ductal carcinoma | 24
+oestrogen receptor positive | 24
+discussed at MDT meeting | 24
+recommended primary bridging hormone treatment | 24
+started on Tamoxifen 20 mg | 24
+staging investigations organized | 24
+no distant metastasis | 24
+plan to downstage tumour with hormone treatment | 24
+reassessed three months later | 2160
+no real response with Tamoxifen | 2160
+listed for mastectomy and axillary clearance | 2160
+chest wall involvement found during surgery | 2160
+aggressive tumour | 2160
+attachment to muscle not visible in imaging | 2160
+final surgical histology revealed no cellular response to Tamoxifen | 2160
+tumour size increased to 90 mm | 2160
+muscle involvement confirmed | 2160
+4 out of 22 lymph nodes contained metastases | 2160
+tumour emboli in dermal lymphatic vessels | 2160
+post-operative MDT discussed systemic treatment | 2160
+tumour didn't respond to Tamoxifen | 2160
+GnRH analogue plus aromatase inhibitor recommended | 2160
+post-mastectomy radiotherapy recommended | 2160
+discussed chemotherapy | 2160
+FEC-T six-cycle regimen recommended | 2160
+patient accepted chemotherapy | 2160
+neutropenic sepsis twice | 3600
+omitted final chemotherapy cycle | 3600
+agreed to proceed with radiotherapy and dual anti-hormone treatment | 3600
+no shortness of breath | 0
+denies chest pain | 0
+discharged | 3600

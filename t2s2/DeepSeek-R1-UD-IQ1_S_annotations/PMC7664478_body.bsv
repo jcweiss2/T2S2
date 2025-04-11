@@ -1,0 +1,60 @@
+40 years old | 0
+    woman | 0
+    presented to the emergency department | 0
+    two-day history of high-grade fever | -48
+    two-day history of generalized body aches | -48
+    two-day history of nausea | -48
+    two-day history of moderate right hypochondrium pain | -48
+    COVID-19 diagnosed | -336
+    high-grade fever of 39.5C | 0
+    blood pressure of 97/70 mmHg | 0
+    increased heart rate of 118/min | 0
+    normal respiratory rate | 0
+    mild tenderness on the right hypochondrium | 0
+    positive Murphy's sign | 0
+    no jaundice | 0
+    no scratch marks | 0
+    differential diagnosis of acute cholecystitis | 0
+    differential diagnosis of acute hepatitis | 0
+    differential diagnosis of liver abscess | 0
+    high white cell count | 0
+    increased neutrophils | 0
+    elevated C-reactive protein (CRP) | 0
+    elevated D-dimers | 0
+    elevated ferritin | 0
+    elevated interleukins | 0
+    chest XR performed | 0
+    bilateral lower lung patchy pulmonary consolidations | 0
+    left-sided pleural effusion | 0
+    abdominal ultrasound performed | 0
+    thickened gall bladder wall | 0
+    pericholecystic fluid | 0
+    minimal free fluid in the abdomen | 0
+    minimal free fluid in the pelvis | 0
+    acute acalculous cholecystitis | 0
+    sepsis workup | 0
+    blood cultures | 0
+    urine cultures | 0
+    surgical team consulted | 0
+    commenced on IV piperacillin-tazobactam | 0
+    commenced on azithromycin | 0
+    became hypotensive | 0
+    resuscitated with IV fluids | 0
+    repeat COVID Rrt-PCR inconclusive | 0
+    became normotensive | 0
+    continued high-grade fever | 0
+    CT abdomen performed | 0
+    bilateral pleural effusion | 0
+    consolidation | 0
+    ground-glass opacities | 0
+    atelectasis | 0
+    no intra-abdominal collection | 0
+    antibiotics changed to IV meropenem | 0
+    fever settled | 168
+    ninth day of hospital course | 216
+    inflammatory markers trending down | 216
+    repeat COVID-19 Rrt-PCR negative | 216
+    discharged | 216
+    outpatient follow-up | 216
+    telemedicine follow-up | 216
+    remained stable throughout follow-up | 240

@@ -1,0 +1,74 @@
+61 years old | 0
+female | 0
+referred to General Surgery for rectal prolapse | 0
+hypothyroidism | 0
+depression | 0
+hypertension | 0
+dyslipidemia | 0
+esophageal reflux | 0
+urinary retention | 0
+indwelling urinary catheter | 0
+chronic back pain | 0
+opioids | 0
+two previous vaginal childbirths | 0
+prolapsed rectum | 0
+viable mucosa | 0
+shallow ulceration | 0
+reducible rectal prolapse | 0
+recurrent rectal prolapse | 0
+preoperative colonoscopy | -168
+poor bowel preparation | -168
+scheduled for elective perineal proctosigmoidectomy | -168
+malaise | 0
+lower abdominal pain | 0
+decreased level of consciousness | 0
+hypotension | 0
+blood pressure 67/45 mm Hg | 0
+leukocytosis | 0
+white blood count 21 × 109/L | 0
+acute kidney injury | 0
+creatinine 346 μmol/L | 0
+urinalysis positive for nitrates | 0
+30+ leukocytes/high power field | 0
+diagnosed with urosepsis | 0
+blocked urinary catheter | 0
+ICU admission | 0
+resuscitation | 0
+intravenous fluids | 0
+vasopressors | 0
+rectal prolapse on physical examination | 0
+sigmoid colon herniating through perforation in rectal prolapse | 0
+necrotic sigmoid colon | 0
+General Surgery consultation | 0
+emergency Hartmann’s procedure | 0
+sacral rectopexy | 0
+prolapse reduction | 0
+strangulated sigmoid reduction | 0
+perforation of rectum 10 cm from anal verge | 0
+resected specimen | 0
+ischemic necrosis of resected sigmoid | 0
+viable margins | 0
+ICU stay post-operatively | 0
+transferred to surgical ward | 0
+gradual recovery | 0
+functioning colostomy | 0
+normalized bladder function | 0
+removal of indwelling catheter | 0
+transfer to rehabilitation facility | 0
+discharged home | 0
+well at outpatient clinic follow-up | 0
+constipation | 0
+chronic opioid use | 0
+sigmoid evisceration through rectal prolapse | 0
+strangulated sigmoid | 0
+necrotic sigmoid | 0
+delay in diagnosis | -24
+alternate etiology for sepsis | 0
+no abdominal symptoms | 0
+no peritonitis | 0
+transmural evisceration of bowel through rectal prolapse | 0
+lateral ulceration during colonoscopy | -168
+evisceration at left posterolateral aspect | 0
+medical management with stool softeners | 0
+avoidance of increased abdominal pressure | 0
+urgent surgical consultation | 0

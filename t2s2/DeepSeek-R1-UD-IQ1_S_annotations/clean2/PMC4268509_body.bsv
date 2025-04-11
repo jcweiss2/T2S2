@@ -1,0 +1,54 @@
+45 years old | 0
+female | 0
+right sided hemi-arthroplasty | -4320
+subcapitate fracture of neck of femur | -4320
+infected implant | -4080
+implant removal | -4080
+insertion of antibiotic coated spacer | -4080
+wound debridement | -4080
+regional anesthesia | -4080
+teicoplanin | 0
+amikacin | 0
+raised total leucocyte count | 0
+raised erythrocyte sedimentation rate | 0
+raised C-reactive protein | 0
+pregabalin 150 mg | -24
+pregabalin 150 mg | -2
+noninvasive blood pressure | 0
+SpO2 | 0
+coarse atrial fibrillation | 0
+heart rate | 0
+drowsy | 0
+denies anxiety | 0
+denies headache | 0
+denies nausea | 0
+denies chest pain | 0
+denies palpitation | 0
+denies difficulty in breathing | 0
+metoprolol | 0
+12-lead ECG | 0
+cardiology opinion | 0
+postponed surgery | 0
+confirmed atrial fibrillation | 0
+amiodarone infusion | 0
+systolic blood pressure | 0
+amiodarone bolus | 0
+heart rate reduction | 0
+systolic blood pressure increase | 0
+sinus rhythm | 0
+arterial blood gas | 0
+serum electrolytes | 0
+intensive care unit admission | 24
+troponin T | 24
+creatine phosphokinase-myoglobin | 24
+transthoracic echocardiography | 24
+continue amiodarone infusion | 24
+aspirin | 24
+ward transfer | 48
+right sided hemiarthroplasty | 336
+sepsis biomarker decrease | 336
+no pregabalin premedication | 336
+successful surgery | 336
+atrial fibrillation | 0
+sepsis | 0
+pregabalin premedication | -24

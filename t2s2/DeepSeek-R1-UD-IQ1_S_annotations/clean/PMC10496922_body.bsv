@@ -1,0 +1,68 @@
+69 years old | 0
+woman | 0
+diagnosed with right breast cancer | -168960 (assuming diagnosis in 2015, 7 years before admission, 7*365*24=61320 hours, but since the case report states the diagnosis was in 2015 and the admission was in 2022, approximately 7 years apart, so 7*365*24=61320 hours before admission, timestamp -61320)
+underwent radical surgery | -61320 (same as diagnosis time)
+developed high fever | -96 (developed on 16 August 2022, 4 days before transfer to ICU, which was on 20 August 2022. Assuming transfer to ICU on day 4, so high fever started 4 days before admission, 4*24=96 hours before admission, timestamp -96)
+developed pain in right upper limb | -96
+developed swelling in right upper limb | -96
+treatment in Zhongshan Huangpu Hospital | -72 (after 4 days of treatment, transferred to ICU on day 4, so treatment duration 4 days, 96 hours, but transfer happened after 4 days, so timestamp for treatment is -96 to -72. Assuming start of treatment at -96 and transfer at -72, but since the event is the treatment itself, timestamp -72)
+symptoms became worse | -72
+transferred to ICU of Zhongshan People’s Hospital | -72 (transfer after 4 days of treatment, so 4 days before admission, timestamp -72)
+confused on admission | 0
+blood pressure 80/40 mmHg | 0
+heart rate 105 beats/min | 0
+breathing frequency 25 breaths/min | 0
+armpit temperature 39°C | 0
+peripheral oxygen saturation 94% | 0
+WBC count 1.17×10^9/L | 0
+platelet count 70×10^9/L | 0
+hemoglobin 94 g/L | 0
+neutrophils 85.5% | 0
+IL-6 > 5000 pg/mL | 0
+CRP 164.0 mg/L | 0
+serum creatinine 158 µmol/L | 0
+enhanced spiral CT showed mild edema of right upper limb | 0
+vascular color ultrasound of extremities normal | 0
+empirical meropenem | 0
+vancomycin | 0
+norepinephrine given | 0
+blood samples for mNGS | 0
+traditional blood cultures | 0
+sputum cultures | 0
+urine cultures | 0
+rehydration | 0
+low-molecular-weight heparin | 0
+drugs for raising platelets | 0
+topical magnesium sulfate | 0
+procalcitonin decreased to 9.47 pg/mL | 24 (on second day of treatment, 24 hours after admission)
+mNGS results indicated SDSE | 24 (results available on second day)
+developed cyanosis of fingers | 24
+developed cyanosis of toes | 24
+large purpura on the skin | 24
+large blisters | 24
+liver function tests showed steep rise in transaminases | 72 (on day 3, 72 hours after admission)
+progression of limb end ischemia | 72
+blood cultures showed SDSE | 72
+Streptococcus isolated from blood | 72
+hypotension | 0
+multiple organ dysfunction | 0
+coagulation dysfunction | 0
+liver function dysfunction | 0
+renal function dysfunction | 0
+blister formation | 24
+limb gangrene | 72
+STSS diagnosis | 72
+sensitive to penicillin | 72
+sensitive to ceftriaxone | 72
+sensitive to linezolid | 72
+sensitive to vancomycin | 72
+intermediate to clindamycin | 72
+history of penicillin allergy | -61320 (same as breast cancer diagnosis time)
+renal impairment | 0
+thrombocytopenia | 0
+chose ceftriaxone | 72
+anisodamine added | 72
+transferred to general ward | 240 (after 10 days, 10*24=240 hours)
+ischemia at extremities worsened | 240
+amputation performed | 240 (eventually after worsening, timestamp 240)
+developed SPG | 240

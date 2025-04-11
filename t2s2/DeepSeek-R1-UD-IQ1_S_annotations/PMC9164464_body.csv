@@ -1,0 +1,192 @@
+event,time
+63 years old ,0.0
+    woman ,0.0
+    admitted to the ICU ,0.0
+    alcohol use disorder ,0.0
+    type 2 diabetes mellitus ,0.0
+    hypertension ,0.0
+    chronic pancreatitis ,0.0
+    pseudocyst ,0.0
+    mixed hemorrhagic/distributive shock ,0.0
+    acute gastrointestinal bleed ,0.0
+    diabetic ketoacidosis ,0.0
+    lethargic ,-24.0
+    declining responsiveness ,-24.0
+    hypothermic to 32.4°C ,-24.0
+    hypotensive with blood pressure 52/33 mmHg ,-24.0
+    hemoglobin 13 g/dL ,-24.0
+    glucose >1500 mg/dL ,-24.0
+    beta-hydroxybutyrate >22.50 mmol/L ,-24.0
+    creatinine 3.55 mg/dL ,-24.0
+    BUN 101 mg/dL ,-24.0
+    bicarbonate 5 mmol/L ,-24.0
+    pH 7.01 ,-24.0
+    large-volume hematemesis ,-24.0
+    requiring 2 units packed red blood cells ,-24.0
+    intubation ,-24.0
+    airway protection ,-24.0
+    placement of right internal jugular vein central line ,-24.0
+    started on insulin ,-24.0
+    started on pantoprazole drips ,-24.0
+    given 1 dose of 2g i.v. ceftriaxone ,-24.0
+    transferred to our hospital ,-24.0
+    afebrile ,0.0
+    tachycardic 120 bpm ,0.0
+    mean arterial pressure 90/60 mmHg ,0.0
+    norepinephrine infusion ,0.0
+    vasopressin infusion ,0.0
+    pH 7.21 ,0.0
+    bicarbonate 22 mmol/L ,0.0
+    glucose 902 mg/dL ,0.0
+    anion gap 28 mmol/L ,0.0
+    potassium 3.7 mmol/L ,0.0
+    BUN 84 mg/dL ,0.0
+    creatinine 2.47 mg/dL ,0.0
+    lipase 69 U/L ,0.0
+    C-reactive protein 262 mg/L ,0.0
+    sedimentation rate >120 mm/h ,0.0
+    undetectable ethanol ,0.0
+    hemoglobin 15 g/dL ,0.0
+    platelets 165000 per cu mm ,0.0
+    white blood cell count 3300 per cu mm ,0.0
+    infectious diseases workup ,0.0
+    blood cultures ,0.0
+    sputum cultures ,0.0
+    urine cultures ,0.0
+    chest X-ray showed bilateral lower lung patchy opacities ,0.0
+    remained on norepinephrine ,0.0
+    remained on vasopressin ,0.0
+    remained on insulin drips ,0.0
+    started on piperacillin/tazobactam ,0.0
+    blood cultures positive for Candida species ,24.0
+    started on micafungin ,24.0
+    cultures speciated to C. albicans ,24.0
+    blood cultures on days 1-3 ,24.0
+    blood cultures grew C. glabrata on days 5 and 7 ,120.0
+    line holiday ,24.0
+    removal of arterial line ,24.0
+    removal of right internal jugular vein central line ,24.0
+    transthoracic echocardiogram ,24.0
+    CT chest ,24.0
+    CT abdomen and pelvis ,24.0
+    ophthalmologic exam ,24.0
+    left hip hemiarthroplasty ,0.0
+    plain films ,24.0
+    attempted hip aspiration ,24.0
+    upper and lower extremity duplexes ,168.0
+    DVT in right internal jugular vein ,168.0
+    started on heparin drip ,168.0
+    clearance of clot ,240.0
+    clearance of blood cultures ,240.0
+    remained on fluconazole ,168.0
+    planned 3 months of enoxaparin ,168.0
+    stayed in hospital 31 days ,744.0
+    discharged to skilled nursing facility ,744.0
+"Okay, I need to extract all the clinical events from this case report and assign them timestamps in hours relative to the admission event (timestamp 0). The events before admission get negative timestamps, and those after get positive. If there's no explicit time mentioned, I'll use my clinical judgment to approximate based on context.",
+"First, the patient is a 63-year-old woman admitted to the ICU. That's the admission event, so timestamp 0.",
+"Her history includes alcohol use disorder, type 2 diabetes mellitus, hypertension, chronic pancreatitis with a pseudocyst. These are all chronic conditions, so they should be timestamp 0 as they're part of her current diagnosis on admission.",
+"She was admitted for mixed hemorrhagic/distributive shock, acute gastrointestinal bleed, and diabetic ketoacidosis. These are the admitting diagnoses, so timestamp 0.",
+"On presentation to the outside hospital, she was lethargic with declining responsiveness, hypothermic (32.4°C), hypotensive (52/33 mmHg). Lab results at the outside hospital: hemoglobin 13 g/dL, glucose >1500 mg/dL, beta-hydroxybutyrate >22.50 mmol/L, creatinine 3.55 mg/dL, BUN 101 mg/dL, bicarbonate 5 mmol/L, pH 7.01. These events happened before transfer to the current hospital. Since she was transferred after these events, I need to consider the timeline. Transfer to the current hospital happened after these initial events. Assuming the transfer occurred within a day (24 hours) before admission to the ICU, these events would be at -24 hours.",
+"She had large-volume hematemesis requiring 2 units of packed red blood cells, intubation for airway protection, placement of a right internal jugular vein central line. These happened at the outside hospital before transfer, so also -24 hours.",
+"She was started on insulin and pantoprazole drips, given ceftriaxone, and transferred. These are part of the outside hospital care, so -24 hours.",
+"On arrival at the current hospital (admission), she was afebrile, tachycardic (120 bpm), mean arterial pressure 90/60 mmHg on norepinephrine and vasopressin. Initial labs: pH 7.21, bicarbonate 22 mmol/L, glucose 902 mg/dL, anion gap 28, potassium 3.7, BUN 84, creatinine 2.47, lipase 69, CRP 262, sedimentation rate >120, undetectable ethanol, hemoglobin 15 g/dL, platelets 165000, WBC 3300. These are on admission, so timestamp 0.",
+"Infectious workup initiated, blood, sputum, urine cultures taken. Chest X-ray findings. These are part of initial admission actions, so 0.",
+"She remained on norepinephrine, vasopressin, insulin, started on piperacillin/tazobactam. These are part of the initial treatment, timestamp 0.",
+"On hospital day 1, blood cultures positive for Candida. Started on micafungin. This is day 1, so 24 hours after admission.",
+"Cultures speciated to C. albicans on days 1-3. So days 1-3 would be 24-72 hours, but since it's a range, the timestamp is the first day, 24 hours.",
+"Blood cultures on days 5 and 7 grew C. glabrata. Day 5 is 120 hours, day 7 is 168 hours. Since the event is on days 5 and 7, the first occurrence is day 5, so 120 hours.",
+"Line holiday, removal of lines after positive cultures. This happened after day 1, so same as day 1, 24 hours.",
+"Transthoracic echo, CT chest, CT abdomen, ophthalmologic exam done. These were part of the workup after the positive cultures, so around day 1, 24 hours.",
+"Left hip hemiarthroplasty is a past medical history, so timestamp 0.",
+"Plain films and attempted hip aspiration during workup, so around day 1, 24 hours.",
+"Several days later, upper/lower duplexes done, revealing DVT in RIJ. ""Several days"" after the initial workup (which was on day 1), so maybe day 7 (168 hours).",
+"Started on heparin, clot cleared in 2 days. So 168 + 48 = 216, but the clearance is after 2 days, so 240 hours.",
+"Fluconazole for 4 weeks after clearance. The clearance happens at 240 hours, starting fluconazole then, so timestamp 240.",
+"Planned enoxaparin for 3 months. Started at the time of DVT diagnosis, 168 hours.",
+"Hospital stay total 31 days, 10 days in general ward after ICU. 31 days is 744 hours.",
+"Discharged to skilled nursing facility at 31 days, 744 hours.",
+"Now, compiling all these events with their timestamps. Some events like chronic conditions (alcohol use, diabetes, hypertension) are timestamp 0 as they're part of the current diagnosis. Acute events before admission are -24, and subsequent events in the hospital are positive hours.",
+</think>,
+63 years old ,0.0
+woman ,0.0
+admitted to the ICU ,0.0
+alcohol use disorder ,0.0
+type 2 diabetes mellitus ,0.0
+hypertension ,0.0
+chronic pancreatitis ,0.0
+pseudocyst ,0.0
+mixed hemorrhagic/distributive shock ,0.0
+acute gastrointestinal bleed ,0.0
+diabetic ketoacidosis ,0.0
+lethargic ,-24.0
+declining responsiveness ,-24.0
+hypothermic to 32.4°C ,-24.0
+hypotensive with blood pressure 52/33 mmHg ,-24.0
+hemoglobin 13 g/dL ,-24.0
+glucose >1500 mg/dL ,-24.0
+beta-hydroxybutyrate >22.50 mmol/L ,-24.0
+creatinine 3.55 mg/dL ,-24.0
+BUN 101 mg/dL ,-24.0
+bicarbonate 5 mmol/L ,-24.0
+pH 7.01 ,-24.0
+large-volume hematemesis ,-24.0
+requiring 2 units packed red blood cells ,-24.0
+intubation ,-24.0
+airway protection ,-24.0
+placement of right internal jugular vein central line ,-24.0
+started on insulin ,-24.0
+started on pantoprazole drips ,-24.0
+given 1 dose of 2g i.v. ceftriaxone ,-24.0
+transferred to our hospital ,-24.0
+afebrile ,0.0
+tachycardic 120 bpm ,0.0
+mean arterial pressure 90/60 mmHg ,0.0
+norepinephrine infusion ,0.0
+vasopressin infusion ,0.0
+pH 7.21 ,0.0
+bicarbonate 22 mmol/L ,0.0
+glucose 902 mg/dL ,0.0
+anion gap 28 mmol/L ,0.0
+potassium 3.7 mmol/L ,0.0
+BUN 84 mg/dL ,0.0
+creatinine 2.47 mg/dL ,0.0
+lipase 69 U/L ,0.0
+C-reactive protein 262 mg/L ,0.0
+sedimentation rate >120 mm/h ,0.0
+undetectable ethanol ,0.0
+hemoglobin 15 g/dL ,0.0
+platelets 165000 per cu mm ,0.0
+white blood cell count 3300 per cu mm ,0.0
+infectious diseases workup ,0.0
+blood cultures ,0.0
+sputum cultures ,0.0
+urine cultures ,0.0
+chest X-ray showed bilateral lower lung patchy opacities ,0.0
+remained on norepinephrine ,0.0
+remained on vasopressin ,0.0
+remained on insulin drips ,0.0
+started on piperacillin/tazobactam ,0.0
+blood cultures positive for Candida species ,24.0
+started on micafungin ,24.0
+cultures speciated to C. albicans ,24.0
+blood cultures on days 1-3 ,24.0
+blood cultures grew C. glabrata on days 5 and 7 ,120.0
+line holiday ,24.0
+removal of arterial line ,24.0
+removal of right internal jugular vein central line ,24.0
+transthoracic echocardiogram ,24.0
+CT chest ,24.0
+CT abdomen and pelvis ,24.0
+ophthalmologic exam ,24.0
+left hip hemiarthroplasty ,0.0
+plain films ,24.0
+attempted hip aspiration ,24.0
+upper and lower extremity duplexes ,168.0
+DVT in right internal jugular vein ,168.0
+started on heparin drip ,168.0
+clearance of clot ,240.0
+clearance of blood cultures ,240.0
+remained on fluconazole ,168.0
+planned 3 months of enoxaparin ,168.0
+stayed in hospital 31 days ,744.0
+discharged to skilled nursing facility ,744.0

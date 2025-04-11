@@ -1,0 +1,69 @@
+33 years old | 0
+female | 0
+fever | -96
+cough | -96
+dyspnoea | -96
+admission | 0
+hypoxemia | 0
+high-flow nasal cannula therapy | 0
+empiric antimicrobial therapy | 0
+steroids (methylprednisolone 1.5 mg/kg/day) | 0
+broad-spectrum antibiotics | 0
+pulmonary consolidation in the left upper lobe | 0
+computed tomography scan | 0
+percutaneous lung biopsies of the left upper lobe | 0
+fibrin balls in alveolar spaces | 0
+fibroblastic tissue in alveolar spaces | 0
+AFOP diagnosis | 0
+transfer to ICU | 0
+broad-spectrum antibiotics administration | 0
+high-dose steroids (methylprednisolone 10 mg/kg/day) | 0
+high-dose immunoglobulins (2 g/kg/5 days) | 0
+respiratory failure | 0
+orotracheal intubation | 0
+mechanical ventilation | 0
+invasive ventilation | 0
+echocardiography showing normal biventricular function | 0
+no valve defects | 0
+no septal defects | 0
+no pulmonary hypertension | 0
+referral to V-V ECMO support | 0
+lung rest approach in MV | 0
+no improvement within 2-week protective MV with ECMO | 14
+multidisciplinary team discussion | 14
+referral to lung transplant emergency waiting list | 14
+donor lung achieved | 20
+bilateral lobar lung transplantation | 20
+tacrolimus induction therapy | 20
+methylprednisolone induction therapy | 20
+carbapenem-resistant Pseudomonas aeruginosa pneumonia | 20
+exophytic granulation tissue with inflammation | 20
+anastomotic stenosis in the trachea | 20
+bronchopleural fistulae | 52
+anastomotic infections in the trachea | 20
+septic shock | 20
+bacteraemia | 20
+reperfusion syndrome | 20
+primary graft dysfunction grade 3 | 20
+severe renal failure | 20
+dialysis | 20
+critical illness myopathy | 20
+aggressive broad-spectrum therapy | 20
+prophylactic antifungal therapy | 20
+prophylactic antiviral therapy | 20
+renal replacement therapy | 20
+percutaneous drainage | 20
+airway debridement | 20
+cryotherapy | 20
+electrocautery | 20
+laser therapy | 20
+bronchoscopic balloon dilatation | 20
+immunosuppression | 20
+respiratory rehabilitation | 20
+ECMO weaning | 34
+mechanical ventilation weaning | 1440
+tracheostomy | 12
+discharge from general thoracic surgery unit | 720
+survival without readmissions | 8760
+return to normal daily life | 8760
+return to social activity | 8760

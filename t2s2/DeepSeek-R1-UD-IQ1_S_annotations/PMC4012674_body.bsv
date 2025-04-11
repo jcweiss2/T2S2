@@ -1,0 +1,57 @@
+75 years old | 0
+    male | 0
+    UC since 1970 | -408
+    clinical remission | -408
+    recurrent flares | -168
+    maintenance therapy with 5-aminosalicylates | -168
+    repeated courses of steroids | -168
+    prednisolone reducing course | -96
+    6-mercaptopurine | -96
+    incessant nausea | -96
+    abdominal pain | -96
+    prednisolone 15 mg/day | -96
+    severe life-threatening flare | 0
+    intravenous steroids 100 mg hydrocortisone | 0
+    rescue therapy with infliximab 5 mg/kg | 0
+    discharged home | 24
+    second dose of infliximab | 168
+    abdominal pain | 336
+    collapse | 336
+    hypotensive | 336
+    tachycardic | 336
+    febrile 38.9℃ | 336
+    hypoxic oxygen saturations 91% | 336
+    no recent travel | 336
+    no dietary risk factors for listeriosis | 336
+    tenderness in the right iliac fossa | 336
+    haemoglobin 8.6 g/dL | 336
+    normal white cell count | 336
+    CRP 193 mg/L | 336
+    bilateral lower zone consolidation on chest X-ray | 336
+    severe chest sepsis | 336
+    on-going colitis | 336
+    transfer to intensive care unit | 336
+    co-amoxiclavulanic acid | 336
+    gentamicin | 336
+    signs of meningism | 360
+    CSF Gram stain showed Gram-positive rods | 360
+    co-amoxiclavulanic acid switched to meropenem | 360
+    rifampicin | 360
+    gentamicin continued | 360
+    blood cultures grew Listeria species | 384
+    CSF cultures grew Listeria species | 384
+    Listeria monocytogenes identification | 384
+    reduction in GCS from 15 to 8 | 720
+    CT scan of brain | 720
+    dilatation of ventricles | 720
+    raised intracranial pressure | 720
+    hydrocephalus | 720
+    intubated | 720
+    ventilated | 720
+    transferred to specialist neurosurgical unit | 720
+    external ventricular drain insertion | 720
+    ICP monitoring | 720
+    gradual recovery | 2880
+    discharged home after four months | 2880
+    
+    

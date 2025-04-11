@@ -1,0 +1,80 @@
+event,time
+15 years old ,0
+    girl ,0
+    admitted to the hospital ,0
+    progressive shortness of breath ,-3
+    chest pain ,-3
+    cough ,-24
+    difficulty breathing ,-24
+    sudden haemoptysis ,-3
+    Influenza-like symptoms in school friends ,-168
+    coryzal symptoms ,-168
+    crackles ,0
+    reduced air entry in lower right hemithorax ,0
+    dark blood cough ,0
+    sudden distress ,0
+    tachypnoeic ,0
+    saturating 92% on room air ,0
+    heart rate 120 beats/min ,0
+    blood pressure 105/74 mmHg ,0
+    afebrile ,0
+    cold extremities ,0
+    pH 7.42 ,0
+    PaCO2 4.0 kPa ,0
+    PaO2 7.2 kPa ,0
+    blood lactate 1.7 mmol/L ,0
+    sodium bicarbonate level 19.5 mmol/L ,0
+    base excess -5 mmol/L ,0
+    leukopaenia ,0
+    neutrophil count 0.8 × 109/L ,0
+    c-reactive protein 3.7 mg/L ,0
+    rapidly progressive consolidation ,0
+    four-quadrant opacification ,0
+    copious yellow secretions ,0
+    protein-rich plasma-like secretions ,0
+    bronchial fluid suctioned ,0
+    white speckled bronchial mucosa ,0
+    H3N2 influenza ,0
+    Panton-Valentine leukocidin-Staphylococcus aureus pneumonia ,0
+    vasoplegic shock ,0
+    acute respiratory distress syndrome ,0
+    refractory septic shock ,0
+    profound hypoxaemia ,0
+    mixed metabolic and respiratory acidosis ,0
+    fluid resuscitation ,0
+    adrenaline 0.2 μg/kg/min ,0
+    noradrenaline 1.2 μg/kg/min ,0
+    hyperdynamic ventricles ,0
+    underfilled ventricles ,0
+    peripheral capillary refill time >5 seconds ,0
+    human albumin solution ,0
+    crystalloids ,0
+    intubation ,0
+    mechanical ventilation ,0
+    IV ceftriaxone ,0
+    enteral azithromycin ,0
+    enteral oseltamivir ,0
+    IV linezolid ,6
+    IV clindamycin ,6
+    IV clarithromycin ,6
+    hydrocortisone ,0
+    IV immunoglobulin ,0
+    bronchoscopy ,0
+    ECMO cannulation ,24
+    cardiac arrest ,24
+    CPR ,24
+    VA-ECMO ,24
+    packed red cells transfusion ,24
+    cryoprecipitate ,24
+    fresh frozen plasma ,24
+    platelets transfusion ,24
+    ischaemia of distal limbs ,24
+    disseminated intravascular coagulation ,24
+    multiple organ failure ,24
+    conversion to VV%ECMO ,168
+    extubation ,720
+    renal replacement therapy ,168
+    mobility improvement ,432
+    skin grafting ,1080
+    survival ,4320
+    recovery ,4320

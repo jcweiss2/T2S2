@@ -1,0 +1,72 @@
+34 years old | 0
+male | 0
+came to emergency department | 0
+cough | -1440
+expectoration | -1440
+breathlessness | -240
+right-sided chest pain | -240
+loss of weight | -240
+loss of appetite | -240
+pulse rate 110/min | 0
+blood pressure 120/80 mmHg | 0
+respiratory rate 28/min | 0
+oxygen saturation 90% | 0
+absent right-sided air entry | 0
+crepitation in left lung mammary area | 0
+features of pneumothorax | 0
+features of hydrothorax | 0
+transition zone hydrothorax to pneumothorax | 0
+defective barcode sign | 0
+oxygen support | 0
+shifted for chest X-ray | 0
+chest X-ray confirmed hydropneumothorax | 0
+treated with low-flow oxygen | 0
+empirical antibiotics | 0
+right intercostal drainage tube | 0
+transferred to intensive care unit | 0
+started on antitubercular drugs | 0
+targeted antibiotics | 0
+sputum acid-fast bacilli smear | 0
+pleural fluid culture | 0
+improving initially | 0
+succumbed due to severe sepsis | 0
+written informed consent | 0
+hydropneumothorax | 0
+left-sided mid-zone infiltrates | 0
+severe sepsis | 0
+34 years old|0
+male|0
+admitted to the hospital|0
+cough|-1440
+expectoration|-1440
+breathlessness|-240
+right-sided chest pain|-240
+loss of weight|-240
+loss of appetite|-240
+pulse rate 110/min|0
+blood pressure 120/80 mmHg|0
+respiratory rate 28/min|0
+oxygen saturation 90%|0
+absent right-sided air entry|0
+crepitation in left lung mammary area|0
+features of pneumothorax|0
+features of hydrothorax|0
+transition zone hydrothorax to pneumothorax|0
+defective barcode sign|0
+oxygen support|0
+shifted for chest X-ray|0
+chest X-ray confirmed hydropneumothorax|0
+treated with low-flow oxygen|0
+empirical antibiotics|0
+right intercostal drainage tube|0
+transferred to intensive care unit|0
+started on antitubercular drugs|0
+targeted antibiotics|0
+sputum acid-fast bacilli smear|0
+pleural fluid culture|0
+improving initially|0
+succumbed due to severe sepsis|0
+written informed consent|0
+hydropneumothorax|0
+left-sided mid-zone infiltrates|0
+severe sepsis|0

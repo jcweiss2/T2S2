@@ -1,0 +1,90 @@
+29+3 weeks gestation | 0
+preterm | 0
+spontaneous vaginal delivery | 0
+uncomplicated pregnancy | 0
+birth weight 1650g | 0
+ventilatory support | 0
+surfactant for infant respiratory distress syndrome | 0
+umbilical artery catheter insertion | 0
+umbilical artery catheter in situ | 0
+umbilical venous catheter not inserted | 0
+transferred to local hospital on day 8 | 192
+readmitted to neonatal intensive care unit | 192
+suspected septicaemia | 192
+cardiac arrhythmias | 192
+alternating tachycardia | 192
+bradycardia | 192
+mean blood pressure 33 mmHg | 192
+weak peripheral pulses | 192
+prolonged capillary refill | 192
+mild respiratory distress | 192
+grunting | 192
+oxygen saturation 90% | 192
+no heart murmur | 192
+clear lungs on auscultation | 192
+soft abdomen | 192
+no hepatosplenomegaly | 192
+circulatory support with intravenous fluids | 192
+antibiotics started | 192
+blood cultures negative | 192
+rectal culture positive for Coxsackie B III virus | 192
+sputum culture positive for Coxsackie B III virus | 192
+chest X-ray no significant abnormalities | 192
+electrocardiogram ST-depression in right precordial leads and aVR | 192
+electrocardiogram ST elevation in I and II | 192
+increased cardiac enzymes | 192
+echocardiography left-ventricular dysfunction | 192
+hypokinetic posterolateral wall | 192
+hyperkinetic septum | 192
+pericardial effusion | 192
+abnormal coronary anatomy excluded | 192
+no sources for thromboemboli | 192
+clotting studies normal | 192
+respiratory distress increased | 192
+mechanical ventilation instituted | 192
+inotropics | 192
+diuretic therapy | 192
+milrinone | 192
+captopril | 192
+necrotizing enterocolitis | 192
+antibiotics for necrotizing enterocolitis | 192
+parental nutrition | 192
+discharged after 11 weeks | 1848
+nasogastric tube feeding | 1848
+diuretics | 1848
+beta blocker | 1848
+ACE inhibitor | 1848
+persisting decreased left9-ventricular function | 1848
+increased right ventricle pressure | 1848
+no compensatory hypertrophy | 1848
+global impairment of ventricular function | 1848
+progressive left-ventricle dilatation | 2640
+suprasystemic pressure in the right ventricle | 2640
+evaluation for heart transplantation | 2640
+heart function deteriorated | 2640
+died at age 9 months | 6480
+autopsy increased heart weight 80g | 6480
+normal intracardiac anatomy | 6480
+normal coronary artery origin and anatomy | 6480
+patent coronary artery lumen | 6480
+focal intima hyperplasia | 6480
+subendocardial fibroelastosis | 6480
+scar tissue in lateral wall of left ventricle | 6480
+loss of myocytes | 6480
+hypertrophy of residual myocytes | 6480
+thickened right ventricle wall | 6480
+dilated pulmonary trunk | 6480
+alveolar hemorrhage | 6480
+septal hemorrhage | 6480
+hemosiderophages | 6480
+left-ventricular failure | 6480
+no pulmonary arterial hypertension | 6480
+no active myocarditis | 6480
+no compensatory hypertrophy of noninfarcted regions | 6480
+negative blood cultures | 192
+normal chest X-ray | 192
+normal clotting studies | 192
+clear lungs | 192
+soft abdomen without hepatosplenomegaly | 192
+normal coronary anatomy | 192
+no signs of active myocarditis | 6480

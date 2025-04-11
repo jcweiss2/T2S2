@@ -1,0 +1,127 @@
+54 years old | 0
+    gentleman | 0
+    presented to the emergency department | 0
+    fevers | -120
+    vomiting | -120
+    non-productive cough | -120
+    shortness of breath | -120
+    lethargy | -120
+    collapsing while walking to the bathroom | -120
+    left shoulder swelling | -336
+    left shoulder redness | -336
+    graze on elbow | -336
+    falling against a wall | -336
+    chronic shoulder pain | 0
+    recurrent bilateral shoulder dislocations | 0
+    right humeral arthrodesis | 0
+    alcohol misuse in the past | 0
+    regular paracetamol | 0
+    regular ibuprofen | 0
+    denied taking excessive doses | 0
+    unwell | 0
+    pale | 0
+    Kussmaul breathing | 0
+    heart rate of 115 | 0
+    sinus rhythm | 0
+    blood pressure of 178/105 | 0
+    respiratory rate of 32 | 0
+    oxygen saturations of 98% | 0
+    afebrile | 0
+    elevated BMI of 30 | 0
+    increased work of breathing | 0
+    left renal angle tenderness | 0
+    warm erythematous swelling | 0
+    fluctuant swelling | 0
+    left elbow swelling | 0
+    left shoulder swelling | 0
+    purulent draining sinus | 0
+    left axillary purulent draining sinus | 0
+    no elbow pain | 0
+    no shoulder pain | 0
+    unaware of discharging sinus | 0
+    bedside glucose of 18.7 mmol/L | 0
+    ketones of 0.5 mmol/L | 0
+    AKI | 0
+    urea of 10.1 mmol/L | 0
+    creatinine of 186 mmol/L | 0
+    thrombocytosis | 0
+    leukocytosis | 0
+    leftward shift | 0
+    CRP of 424 mg/L | 0
+    deranged LFTs | 0
+    cholestatic pattern | 0
+    ALP of 204 U/L | 0
+    GGT of 345 U/L | 0
+    normal ALT | 0
+    normal bilirubin | 0
+    elevated INR of 1.9 | 0
+    underlying sepsis | 0
+    prolonged fasting | 0
+    anorexia | 0
+    underlying liver disease | 0
+    past alcohol misuse | 0
+    possible non-alcoholic fatty liver disease | 0
+    long-standing undiagnosed T2DM | 0
+    mixed metabolic acidosis | 0
+    HAGMA | 0
+    hyperchloremic metabolic acidosis | 0
+    partial respiratory compensation | 0
+    anion gap of 20 mmol/L | 0
+    lactate of 3.4 mmol/L | 0
+    serum albumin of 34 g/L | 0
+    normal ketones | 0
+    mildly elevated urea | 0
+    hypokalaemia | 0
+    analgesic nephropathy-induced renal tubular acidosis | 0
+    chronic NSAID usage | 0
+    suspected pyroglutamic acidosis | 0
+    chronic paracetamol usage | 0
+    sepsis | 0
+    poor nutritional state | 0
+    underlying chronic hepatic impairment | 0
+    denied ingestion of other substances | 0
+    elevated urinary PGA level | 0
+    treated with IV NAC | 0
+    confirmed T2DM | 0
+    HBa1c of 10.9% | 0
+    peripheral neuropathy | 0
+    admitted to high dependency unit | 0
+    IV fluid resuscitation | 0
+    IV piperacillin/tazobactam | 0
+    escalated to meropenem | 24
+    vancomycin | 24
+    lincomycin | 24
+    sodium bicarbonate | 0
+    potassium supplementation | 0
+    NAC | 0
+    PICC insertion | 0
+    CT left upper limb | 0
+    CT abdomen/pelvis | 0
+    collections in left elbow | 0
+    collections in biceps | 0
+    collections in shoulder | 0
+    left-sided pyelonephritis | 0
+    incision and drainage | 24
+    washout of collections | 24
+    positive blood cultures | 72
+    MSSA bacteraemia | 72
+    disseminated infection | 72
+    metastatic staphylococcal pneumonia | 72
+    type 1 respiratory failure | 72
+    NIV required | 72
+    transthoracic echocardiogram | 72
+    transoesophageal echocardiogram | 72
+    no infective endocarditis | 72
+    left elbow abrasion as inoculation site | 72
+    treated with IV cefazolin | 72
+    prolonged course of IVABs | 168
+    home nursing services | 336
+    commenced on metformin | 168
+    commenced on gliclazide | 168
+    outpatient management | 336
+    representation with recurrent wound infection | 336
+    delayed wound healing | 336
+    managed conservatively | 336
+    discharge | 672
+    
+    

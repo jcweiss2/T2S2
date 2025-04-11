@@ -1,0 +1,151 @@
+49 years old | 0
+    woman | 0
+    upper respiratory tract infection | -72
+    rhinorrhea | -72
+    cough | -72
+    fever 38-39°C | -72
+    increasing lethargy | -72
+    fatigue | -72
+    loss of appetite | -72
+    confined to bed | -72
+    dehydration | -72
+    reduced urine output | -72
+    syncopal attack | -72
+    nausea | -72
+    vomiting | -72
+    emergency admission to hospital | 0
+    intravenous Ringer’s solution | 0
+    no detectable pulse | 0
+    no measurable blood pressure | 0
+    brief intermittent episodes of syncope | 0
+    fully awake | 0
+    mentally coherent | 0
+    blueish extremities | 0
+    no peripheral edema | 0
+    no skin rashes | 0
+    blood pressure 60/40 mm Hg | 0
+    pulse 85-105 beats per min | 0
+    temperature 35.9ºC | 0
+    respiration rate 42 breaths per min | 0
+    weight 50 kg | 0
+    height 1.65 m | 0
+    serum glucose 9.8 mmol/L | 0
+    urine protein 3+ | 0
+    erythrocytes 2+ | 0
+    normal ECG | 0
+    normal echocardiography | 0
+    hemoglobin 24.6 g/dL | 0
+    hematocrit 73% | 0
+    erythrocytes 7.6×10¹²/L | 0
+    white blood cells increased 17×10⁹/L | 0
+    neutrophils 15×10⁹/L | 0
+    platelets 298×10⁹/L | 0
+    total protein 69 g/L | 0
+    albumin 37 g/L | 0
+    creatinine 142 mmol/L | 0
+    SGOT increased | 0
+    CK increased | 0
+    CRP 8 mg/L | 0
+    urinary protein 0.2-0.5 g/L | 0
+    diagnosis of afebrile sepsis suspected | 0
+    antibiotics | 0
+    enoxaparin 40 mg | 0
+    hydrocortisone 250 mg | 0
+    intravenous crystalloid 20 liters | 0
+    generalized peripheral edema | 0
+    fasciotomy in both lower extremities | 5
+    muscles of the legs clinically normal | 5
+    pressure gauge inserted | 5
+    incision closure | 5
+    wound monitoring | 5
+    furosemide | 5
+    minimal urine output | 24
+    pleural effusions | 144
+    retropharyngeal edema | 144
+    leg pain | 144
+    interstitial muscle pressure increased | 144
+    bilateral fasciotomy | 144
+    necrotic areas in leg muscles | 144
+    CK peaking 13,980 U/L | 216
+    sporadic increases in liver enzymes | 216
+    sporadic increases in muscle enzymes | 216
+    resuscitation with intravenous fluids | 216
+    plasma extravasation | 216
+    anemia requiring transfusion | 240
+    fibrinogen increased | 0
+    D-dimer normal | 0
+    ESR normal | 0
+    PT normal | 0
+    INR normal | 0
+    platelets normal | 0
+    C3 decreased 0.46 g/L | 216
+    C4 decreased 0.05 g/L | 216
+    differential diagnosis included sepsis | 216
+    idiopathic anaphylaxis | 216
+    hereditary angioedema | 216
+    polycythemia vera | 216
+    cardiac insufficiency | 216
+    diagnosis of SCLS | 216
+    C1 esterase inhibitor levels normal | 216
+    C1 esterase inhibitor function normal | 216
+    negative blood cultures | 216
+    no triggers for anaphylaxis | 216
+    no urticaria | 216
+    no stridor | 216
+    no wheezing | 216
+    urinary protein loss unlikely | 216
+    serum albumin normal on admission | 216
+    urinary protein to creatinine ratio 0.4 | 216
+    IgG-kappa paraprotein 1-2 g/L | 216
+    free kappa light chains normal | 216
+    free lambda light chains normal | 216
+    kappa to lambda ratio normal | 216
+    IgG lower reference range | 216
+    IgA lower reference range | 216
+    IgM high normal range | 216
+    syndecan-1 (CD138) peaked 500 ng/mL | 144
+    syndecan-1 (CD138) normalized | 240
+    IVIG treatment | 168
+    resorption of generalized edema | 168
+    increase in urine output | 168
+    no pulmonary edema | 168
+    antibiotics withdrawn | 168
+    discharged after five weeks | 840
+    rehabilitation | 840
+    leg pains | 840
+    muscular weakness | 840
+    orthopedic support required | 840
+    remains weak | 840
+    reduced quality of life | 840
+    frequent upper respiratory tract infections | 840
+    no further episodes of SCLS | 840
+    monoclonal gammopathy declined | 840
+    prophylaxis with terbutaline | 840
+    prophylaxis with theophylline | 840
+    informed of medical condition | 840
+    past medical history: premature birth | 0
+    past medical history: toxemia | 0
+    past medical history: Rhesus incompatibility | 0
+    past medical history: exchange transfusion | 0
+    past medical history: appendicitis | 0
+    past medical history: sepsis | 0
+    past medical history: urinary tract infections | 0
+    past medical history: cystitis | 0
+    past medical history: pyelonephritis | 0
+    past medical history: increased blood glucose during pregnancies | 0
+    family history: paternal premature death due to heart disease | 0
+    family history: paternal cancer | 0
+    family history: paternal diabetes | 0
+    family history: maternal toxemia | 0
+    family history: maternal death at 76 | 0
+    family history: maternal IgM-lambda MGUS | 0
+    family history: maternal siblings died of cardiovascular disease | 0
+    family history: maternal sister died of multiple myeloma | 0
+    family history: maternal sister with IgA-kappa MGUS | 0
+    transient increase in syndecan-1 (CD138) | 144
+    MBL deficiency | 216
+    low IgG | 216
+    low IgA | 216
+    normal IgM | 216
+    familial clustering of paraproteinemia | 0
+    

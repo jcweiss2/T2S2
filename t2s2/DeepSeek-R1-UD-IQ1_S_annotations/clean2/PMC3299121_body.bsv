@@ -1,0 +1,84 @@
+37 years old | 0
+female | 0
+presented with progressive dyspnea | 0
+presented with hypoxia | 0
+presented with left lung consolidation | 0
+presented to emergency department | -72
+presented with 3-day history of shortness of breath | -72
+presented with fever | -72
+presented with nonproductive cough | -72
+Hepatitis C | 0
+intravenous heroin abuse | -672
+methadone de-addiction program | 0
+occasional heroin use | -168
+active smoker | 0
+20 pack-year smoking history | 0
+malnourished | 0
+dehydrated | 0
+multiple skin tattoos | 0
+burn marks on left forearm | 0
+temperature 38.2°C | 0
+respiratory rate 30/Min | 0
+blood pressure 90/50 mmHg | 0
+pulse rate 120 beats/min | 0
+oxygen saturation 95% on room air | 0
+dual heart sounds | 0
+no added heart sounds | 0
+no murmurs | 0
+no crackles | 0
+no wheezes | 0
+reduced air entry on left side | 0
+hemoglobin 99 g/L | 0
+white cell count 23.7 × 109/L | 0
+neutrophil count 22.75 × 109/L | 0
+lymphocytes 0.79 × 109/L | 0
+CRP 206 mg/L | 0
+ALT 26 U/L | 0
+AST 18 U/L | 0
+urea 3.5 mmol/L | 0
+creatinine 42 μmol/L | 0
+chest X-ray showed complete left-sided consolidation | 0
+no mediastinal shift | 0
+venous access via internal jugular vein | 0
+resuscitated with 2 L normal saline | 0
+started on ticaricillin/caluvulanate 3.1 g 6 hourly | 0
+referred to intensive care unit | 0
+presumptive diagnosis of severe community-acquired pneumonia | 0
+remained hypotensive | 0
+decreasing urine output | 0
+noradrenalin infusion initiated | 0
+intubated | 0
+chest CT performed | 0
+consolidation of both lobes on left side | 0
+no foreign body on initial CT report | 0
+foreign body detected on review after bronchoscopy | 0
+serology for Hepatitis, HIV, atypical infection | 0
+antibiotic regime augmented with vancomycin | 0
+antibiotic regime augmented with azythromycin |A
+transthoracic echocardiogram performed | 0
+mild tricuspid regurgitation | 0
+no vegetations | 0
+normal cardiac function | 0
+ventilated on synchronized intermittent mandatory ventilation volume control mode | 0
+tidal volume 6 mL/kg | 0
+PEEP 10 | 0
+FiO2 0.5 | 0
+minimal endotracheal aspirate | 0
+repeat CXR showed persistence of left lobe consolidation | 24
+no improvement despite mechanical ventilation | 24
+flexible bronchoscopy performed | 48
+foreign body in left main bronchus | 48
+foreign body resembled earring | 48
+foreign body pulled out | 48
+foreign body lodged in ETT | 48
+ETT removed | 48
+reintubated | 48
+foreign body identified as 25G hypodermic needle | 48
+subsequent CXR showed clearing of consolidation | 96
+extubated | 96
+transferred to medical ward | 96
+sputum culture yielded Pseudomonas aeruginosa | 96
+antibiotics de-escalated | 144
+discharged | 144
+inhaled drugs from same table as drug paraphernalia | 0
+inadvertently inhaled hypodermic needle | 0

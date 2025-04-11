@@ -1,0 +1,134 @@
+26 years old | 0
+female | 0
+familial adenomatous polyposis | 0
+proctocolectomy with J-pouch | 0
+elective laparotomy with ileostomy reversal | -480
+post-operative volvulus | -480
+ischemic bowel with perforation | -480
+emergent abdominal exploration | -480
+small bowel resection | -480
+drainage of abdominal and pelvic abscesses | -480
+admission to the intensive care unit | 0
+hemodynamically unstable | 0
+tachycardia to 190 beats per minute | 0
+mean arterial pressure of 65 mm Hg | 0
+central venous oxygen (SCVO2) value of 51% | 0
+central venous pressure of 16 cmH2O | 0
+positive fluid balance of 10 L | 0
+escalating inotropic and vasopressor support required | 0
+vasopressin infusion | 0
+epinephrine infusion | 0
+norepinephrine infusion | 0
+arterial blood gas analysis | 0
+profound hypoxemia | 0
+P/F ratio <200 | 0
+acidemia with pH of 7.18 | 0
+base excess of −5.2 | 0
+rising serum lactate level | 0
+peak serum lactate level of 21.2 mmol/L | 0
+bilateral alveolar infiltrates | 0
+chest radiograph findings | 0
+atrial flutter with variable conduction | 0
+EKG findings | 0
+mildly elevated Troponin I values | 0
+transthoracic echocardiography findings consistent with TTS | 0
+regional wall motion abnormalities (RWMAs) | 0
+akinetic left ventricular apex | 0
+compensatory hyperkinesis of ventricle base | 0
+moderate tricuspid valve regurgitation | 0
+right ventricular systolic pressure of 60 mm Hg | 0
+left ventricular ejection fraction (LVEF) 15%–20% | 0
+decision against intra-aortic balloon pump (IABP) | 0
+consideration of extracorporeal membrane oxygenation (ECMO) | 0
+insertion of left ventricular assist device (Impella CP) | 0
+left and right heart catheterization | 0
+coronary angiogram | 0
+insertion of Swan-Ganz pulmonary arterial catheter | 0
+initial Impella output set at 2.8 L/min | 0
+no significant coronary lesions | 0
+pulmonary arterial pressure 43/18 mm Hg | 0
+mean pulmonary arterial pressure 27 mm Hg | 0
+wedge pressure 25 mm Hg | 0
+administration of inhaled prostaglandins | 0
+milrinone infusion | 0
+improved oxygenation within 24 h | 24
+auto-anticoagulation (INR >3) | 0
+thrombocytopenia | 0
+systemic heparinization | 0
+activated clotting time (ACT) 160–180 | 0
+mild hematuria | 0
+resolved hematuria | 0
+acute kidney injury | 0
+acute tubular necrosis | 0
+conservative management of kidney injury | 0
+Impella device duration 108 h | 108
+hemodynamic improvement | 108
+ejection fraction recovery to 40% | 108
+reduction in pulmonary arterial pressure | 108
+removal of Impella device | 108
+discharge from intensive care unit | 672
+return to almost full health | 672
+takotsubo syndrome (TTS) | 0
+sepsis-induced cardiomyopathy (SIC) | 0
+severe sepsis | 0
+septic shock | 0
+acute respiratory distress syndrome (ARDS) | 0
+cardiogenic shock | 0
+ventricular tachycardia (3.0%) | 0
+ventricular thrombus (1.3%) | 0
+ventricular rupture (0.2%) | 0
+elevated brain natriuretic peptide (BNP) | 0
+characteristic EKG changes | 0
+mild, transient elevation of cardiac enzymes | 0
+absence of specific coronary lesion | 0
+left ventricle (LV) or right ventricle (RV) RWMA beyond single coronary artery perfusion | 0
+transient RWMA of LV or RV | 0
+recovery of cardiac function within 3–6 months | 0
+reversible left ventricular dysfunction | 0
+reversible moderate to severe mitral regurgitation (MR) | 0
+left ventricular outflow obstruction | 0
+right ventricular involvement | 0
+thrombus formation | 0
+cardiac rupture | 0
+hemodynamic instability | 0
+catecholamine surge | 0
+early goal-directed therapy (EGDT) | 0
+fluid resuscitation | 0
+blood transfusion | 0
+vasopressor therapy | 0
+acute coronary syndrome | 0
+coronary artery vasospasm | 0
+microcirculation dysfunction | 0
+transient obstruction of left ventricular outflow tract | 0
+exaggerated sympathetic nervous system stimulation | 0
+hereditary familial adenomatous polyposis | 0
+prior abdominal surgery | 0
+bowel perforation | -480
+intra-abdominal sepsis | -480
+complications of hemodynamic instability | 0
+major adverse cardiovascular events | 0
+survival sepsis campaign recommendations | 0
+American guidelines for IABP | 0
+European guidelines for IABP | 0
+mechanical assist devices | 0
+randomized controlled trials comparing Impella with IABP | 0
+all-cause mortality | 0
+LVEF comparison between devices | 0
+hemodynamic support | 0
+clinical outcomes | 0
+prolonged use of Impella CP device | 108
+minimally invasive support device | 0
+circulatory support | 0
+hemodynamic collapse | 0
+severe takotsubo cardiomyopathy | 0
+ARDS | 0
+Impella CP device insertion | 0
+hemodynamic stability | 0
+left ventricular function improvement | 108
+no bleeding complications apart from mild hematuria | 0
+spontaneous resolution of hematuria | 0
+acute kidney injury due to acute tubular necrosis | 0
+conservative management | 0
+device removal following improvement | 108
+discharge 4 weeks after admission | 672
+return to full health | 672

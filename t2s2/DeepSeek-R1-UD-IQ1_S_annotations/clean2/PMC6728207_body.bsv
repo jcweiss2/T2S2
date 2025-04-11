@@ -1,0 +1,84 @@
+58 years old | 0
+male | 0
+admitted to the hospital | 0
+lower abdominal pain | -336
+loss of appetite | -336
+aortic dissection (DeBakey IIIb) | -70080
+body temperature 37.3°C | 0
+left abdominal tenderness | 0
+no swollen superficial lymph nodes | 0
+no leg edema | 0
+mild thrombocytopenia | 0
+hypoalbuminemia | 0
+elevated C-reactive protein (CRP) | 0
+elevated alkaline phosphatase | 0
+elevated γ-glutamyl transferase | 0
+elevated creatinine | 0
+elevated fibrinogen | 0
+elevated D-dimer | 0
+elevated serum soluble interleukin-2 receptor level | 0
+elevated rheumatoid factor | 0
+antinuclear antibody index 640 (speckled type) | 0
+anti-Sjögren’s-syndrome-related antigen A antibody index 240 | 0
+anti-Sjögren’s-syndrome-related antigen B antibody negative | 0
+anti-platelet antibody negative | 0
+serum levels of β-D-glucan normal (<6.0 pg/mL) | 0
+blood cultures negative | 0
+mild proteinuria | 0
+no hematuria | 0
+small pleural effusion | 0
+no other abnormal findings on computed tomography | 0
+platelet count decreased gradually | 24
+ascites increased | 24
+pleural effusion increased | 24
+renal insufficiency progression | 24
+bone marrow biopsy | 240
+severely hypocellular marrow | 240
+18-F-fluorodeoxyglucose uptake by left cervical and submandibular lymph nodes | 264
+cervical lymph node biopsy | 384
+prophylactic platelet transfusion | 384
+pulse therapy with methylprednisolone (1000 mg daily for 3 days) | 384
+lymph node size normal (8×5 mm) | 384
+germinal centers preserved but atrophic | 384
+high endothelial venules surrounded by plasma cell infiltration | 384
+serum interleukin-6 level 72.7 pg/mL (<4.0 pg/mL) | 384
+human herpes virus-8 not found | 384
+thrombocytopenia persisted | 384
+massive ascites persisted | 384
+multiple blood and platelet transfusions | 384
+tocilizumab (8 mg/kg body weight) initiated | 504
+prednisolone 1 mg/kg/day initiated | 504
+anasarca worsened | 504
+renal function worsened | 504
+transferred to intensive care unit | 504
+ventilator support | 504
+continuous hemofiltration | 504
+deteriorating hemodynamic status | 504
+five consecutive blood cultures sterile | 504
+restarted pulse therapy | 600
+intravenous immunoglobulin initiated | 648
+tocilizumab (8 mg/kg body weight) restarted | 696
+thrombocytopenia deteriorated | 696
+massive ascites deteriorated | 696
+gastrointestinal bleeding | 696
+methicillin-resistant Staphylococcus aureus sepsis | 696
+meropenem administered | 696
+teicoplanin administered | 696
+bacterial peritonitis | 888
+Stenotrophomonas maltophilia in ascitic fluid | 888
+antibiotics changed to daptomycin | 888
+tazobactam/piperacillin added | 888
+ciprofloxacin added later | 888
+gastrointestinal perforation | 1104
+candidemia (Candida glabrata and Candida lusitaniae) | 1224
+β-D-glucan elevated to 193.3 pg/mL | 1224
+micafungin administered | 1224
+trimethoprim-sulfamethoxazole administered | 1224
+death | 1368
+disseminated candidiasis | 1368
+secondary hemophagocytic lymphohistiocytosis | 1368
+hemophagocytosis in bone marrow | 1368
+ischemic and necrotic small and large intestines | 1368
+no macroscopic perforation | 1368
+lymph nodes normal size postmortem | 1368
+no TAFRO syndrome findings postmortem | 1368

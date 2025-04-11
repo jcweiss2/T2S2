@@ -1,0 +1,43 @@
+event,time
+60 years old ,0
+    woman ,0
+    admitted to the hospital ,0
+    sudden nausea ,-24
+    vomiting ,-24
+    steroid treatment for malignant lymphoma ,-8760
+    pain in the left side of the abdomen ,-24
+    large mass palpable ,-24
+    no muscular guarding ,-24
+    no rebound tenderness ,-24
+    increased inflammation ,-24
+    marked acidosis ,-24
+    thickness of the descending colon ,-24
+    swelling of surrounding lymph nodes ,-24
+    ascites ,-24
+    blood pressure decreased gradually ,-24
+    level of consciousness decreased gradually ,-24
+    sepsis due to descending colon cancer ,0
+    colectomy of the descending colon ,0
+    necrosis ,0
+    stoma created ,0
+    admitted to the intensive care unit ,0
+    treatment for the primary disease ,0
+    early rehabilitation to prevent muscle atrophy ,0
+    recovered from multiple organ failure ,48
+    difficulty in being weaned from the ventilator ,288
+    tracheotomy performed ,288
+    level of consciousness GCS4 (E4VTM0) ,288
+    no anisocoria ,288
+    no abnormal light reflex ,288
+    no disorder of eye movement ,288
+    no facial muscle paralysis ,288
+    severe flaccid weakness of the limbs ,288
+    diminished deep tendon reflexes ,288
+    MRC sum score 0 ,288
+    head CT showed no abnormalities causing muscle weakness ,288
+    diagnosed with ICUAW ,288
+    active rehabilitation ,288
+    nutritional support ,288
+    glycemic control ,288
+    MRC score improved to 50 ,4320
+    discharged ,4320

@@ -1,0 +1,122 @@
+event,time
+45 years old , 0  
+    gravidity 5 , 0  
+    parity 2 , 0  
+    body mass index 24 kg/m2 , 0  
+    major placenta previa , 0  
+    antepartum hemorrhage , 0  
+    admitted , 0  
+    scheduled for elective lower segment cesarean delivery , 0  
+    combined spinal-epidural block , 0  
+    peripheral intravenous cannulas placed , 0  
+    electrocardiogram monitoring established , 0  
+    noninvasive blood pressure monitoring established , 0  
+    oxygen saturation monitoring established , 0  
+    initial blood pressure 120/80 mmHg , 0  
+    heart rate 105/min , 0  
+    peripheral oxygen saturations 96% , 0  
+    uncomplicated CSE performed , 0  
+    sensory block to T4 confirmed , 0  
+    Bromage score 3 , 0  
+    blood pressure remained stable at 120/75 mmHg , 0  
+    phenylephrine infusion 2 mg/h , 0  
+    heart rate varied between 90-120/min , 0  
+    Spo2 96% , 0  
+    delivery of live infant , 0  
+    Apgar score 9 at 1 and 5 minutes , 0  
+    nausea , 0  
+    dizziness , 0  
+    bradycardia 35/min , 0  
+    loss of consciousness , 0  
+    blood pressure 70/35 mmHg , 0  
+    atropine 600 µg administered , 0  
+    succinylcholine 100 mg administered , 0  
+    endotracheal intubation , 0  
+    carotid pulse absent , 0  
+    sinus rhythm 100/min , 0  
+    pulseless electrical activity diagnosed , 0  
+    cardiopulmonary resuscitation commenced , 0  
+    epinephrine 1 mg administered , 0  
+    chest compressions with asynchronous ventilation continued , 0  
+    capnography confirmed endotracheal intubation , 0  
+    effective chest compressions , 0  
+    lungs ventilated with 100% oxygen , 0  
+    placenta delivered , 0  
+    uterus exteriorized , 0  
+    thoracic compressions monitored , 0  
+    return of spontaneous circulation , 9  
+    pulseless electrical activity episodes ," 9, 19, 29  "
+    TEE performed during resuscitation , 9  
+    dilated right ventricle , 9  
+    severely reduced RV systolic function , 9  
+    underfilled left ventricle , 9  
+    moderate globally reduced LV systolic function , 9  
+    hemodynamic stability at 30 minutes , 30  
+    noradrenaline infusion 40 µg/min , 30  
+    right pulmonary artery mass identified , 30  
+    abdominal drains inserted , 30  
+    Bakri intrauterine balloon inserted , 30  
+    vaginal packs inserted , 30  
+    abdomen closed , 30  
+    bleeding from vagina , 40  
+    bleeding from oropharynx , 40  
+    bleeding from peripheral access sites , 40  
+    massive hemorrhage declared , 40  
+    massive transfusion protocol activated , 40  
+    arterial blood gas analysis , 40  
+    lactic acidosis , 40  
+    anemia , 40  
+    ROTEM performed , 40  
+    packed red blood cells administered , 40  
+    fresh frozen plasma administered , 40  
+    FIBTEM A5 7 mm , 40  
+    hypofibrinogenemia , 40  
+    EXTEM clotting time normal , 40  
+    EXTEM maximum lysis >15% , 40  
+    FIBTEM maximum lysis >15% , 40  
+    hyperfibrinolysis , 40  
+    laboratory blood investigations confirmed DIC , 70  
+    fibrinogen concentrate administered , 40  
+    platelets administered , 40  
+    cryoprecipitate administered , 40  
+    tranexamic acid administered , 40  
+    TEE-guided volume resuscitation , 40  
+    balanced electrolyte solution administered , 40  
+    4% albumin administered , 40  
+    calcium gluconate administered , 40  
+    ROTEM improvement , 100  
+    FIBTEM A5 6 mm , 100  
+    fibrinogen concentrate administered again , 100  
+    uterus contracted , 120  
+    core temperature 35.5°C , 120  
+    hemodynamic stability maintained , 120  
+    noradrenaline infusion 17 µg/min , 120  
+    transferred to intensive care unit , 120  
+    transthoracic echocardiography performed , 120  
+    improved LV contractility , 120  
+    ejection fraction 0.55-0.60 , 120  
+    severely dilated RV , 120  
+    impaired RV systolic function , 120  
+    mild pulmonary hypertension , 120  
+    RV systolic pressure 32 mmHg , 120  
+    milrinone commenced , 120  
+    vasopressin commenced , 120  
+    ongoing uterine bleeding , 120  
+    hemoglobin 59 g/L , 120  
+    hysterectomy performed , 240  
+    packed red blood cells administered again , 240  
+    coagulopathy resolved , 240  
+    interhospital transfer , 240  
+    computerized tomography pulmonary angiogram performed , 288  
+    saddle embolus identified , 288  
+    ultrasound excluded deep venous thrombosis , 288  
+    possible right ovarian thrombosis , 288  
+    discharged home , 504  
+    repeat transthoracic echocardiography , 504  
+    normal LV size , 504  
+    ejection fraction 0.54 , 504  
+    normal RV , 504  
+    low normal systolic function , 504  
+    no neurophysiological deficits , 504  
+    intact cognition , 504  
+    anticoagulation treatment continued , 504  

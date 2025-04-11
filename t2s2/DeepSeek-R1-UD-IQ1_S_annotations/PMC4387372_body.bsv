@@ -1,0 +1,36 @@
+68 years old | 0
+    man | 0
+    history of coronary artery disease | 0
+    hypertension | 0
+    type II diabetes mellitus | 0
+    paroxysmal supraventricular tachycardia | 0
+    returned to the United States from a nine-month visit to his native Philippines | -720
+    visited family in Manila | -720
+    visited family in Lucena | -720
+    developed a myocardial infarction | -1440
+    hospitalized | -1440
+    received angioplasty | -1440
+    placement of two stents in coronary arteries | -1440
+    discharged | -1440
+    appropriate medical management | -1440
+    hospitalized for fevers | -720
+    hospitalized for left upper quadrant abdominal pain | -720
+    no diarrhea | -720
+    no respiratory symptoms | -720
+    no skin lesions | -720
+    diagnosis unknown | -720
+    workup unknown | -720
+    treatment plan unknown | -720
+    discharged home with oral antibiotics | -720
+    completed the course of antibiotics | -720
+    fevers resolved | -720
+    abdominal pain resolved | -720
+    unable to recall duration of antibiotics | -720
+    unable to recall name of antibiotics | -720
+    presented to the emergency room with progressive worsening of left upper quadrant abdominal pain | -24
+    temperature 97.5°F (36.4°C) | 0
+    blood pressure 127/69 mmHg | 0
+    pulse 117 beats per minute | 0
+    irregularly irregular rhythm | 0
+    respiration rate 27 breaths per minute | 0
+    oxygen saturation 99% on room air |@

@@ -1,0 +1,96 @@
+event,time
+47 years old ,0
+    male ,0
+    admitted to the intensive care unit ,0
+    septic shock ,0
+    necrotising fasciitis of the axilla ,0
+    Group A streptococci detected in blood ,0
+    Group A streptococci detected in soft tissue cultures ,0
+    hypertension ,0
+    amlodipine ,0
+    amlodipine discontinued ,0
+    invasive positive-pressure ventilation ,0
+    penicillin G administered ,0
+    norepinephrine administered ,0
+    serial debridement performed ,24
+    treatment response satisfactory ,24
+    norepinephrine tapered ,24
+    normal ECG findings ,24
+    complete atrioventricular block ,96
+    cardiac arrest ,96
+    ECG changes: Wenckebach-type atrioventricular block ,96
+    ECG changes: advanced atrioventricular block ,96
+    cardiopulmonary resuscitation ,96
+    return of spontaneous circulation ,96
+    epinephrine administered ,96
+"    inverted T waves on leads I, aVL, V5, V6 ",96
+"    ST depression on leads I, aVL, V1–V6 ",96
+    first-degree atrioventricular block ,96
+    echocardiography: hypokinesia of the inferior wall ,96
+    no electrolyte imbalances ,96
+    temporary pacemaker insertion ,96
+    coronary angiography performed ,96
+    no significant stenosis in coronary arteries ,96
+    coronary spastic angina suspected ,96
+    ergonovine provocative testing ,96
+    coronary spasm confirmed ,96
+"    ST segment elevation in leads II, III, aVF ",96
+    intracoronary isosorbide nitrate administered ,96
+    spasm relieved ,96
+    electrocardiography returned to normal ,96
+    calcium-channel blocker (nifedipine) administered ,96
+    no recurrence of coronary spasm ,144
+    no recurrence of atrioventricular block ,144
+    temporary pacing discontinued ,144
+    negative blood culture ,216
+    extubated ,216
+    transferred to general ward ,240
+    discharged ,1176
+    no chest pain ,1176
+    no changes on cardiac monitoring ,1176
+    nifedipine effective ,1176
+    atrioventricular block transient ,1176
+    implantable loop recorder not inserted ,1176
+    no recurrence of symptoms at 3 months ,1176
+    sepsis-induced coronary spasm ,96
+    discontinued amlodipine ,0
+    norepinephrine administered ,0
+    septic shock ,0
+    necrotising fasciitis ,0
+    Group A streptococcal infection ,0
+    hypotension ,0
+    invasive positive-pressure ventilation ,0
+    penicillin G ,0
+    norepinephrine ,0
+    debridement ,24
+    satisfactory response ,24
+    norepinephrine taper ,24
+    normal ECG ,24
+    complete AV block ,96
+    cardiac arrest ,96
+    CPR ,96
+    ROSC ,96
+    epinephrine ,96
+    T wave inversion ,96
+    ST depression ,96
+    first-degree AV block ,96
+    echocardiogram hypokinesia ,96
+    no electrolyte abnormalities ,96
+    temporary pacemaker ,96
+    coronary angiography ,96
+    no stenosis ,96
+    ergonovine test ,96
+    spasm confirmed ,96
+    ST elevation ,96
+    isosorbide nitrate ,96
+    nifedipine started ,96
+    no recurrence ,144
+    pacemaker discontinued ,144
+    extubation ,216
+    transfer to ward ,240
+    discharge ,1176
+    no chest pain ,1176
+    no arrhythmias ,1176
+    nifedipine effective ,1176
+    transient AV block ,1176
+    no symptoms at 3 months ,1176

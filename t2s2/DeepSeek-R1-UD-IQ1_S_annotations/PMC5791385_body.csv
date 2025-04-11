@@ -1,0 +1,133 @@
+event,time
+61 years old ,0
+    male ,0
+    left foot swelling ,0
+    ankle swelling ,0
+    generalized body aches ,0
+    intermittent chills ,0
+    no shortness of breath ,0
+    no chest pain ,0
+    no abdominal pain ,0
+    no urinary symptoms ,0
+    no diarrhea ,0
+    no headaches ,0
+    no runny nose ,0
+    no sore throat ,0
+    no tick bites ,0
+    no skin rashes ,0
+    cat licking ,0
+    no cat bites ,0
+    no other bites ,0
+    up-to-date cat immunization ,0
+    no significant past medical history ,0
+    up-to-date outpatient primary care clinic visits ,0
+    not taking any medications at home ,0
+    not in acute respiratory distress ,0
+    tachycardiac ,0
+    heart rate 128 beats per minute ,0
+    blood pressure 86/53 mm Hg ,0
+    oxygen saturation 95% on room air ,0
+    afebrile ,0
+    alert and oriented ,0
+    unremarkable cardio-pulmonary examination ,0
+    unremarkable gastrointestinal examination ,0
+    left ankle tender ,0
+    no erythema ,0
+    no warmth ,0
+    left foot swollen ,0
+    unremarkable other extremities ,0
+    good bilateral pulses ,0
+    equal bilateral pulses ,0
+    white cell count 7.5 K/uL ,0
+    hemoglobin 13.5 gm/dL ,0
+    platelets 72 K/mcL ,0
+    acute kidney injury ,0
+    creatinine 1.41 mg/dL ,0
+    glomerular filtration rate 51 mL/min/1.73 m2 ,0
+    low potassium 3.4 ,0
+    lactic acidosis 4.1 mmol/L ,0
+    no schistocytes ,0
+    urinalysis negative for infections ,0
+    high specific gravity 1.031 ,0
+    deranged AST 74 U/L ,0
+    deranged ALT 72 U/L ,0
+    total bilirubin 1.4 mg/dL ,0
+    procalcitonin 29.83 ng/mL ,0
+    WBC worsened ,24
+    WBC peaked to 20 K/µL ,144
+    WBC trended down ,144
+    hemoglobin stable ,0
+    sepsis-induced thrombocytopenia ,0
+    thrombocytopenia improved ,192
+    mild acute kidney injury resolved ,0
+    liver function tests worsened ,24
+    liver function tests resolved ,24
+    lactic acidosis resolved ,24
+    CT chest-abdomen-pelvis ,0
+    no pulmonary consolidations ,0
+    multiple prominent mesenteric lymph nodes ,0
+    lymph nodes improved on follow-up CT ,0
+    ultrasound left lower extremity ,0
+    ruled out deep venous thrombosis ,0
+    blood cultures drawn ,0
+    started meropenem ,0
+    started vancomycin ,0
+    admitted to intensive care unit ,0
+    MRI left ankle-foot ,48
+    diffuse soft tissue edema ,48
+    reticulation around ankle ,48
+    trans-thoracic echocardiogram ,48
+    ruled out endocarditis ,48
+    attempted arthrocentesis ,48
+    no fluid in ankle joint ,48
+    blood cultures positive Pasteurella multocida ,48
+    continued meropenem ,48
+    added ciprofloxacin ,48
+    sensitivity to ciprofloxacin ,48
+    sensitivity to meropenem ,48
+    sensitivity to piperacillin-tazobactam ,48
+    worsening left lower extremity edema ,144
+    repeated ultrasound left lower extremity ,144
+    new deep venous thrombus left popliteal vein ,144
+    new deep venous thrombus left posterior tibial vein ,144
+    started enoxaparin ,192
+    sepsis-induced thrombocytopenia resolved ,192
+    intensive care unit stay ,0
+    stable mental status ,0
+    purplish discoloration finger tips ,0
+    purplish discoloration toe tips ,0
+    workup disseminated intravascular coagulation ,0
+    workup vasculitis ,0
+    workup hypercoagulable syndrome ,0
+    workup autoimmunity ,0
+    moderately positive lupus anticoagulant antibodies ,0
+    decreased protein-C activity ,0
+    positive anti-cardiolipin IgM antibodies ,0
+    thrombophilia diagnosis ,0
+    left lower extremity DVT ,192
+    low-normal complements level ,0
+    ANA negative ,0
+    DsDNA negative ,0
+    low suspicion lupus ,0
+    low suspicion vasculitis ,0
+    low suspicion connective tissue disease ,0
+    low suspicion rheumatoid arthritis ,0
+    multiple blood cultures negative ,480
+    discharge to rehabilitation center ,480
+    outpatient digital ulcerations ,480
+    right forefoot wet gangrene ,480
+    readmitted for right fore-foot amputation ,480
+    blood cultures sent again ,480
+    underwent right fore-foot amputation ,480
+    blood cultures positive Pasteurella multocida ,480
+    started piperacillin-tazobactam ,480
+    deep tissue cultures ,480
+    bone biopsy gangrenous toes ,480
+    enterococcus group-D ,480
+    staphylococcus coagulase negative ,480
+    started daptomycin ,480
+    left ankle-knee osteomyelitis ,480
+    underwent below knee amputation ,480
+    discharged again to rehabilitation center ,480
+    recurrent Pasteurella bacteremia ,480
+    no clear source ,480

@@ -1,0 +1,64 @@
+event,time
+53 years old ,0
+    male ,0
+    visited a primary care physician ,-72
+    fever ,-72
+    dyspnea ,-72
+    10-year history of rheumatoid arthritis ,-87600
+    oral methotrexate 10 mg/week ,-87600
+    low-dose prednisolone 2 mg/day ,-87600
+    bitten by family dog ,-96
+    symptom onset ,-96
+    diagnosed viral infection ,-72
+    discharged home ,-72
+    symptoms worsened ,-24
+    transferred to emergency department ,0
+    admission ,0
+    bite wound present ,0
+    no cellulitis ,0
+    no erythema ,0
+    blood pressure 63/52 mmHg ,0
+    heart rate 129 beats/min ,0
+    respiratory rate 40/min ,0
+    body temperature 38.0 °C ,0
+    oxygen saturation 100% at 3 L/min ,0
+    pancytopenia ,0
+    white blood cell count 1300/μL ,0
+    hemoglobin 11.7 g/dL ,0
+    platelet count 6000/μL ,0
+    high-grade inflammatory status ,0
+    CRP 31.47 mg/dL ,0
+    procalcitonin 83.0 ng/mL ,0
+    renal impairment ,0
+    creatinine 4.97 mg/dL ,0
+    prolonged prothrombin time-INR 1.4 ,0
+    increased fibrin/fibrinogen degradation products 157.4 ng/mL ,0
+    septic shock ,0
+    disseminated intravascular coagulation ,0
+    chest CT ground-glass opacity ,0
+    consolidation in bilateral lower lobes ,0
+    blood culture collected ,0
+    transferred to ICU ,0
+    massive fluid replacement ,0
+    meropenem 1 g ,0
+    platelet transfusion ,0
+    nafamostat mesilate ,0
+    noradrenaline initiated ,0
+    hydrocortisone initiated ,0
+    hypotension persisted ,24
+    respiratory condition worsened ,24
+    repeat CT progression of consolidations ,24
+    acute respiratory distress syndrome ,24
+    mechanical ventilation ,24
+    gram-negative rods isolated from blood cultures ,24
+    suspected C. canimorsus infection ,24
+    pupillary dilation ,72
+    no light reflex ,72
+    head CT cerebral hemorrhage ,72
+    herniation ,72
+    died ,120
+    GNR identified as C. canimorsus ,120
+    sepsis diagnosis confirmed ,120
+    antibacterial susceptibility to carbapenems ,120
+    susceptibility to macrolides ,120
+    susceptibility to β-lactam drugs ,120

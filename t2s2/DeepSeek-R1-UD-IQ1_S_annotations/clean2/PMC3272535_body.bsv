@@ -1,0 +1,83 @@
+23 years old | 0
+man | 0
+visited the emergency room with abdominal pain | -672
+visited the emergency room with jaundice | -672
+admitted for further evaluation | 0
+diagnosed with biliary cirrhosis | -35040
+evaluated with abnormal liver function tests after alcohol consumption | -35040
+visited the emergency room twice with abdominal pain | -168
+discharged after improving with conservative management | -168
+hepatosplenomegaly | 0
+collateral vessels | 0
+esophageal varices | 0
+total bilirubin 26.1 mg/dl | 0
+direct bilirubin 16.6 mg/dl | 0
+aspartate aminotransferase 52 U/L | 0
+alanine aminotransferase 38 U/L | 0
+progressing proximal limb pain | 0
+pain could not be controlled by opioids | 0
+skin sensitivity on exposure to sunlight | 0
+family history of multiple skin blisters on exposure to sunlight | 0
+increased coproporphyrin in the stool | 0
+uroporphyrin in the urine | 0
+liver function worsened | 696
+acute liver failure | 696
+hypovolemic shock caused by intra-abdominal bleeding | 696
+renal function suddenly deteriorated | 696
+continuous renal replacement therapy | 696
+listed for an emergency liver transplantation | 696
+preoperative electrocardiogram revealed sinus tachycardia | 696
+echocardiogram within normal limits | 696
+pulmonary edema | 696
+pulmonary effusion | 696
+model for end-stage liver disease score was 33 points | 696
+intubated | 696
+continuous infusion of norepinephrine 0.9 µg/kg/min | 696
+Bispectral Index® monitor attached | 696
+ventilator care continued | 696
+arterial cannulation performed in the left radial artery | 696
+central venous cannulation performed in the right internal jugular vein | 696
+multifunction Swan-Ganz catheter inserted | 696
+endotracheal tube changed | 696
+general anesthesia induced | 696
+general anesthesia maintained with total intravenous anesthesia | 696
+propofol 100 µg/kg/min | 696
+remifentanil 0.15 µg/kg/min | 696
+continuous infusion of norepinephrine 0.9 µg/kg/min maintained | 696
+hypovolemic acute renal failure | 696
+atracuronium 5 µg/kg/min infused | 696
+shadowless surgical lights covered with special filters | 696
+other lights turned off | 696
+liver transplantation operation started | 696
+dopamine 5 µg/kg/min added | 696
+mean arterial blood pressure maintained between 60 and 70 mmHg | 696
+hemodynamic profile stable during anhepatic period | 696
+100% oxygen given before reperfusion | 696
+mean blood pressure dropped to 49 mmHg after reperfusion | 696
+blood pressure normalized within 2 minutes | 696
+10,200 ml crystalloid given | 696
+1,500 ml colloid given | 696
+670 ml 5% albumin given | 696
+15 units packed red blood cells given | 696
+4 units fresh frozen plasma given | 696
+6 units platelet concentrate given | 696
+6 units cryoprecipitate given | 696
+calcium gluconate given intermittently | 696
+anuric due to acute renal failure | 696
+total urine output 100 ml | 696
+transferred back to ICU | 696
+became alert | 216
+renal function improved | 216
+continuous renal replacement therapy discontinued | 216
+motor function weak | 216
+extubation delayed | 216
+motor power grade 2 | 216
+severe sensory polyneuropathy | 216
+severe motor polyneuropathy | 216
+tracheostomy performed | 312
+post-LT liver function tests initially improved | 312
+liver function tests worsened | 312
+fever | 720
+antibiotics administered | 720
+multi-organ failure developed | 2496
+expired | 2496

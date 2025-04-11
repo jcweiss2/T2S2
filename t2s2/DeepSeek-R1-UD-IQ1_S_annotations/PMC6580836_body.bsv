@@ -1,0 +1,118 @@
+26 years old | 0
+    male | 0
+    admitted to the hospital | 0
+    febrile illness | -168
+    involuntary movements | -168
+    hyperkinetic movements | -168
+    weakness of both upper and lower limbs | -168
+    autonomic dysfunction | -168
+    excessive sweating | -168
+    insomnia | -168
+    behavioral abnormalities | -168
+    auditory hallucinations | -168
+    resting pulse rate above 110 beats/min | 0
+    blood pressure elevated above 160/100 mm Hg | 0
+    wasting of muscles of all four limbs | 0
+    hypokalemia (serum potassium: 3.2 mEq) | 0
+    hypoproteinemia (total protein: 5.8 g/dl) | 0
+    positive serum anti-CASPR2 antibody | 0
+    high-dose steroids | 0
+    intravenous immune globulin (IVIG) | 0
+    therapeutic plasma exchange (TPE) decision | 0
+    femoral line placement | 0
+    calcium infusion | 0
+    potassium correction | 0
+    FFP and saline replacement fluid | 0
+    TPE sessions | 0
+    hyperkinetic movements hindering flow | 0
+    limb restraining | 0
+    methyl prednisolone | 0
+    clonazepam | 0
+    allergic reaction to FFP | 0
+    rashes | 0
+    antihistamines | 0
+    elevated blood pressure | 0
+    tachycardia | 0
+    serum protein (5.2 g/dL) | 0
+    FFP transfusion | 0
+    total serum proteins (7.2 g/dL) | 0
+    hemodynamically stable | 0
+    improved sitting with support | 24
+    improved eating and walking with support | 24
+    mild occasional hyperkinetic movements | 24
+    autonomic dysfunction improvement | 24
+    pulse rate below 90 beats/min | 24
+    blood pressure below 140/90 mm Hg | 24
+    excessive sweating subsided | 24
+    restlessness subsided | 24
+    insomnia subsided | 24
+    no behavioral abnormalities | 24
+    anti-CASPR2 antibodies decline | 24
+    oral prednisolone | 0
+    remission | 24
+
+Alright, so I need to parse through this case report and extract all the clinical events along with their timestamps. The admission event is at timestamp 0, and everything else should be relative to that. Let me start by breaking down the case report section by section.
+
+First, the introduction mentions Morvan syndrome, but that's background info. The case report starts with a 26-year-old male admitted to the center with a 1-week history of febrile illness. So the febrile illness started a week before admission, which is -168 hours (since 1 week is 7 days * 24 hours = 168). He had gradually progressive symptoms of involuntary, hyperkinetic movements and weakness in limbs. Since these symptoms started around the same time as the febrile illness, they'd also be at -168. Autonomic dysfunction (sweating, insomnia) and behavioral abnormalities like hallucinations would also be part of the same timeline, so -168.
+
+On admission, during general examination, his resting pulse was above 110, BP above 160/100, muscle wasting. These are all findings at admission, so timestamp 0. Lab results showed hypokalemia and hypoproteinemia at admission, so those are 0. The anti-CASPR2 antibody test result is part of the initial evaluation, so also 0.
+
+Initial treatments with steroids and IVIG for 2 weeks didn't help. Since the admission is timestamp 0, the decision to do TPE would be after that, but the case mentions the decision was made after progression, so maybe during admission, so TPE decision is 0. The femoral line placement, calcium infusion, potassium correction, and FFP/saline replacement all happen at the start of TPE, which is during the admission period, so timestamp 0.
+
+During TPE sessions, the hyperkinetic movements hindered the flow, so they had to restrain him, give methyl prednisolone and clonazepam. The allergic reaction to FFP with rashes during the first session is part of the TPE process, so timestamp 0. Antihistamines were given after that, still during the TPE sessions, so 0. Elevated BP and tachycardia are ongoing, so 0. Serum protein levels before TPE are 5.2, which is at 0. Post-TPE FFP transfusions and improved protein to 7.2 would be after each session, but since the sessions are on alternate days over five sessions, the improvements would start after the first few sessions, so maybe timestamp 24? The patient showed improvement after the 2nd TPE (maybe after 48 hours) but the case says after 2nd TPE he could sit with support, and after the fifth, he could eat and walk. Since each TPE is on alternate days, each session is 48 hours apart, but the exact timing isn't specified. However, the results section mentions improvement after the 2nd TPE, so perhaps those events are at +24 hours (assuming each TPE session is a day apart, but the exact timing isn't clear). The final improvements after the fifth TPE would be at 24 hours as well, considering the case doesn't specify exact times post-admission. The decline in antibodies is after the final TPE, so also 24. The oral prednisolone starts after improvement, so timestamp 0? Or after discharge? The remission is at the end, so maybe 24.
+
+I need to make sure all events are captured, including pertinent negatives like no behavioral abnormalities post-TPE. Also, separate conjunctive phrases into individual events. For example, "involuntary, hyperkinetic movements" should be split into "involuntary movements" and "hyperkinetic movements". Similarly, "weakness of both upper and lower limbs" is one event. Autonomic dysfunction includes excessive sweating and insomnia as separate events. The treatment decisions, procedures, and reactions all need their own rows with appropriate timestamps.
+</think>
+
+26 years old | 0  
+male | 0  
+admitted to the hospital | 0  
+febrile illness | -168  
+involuntary movements | -168  
+hyperkinetic movements | -168  
+weakness of both upper and lower limbs | -168  
+autonomic dysfunction | -168  
+excessive sweating | -168  
+insomnia | -168  
+behavioral abnormalities | -168  
+auditory hallucinations | -168  
+resting pulse rate above 110 beats/min | 0  
+blood pressure elevated above 160/100 mm Hg | 0  
+wasting of muscles of all four limbs |> 0  
+hypokalemia (serum potassium: 3.2 mEq) | 0  
+hypoproteinemia (total protein: 5.8 g/dl) | 0  
+positive serum anti-CASPR2 antibody | 0  
+high-dose steroids | 0  
+intravenous immune globulin (IVIG) | 0  
+therapeutic plasma exchange (TPE) decision | 0  
+femoral line placement | 0  
+calcium infusion | 0  
+potassium correction | 0  
+FFP and saline replacement fluid | 0  
+TPE sessions | 0  
+hyperkinetic movements hindering flow | 0  
+limb restraining | 0  
+methyl prednisolone | 0  
+clonazepam | 0  
+allergic reaction to FFP | 0  
+rashes | 0  
+antihistamines | 0  
+elevated blood pressure | 0  
+tachycardia | 0  
+serum protein (5.2 g/dL) | 0  
+FFP transfusion | 0  
+total serum proteins (7.2 g/dL) | 0  
+hemodynamically stable | 0  
+improved sitting with support | 24  
+improved eating and walking with support | 24  
+mild occasional hyperkinetic movements | 24  
+autonomic dysfunction improvement | 24  
+pulse rate below 90 beats/min | 24  
+blood pressure below 140/90 mm Hg | 24  
+excessive sweating subsided | 24  
+restlessness subsided | 24  
+insomnia subsided | 24  
+no behavioral abnormalities | 24  
+anti-CASPR2 antibodies decline | 24  
+oral prednisolone | 0  
+remission | 24

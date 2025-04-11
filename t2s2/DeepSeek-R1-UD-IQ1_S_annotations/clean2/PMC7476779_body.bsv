@@ -1,0 +1,76 @@
+61 years old | 0
+female | 0
+presented to emergency | 0
+rapidly worsening soft tissue infection of left buttock extending to posterior thigh | 0
+chronic left perineum sinus | -17520
+sinus excised | -17520
+CT scan | -17520
+colonoscopy | -17520
+asymptomatic sigmoid diverticulosis | -17520
+left maxillary sinus mass | -10512
+radiographical differential diagnosis including granulomatosis with polyangiitis | -10512
+final pathology on excision showed osteomyelitis | -10512
+repeat CT scan | -10512
+new left-sided hydronephrosis | -10512
+inflammatory changes in keeping with chronic sigmoid diverticulitis | -10512
+clinically asymptomatic abdomen | -10512
+colorectal carcinoma ruled out by repeat colonoscopy | -5664
+hydronephrosis managed by ureteric stenting | -10512
+conservative management of diverticulitis | -10512
+left ureteric stent | -10512
+four weeks prior to presentation | -672
+blistering rash over left buttock and gluteal fold | -672
+treated with acyclovir for shingles | -672
+good response to acyclovir | -672
+three days prior to presentation | -72
+visited emergency room | -72
+new painful induration over left buttock | -72
+diagnosed as early abscess | -72
+prescribed amoxicillin-clavulanate | -72
+induration enlarged | -24
+one-day history of serous discharge | -24
+chills | -24
+vital signs normal | 0
+bloodwork revealed leukocytosis of 22200 | 0
+acute kidney injury | 0
+creatinine of 191 μmol/L | 0
+non-contrast CT scan | 0
+performed sigmoid diverticulitis | 0
+free air tracking inferiorly into left pelvis | 0
+5.5 × 3.3-cm abscess | 0
+significant extension of gas throughout entire left buttock tracked posteriorly along hamstring muscles to popliteal fossa | 0
+subcutaneous emphysema | 0
+clinically apparent subcutaneous emphysema | 0
+taken to operating room for wide debridement of left buttock, perineum and leg | 0
+laparotomy | 0
+washout | 0
+left hemicolectomy | 0
+antibiotic treatment with piperacillin/tazobactam, clindamycin and vancomycin | 0
+taken back to operating room the next day | 24
+further debridement | 24
+drainage of retroperitoneal and pre-rectal abscesses | 24
+end colostomy creation | 24
+final tissue culture revealed polymicrobial gut flora | 24
+19 days in intensive care unit | 456
+transferred to the floor | 456
+continued treatment with negative pressure wound therapy for additional month | 456
+transfer to rehabilitation hospital | 456
+returned to operating room 2 months after initial presentation | 1440
+delayed wound closure with rotational flap on left buttock | 1440
+left ureteric stent removed | 1680
+resolution of hydronephrosis confirmed on subsequent imaging | 1680
+six months after presentation | 4320
+developed ulcerating lesions over left hip | 4320
+biopsies on two separate occasions | 4320
+initial suspicion of Marjolin’s ulcers | 4320
+ulcerating squamous cell carcinomas in areas of previously traumatized, chronically inflamed and scarred tissue | 4320
+treated by wide local excision | 4320
+biopsies revealed pyoderma gangrenosum | 4320
+consulted to dermatology | 4320
+initially treated with prednisone, colchicine and azathioprine | 4320
+now 2.5 years since presentation | 21900
+chronically maintained with mycophenolic acid | 21900
+intralesional triamcinolone injections | 21900
+good effect | 21900
+multiple subsequent investigations for immunodeficiency syndromes | 21900
+negative immunodeficiency syndromes | 21900

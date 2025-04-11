@@ -1,0 +1,51 @@
+12 years old | 0
+    female | 0
+    underwent severe Type III FGM | -43824
+    increasing pain during micturition | -8760
+    obstructed micturition | -8760
+    disrupted urinary stream | -8760
+    splashing of very little urine | -8760
+    anuria | 0
+    vomiting | 0
+    abdominal pain | 0
+    malnourished | 0
+    tired | 0
+    in pain | 0
+    amputated labia majora | -43824
+    amputated labia minora | -43824
+    fused labia minora remnant | -43824
+    minimal gap at the posterior fourchette | -43824
+    covered external urethral meatus | -43824
+    covered introitus | -43824
+    anemia | 0
+    hemoglobin level of 5.9 g/dl | 0
+    creatinine level of 10.8 mg/dL | 0
+    urea level of 180 mg/dL | 0
+    leucocytes in urine | 0
+    blood in urine | 0
+    proteins in urine | 0
+    urine culture growth of Escherichia Coli | 0
+    increased renal echogenicity | 0
+    grade II renal parenchymal disease | 0
+    abdominal ascites | 0
+    hospitalized in pediatric department | 0
+    obstructive nephropathy | 0
+    retention of urine | 0
+    attempted bladder catheterization | 0
+    consultation with obstetrics and gynecology | 0
+    decision for emergency defibrillation | 0
+    consent for surgery | 0
+    emergency defibrillation surgery | 0
+    partial defibrillation | 0
+    sutured cut edges of labia minora | 0
+    catheterization | 0
+    treatment in pediatric intensive care | 0
+    renal failure management | 0
+    hemodialysis | 0
+    blood transfusion | 0
+    antibiotics | 0
+    deteriorating condition | 24
+    entombed condition | 24
+    sepsis | 24
+    death | 24
+    

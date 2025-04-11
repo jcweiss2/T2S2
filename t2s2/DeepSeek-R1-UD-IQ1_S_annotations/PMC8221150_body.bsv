@@ -1,0 +1,81 @@
+39 years old | 0
+    male | 0
+    Hispanic | 0
+    flu-like symptoms | -192
+    headache | -192
+    fatigue | -192
+    myalgia | -192
+    cough | -24
+    chills | -24
+    presented to the hospital | 0
+    fever | 0
+    heart rate 133 beats/min | 0
+    blood pressure 118/76 mmHg | 0
+    respiratory rate 20 breaths/min | 0
+    oxygen saturation 94% on room air | 0
+    not in distress | 0
+    warm to touch | 0
+    diminished vesicular breath sounds | 0
+    oxygen saturation decreased to 89% | 3
+    oxygen supplementation via nasal cannula | 3
+    white blood cell count 7.8 K/uL | 0
+    venous blood gas pH 7.37 | 0
+    PaCO2 44 mmHg | 0
+    ferritin 635 ng/ml | 0
+    lactate dehydrogenase 395 U/L | 0
+    chest x-ray multifocal infiltrates | 0
+    tested positive for SARS-CoV-2 RNA | 0
+    blood cultures negative | 0
+    sputum cultures negative | 0
+    echocardiogram left ventricular ejection fraction 65% | 0
+    admitted for acute hypoxic respiratory failure | 0
+    sepsis secondary to COVID-19 pneumonia | 0
+    intravenous fluids | 0
+    azithromycin | 0
+    ceftriaxone | 0
+    respiratory distress | 48
+    high flow nasal cannula oxygen | 48
+    intubation | 48
+    lung protective ventilation | 48
+    neuromuscular blockade | 48
+    sedation | 48
+    diagnosed with severe ARDS | 48
+    proned position ventilation | 48
+    progressive worsening PaO2/FiO2 ratios | 48
+    convalescent plasma | 48
+    methylprednisolone IV | 48
+    enoxaparin subcutaneous | 48
+    worsening ARDS | 144
+    hypoxic despite 100% FiO2 | 144
+    interleukin-6 10 pg/ml | 144
+    ferritin 1432 ng/ml | 144
+    d-dimer 3670 ng/ml | 144
+    lactate dehydrogenase 1100 U/L | 144
+    CRP 35.1 mg/dl | 144
+    transferred to quaternary care referral center | 168
+    VV-ECMO started | 168
+    chest x-ray persistent bilateral multifocal infiltrates | 168
+    CT chest diffuse lung opacities | 168
+    delirium | 168
+    Enterococcus faecalis bacteremia | 168
+    non-occlusive deep vein thrombosis in IVC | 168
+    tracheostomy | 864
+    decannulated | 1008
+    mechanical ventilation via pressure support | 1032
+    tracheostomy collar tolerated | 1056
+    tested negative for SARS-CoV-2 | 720, 936, 1392
+    passed speech-language assessment | 1392
+    tolerated oral diet | 1392
+    CT chest significant improvement | 1392
+    aggressive daily rehabilitation | 1392
+    physical therapy | 1392
+    occupational therapy | 1392
+    ambulate independently | 1512
+    perform all ADLs independently | 1512
+    tracheostomy decannulated | 1488
+    discharged home without oxygen supplementation | 1512
+    CT chest complete resolution | 1512
+    SARS-CoV-2 tests negative post-discharge | 1512, 1584
+    returned to baseline activities | 1512
+    free of respiratory symptoms | 1512
+    

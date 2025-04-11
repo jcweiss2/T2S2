@@ -1,0 +1,72 @@
+event,time
+63 years old ,0
+    male ,0
+    presented to the emergency department ,0
+    dyspnea ,-3
+    central chest pain ,-3
+    radiation into back ,-3
+    acute coronary syndrome workup negative ,0
+    pulse 94 per minute ,0
+    BP 135/72 mmHg ,0
+    SaO2 97% on air ,0
+    temperature 37°C ,0
+    no history of alcohol ingestion ,0
+    no cardiovascular diseases ,0
+    no abdominal diseases ,0
+    no surgical emphysema ,0
+    follow-up three days later ,72
+    acutely ill ,72
+    temperature rose to 39°C ,72
+    right lower chest region dull to percussion ,72
+    decreased breath sounds ,72
+    chest X-ray right pleural effusion ,72
+    no pneumomediastinum ,72
+    no subcutaneous emphysema ,72
+    pleural fluid aspiration exudates ,72
+    gram stain negative ,72
+    culture negative ,72
+    CT scan right sided pneumothorax ,72
+    extended right sided pleural effusion ,72
+    small amount of air in mediastinum ,72
+    hemoglobin 11.5 gm/dl ,0
+    hematocrit 35.4% ,0
+    white-cell count 17500/ml ,0
+    85% neutrophils ,0
+"    platelet count 145,000/ml ",0
+    serum electrolytes normal ,0
+    urea nitrogen 30 mg/dL ,0
+    creatinine 2.1 mg/dL ,0
+    liver function tests normal ,0
+    treated with antibiotics ,0
+    tube thoracostomy ,0
+    right closed thoracotomy ,0
+    water-seal drainage established ,0
+    removal of 1500 ml fluid ,0
+    ceftriaxone 1 gm every 12 hours ,0
+    clindamycin 600 mg every 8 hours ,0
+    lack of response to treatment ,0
+    imipenem 500 mg every 6 hours ,0
+    vancomycin 1 gm every 12 hours ,0
+    clinical deterioration five days after admission ,120
+    increased respiratory distress ,120
+    discomfort ,120
+    fever ,120
+    delay in chest expansion ,120
+    chest pain ,120
+    suspicion of esophageal perforation ,120
+    right thoracotomy ,120
+    repair of linear longitudinal tear ,120
+    marked mediastinal inflammation ,120
+    pleural inflammation ,120
+    open thoracotomy ,120
+    surgical repair of esophageal perforation ,120
+    thoracic window performed ,120
+    intravenous vasopressors administered ,120
+    postoperative condition deteriorated ,120
+    transferred to ICU ,120
+    required mechanical ventilation ,120
+    respiratory failure ,120
+    acute kidney failure ,120
+    pleural empyema ,120
+    re-operation ,120
+    died ,408

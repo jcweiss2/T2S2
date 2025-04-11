@@ -1,0 +1,119 @@
+event,time
+38 years old ,0
+    Caucasian woman ,0
+    presented to Emergency Department ,0
+    malaise ,-96
+    fever ,-96
+    coughing ,-96
+    diarrhea ,-96
+    scleroderma ,-96
+    chloroquine ,-96
+    hypotensive ,0
+    blood pressure 80/50 mmHg ,0
+    tachycardic ,0
+    heart rate 108 beats per minute ,0
+    prolonged capillary refill time ,0
+    3 L of crystalloid fluid ,0
+    transferred to ICU ,0
+    developed arterial hypotension ,20
+    continuous infusion of norepinephrine ,20
+    marked deterioration of hemodynamic state ,20
+    lactate level peaked 8.5 mmol/L ,20
+    norepinephrine infusion reached 0.4 mcg/kg/min ,20
+    bedside echocardiogram ,20
+    moderate left ventricular impairment ,20
+    LVEF 40% ,20
+    moderate pericardial effusion ,20
+    no signs of cardiac tamponade ,20
+    infusion of dobutamine ,20
+    worsening shock ,20
+    intubated ,20
+    sedated ,20
+    received large spectrum antibiotic (piperacillin-tazobactam) ,20
+    hemodynamic resuscitative measures ,20
+    cardiac arrest ,20
+    cardiopulmonary resuscitation for 18 min ,20
+    repeat echocardiogram ,20
+    cardiac tamponade ,20
+    LVEF 30% ,20
+    pericardiocentesis ,20
+    circulatory shock not resolved ,20
+    peripheral venoarterial non-heparin-coated ECMO ,20
+    femoral vessels of the right lower limb ,20
+    commencement of heparin infusion ,20
+    activated partial thromboplastin time ratio 1.5 to 2.5 ,20
+    continuous renal replacement therapy ,20
+    anuria ,20
+    metabolic acidosis ,20
+    persistence of clinical signs of low tissue perfusion ,24
+    intra-aortic balloon pump ,24
+    left femoral artery ,24
+    substantial improvement of hemodynamic condition ,48
+    drop in lactate levels ,48
+    lessened requirement of vasopressor agents ,48
+    improvement of peripheral tissue perfusion ,48
+    diagnostic hypothesis of viral myocarditis ,48
+    gradual reversion of organ failures ,48
+    daily-performed echocardiograms ,48
+    progressive recovery of left ventricular function ,48
+    pulseless acute left lower limb ischemia ,72
+    removed IABP ,72
+    weaned off ECMO ,120
+    extubated ,144
+    vasopressor administration discontinued ,240
+    left femoral artery thrombectomy ,144
+    angioplasty ,144
+    irreversible limb ischemia ,144
+    additional procedure delayed ,144
+    ultrasound scan ,144
+    deep venous thrombosis of left fibular veins ,144
+    heparin infusion ,144
+"    platelet count 179,000/mm³ ",144
+    hypoxemic respiratory failure ,288
+    septic shock ,288
+    ventilator-associated pneumonia ,288
+    reintubation ,288
+    continuous sedation ,288
+    broad-spectrum antibiotics (meropenem and vancomycin) ,288
+    high-dose vasopressors ,288
+    CRRT maintained ,288
+    platelet count fall ,264
+"    nadir 20,000/mm³ ",312
+    thrombocytopenia causes: septic shock ,312
+    thrombocytopenia causes: vancomycin ,312
+    diagnosis of HIT suspected ,312
+    disseminated intravascular coagulation ruled out ,312
+    clotting times normal ,312
+    fibrinogen level normal ,312
+    4Ts score 6 points ,312
+    anti-PF4/heparin ELISA positive ,312
+    heparin infusion ceased ,312
+    anticoagulant therapy with fondaparinux ,480
+    fondaparinux initiated ,480
+    anti-factor Xa chromogenic assays ,480
+    platelet count improvement ,552
+"    platelet count 160,000/mm³ ",960
+    tracheostomy ,720
+    debridement of necrotic areas ,720
+    transtibial amputation ,720
+    fondaparinux ceased for 24 hours ,720
+    fondaparinux ceased for 72 hours ,720
+    clinically relevant non major bleeding ,720
+    blood products (RBC and platelet transfusion) ,720
+    reoperation for hemostasis ,720
+    CRRT transitioned to IHD ,768
+    renal function recovery ,768
+    last hemodialysis session ,1104
+    left sided pleural effusion ,1440
+    diagnostic thoracentesis ,1440
+    hemothorax ,1440
+    RBC transfusion ,1440
+    chest tube placement ,1440
+    pleural empyema ,1440
+    pulmonary abscess ,1440
+    Enterobacter aerogenes ,1440
+    lung decortication ,1440
+    anticoagulant therapy stopped for 72 hours ,1440
+    extended regimen of antimicrobial therapy ,1440
+    apixaban 2.5 mg bid ,1440
+    discharged home ,2160

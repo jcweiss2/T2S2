@@ -1,0 +1,343 @@
+19 years old | 0
+    gravida 4 | 0
+    para 3 | 0
+    Syrian woman | 0
+    preterm premature rupture of the membranes | -504
+    PPROM at 27 weeks and six days of gestation | -504
+    admitted to hospital | 0
+    WBC count within normal range | 0
+    CRP levels elevated | 0
+    ampicillin | -48
+    erythromycin | -48
+    amoxicillin | -48
+    dexamethasone | -48
+    delivered a female infant | -168
+    spontaneous vaginal delivery | -168
+    Apgar scores at birth | -168
+    intubated | 0
+    severe respiratory depression | 0
+    surfactant administered | 0
+    transferred to neonatal intensive care unit | 0
+    mechanical ventilation initiated | 0
+    temperature 36.9°C | 1
+    heart rate 127 beats per min | 1
+    weight 1.085 g | 1
+    head circumference 26 cm | 1
+    length 38 cm | 1
+    hypotensive | 1
+    dobutamine infusion started | 1
+    high-frequency ventilation initiated | 1
+    early-onset sepsis suspected | 1
+    blood specimens for cultures obtained | 1
+    ampicillin | 1
+    gentamicin | 1
+    high WBC count | 1
+    neutrophils 48.8% | 1
+    initial blood culture negative | 48
+    attempt to extubate failed | 48
+    re-intubated | 48
+    Gram-negative coccobacilli detected | 144
+    Rose Bengal test positive | 168
+    ampicillin stopped | 168
+    rifampin started | 168
+    gentamicin continued | 168
+    serum agglutination test positive | 192
+    B. melitensis | 192
+    B. abortus | 192
+    ciprofloxacin added | 288
+    baby deteriorated | 408
+    gentamicin discontinued | 408
+    meropenem added | 408
+    general condition improved | 408
+    nasal cannula | 408
+    total parenteral nutrition | 408
+    clinically stable | 408
+    meropenem withdrawn | 576
+    ciprofloxacin continued | 576
+    rifampin continued | 576
+    nasal cannula removed | 840
+    preterm milk formula | 840
+    discharged from hospital | 912
+    active | 912
+    weighed 1.57kg | 912
+    routine childhood immunisations | 912
+    intermittent headaches | -2880
+    anorexia | -2880
+    malaise | -2880
+    profuse sweating | -2880
+    abdominal pain | -2880
+    urinary tract infection | -2016
+    antibiotics received | -2016
+    frequent visits to family farm | -4032
+    consumed unpasteurized sheep milk | -4032
+    grandfather history of brucellosis | -8760
+    receiving treatment for approximately one year | -8760
+    no breast feeding | 0
+    no blood transfusion | 0
+    minor symptoms | 0
+    UTI | 0
+    premature rupture of membranes | -504
+    preterm birth | -168
+    signs of respiratory distress | 0
+    pyrexia | 1
+    hypotension | 1
+    elevated WBC count | 1
+    lived in endemic area | -4032
+    close contact with infected animals | -4032
+    detailed patient history obtained | 0
+    congenital brucellosis | 0
+    preterm infant | 0
+    congenital brucellosis diagnosed | 0
+    mother's history of Brucella exposure | -4032
+    signs of possible sepsis | 1
+    signs of perinatal infection | 0
+    morbidity and mortality associated with congenital brucellosis | 0
+    early diagnosis | 0
+    effective treatment | 0
+    favorable outcome | 0
+    preterm milk formula given | 840
+    nasal cannula assistance | 408
+    mechanical ventilation discontinued | 576
+    surfactant dose administered | 0
+    ampicillin divided into 2 doses | 1
+    gentamicin daily dose | 1
+    rifampin every 12 hours | 168
+    ciprofloxacin infusion duration | 288
+    meropenem every 12 hours | 408
+    dobutamine increased to 10 µg/kg/min | 12
+    high-frequency ventilation for oxygen saturation | 1
+    blood tests showed high WBC count | 1
+    neutrophils percentage | 1
+    Gram-negative coccobacilli on day 6 | 144
+    Rose Bengal test on day 7 | 168
+    serum agglutination test on day 8 | 192
+    ciprofloxacin added on day 12 | 288
+    deterioration on day 17 | 408
+    improvement after meropenem | 408
+    discharge on day 38 | 912
+    mother's symptoms in fifth month | -2880
+    UTI in second trimester | -2016
+    frequent farm visits | -4032
+    unpasteurized milk consumption | -4032
+    grandfather's brucellosis history | -8760
+    mother's asymptomatic status | 0
+    ethical approval not required | 0
+    written informed consent | 0
+    Brucella species B. melitensis | 192
+    Brucella species B. abortus | 192
+    Rose Bengal test sensitivity | 168
+    SAT confirmation | 192
+    blood culture limitations | 48
+    treatment regimen for children | 0
+    gentamicin and ampicillin initially | 1
+    rifampin and gentamicin continued | 168
+    ciprofloxacin addition | 288
+    meropenem administration | 408
+    meropenem discontinuation | 576
+    rifampin and ciprofloxacin continuation | 576
+    nasal cannula removal | 840
+    discharge weight 1.57kg | 912
+    routine immunizations at discharge | 912
+    mother's history of farm visits | -4032
+    mother's consumption of unpasteurized milk | -4032
+    grandfather's treatment history | -8760
+    congenital brucellosis suspicion | 0
+    early diagnosis importance | 0
+    prompt therapy | 0
+    neonatal outcome improvement | 0
+    endemic area exposure | -4032
+    detailed history crucial | 0
+    rare disease in KSA | 0
+    exclusion of other infections | 0
+    mother's exposure history | -4032
+    preterm birth association | -168
+    PPROM at 27 weeks | -504
+    ampicillin IV every 6 hours | -48
+    erythromycin IV every 6 hours | -48
+    amoxicillin orally every 8 hours | -48
+    erythromycin orally every 8 hours | -48
+    dexamethasone orally every 12 hours | -48
+    surfactant 3 ml/kg | 0
+    dobutamine 5 µg/kg/min | 1
+    dobutamine increased to 10 µg/kg/min | 12
+    ampicillin 200 mg/kg/day | 1
+    gentamicin 2.5 mg/kg/day | 1
+    rifampin 5 mg/kg/day | 168
+    ciprofloxacin 10 mg/kg/day | 288
+    meropenem 20 mg/kg every 12 hours | 408
+    ciprofloxacin 30 mg/kg/day | 576
+    rifampin 5 mg/kg/day orally | 576
+    preterm milk formula initiation | 840
+    mother's intermittent symptoms | -2880
+    mother's UTI treatment | -2016
+    mother's farm visits frequency | -4032
+    mother's unpasteurized milk consumption | -4032
+    grandfather's brucellosis history | -8760
+    infant's respiratory distress | 0
+    infant's pyrexia | 1
+    infant's hypotension | 1
+    infant's elevated WBC | 1
+    infant's prematurity | -168
+    infant's congenital brucellosis diagnosis | 0
+    mother's PPROM | -504
+    mother's preterm delivery | -168
+    infant's surfactant administration | 0
+    infant's intubation | 0
+    infant's mechanical ventilation | 0
+    infant's dobutamine infusion | 1
+    infant's high-frequency ventilation | 1
+    infant's antibiotics initiation | 1
+    infant's blood culture results | 48
+    infant's extubation attempts | 48
+    infant's re-intubation | 48
+    infant's Gram-negative detection | 144
+    infant's Rose Bengal test | 168
+    infant's rifampin start | 168
+    infant's SAT results | 192
+    infant's ciprofloxacin addition | 288
+    infant's deterioration | 408
+    infant's meropenem start | 408
+    infant's improvement | 408
+    infant's meropenem discontinuation | 576
+    infant's discharge | 912
+    infant's weight at discharge | 912
+    infant's immunizations | 912
+    infant's TPN | 408
+    infant's nasal cannula assistance | 408
+    infant's clinical stability | 408
+    infant's respiratory depression | 0
+    infant's Apgar scores | -168
+    infant's transfer to NICU | 0
+    infant's mechanical ventilation initiation | 0
+    infant's hypotensive state | 1
+    infant's dobutamine initiation | 1
+    infant's high WBC | 1
+    infant's neutrophils percentage | 1
+    infant's blood culture negativity | 48
+    infant's re-intubation | 48
+    infant's Brucella detection | 144
+    infant's antibiotic regimen change | 168
+    infant's SAT confirmation | 192
+    infant's treatment modification | 288
+    infant's condition worsening | 408
+    infant's meropenem administration | 408
+    infant's gradual improvement | 408
+    infant's TPN use | 408
+    infant's nasal cannula removal | 840
+    infant's formula feeding | 840
+    infant's discharge day | 912
+    infant's activity at discharge | 912
+    infant's weight at discharge | 912
+    infant's immunizations at discharge | 912
+    mother's gestational symptoms | -2880
+    mother's UTI history | -2016
+    mother's farm exposure | -4032
+    mother's unpasteurized milk | -4032
+    mother's grandfather's brucellosis | -8760
+    infant's congenital brucellosis confirmation | 0
+    infant's treatment duration | 576
+    infant's rifampin and ciprofloxacin continuation | 576
+    infant's meropenem course | 408
+    infant's initial antibiotic regimen | 1
+    infant's modified antibiotic regimen | 168
+    infant's final antibiotic regimen | 576
+    infant's surfactant use | 0
+    infant's dobutamine titration | 12
+    infant's high-frequency ventilation | 1
+    infant's initial sepsis management | 1
+    infant's blood culture process | 1
+    infant's extubation failure | 48
+    infant's Gram-negative bacteria | 144
+    infant's Brucella antibodies | 168
+    infant's SAT titres | 192
+    infant's ciprofloxacin addition | 288
+    infant's meropenem necessity | 408
+    infant's recovery progress | 408
+    infant's meropenem discontinuation | 576
+    infant's discharge criteria | 912
+    infant's growth at discharge | 912
+    infant's immunization completion | 912
+    mother's asymptomatic admission | 0
+    mother's CRP elevation | 0
+    mother's antibiotic treatments | -48
+    mother's dexamethasone use | -48
+    mother's delivery at 29 weeks | -168
+    infant's preterm birth | -168
+    infant's Apgar scores improvement | -168
+    infant's respiratory support | 0
+    infant's surfactant administration | 0
+    infant's NICU transfer | 0
+    infant's ventilation initiation | 0
+    infant's vital signs at 1 hour | 1
+    infant's measurements at birth | 1
+    infant's hypotension management | 1
+    infant's oxygen saturation efforts | 1
+    infant's sepsis suspicion | 1
+    infant's empirical antibiotics | 1
+    infant's lab results | 1
+    infant's culture results | 48
+    infant's extubation challenge | 48
+    infant's Brucella identification | 144
+    infant's serological testing | 168
+    infant's antibiotic adjustment | 168
+    infant's SAT results timing | 192
+    infant's treatment escalation | 288
+    infant's clinical decline | 408
+    infant's antibiotic change | 408
+    infant's supportive care | 408
+    infant's feeding transition | 840
+    infant's discharge preparation | 912
+    infant's post-discharge status | 912
+    mother's symptom timeline | -2880
+    mother's UTI treatment timeline | -2016
+    mother's exposure timeline | -4032
+    mother's family history | -8760
+    infant's diagnostic timeline | 0
+    infant's treatment timeline | 0
+    infant's outcome timeline | 0
+    congenital brucellosis rarity | 0
+    endemic brucellosis in KSA | 0
+    mother's risk factors | -4032
+    infant's diagnostic criteria | 0
+    infant's treatment rationale | 0
+    infant's recovery indicators | 408
+    infant's discharge milestones | 912
+    mother's clinical presentation | 0
+    mother's treatment during pregnancy | -48
+    mother's delivery outcome | -168
+    infant's clinical course | 0
+    infant's therapeutic interventions | 0
+    infant's diagnostic tests | 0
+    infant's follow-up care | 912
+    maternal-fetal brucellosis transmission | 0
+    infant's congenital infection confirmation | 0
+    infant's antibiotic regimen adjustments | 168
+    infant's clinical management steps | 0
+    infant's gradual improvement timeline | 408
+    infant's discharge readiness | 912
+    infant's growth parameters at discharge | 912
+    infant's immunization status | 912
+    mother's asymptomatic status during pregnancy | 0
+    mother's gestational history | 0
+    mother's zoonotic exposure | -4032
+    mother's consumption history | -4032
+    mother's familial brucellosis | -8760
+    infant's prematurity factors | -168
+    infant's congenital infection risk | 0
+    infant's treatment duration | 576
+    infant's medication adherence | 576
+    infant's nutritional support | 408
+    infant's respiratory support timeline | 0
+    infant's ventilation discontinuation | 576
+    infant's feeding initiation | 840
+    infant's discharge documentation | 912
+    infant's post-discharge plans | 912
+    mother's past medical history | -2880
+    mother's antibiotic course | -2016
+    mother's zoonotic contact | -4032
+    mother's dietary habits | -4032
+    mother's family medical history | -8760
+    infant's birth details | -168
+    infant's resuscitation | 0
+    infant's NICU admission | 0
+    infant's initial management |/

@@ -1,0 +1,161 @@
+event,time
+38 years old ,0.0
+    woman ,0.0
+    admitted to the hospital ,0.0
+    fever ,-48.0
+    nausea ,-48.0
+    severe sepsis ,0.0
+    MSSA bacteraemia ,0.0
+    right-sided CRT-D device infection ,0.0
+    intravenous antibiotics started ,0.0
+    vancomycin ,0.0
+    piperacillin-tazobactam ,0.0
+    cefazolin monotherapy ,0.0
+    transesophageal echocardiogram ,0.0
+    no vegetations ,0.0
+    device generator extraction ,24.0
+    lead extraction ,24.0
+    infected pocket debridement ,24.0
+    cultures of device generator ,24.0
+    cultures of ventricular leads ,24.0
+    MSSA growth ,24.0
+    suspected endocarditis ,0.0
+    normotensive ,0.0
+    asymptomatic ,0.0
+    AF with complete heart block ,0.0
+    junctional escape rhythm ,0.0
+    heart rate 40–60 beats per minute ,0.0
+    temporary transvenous pacing deferred ,0.0
+    transcutaneous pacer pads ,0.0
+    dopamine available ,0.0
+    blood cultures cleared ,216.0
+    no growth ,216.0
+    replacement device generator placement ,432.0
+    new subxiphoid pocket ,432.0
+    biventricular epicardial leads ,432.0
+    transthoracic echocardiogram ,432.0
+    trivial pericardial effusion ,432.0
+    nausea ,504.0
+    dizziness ,504.0
+    diaphoresis ,504.0
+    malaise ,504.0
+    blood pressure 79/47 mmHg ,504.0
+    paced heart rate 60 beats/min ,504.0
+    respiratory rate 20 breaths/min ,504.0
+    oxygen saturation 98% ,504.0
+    clear breath sounds ,504.0
+    elevated jugular venous pressure ,504.0
+    distant heart sounds ,504.0
+    no rubs ,504.0
+    no murmurs ,504.0
+    trace pedal pitting edema ,504.0
+    pretibial pitting edema ,504.0
+    elevated leukocyte count ,504.0
+    up-trending leukocyte count ,504.0
+    stable hemoglobin ,504.0
+    high-sensitivity troponin T flat trend ,504.0
+    elevated C-reactive protein ,504.0
+    elevated erythrocyte sedimentation rate ,504.0
+    normal anti-nuclear antibody ,504.0
+    normal C3 complement ,504.0
+    normal C4 complement ,504.0
+    normal thyroid-stimulating hormone ,504.0
+    AF with complete heart block ,504.0
+    100% ventricular pacing ,504.0
+    enlarged cardiac silhouette ,504.0
+    large pericardial effusion ,504.0
+    right ventricular collapse ,504.0
+    LVEF 30–35% ,504.0
+    moderate to large pericardial effusion ,504.0
+    diastolic RV collapse ,504.0
+    systolic right atrial collapse ,504.0
+    lactated ringer's bolus ,504.0
+    pericardiocentesis ,504.0
+    1L fluid removal ,504.0
+    pericardial drain placement ,504.0
+    normalized blood pressure ,504.0
+    serous fluid analysis ,504.0
+    normal nucleated cell count ,504.0
+    neutrophilic predominance ,504.0
+    pericardial fluid protein 5.6 g/dL ,504.0
+    serum protein 5.5 g/dL ,504.0
+    no bacterial growth ,504.0
+    no fungal growth ,504.0
+    colchicine started ,504.0
+    chest CT scan ,504.0
+    epicardial electrodes in place ,504.0
+    pericardial drain output ceased ,672.0
+    drain removed ,672.0
+    nausea ,672.0
+    hypotension ,672.0
+    blood pressure 85/59 mmHg ,672.0
+    re-accumulation of pericardial effusion ,672.0
+    early systolic RA invagination ,672.0
+    late diastolic RV collapse ,672.0
+    repeat pericardiocentesis ,672.0
+    1.5L fluid removal ,672.0
+    pericardial drain placement ,672.0
+    prednisone added ,672.0
+    ibuprofen added ,672.0
+    transthoracic echocardiogram ,672.0
+    increased pericardial effusion size ,672.0
+    no tamponade signs ,672.0
+    transthoracic pleuro-pericardial window ,744.0
+    small-bore chest tube placement ,744.0
+    drainage decline ,744.0
+    transthoracic echocardiogram ,912.0
+    no significant pericardial effusion ,912.0
+    discharged home ,912.0
+    chest tube in place ,912.0
+    colchicine continued ,912.0
+    ibuprofen continued ,912.0
+    prednisone taper ,912.0
+    intravenous cefazolin continued ,912.0
+    stable at 1-month follow-up ,1344.0
+    asymptomatic ,1344.0
+    minimal chest tube drainage ,1344.0
+    repeat TTE at 2 months ,1440.0
+    no effusion ,1440.0
+    chest tube removed ,1440.0
+    repeat TTE at 4 months ,2928.0
+    no effusion ,2928.0
+    feeling well ,2928.0
+    Here's a step-by-step explanation to create the event timeline:,
+    1. **Identify the admission event**: The patient is admitted to the hospital with bacteraemia and device infection. This is considered the reference point (time 0).,
+    2. **Extract events from the timeline provided**:,
+"      - Day 0: Admitted, started on IV antibiotics.",
+      - Day 1: Device extraction and debridement.,
+      - Day 9: Blood cultures negative.,
+      - Day 18: New device placement.,
+      - Day 25: First tamponade and pericardiocentesis.,
+      - Day 28: Second tamponade and pericardiocentesis.,
+      - Day 31: Pericardial window.,
+      - Day 38: Discharge.,
+      - Day 51: Antibiotics completed.,
+"      - 2 months post-discharge: Effusion-free, chest tube removed.",
+      - 4 months post-discharge: Effusion-free.,
+    3. **Convert days to hours**:,
+      - Each day = 24 hours.,
+      - Admission (Day 0) = 0 hours.,
+      - Device extraction (Day 1) = 24 hours.,
+      - Blood cultures (Day 9) = 216 hours.,
+      - New device (Day 18) = 432 hours.,
+      - First tamponade (Day 25) = 600 hours.,
+      - Second tamponade (Day 28) = 672 hours.,
+      - Pericardial window (Day 31) = 744 hours.,
+      - Discharge (Day 38) = 912 hours.,
+      - Antibiotics completed (Day 51) = 1224 hours.,
+      - 2 months post-discharge ≈ 1440 hours.,
+      - 4 months post-discharge ≈ 2928 hours.,
+    4. **Account for pre-admission events**:,
+      - Fever and nausea 1-2 days before admission: Assigned -48 to -24 hours (used -48 as the start).,
+      - Previous admission 4 months prior: Not included as per focus on current admission events.,
+    5. **Include clinical findings during admission**:,
+      - Symptoms on Day 25 (tamponade) at 504 hours.,
+      - Follow-up events post-discharge at 1440 and 2928 hours.,
+    6. **Separate conjunctive phrases**:,
+"      - ""fever and nausea"" split into two events.",
+"      - ""trace pedal and pretibial pitting edema"" split into two.",
+    7. **Assign timestamps based on the narrative**:,
+      - All events during admission days converted to hours.,
+      - Post-discharge follow-ups converted based on months (approx. 730 hours/month).</s>,

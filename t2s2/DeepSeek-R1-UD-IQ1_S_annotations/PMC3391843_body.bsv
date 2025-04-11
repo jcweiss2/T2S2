@@ -1,0 +1,62 @@
+40 years old | 0
+    female | 0
+    admitted to the intensive burn care unit | 0
+    assault chemical burn | 0
+    conjugal violence | 0
+    third degree burns | 0
+    neck burns | 0
+    face burns | 0
+    head burns | 0
+    arms burns | 0
+    thorax burns | 0
+    abdomen burns | 0
+    left leg burns | 0
+    bilateral eyes lesions | 0
+    ears lesions | 0
+    sulfuric acid exposure | 0
+    pH 0.9 | 0
+    irrigation with water not performed at scene | 0
+    irrigation with water started after arrival in burn center | 0
+    fluid resuscitation (Parkland's formula) | 0
+    orotracheal intubation | 0
+    sedation | 0
+    arterial blood pressure 70/30 mmHg | 0
+    pulse 110 bpm | 0
+    SpO2 >90% | 0
+    normal lung auscultation | 0
+    admission electrocardiogram no significant abnormalities | 0
+    chest X-ray no significant abnormalities | 0
+    profound metabolic acidosis | 0
+    pH 6.92 | 0
+    PaCO2 42 mmHg | 0
+    total bicarbonate 8.6 mEq/l | 0
+    base deficit 23.4 mEq/l | 0
+    sodium 148 mEq/l | 0
+    potassium 4.1 mEq/l | 0
+    chloride 117 mEq/l | 0
+    calcium 6.1 mg/dl | 0
+    phosphorus 15.1 mg/dl |8
+    lactate level 1.7 mmol/L | 0
+    preserved renal function | 0
+    serum creatinine 0.83 mg/dl | 0
+    no evidence for rhabdomyolysis | 0
+    disturbed blood coagulation tests | 0
+    fibrinogen 117 mg/dl | 0
+    activated partial thromboplastin time 69 s | 0
+    International Normalized Ratio 2.23 | 0
+    platelets count 169000/mm3 | 0
+    sodium bicarbonate administration 300 mmol over 14 hours | 0
+    lactate from Hartmann's solution 140 mmol over 24 hours | 0
+    thoracic rigidity development | 0
+    mechanical ventilation required | 0
+    percutaneous tracheostomy after 1 month | 720
+    hemodynamic condition requiring inotropic support | 0
+    dobutamine maximal dose 5 μg/kg/min | 0
+    moderate alteration of left ventricular function | 0
+    maintained urine output during first week | 168
+    continuous venovenous hemofiltration started after first week | 168
+    multiple episodes of wound-related sepsis | 168
+    adapted antimicrobial therapy | 168
+    iterative surgery required | 168
+    15 procedures for excision and grafting | 168
+    left intensive care unit after 5 months | 3600

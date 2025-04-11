@@ -1,0 +1,97 @@
+event,time
+79 years old ,0
+    man ,0
+    presented to the emergency department ,0
+    fever ,-48
+    unproductive cough ,-48
+    dyspnea on exertion ,-48
+    chronic corticosteroid use ,-8640
+    prednisone 10 mg daily ,-8640
+    polymyalgia rheumatica ,-8640
+    no giant cell arteritis ,-8640
+    non-smoker ,0
+    no pre-existing pulmonary diseases ,0
+    no recent travel abroad ,0
+    gardening ,-168
+    temperature 38.5° C ,0
+    heart rate 95 beats/min ,0
+    blood pressure 128/64 mmHg ,0
+    respiratory rate 18 breaths/min ,0
+    fine crackles of the left lower lobe ,0
+    normal other physical findings ,0
+    oxygen saturation 94% ,0
+    anemia 9.1 g/dL ,0
+    elevated C-reactive protein 373 mg/L ,0
+    elevated creatinine 141 µmol/L ,0
+    white blood cell count 10.1 × 10^9 cell/l ,0
+    83% neutrophils ,0
+    8.5% lymphocytes ,0
+    negative pneumococcal urinary antigen test ,0
+    negative legionella urinary antigen test ,0
+    negative blood cultures ,0
+    chest radiographs no focal consolidations ,0
+    initiated intravenous ceftriaxone ,0
+    developed highly productive cough ,24
+    required cough-assist ,24
+    rapid progressive respiratory failure ,48
+    impending hemodynamic instability ,48
+    chest radiograph left lung opacification ,48
+    nearly complete atelectasis ,48
+    underwent intubation ,48
+    bronchoscopy no endobronchial obstruction ,48
+    minimal left pleural effusion ,48
+    obtained secretions with mini lavage ,48
+    antibiotic changed to imipenem-cilastatin ,48
+    added clarithromycin ,48
+    prednisone increased to 50 mg daily ,48
+    prednisone reduced to 20 mg/d ,96
+    transferred to ICU ,96
+    ventilated pressure-controlled mode ,96
+    FiO2 80% ,96
+    peak airway pressure <30 cm H2O ,96
+    PEEP 8-10 cm H2O ,96
+    SaO2 >92% ,96
+    paO2/FiO2 <200 mmHg ,96
+    hemodynamic support with norepinephrine ,96
+    chest CT bilateral infiltrates ,96
+    left lower lobe consolidation ,96
+    transthoracic echocardiography normal ,96
+    no left ventricular dysfunction ,96
+    normal mitral and aortic valves ,96
+    BAL neutrophil predominance >50% ,96
+    CRP decreased from 350 to 129 mg/L ,96
+    procalcitonin decreased from 6.3 to 2.2 µg/L ,96
+    high fever persisted ,96
+    abundant tracheal secretions ,96
+    required frequent aspirations ,96
+    replaced clarithromycin with levofloxacin ,96
+    Legionella longbeachae culture positive ,96
+    negative other bacteria cultures ,96
+    negative respiratory viruses ,96
+    negative fungi cultures ,96
+    diagnosis of L. longbeachae CAP ,96
+    acute respiratory distress syndrome ,96
+    septic shock ,96
+    clinical course progressive improvement ,144
+    new worsening of respiratory parameters ,144
+    higher FiO2 required ,144
+    higher PEEP required ,144
+    no signs of VAP ,144
+    bronchial samples not obtained ,144
+    antibiotic coverage unchanged ,144
+    hypoxemia persisted ,144
+    decided to prone patient ,144
+    open-lung ventilation strategy ,144
+    tidal volume 6 ml/kg ,144
+    peak airway pressure <30 cm H2O ,144
+    transient moderate hypercapnia ,144
+    respiratory support reduced ,144
+    developed high fever ,312
+    worsening respiratory parameters ,312
+    hemodynamic instability ,312
+    suspected impending VAP ,312
+    discussed with family ,312
+    decided not to perform diagnostic evaluation ,312
+    withheld further support ,312
+    patient died ,312
+    autopsy not performed ,312

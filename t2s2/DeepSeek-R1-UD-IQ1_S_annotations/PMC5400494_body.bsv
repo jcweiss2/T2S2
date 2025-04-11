@@ -1,0 +1,62 @@
+57 years old | 0
+    female | 0
+    sore throat | -168
+    runny nose | -168
+    productive cough | -168
+    high fever | 0
+    sinus tachycardia | 0
+    skin erythema | 0
+    crepitus on palpation | 0
+    oxygen saturation maintained | 0
+    retropharyngeal gas | 0
+    consolidative changes at right lower zone | 0
+    septic work-up | 0
+    significant metabolic acidosis | 0
+    multiple gas locules in bilateral deep cervical spaces | 0
+    loculated right pleural effusion | 0
+    right chest wall subcutaneous emphysema | 0
+    deep neck space infection by gas-forming organisms | 0
+    descending mediastinitis | 0
+    empyema thoracis | 0
+    emergency surgical debridement | 0
+    drainage | 0
+    bilateral transcervicotomy | 0
+    right video-assisted thoracoscopic approach | 0
+    necrotic fascia and muscle debrided | 0
+    remaining collection inside thoracic cavity drained | 0
+    neck wound laid open | 0
+    packed with gauze | 0
+    multiple right lower posterior teeth extracted | 0
+    severe periodontitis | 0
+    chest drains inserted | 0
+    high dose inotropes | 0
+    intubated | 0
+    ICU admission | 0
+    daily wound examination | 0
+    daily dressing | 0
+    second look wound exploration | 72
+    debridement on Day 3 | 72
+    residual collection over superior mediastinum drained | 72
+    residual collection over right parapharyngeal space drained | 72
+    tracheostomy | 72
+    feeding tube inserted | 72
+    dependent on inotropic support | 0
+    dependent on ventilatory support | 0
+    neck wound amenable to primary closure | 1008
+    tracheostomy decanalised | 1008
+    swallowing rehabilitation | 1344
+    discharged | 1344
+    necrotizing inflammation confirmed | 0
+    Candida parapsilosis in blood culture | 0
+    Candida parapsilosis in deep neck tissue culture | 0
+    Peptostreptococcus micros in carotid sheath tissue | 0
+    Bacteroides pyogenes in carotid sheath tissue | 0
+    Prevotella buccae in carotid sheath tissue | 0
+    Peptostreptococcus micros in pleural fluid | 0
+    Bacteroides pyesis in pleural fluid | 0
+    Prevotella buccae in pleural fluid | 0
+    intravenous anidulafungin | 0
+    broad-spectrum antibiotics | 0
+    no smoking history | 0
+    no alcohol consumption | 0
+    good past health | 0

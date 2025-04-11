@@ -1,0 +1,108 @@
+38 weeks and 6 days of gestational age | 0
+male newborn | 0
+weighing 3410 g | 0
+Apgar score of 10/10/10 | 0
+born through uneventful cephalic presentation vaginal delivery | 0
+oxytocin-induced labor | 0
+mother gravida 5 | 0
+mother para 4 | 0
+mother previously healthy | 0
+prenatal consultations and follow-up apparently normal | 0
+congenital heart disease (CHD) not diagnosed intra uterus | 0
+immunity for rubella | 0
+immunity for toxoplasmosis | 0
+serologies for hepatitis B negative | 0
+serologies for hepatitis C negative | 0
+serologies for syphilis negative | 0
+serologies for HIV negative | 0
+blood type B+ | 0
+evaluation for irregular blood group antibodies negative | 0
+respiratory failure | 27
+respiratory frequency of 98 per minute | 27
+intense respiratory labor | 27
+intercostal retractions | 27
+subcostal retractions | 27
+tachycardia (170 bpm) | 27
+capillary refill time of 7 seconds | 27
+room air oximetry of 85% | 27
+small amplitude arterial pulses | 27
+mechanical ventilatory support in ICU | 27
+umbilical vein catheterization | 27
+fluid resuscitation | 27
+administration of vasoactive drugs | 27
+consideration of septic shock | 27
+metabolic acidosis | 27
+hypotension maintained despite vasoactive drugs | 27
+upper limbs systolic pressure higher than lower limbs (75 vs 54 mmHg) | 27
+echodopplercardiogram performed | 27
+left ventricle hypoplasia | 27
+continuous intravenous prostaglandin infusion | 27
+ductus arteriosus patency assured | 27
+retrograde shunt to aortic arch and coronary arteries | 27
+detailed echocardiography showed situs solitus | 27
+hypoplastic aortic arch (2 mm) | 27
+retrograde blood flow in aortic arch | 27
+systemic venous drainage preserved | 27
+pulmonary venous drainage preserved | 27
+mitral valve hypoplasia | 27
+no communication between left ventricle and aortic arch | 27
+aortic valve atresia | 27
+ductus arteriosus patent (4 mm) | 27
+bidirectional flow predominantly pulmonary artery to aorta | 27
+heart enlarged mainly right chambers | 27
+hypokinesia of right ventricle | 27
+left ventricle normal size and thickness | 27
+left ventricle hypokinetic | 27
+left-to-right flow due to 5 mm restrictive ASD | 27
+6 mm interventricular communication | 27
+predominant left-to-right blood flow | 27
+normal pericardium | 27
+died on third day | 72
+cardiogenic shock | 72
+multiple organ failure secondary to CHD | 72
+autopsy showed male neonate without external malformations | 72
+signs of anasarca | 72
+intense cyanosis of lower limbs and scrotum | 72
+red-wine-stained skin | 72
+focal areas of desquamation | 72
+thoracic cavity heart weight 29.0 g | 72
+severe hypoplasia of ascending aorta and aortic arch | 72
+aortic arch internal diameter 1.0 mm | 72
+large ductus arteriosus (7.0 mm) | 72
+coarctation of aorta with aortic isthmus 2.5 mm | 72
+restrictive patent foramen ovale | 72
+additional ASD 1.5 mm | 72
+severe hypoplasia of left ventricle | 72
+trabecular aspect of left ventricle | 72
+thick myocardium | 72
+hypoplasia of mitral valve | 72
+enlarged right ventricle | 72
+numerous deep spaces lined by endothelial cells in myocardium | 72
+fibrosis around spaces | 72
+ventriculocoronary connections | 72
+lungs congestion on lower lobes | 72
+right lung 36.0 g | 72
+left lung 29.9 g | 72
+alveolar stage of development | 72
+diffuse congestion of capillaries | 72
+areas of hemorrhage | 72
+scales in alveolar lumen | 72
+numerous neutrophils in alveolar lumen | 72
+pneumonia | 72
+abdominal viscera congested | 72
+liver enlarged 169.8 g | 72
+diffuse congestion on liver cut surface | 72
+preserved portal tracts | 72
+severely congested hepatic sinusoids | 72
+foci of necrosis in hepatic lobule | 72
+hepatic extramedullary hematopoiesis | 72
+spleen enlarged 16.8 g | 72
+congestion of red pulp | 72
+right kidney 18.7 g | 72
+left kidney 18.9 g | 72
+diffuse congestion of cortex and medulla | 72
+acute tubular necrosis | 72
+absence of nephrogenic zone | 72
+cardiogenic shock as cause of death | 72
+restriction of pulmonary venous return due to restrictive ASD | 72
+placenta not sent for examination | 72

@@ -1,0 +1,99 @@
+13 years old | 0
+male | 0
+referred to Department of Neurosurgery | 0
+stereotactic biopsy | 0
+brain abscess | -672
+ventriculitis | -672
+near-drowning event | -1800
+river submersion | -1800
+cardiac arrest | -1800
+revived | -1800
+severe aspiration pneumonia | -1800
+acute respiratory failure | -1800
+acute renal failure | -1800
+ventilator support | -1800
+extracorporeal membrane oxygenation | -1800
+continuous renal replacement therapy | -1800
+ICU admission | -1800
+sputum culture | -1800
+Acinetobacter baumannii | -1800
+Elizabethkingia meningoseptica | -1800
+methicillin-resistant Staphylococcus aureus | -1800
+antibiotics prescribed | -1800
+ventilator weaning | -1800
+transferred to general ward | -1800
+poor oral intake | -1800
+nausea | -1800
+general weakness | -1800
+transient mental confusion | -840
+disorientation | -840
+brain MRI | -840
+contrast-enhancing lesion in left frontal white matter | -840
+CSF examination | -840
+RBC 0 cells/μl | -840
+WBC 1600 cells/μl | -840
+neutrophils 58% | -840
+lymphocytes 12% | -840
+eosinophils 1% | -840
+monocytes 28% | -840
+basophils 1% | -840
+CSF protein 141.3 mg/dl | -840
+CSF glucose 36 mg/dl | -840
+CSF culture negative | -840
+diagnosis of brain abscess | -840
+diagnosis of ventriculitis | -840
+vancomycin | -840
+cefotaxime | -840
+metronidazole | -840
+Cotrim | -840
+amphotericin B | -840
+mental confusion improved | -840
+intravenous antibiotics | -840
+follow-up MRI | -672
+enlarged edema | -672
+left lateral ventricle enhancement | -672
+antibiotic regimen changed | -672
+voriconazole | -672
+meropenem | -672
+CSF culture negative | -672
+CSF pleocytosis | -672
+stereotactic biopsy | -672
+greenish-yellow pus | -672
+hyphae on H- and E-stained sections | -672
+CSF analysis | -672
+RBC 0 cells/μl | -672
+WBC 16500 cells/μl | -672
+neutrophils 65% | -672
+lymphocytes 15% | -672
+macrophages 20% | -672
+S. apiospermum culture | -672
+isoconazole | -672
+amphotericin B | -672
+alert mentality | -672
+neurologic impairment | -672
+diffuse contrast enhancement | -672
+left lateral ventricle dilation | -672
+edema aggravation | -672
+extraventricular drainage | -672
+CSF drainage | -672
+left frontal external ventricular drain | -672
+intraventricular voriconazole injection | -504
+Ommaya valve | -504
+drowsiness | -504
+emergent MRI | -504
+hydrocephalus | -504
+septations in left lateral ventricle | -504
+mannitol treatment | -504
+alertness | -504
+headache | -504
+repeated EVD | -504
+endoscopic septostomy | -504
+occipital burr-hole trephination | -504
+stable vital signs | -504
+sudden hypotension | -504
+respiratory distress | -504
+acute septic shock | -504
+ICU transfer | -504
+vasopressor treatment | -504
+ventilator treatment | -504
+expiration | -504

@@ -1,0 +1,65 @@
+62 years old | 0
+male | 0
+admitted to the hospital | 0
+dyspnea | 0
+cough | 0
+body condition loss | 0
+non-small cell lung cancer | -672
+no oncogenic mutations | 0
+high PD-L1 expression at 80% | 0
+tumor mass para-hilar | 0
+extended to the right upper lobe and middle lobe | 0
+partially necrotic | 0
+bilateral necrotic adrenal metastases | 0
+no other metastatic lesion | 0
+hypertension | 0
+chronic obstructive pulmonary disease | 0
+peripheral arterial disease | 0
+preserved general health status | 0
+no organ failure | 0
+survival estimated well beyond 3 months | 0
+exertional dyspnea (mMRC scale 3) | 0
+productive cough | 0
+difficulty in expectoration | 0
+no need for oxygen support | 0
+decrease in right apical vesicular lung sound | 0
+painless palpable mass in the right hypochondrium | 0
+no sign of peripheral hypoperfusion | 0
+bronchial fibroscopy | 0
+complete upper right lobe atelectasis | 0
+wild-type Streptococcus pneumoniae from bronchoaspiration | -48
+start amoxicillin-clavulanic acid | -48
+fever (up to 39.3 °C) | -168
+chills | -168
+new fibroscopy | -168
+blood culture samples collected | -168
+leukocyte count increased from 13.5 G/L to 24 G/L | -168
+seven blood culture samples collected | -168
+anaerobic blood bottle culture positive | -168
+Gram-positive coccobacilli observed | -168
+continue amoxicillin-clavulanic acid | -168
+central venous catheter placed | -96
+first chemo-immunotherapy cycle (Carboplatin-Pemetrexed-Pembrolizumab) | -72
+granulocyte colony-stimulating factor for 5 days | -72
+no identification using MALDI-TOF MS | -72
+Catabacter hongkongensis identified | -72
+respiratory status declined | 24
+oxygen flow rate of 1 L/min needed | 24
+hypotensive (blood pressure 89/59 mmHg) | 24
+oliguria | 24
+poor peripheral perfusion | 24
+hyperlactatemia (4.1 mmol/L) | 24
+vascular filling (500 mL of saline solution) | 24
+start piperacillin-tazobactam and amikacin | 24
+transfer to Intensive Care Unit | 24
+vasopressive support | 24
+piperacillin-tazobactam continued until the 21st/01 | 24
+clinical condition stable | 24
+septic shock 23 days after | 360
+no other bacteria isolated | 360
+blood culture samples pairs collected | 360
+urine cultures | 360
+BAL | 360
+blood sample positive for Staphylococcus haemolyticus | 360
+switch to imipenem/cilastatin | 360
+death | 648

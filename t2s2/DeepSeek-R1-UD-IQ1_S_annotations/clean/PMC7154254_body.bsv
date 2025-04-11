@@ -1,0 +1,50 @@
+66 years old | 0
+woman | 0
+suspected crown tumor | -672
+biopsy of cranial bone tumor revealed clear-cell carcinoma | -672
+CT showed right renal tumor | -672
+CT showed multiple lung metastases | -672
+CT showed multiple bone metastases | -672
+diagnosed with metastatic right renal cell carcinoma (cT1bN0M1) | -672
+laparoscopic right renal resection | -672
+categorized as IMDC intermediate risk | -672
+sunitinib for 7 months | -672
+axitinib for 6 months | -672
+nivolumab for 6 months | -672
+CT revealed cranial bone tumors increased in size | -432
+cranial bone tumors infiltrating surrounding tissue | -432
+extra bone mass | -432
+new liver lesion appeared | -432
+admitted to hospital | 0
+start pazopanib as fourth-line therapy | 0
+categorized as IMDC intermediate risk | 0
+serum uric acid level normal (5.4 mg/dL) | 0
+received 800 mg pazopanib daily | 0
+discharged | 240
+presented to emergency room | 336
+complaints of CTCAE v4.0 grade 2 fatigue | 336
+CTCAE v4.0 grade 2 nausea | 336
+grade 1 diarrhea | 336
+temperature 40.5°C | 336
+blood pressure 132/48 mm Hg | 336
+heart rate 120 beats per minute | 336
+denied abdominal pain during palpation | 336
+chest CT showed lung metastasis decreased | 336
+abdomen CT showed lung metastasis decreased | 336
+CTCAE grade 2 acute kidney injury | 336
+disseminated intravascular coagulation diagnosed | 336
+discontinued pazopanib | 336
+treated with hydration (200 mL/h) | 336
+treated with thrombomodulin alpha | 336
+treated with broad-spectrum antibiotics meropenem | 336
+hyperphosphatemia (5.9 mmol/L) | 360
+hyperuricemia (10.1 mg/dL) | 360
+hypocalcemia (7.0 mg/dL) | 360
+acute renal failure worsened (creatinine: 2.3–2.95 mg/dL) | 360
+admitted to intensive care unit | 360
+management of TLS | 360
+renal replacement therapy | 360
+renal function did not recover | 360
+poor prognosis | 360
+decision to not do further life-prolonging therapy | 360
+died under palliative care | 384

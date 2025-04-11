@@ -1,0 +1,79 @@
+event,time
+59 years old ,0
+    female ,0
+    admitted to a peripheral hospital ,0
+    peritonitis secondary to a perforation of a sigmoid diverticulum ,0
+    sigmoid resection ,0
+    L-T anastomosis ,0
+    new widespread peritonitis ,-264
+    emergency re-laparotomy ,-264
+    dehiscence of the posterior wall of the anastomosis ,-264
+    fecal contamination of the abdomen ,-264
+    ileostomy ,-264
+    careful toilet of peritoneal cavity ,-264
+    wound margins not juxtaposed ,-264
+    high risk of complications ,-264
+    aggravation of clinical features ,-264
+    transfer to ICU ,-552
+    ICU admission ,-552
+    sedated ,-552
+    intubated ,-552
+    mechanically ventilated ,-552
+    hemodynamically unstable ,-552
+    invasive blood pressure 80/50 mmHg ,-552
+    no fluid load responder ,-552
+    body temperature 38°C ,-552
+    dehiscence of cutaneous and subcutaneous abdominal layers ,-552
+    chronic obstructive pulmonary disease ,-264
+    gastro-esophageal reflux disease ,-264
+    paroxysmal atrial fibrillation ,-264
+    culture tests collected ,-552
+"    surgical wound swab positive for E. coli, E. faecius, Bacteroides Ovatum ",-552
+    blood cultures negative ,-552
+    CT scan of abdomen showed free air in peritoneal cavity ,-552
+    free air surrounding liver and spleen ,-552
+    free air in epigastrium and mesogastrium ,-552
+    multiple confluent abscesses in right and left hypocondrium ,-552
+    largest abscess 52 mm x 35 mm ,-552
+    multiple abscesses in pelvic cavity ,-552
+    largest pelvic abscess 26 mm x 25 mm ,-552
+    multiple nodules in chest compatible with septic localizations ,-552
+    multiple ipodense areas within spleen related to heart-failure ,-552
+    intervention of debridement rejected ,-552
+    severe physical conditions ,-552
+    abdominal abscesses not treatable by surgery ,-552
+    abscesses multiple and disseminated ,-552
+    conservative treatment with broad-spectrum antibiotic therapy ,-552
+    use of Negative Pressure Therapy (NPT) ,-552
+    high risk of hemorrhage ,-552
+    high risk of perforation ,-552
+    loops free of fascial closure ,-552
+    loops made fragile by infection ,-552
+    VAC therapy with -15 mmHg continuous negative pressure ,-552
+    applied V.A.C. VeraFlo Cleanse™ ,-552
+    foam dressings of V.A.C.® Therapy System ,-552
+    black polyurethane ester foam ,-552
+    median hydrophobicity ,-552
+    pore size 400–600 μm ,-552
+    intermittent cleaning cycles with saline infusion ,-552
+    cleaning cycles duration 5 minutes ,-552
+    suction phases duration 50 minutes ,-552
+    formation of clinically adequate granulation tissue after 4 weeks ,672
+    resolution of septic state ,672
+    more stable hemodynamic status ,672
+    application of conventional GranuFoam™ Dressings ,672
+    prosecution of NTP ,672
+    stopping wound washing ,672
+    accelerated tissue repair by NPT ,672
+    shortening time for progressive juxtaposition of flaps ,672
+    discharged from ICU ,840
+    afebrile ,840
+    clinically stable ,840
+    hemodynamically stable ,840
+    spontaneous breathing ,840
+    oxygen therapy ,840
+    normal urine output ,840
+    continued VAC therapy on ward for 4 weeks ,840
+    complete closure of abdominal wall ,1176
+    alive after six months ,4320
+    no complications occurred ,4320

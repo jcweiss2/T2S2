@@ -1,0 +1,117 @@
+event,time
+60 years old,0
+    male ,0
+    ischemic cardiomyopathy ,0
+    admitted for VT storm ,0
+    anteroseptal myocardial infarction ,-262080
+    thrombolytic medication ,-262080
+    left ventricular ejection fraction 17% ,-350400
+    subcutaneous implantable cardioverter-defibrillator ,-350400
+    VT episodes ,-350400
+    ICD therapy ,-350400
+    medication adjustments ,-350400
+    recurrent VT ,-10560
+    unchanged ejection fraction ,-10560
+    S-ICD explanted ,-10560
+    CRT-D implanted ,-10560
+    cardiac MRI scan ,-10560
+    LV thrombus ,-10560
+    vitamin K antagonist ,-10560
+    antero-septal antero-lateral myocardial infarction ,-10560
+    admitted to secondary hospital ,-720
+    VT storm ,-720
+    transferred to academic hospital ,-720
+    tertiary referral hospital ,-720
+    hypotensive ,-720
+    external electrical cardioversions ,-720
+    repeat diagnostic work-up ,-720
+    high-dose intravenous amiodarone ,-720
+    multiple beta-blockers ,-720
+    mexiletine ,-720
+    quinidine ,-720
+    antibiotic therapy ,-720
+    septic ,-720
+    peripherally inserted central catheter ,-720
+    Staphylococcus aureus bacteremia ,-720
+    antibiotics adjusted ,-720
+    physical examination ,-720
+    echocardiography ,-720
+    [18F]FDG-PET/CT scan ,-720
+    carbohydrate-free diet ,-720
+    fasting ,-720
+    intravenous heparin ,-720
+    no endocarditis ,-720
+    continued antibiotics ,-720
+    urgent catheter ablation considered ,-720
+    apical thrombus ,-720
+    anticoagulation therapy ,-720
+    unsuitable for procedure ,-720
+    high-dose antiarrhythmic drugs ,-720
+    200 mg metoprolol ,-720
+    400 mg amiodarone ,-720
+    600 mg mexiletine ,-720
+    VTs recurred ,-720
+    sedation ,-720
+    intubation ,-720
+    antiarrhythmic medication adjustment ,-720
+    extubated ,-720
+    percutaneous left stellate ganglion blockade ,-720
+    VTs recurred ,-720
+    hospitalized for more than a month ,-720
+    experimental cardiac radioablation considered ,-720
+    therapeutic options discussed ,-720
+    discontinuation of therapy ,-720
+    high-risk catheter ablation ,-720
+    compassionate use ,-720
+    patient opted for cardiac radioablation ,-720
+    written informed consent ,-720
+    radioablation targeting guided by AHA Segmented Model ,0
+    myocardial scar in anteroseptal segments ,0
+    abnormal strain percentages ,0
+    9 different VT morphologies ,0
+    inferred exit sites ,0
+    final target ,0
+    clinical target volume 67 cm3 ,0
+    internal target volume ,0
+    isotropic expansion ,0
+    planning target volume 300 cm3 ,0
+    dose of 25 Gy ,0
+    3-arc VMAT plan ,0
+    treated on AgilityTM ,0
+    77 sustained VT-episodes ,-720
+    37 days hospitalization ,-720
+    25 VT requiring electrical cardioversion ,-720
+    VT recurred 4 hours post-radioablation ,4
+    no further VTs ,4
+    transferred back to secondary hospital ,312
+    discharged home ,624
+    no VT episodes ,624
+    COVID-19 infection ,624
+    cardiac rehabilitation therapy ,624
+    tapering off antiarrhythmic drugs ,624
+    no myocardial injury ,24
+    hs-Troponin-T unchanged ,24
+    echocardiographic ejection fraction unchanged ,24
+    electrocardiogram unchanged ,24
+    NT-ProBNP reduced 77% ,24
+    no pericardial effusion ,24
+    nausea ,48
+    vomiting ,48
+    CTCAE grade 1 ,48
+    antiemetic medication ,48
+    whole body [18F]FDG-PET/CT scan ,720
+    no endocarditis ,720
+    extensive 18F-FDG uptake ,720
+    LV thrombus evaluation ,720
+    therapy-refractory VT storm ,0
+    incessant VT ,0
+    direct VT-reducing effect ,0
+    no acute adverse events ,0
+    increased metabolic activity ,0
+    no signs of endocarditis ,0
+    no myocardial injury ,0
+    continued follow-up ,0
+    stable cardiac function ,0
+    successful recovery ,0
+    resumed normal activities ,0
+    improved quality of life ,0

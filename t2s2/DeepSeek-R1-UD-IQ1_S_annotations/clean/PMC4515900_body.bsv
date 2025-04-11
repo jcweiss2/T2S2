@@ -1,0 +1,101 @@
+28 years old | 0
+male | 0
+referred to hospital | 0
+fever | -168
+acute diarrhea | -168
+poor oral intake | -168
+HLH diagnosis | -2688
+fever at HLH diagnosis | -2688
+pancytopenia | -2688
+splenomegaly | -2688
+bone marrow biopsy | -2688
+positive EBV titers | -2688
+treated with dexamethasone | -2688
+IV immunoglobulin | -2688
+etoposide | -2688
+cyclosporine | -2688
+surveillance imaging | -2688
+no evidence of malignancy | -2688
+good response to therapy | -2688
+recent presentation | 0
+febrile neutropenia | 0
+empirically treated with IV vancomycin | 0
+cefepime | 0
+transferred to hospital | 0
+temperature 38.5°C | 0
+blood pressure 116/60 mmHg | 0
+heart rate 80 beats/min | 0
+weight 120 kg | 0
+2-cm left cervical lymph node | 0
+serum creatinine 2.6 mg/dL | 0
+ABG pH 7.23 | 0
+pCO2 24 mmHg | 0
+pO2 101 mmHg | 0
+HCO3 10 mmol/L | 0
+anion gap metabolic acidosis | 0
+respiratory compensation | 0
+urinalysis granular casts | 0
+renal epithelial cells | 0
+acute tubular necrosis | 0
+cervical lymph node biopsy | 0
+repeat bone marrow biopsy | 0
+peripheral T-cell lymphoma | 0
+stool positive for Clostridium difficile | 0
+diagnosed with peripheral T-cell lymphoma | 0
+relapsing HLH | 0
+C. difficile colitis | 0
+acute kidney injury | 0
+lactic acidosis | 0
+treated with oral vancomycin | 0
+dexamethasone | 0
+etoposide | 0
+basiliximab | 0
+cyclosporin | 0
+alemtuzumab | 0
+nitrogen mustard | 0
+rituximab | 0
+EBV viremia | 0
+septic shock | 24
+multiorgan system failure | 24
+requiring multiple vasopressors | 24
+CVVH started | 24
+replacement fluid rate 3.6 L/h | 24
+anticoagulant citrate dextrose solution A | 24
+hyperkalemia | 24
+acid–base status no improvement | 24
+hemofiltration rate increased to 7 L/h | 24
+high bicarbonate replacement fluid | 24
+low-potassium replacement fluid | 24
+persistent hyperkalemia | 24
+potassium 6.7 mmol/L | 24
+severe lactic acidosis | 24
+pH 7.13 | 24
+plasma lactate 20.1 mmol/L | 24
+IHD initiated | 24
+CVVH alternated with IHD | 24
+interruption of CVVH | 24
+worsening volume overload | 24
+hypoxemia | 24
+CVVHD initiated | 24
+dialysate rate 7 L/h | 24
+CVVH replacement fluid 5 L/h | 24
+two machines used | 24
+volume status stabilized | 24
+hemodynamics stabilized | 24
+decreasing vasopressors | 24
+serum lactate 11.4 mmol/L | 24
+stopped CVVHD | 24
+continued CVVH 5 L/h | 24
+plasma lactate 7.1 mmol/L | 24
+decreased hemofiltration rate to 3.6 L/h | 24
+plasma lactate 5.6 mmol/L | 24
+ABG pH 7.35 | 24
+pCO2 35 mmHg | 24
+HCO3 18 mmol/L | 24
+weaned off vasopressors | 24
+improved mental status | 24
+massive lower gastrointestinal bleeding | 24
+severe thrombocytopenia | 24
+ischemic colitis | 24
+palliative treatment | 24
+passed away | 24

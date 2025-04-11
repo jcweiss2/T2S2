@@ -1,0 +1,57 @@
+79 years old | 0
+hypertension | 0
+ischemic heart disease | 0
+severe symptomatic aortic stenosis | 0
+scheduled for elective TAVR | 0
+coronary artery bypass graft surgery | -105216
+mitral valve repair | -105216
+preprocedural transthoracic echocardiography | -24
+aortic valve area 0.6 cm² | -24
+transvalvular maximal gradient 61 mm Hg | -24
+transvalvular mean gradient 33 mm Hg | -24
+left ventricular ejection fraction of 45% | -24
+unfavorable femoral vascular anatomy | 0
+right transcarotid approach planned | 0
+induction of general anesthesia | 0
+TEE probe placed | 0
+SAPIEN 3 valve deployed | 0
+postprocedural TEE | 0
+no visible paravalvular leak | 0
+no trauma during probe insertion or removal | 0
+blood-tinged secretions | 0
+extubated | 0
+transferred to intensive care unit | 0
+progressive chest pain | 24
+important shivering | 24
+computed tomography performed | 24
+pneumomediastinum | 24
+right hydropneumothorax | 24
+esophageal perforation suspected | 24
+right thoracic drain inserted | 24
+serosanguinous liquid drained | 24
+esophagogastroscopy | 24
+esophageal perforation 4 cm | 24
+returned to operating room | 31
+right thoracotomy | 31
+repair of esophageal perforation | 31
+pleural adhesions | 31
+esophageal laceration site found | 31
+large vertebral osteophyte visualized | 31
+primary closure of esophageal wall | 31
+intercostal muscular flap | 31
+thoracic drains left | 31
+transferred to intensive care unit | 31
+pneumonia | 744
+severe delirium | 744
+congestive heart failure | 744
+pulmonary edema | 744
+optimal treatment | 744
+withdrawal of care | 744
+patient died | 744
+prominent anterior thoracic osteophytes | -24
+preoperative pulmonary radiography | -24
+preoperative chest CT | -24
+no dysphagia | 0
+no odynophagia | 0
+esophageal perforation due to TEE | 0
+repeated insertion and withdrawal of probe | 0

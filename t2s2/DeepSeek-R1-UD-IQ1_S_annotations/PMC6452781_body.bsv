@@ -1,0 +1,119 @@
+25 years old| 0
+    male | 0
+    admitted to the emergency room | 0
+    motor vehicle crash | 0
+    Glasgow coma score 8/15 | 0
+    electively intubated | 0
+    mechanical ventilation | 0
+    CT of the spine | 0
+    nondisplaced compression fracture at the ninth and 10th thoracic vertebrae | 0
+    CT of the chest | 0
+    bilateral basal atelectasis/consolidation | 0
+    aspiration | 0
+    bilateral ground-glass opacities | 0
+    nondisplaced manubrium sternal fracture | 0
+    CT of the abdomen | 0
+    small (0.5 cm) contusion over the spleen | 0
+    CT of the head | 0
+    acute left subdural hemorrhage | 0
+    underlying mild brain edema | 0
+    right midline shift of approximately 1 cm | 0
+    emergency decompressive craniectomy | 0
+    extraventricular drain (EVD) insertion | 0
+    admitted to the surgical intensive care unit (SICU) | 0
+    mechanical ventilation | 0
+    day 5 | 120
+    fever | 120
+    leukocytosis | 120
+    septic workup | 120
+    CSF analysis | 120
+    CSF culture | 120
+    EVD-related ventriculitis | 120
+    vancomycin | 120
+    meropenem | 120
+    antibiotic regimen adjustment | 120
+    culture results | 120
+    lipid-formulated amphotericin B | 120
+    vancomycin for Candida albicans | 120
+    vancomycin for Staphylococcus hemolyticus | 120
+    day 8 | 192
+    EVD removed | 192
+    day 11 | 264
+    deterioration of consciousness | 264
+    new CT scan of the brain | 264
+    active hydrocephalus | 264
+    worsening midline shift | 264
+    another EVD inserted | 264
+    full septic workup | 264
+    day 18 | 432
+    debridement at the cephalic surgical site | 432
+    full course of ceftazidime | 432
+    wound infection | 432
+    day 25 | 600
+    tracheostomy placement | 600
+    postoperative fever | 600
+    Glasgow coma scale 8/15 | 600
+    leukocytosis 14.3 k/µL | 600
+    septic screening | 600
+    CSF culture revealed M. hominis | 600
+    day 28 | 672
+    confirmatory sample regrew M. hominis | 672
+    day 29 | 696
+    second EVD changed | 696
+    intravenous ciprofloxacin 400 mg every 8 hours | 696
+    duration of 14 days | 696
+    day 39 | 936
+    clinical improvement | 936
+    transferred to general ward | 936
+    third EVD remained in place until day 45 | 936
+    nasogastric feeding | 936
+    tracheostomy | 936
+    day 45 | 1080
+    third EVD removed | 1080
+    transferred to another health care facility | 1080
+    no follow-up | 1080
+    CSF white blood cell count 1430/cu mm | 600
+    CSF segmented cells 82% | 600
+    CSF protein 316 mg/dL | 600
+    CSF glucose 3.0 mg/dL | 600
+    direct Gram stain showed few pus cells | 600
+    no organisms on Gram stain | 600
+    growth of M. hominis on anaerobic blood agar | 600
+    MALDI-TOF MS identification of M. hominis | 600
+    confidence value 99.9 | 600
+    subsequent CSF samples grew M. hominis | 672
+    no hemolytic colonies | 600
+    translucent pinpoint colonies | 600
+    CSF WBC 1430/cu mm on day 25 | 600
+    CSF WBC 210/cu mm on day 28 | 672
+    CSF WBC 1892/cu mm on day 33 | 792
+    CSF WBC 19/cu mm on day 38 | 912
+    CSF WBC 315/cu mm on day 39 | 936
+    CSF WBC 335/cu mm on day 47 | 1128
+    CSF WBC 25/cu mm on day 52 | 1248
+    CSF WBC 35/cu mm on day 57 | 1368
+    CSF protein 316 mg/dL on day 25 | 600
+    CSF protein 327.2 mg/dL on day 28 | 672
+    CSF protein 176 mg/dL on day 33 | 792
+    CSF protein 151.7 mg/dL on day 38 | 912
+    CSF protein 149.3 mg/dL on day 39 | 936
+    CSF protein 135.5 mg/dL on day 47 | 1128
+    CSF protein 152.5 mg/dL on day 52 | 1248
+    CSF protein 139.4 mg/dL on day 57 | 1368
+    CSF glucose 3.0 mg/dL on day 25 | 600
+    CSF glucose 32 mg/dL on day 28 | 672
+    CSF glucose 33 mg/dL on day 33 | 792
+    CSF glucose 55 mg/dL on day 38 | 912
+    CSF glucose 43 mg/dL on day 39 | 936
+    CSF glucose 78 mg/dL on day 47 | 1128
+    CSF glucose 55 mg/dL on day 52 | 1248
+    CSF glucose 68 mg/dL on day 57 | 1368
+    fever and leukocytosis post EVD | 600
+    administration of ciprofloxacin | 696
+    improvement with treatment | 936
+    transfer to general ward | 936
+    maintained on nasogastric feeding | 936
+    maintained on tracheostomy | 936
+    transfer to another facility | 1080
+    no follow-up | 1080
+  

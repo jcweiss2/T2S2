@@ -1,0 +1,57 @@
+76 years old | 0
+    diabetic female | 0
+    presented to the Emergency Department | 0
+    altered mental status | 0
+    found down in a pool of blood and urine | 0
+    Gross hematuria | 0
+    placement of Foley catheter | 0
+    afebrile | 0
+    blood urea nitrogen of 110 mg/dL | 0
+    serum creatinine of 3.4 mg/dL | 0
+    thrombocytopenia | 0
+    leukocytosis | 0
+    left shift | 0
+    blood culture produced gram-negative rods | 0
+    grew Escherichia coli | 24
+    non-contrast Computed Tomography (CT) | 0
+    status post bilateral nephrectomy | 0
+    retroperitoneal extraluminal air | 0
+    air within the lumen of the bladder | 0
+    bladder wall thickening | 0
+    severe gas collections in both kidney parenchyma | 0
+    severe gas collections in collecting system bilaterally | 0
+    distortion of normal renal anatomy | 0
+    diagnosis of severe sepsis | 0
+    hyperosmolar hyperglycemic non-ketotic syndrome | 0
+    acute kidney injury | 0
+    transferred to the Medical Intensive Care Unit | 0
+    fluid resuscitation | 0
+    glucose control | 0
+    administration of antibiotics | 0
+    pressor support | 0
+    stabilized overnight | 24
+    remained anuric | 24
+    multisystem organ dysfunction | 24
+    on multiple inotropic agents | 24
+    review of CT imaging by Urology team | 24
+    corrected interpretation | 24
+    diagnosis of bilateral emphysematous pyelonephritis | 24
+    Emergent bilateral nephrectomy considered | 24
+    poor functional condition | 24
+    poor cardiac status | 24
+    poor pulmonary status | 24
+    risk of intra-operative hypotension | 24
+    risk of death with significant blood loss | 24
+    conservative, non-surgical approach chosen | 24
+    cystoscopy | 48
+    bilateral retrograde pyelogram | 48
+    placement of ureteral stents | 48
+    gross purulent discharge visualized | 48
+    tolerated operation well | 48
+    remained anuric | 72
+    consulted interventional radiology | 72
+    bilateral percutaneous renal abscess drains placed | 72
+    no significant output from stents | 72
+    no improvement in clinical condition | 72
+    expired | 120
+    

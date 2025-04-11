@@ -1,0 +1,39 @@
+70 years old | 0
+male | 0
+unstable diabetes | 0
+arterial hypertension | 0
+consulted for large bilateral bursa | 0
+pus discharge from scrotal fistula | 0
+fever | 0
+altered general condition | 0
+fever of 39° | 0
+blood pressure 95/40 cmH2O | 0
+heart frequency 100 beats/minute | 0
+testicular examination shows large warm tender bursa | 0
+inflammatory signs | 0
+presence of orifice | 0
+pus discharge | 0
+WBC 1300 | 0
+CRP 340 mg/l | 0
+creatinine 14 mg/l | 0
+procalcitonin 100 ng/ml | 0
+abdomino-pelvic scan showed scrotal collection with air | 0
+received antibiotic | 0
+taken urgently to operating room | 0
+debridement with drainage of abscess | 0
+resection of areas of necrosis | 0
+transferred to intensive care unit | 0
+management of sepsis | 0
+treated with vasoactive drugs | 0
+appropriate antiobiotherapy | 0
+evolution at 3 months marked by bourgeoning of scrotal tissue | 2160
+clinical examination reveals ulcerated bourgeoning lesion on glans penis | 2160
+extension of gangrene to penis | 2160
+development of another lesion | 2160
+decision to perform biopsy of glans | 2160
+anatomopathological results showed squamous cell carcinoma of penis | 2160
+additional clinical examination did not find inguinal adenopathy | 2160
+MRI of penis showed tumor extending to cavernous cavities and urethra | 2160
+taken to operating room for total penectomy with perineostomy | 2160
+evolution was favorable | 2160
+patient put under surveillance | 2160

@@ -1,0 +1,73 @@
+35 years old | 0
+    male | 0
+    admitted to the emergency unit | 0
+    NYHA Class IV dyspnea | 0
+    acute pulmonary edema | 0
+    former smoker | -8760
+    former morbid obese | -8760
+    BMI of 26 kg/m2 | 0
+    strict diet and exercise | -8760
+    acute myopericarditis | -61360
+    fever | -61360
+    odynophagia | -61360
+    admission to the intensive coronary care unit | -61360
+    echocardiogram showing slightly hypertrophied left ventricle | -61360
+    ejection fraction of 30% | -61360
+    akinesia of the interventricular septum | -61360
+    inferolateral hypokinesia | -61360
+    inotropic treatment | -61360
+    depletive treatment | -61360
+    recovered systolic function | -61360
+    no subsequent cardiac monitoring | -61360
+    initial EKG showing sinus tachycardia | 0
+    short QRS | 0
+    repolarization alterations | 0
+    0.5 mm elevation of the ST segment in DI and aVL | 0
+    ST depression <1 mm in DII, DIII, and aVF | 0
+    ST depression >1 mm in V3–V6 | 0
+    reaching of 2.5 mm in V4 | 0
+    CBC showing mild anemia | 0
+    leukocytosis with left deviation | 0
+    slight elevation of troponins | 0
+    acute respiratory acidosis | 0
+    radiological findings compatible with acute pulmonary edema | 0
+    echocardiogram showing moderate left ventricle dysfunction | 0
+    apical hypokinesia | 0
+    lateral hypokinesia | 0
+    intensive depletive treatment initiated | 0
+    severe hypotension (systolic BP of 60 mmHg) | 2
+    bradycardia | 2
+    oliguria | 2
+    vasoactive amines for hemodynamic stabilization | 2
+    admitted to the Coronary Intensive Care Unit | 2
+    systolic dysfunction reversed | 4
+    ECG alterations reversed | 4
+    new echocardiogram revealing partial recovery of segmental contractility alterations | 48
+    mild septal hypokinesia | 48
+    systolic function of 54% | 48
+    mild left ventricular hypertrophy | 48
+    moderate dilatation of the left atrium | 48
+    coronary angiography showing no significant coronary abnormalities | 72
+    suspected adrenergic crisis | 72
+    cardiac MRI | 72
+    suprarenal MRI | 72
+    preserved systolic function (EF 58%) | 72
+    slight inferobasal hypokinesia | 72
+    solid nodular lesion of 33 mm x 25 mm at the left adrenal gland | 72
+    delayed enhancement study showing subepicardial and inferobasal contrast uptake | 72
+    faint myocardial edema in pre-contrast sequences | 72
+    elevated catecholamine excretion in 24 h urine | 72
+    no pathologic noradrenergic activity detected in MIBG-123I gammagraphic exploration | 72
+    alpha and beta medical blockage | 72
+    laparoscopic anterior left adrenalectomy | 720
+    30 mm tumor identified during surgery | 720
+    postoperative course favorable | 720
+    hemodynamically stable | 720
+    normal tensional controls | 720
+    discharged | 864
+    normalized catecholamine excretion during follow-up | 1008
+    MRI showing significant decrease of subepicardial enhancement | 1008
+    no segmentary alterations of contractibility | 1008
+    preserved ejection function of 63% | 1008
+    pathology confirming pheochromocytoma without signs of malignancy | 1008
+    

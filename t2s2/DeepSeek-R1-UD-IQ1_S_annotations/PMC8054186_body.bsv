@@ -1,0 +1,81 @@
+69 years old | 0
+    woman | 0
+    paraplegic | 0
+    public road accident | -438000 (approximated based on age at 19 and current age 69, 50 years prior, 50 years = 438000 hours)
+    implanted for intrathecal therapy in 2008 | -113184 (2008 to 2018 (assuming current year is 2018), 10 years = 87600 hours; however, the case report mentions pump replacement in 2015, so timeline might be adjusted)
+    Ascenda catheter | 0
+    Synchromed II pump | 0
+    baclofen | 0
+    morphine | 0
+    unchanged doses for 10 years | -87600 (10 years prior)
+    daily administration of 300 μg baclofen | 0
+    daily administration of 400 μg morphine | 0
+    fillings scheduled every 10 weeks | 0
+    autonomous | 0
+    dynamic | 0
+    performs urinary catheterizations | 0
+    daily re-education | 0
+    transfers in wheelchair | 0
+    pump replacement in 2015 | -26280 (3 years prior, 3 years = 26280 hours)
+    lymphatic collection settled around the pump | -26280 (after pump replacement in 2015)
+    regular aspirations of up to 200 mL yellow liquid | -26280
+    diffusion dried up | -8760 (from 2017, 1 year prior, 8760 hours)
+    simplified fillings from 2017 | -8760
+    presented to Emergency Department on day 1 | 0
+    24-hour history of fever | -24
+    chills | -24
+    fatigue | -24
+    neurological examination | 0
+    Glasgow Coma Scale score 15/15 | 0
+    no neck stiffness | 0
+    no focal abnormalities | 0
+    nausea | 0
+    cloudy liquid from pump scar | 0
+    indurated zone surrounding pump scar | 0
+    qSOFA evaluated | 0
+    elevated C-reactive protein (150 mg/L) | 0
+    blood samples taken | 0
+    fluid sample from pump scar for cultures | 0
+    lumbar puncture deferred | 0
+    anticoagulant treatment (fluindione) | 0
+    vancomycin administration | 0
+    cefotaxime administration | 0
+    infection on neurological material | 0
+    rapid decrease of fever | 24
+    decrease of biological inflammatory syndrome (CRP 80 mg/L) | 24
+    local surgical cleaning on day 2 | 24
+    CSF sample collected | 24
+    purulent CSF | 24
+    elevated white blood cell count (660/mm3) | 24
+    neutrophils 90% | 24
+    elevated protein concentration (4.31 g/L) | 24
+    low glycorrhachia (glucose 0.8 mmol/L) | 24
+    blood cultures negative | 24
+    Gram-positive cocci in CSF | 24
+    Streptococcus dysgalactiae isolated | 24
+    PCR confirmed pathogen | 24
+    scar swab culture isolated S. dysgalactiae | 24
+    follow-up CSF sterile | 24
+    antibiotics switched to amoxicillin | 24
+    rifampicin administration | 24
+    hospitalized in ICU for 3 days | 24
+    transferred to infectious diseases department | 72 (3 days = 72 hours)
+    decrease of fever | 72
+    disappearance of nausea | 72
+    disappearance of headache | 72
+    biological improvement | 72
+    persistence of febricula | 72
+    absence of biological normalization | 72
+    pump and catheter ablation on day 9 | 216 (9 days = 216 hours)
+    new intrathecal catheter placed | 216
+    tunnelled to right hypochondrium | 216
+    linked to implanted port (Celsit) | 216
+    continuous administration of intrathecal therapy | 216
+    replacement with new pump on day 17 | 408 (17 days = 408 hours)
+    port disconnected | 408
+    catheter tunnelled to new pump site | 408
+    discharged after 18 days | 432 (18 days = 432 hours)
+    antibiotic therapy prolonged | 432
+    two months after antibiotics | 1464 (approx. 60 days = 1464 hours)
+    cured of acute episode | 1464
+    difficulties in autonomy recovery | 1464

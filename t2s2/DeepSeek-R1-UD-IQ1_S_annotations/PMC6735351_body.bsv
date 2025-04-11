@@ -1,0 +1,36 @@
+55 years old | 0
+    male | 0
+    non-alcoholic steatohepatitis (NASH) cirrhosis | 0
+    presented with shortness of breath | -96
+    presented with fever | -96
+    presented with chills | -96
+    denied urinary symptoms | 0
+    denied diarrhea | 0
+    denied nausea | 0
+    denied vomiting | 0
+    bleeding esophageal varices | 0
+    hepatic encephalopathy | 0
+    ascites | 0
+    no therapeutic paracentesis | 0
+    never had spontaneous bacterial peritonitis | 0
+    liver transplant evaluation | 0
+    abnormal cardiac testing | 0
+    hospitalized for fever up to 103.4 | -672
+    sepsis work-up | -672
+    negative blood cultures | -672
+    negative urine cultures | -672
+    chest x-ray | -672
+    sizable right sided pleural effusion | -672
+    no diagnostic thoracentesis | -672
+    source of fever not identified | -672
+    treated empirically with intravenous antibiotics | -672
+    discharged on oral Levofloxacin | -672
+    fever of 102.2 | 0
+    mild tachypnea | 0
+    icteric sclera | 0
+    decreased breath sounds on right lung base | 0
+    no crackles | 0
+    no rhonchi | 0
+    mildly distended abdomen | 0
+    mild right upper quadrant tenderness | 0
+    trace bilateral lower extremity edema |$

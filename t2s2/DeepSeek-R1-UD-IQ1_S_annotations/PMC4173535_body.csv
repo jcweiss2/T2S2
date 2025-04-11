@@ -1,0 +1,59 @@
+event,time
+61 years old ,0
+    female ,0
+    squamous cell carcinoma (stage 1) oesophagus ,0
+    laparoscopic oesophagectomy ,0
+    gastric pull through operation ,0
+    preoperative assessment ,0
+    transthorasic echocardiography (TTE) ,0
+    fentanyl ,0
+    propofol ,0
+    rocuronium ,0
+    isoflurane ,0
+    O2 nitrous ,0
+    postoperative ICU admission ,0
+    elective ventilation ,0
+    tachycardia (130/min) ,10
+    hypotension (80/60 mmHg) ,10
+    patient ventilator asynchrony ,10
+    increased thoracic drain output ,10
+    low CVP (3 mmHg) ,10
+    sinus tachycardia ,10
+    crystalloid infusion ,10
+    colloid infusion ,10
+    vasopressor (noradrenaline) ,10
+    midazolam (2 mg/h) ,10
+    fentanyl (100 mcg/h) ,10
+    re-exploration ,10
+    hemodynamic instability ,10
+    vasopressor agent use ,10
+    no fever ,10
+    no leukocytosis ,10
+    normal procalcitonin ,10
+    sterile blood cultures ,10
+    poor R wave progression in V1-V3 ,48
+    hypokinesia of distal septum and apex ,48
+    apical ballooning ,48
+    left ventricular peak mid cavity gradient (65 mmHg) ,48
+    ejection fraction (40%) ,48
+    normal troponin I ,48
+    normal CK ,48
+    high myoglobin (>500 U) ,48
+    high BNP (3500 U) ,48
+    TTS suspected ,48
+    low molecular weight heparin ,48
+    aspirin ,48
+    statins ,48
+    dobutamine infusion ,48
+    T wave inversion in V3-V6 and II ,60
+    normal troponin I ,60
+    normal CK ,60
+    normal myoglobin ,60
+    high BNP (1000U) ,60
+    left ventricular peak mid cavity gradient (70 mmHg) ,60
+    ejection fraction (30%) ,60
+    surgical site sepsis ,168
+    multi drug resistant abdominal sepsis ,168
+    cardiogenic shock ,168
+    septic shock ,168
+    death ,168

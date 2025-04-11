@@ -1,0 +1,89 @@
+event,time
+31 years old ,0
+    pregnant woman ,0
+    admitted at 34 weeks ,-72
+    emergency ,-72
+    fever ,-72
+    sinus tachycardia ,-72
+    developed shortness of breath ,-48
+    cough with sputum ,-48
+    hypoxemia ,-48
+    oxygen saturation 88.0% ,-48
+    oxygen therapy ,-48
+    symptoms similar to heart failure ,-48
+    pink foaming sputum ,-48
+    cyanosis ,-48
+    blood pressure within normal range ,-48
+    emergency cesarean section ,-48
+    healthy fetus delivered ,-48
+    fetal heart rate slowed ,-48
+    transferred to ICU ,-48
+    ultrasound showed left heart enlargement ,-48
+    left ventricular systolic insufficiency ,-48
+    moderate mitral valve insufficiency ,-48
+    ejection fraction 43% ,-48
+    no right heart dilation ,-48
+    no pulmonary artery blood clots ,-48
+    excluded myocarditis ,-48
+    excluded pulmonary embolism ,-48
+    excluded eclampsia ,-48
+    excluded aortic dissection ,-48
+    diagnosed with fulminant PPCM ,-48
+    essential therapies based on BOARD method ,-48
+    bromocriptine ,-48
+    oral heart failure therapies ,-48
+    anticoagulants ,-48
+    vasorelaxant agents ,-48
+    diuretics ,-48
+    condition deteriorated ,-42
+    cardiac arrest ,-42
+    external cardiac compression ,-42
+    CPR ,-42
+    ECMO team arrived ,0
+    venoarterial ECMO established ,0
+    right arteriotomy femoral venous cannula ,0
+    femoral arterial cannula ,0
+    perfusion cannula inserted ,0
+    flow established at 3.5 L/min ,0
+    resumed spontaneous circulation ,0
+    BP 79/77 mmHg ,0
+    lactate >15 mmol/L ,0
+    anuria ,0
+    venoarterial ECMO continued ,0
+    dobutamine infusion ,0
+    milrinone infusion ,0
+    ultrasound showed EF 16% ,0
+    heavy left ventricular posterior load ,0
+    limited aortic valve opening ,0
+    intra-aortic balloon pump placed ,0
+    continuous renal replacement therapy ,0
+    activated clotting time 160-200 seconds ,0
+    neurological assessments daily ,0
+    cardiac function improved ,216
+    EF restored to 35% ,216
+    vital signs stable ,216
+    lactic acid reduced to 3 mmol/L ,216
+    bleeding complications ,216
+    nasal cavity bleeding ,216
+    gastrointestinal bleeding ,216
+    incision bleeding ,216
+    thrombocytopenia ,216
+    anticoagulant reduction ,216
+    platelet infusion ,216
+    ECMO stopped ,216
+    pupils differed in size ,216
+    cranial CT showed intracranial hemorrhage ,216
+    cranial decompression ,216
+    intracranial hematoma removal not performed ,216
+    decompression failed ,216
+    transferred to Gaozhou hospital ,216
+    intracranial hematoma removal ,216
+    became conscious ,216
+    coma due to recurrent hemorrhage ,504
+    underwent surgery again ,504
+    recovered without further hemorrhage ,504
+    discharged after 40 days ,960
+    EF restored to 50% ,960
+    followed up for 1 year ,13200
+    good recovery ,13200
+    returned to work ,13200

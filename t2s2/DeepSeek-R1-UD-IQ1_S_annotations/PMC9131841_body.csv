@@ -1,0 +1,72 @@
+event,time
+53 years old ,0
+    woman ,0
+    admitted to the hospital ,0
+    intermittent abdominal pain ,-120
+    fever ,-120
+    intermittent abdominal pain with fever for 5 years ,-120
+    hyperpyrexia ,-72
+    chills ,-72
+    jaundice ,-72
+    cholecystectomy 8 years prior ,-2016
+    temperature of 39.0 °C ,0
+    heart rate of 104 beats per min ,0
+    respiratory rate of 21 breaths per min ,0
+    blood pressure of 117/85 mmHg ,0
+    yellow coloration of skin and sclera ,0
+    abdominal tenderness in the right quadrant ,0
+    normal lung and heart examinations ,0
+    WBC count of 4.01 × 10^9 cells/L ,0
+    moderate anemia (hemoglobin 80.0 g/L) ,0
+    hypoproteinemia (25.3 g/L) ,0
+    elevated ALT (39 U/L) ,0
+    elevated AST (141 U/L) ,0
+    elevated TBIL (185.4 μmol/L) ,0
+    elevated DBIL (146.3 μmol/L) ,0
+    elevated ALP (162 U/L) ,0
+    elevated γ-GT (135 U/L) ,0
+    normal PT (13.6 s) ,0
+    Child-Pugh class B (score 7) ,0
+    splenomegaly ,0
+    splenic varices ,0
+    portal vein narrowing ,0
+    collateral circulation expansion ,0
+    spontaneous spleno1-renal shunting ,0
+    dilatation of intrahepatic ducts ,0
+    multiple stones in intrahepatic and common bile ducts ,0
+    segmental hepatectomy (segments II and III) ,0
+    cholangioplasty ,0
+    left hepaticolithotomy ,0
+    second biliary duct exploration ,0
+    choledocholithotomy ,0
+    T-tube drainage ,0
+    nodular and atrophic liver changes (cirrhosis) ,0
+    postoperative TBIL peak of 357 μmol/L ,144
+    postoperative DBIL peak of 255.5 μmol/L ,144
+    postoperative ALP peak of 167 U/L ,144
+    postoperative γ-GT of 47 U/L ,144
+"    acute respiratory distress syndrome (PaO2 66.3 mmHg, PaCO2 43.9 mmHg) ",192
+    WBC peak of 29.81 × 10^9/L ,240
+    neutrophils 90.7% ,240
+    elevated high-sensitivity C-reactive protein (103.7 mg/L) ,240
+    PT peak of 19.5 s ,384
+    PTA of 51% ,384
+    INR of 1.69 ,384
+    activated partial thromboplastin time of 23.7 s ,384
+    blood ammonia peak of 70 µmol/L ,600
+    T-tube drainage fluid culture positive for Enterococcus faecalis ,264
+    subcutaneous drainage fluid culture positive for Candida parapsilosis ,264
+    sputum cultures positive for Candida parapsilosis ,264
+    sputum culture positive for Pseudomonas aeruginosa ,432
+    catheter fluid culture positive for Pseudomonas aeruginosa ,432
+    blood culture positive for Pseudomonas aeruginosa ,432
+    bilateral pulmonary infection ,192
+    bilateral pleural effusion ,192
+    left pulmonary atelectasis ,336
+    persisting elevated TBIL ,0
+    worsened coagulation function ,0
+    liver failure ,0
+    respiratory failure ,0
+    septicemia ,0
+    severe biliary infection ,0
+    discontinuation of treatment ,648

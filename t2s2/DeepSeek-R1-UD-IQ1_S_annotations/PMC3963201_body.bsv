@@ -1,0 +1,33 @@
+36 years old| 0
+    male | 0
+    low-grade fever | -96
+    sore throat | -96
+    myalgia | -96
+    nausea | -96
+    viral upper respiratory tract infection | 0
+    admitted to general medicine service | 0
+    rehydration | 0
+    intravenous normal saline (2 L) | 0
+    high fever | 48
+    pleuritic chest pain | 48
+    low blood pressure (80/50 mmHg) | 48
+    transferred to Intensive care unit | 48
+    resuscitated with intravenous fluids | 48
+    blood cultures obtained | 48
+    empirical antibiotics (vancomycin and piperacillin/tazobactam) initiated | 48
+    chest X-ray bilateral patchy and irregular parenchymal opacities | 48
+    chest computed tomography right-sided pleural effusion | 48
+    chest computed tomography multiple thick-walled cavitary and nodular opacities | 48
+    blood cultures grew F. necrophorum | 72
+    antibiotic therapy narrowed to piperacillin/tazobactam | 72
+    blood pressure normalized | 72
+    intravenous normal saline (5 L total) | 72
+    venous duplex ultrasonography thrombus in left IJV | 72
+    diagnosed with Lemierre's syndrome | 72
+    pleural effusion managed conservatively | 72
+    piperacillin/tazobactam continued for 7 days | 168
+    discharged home | 216
+    intravenous ertapenem (4-week course) | 216
+    recovered well from infection | 216
+    no anticoagulation | 216
+

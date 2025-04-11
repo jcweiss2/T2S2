@@ -1,0 +1,199 @@
+event,time
+36 years old ,0.0
+    woman ,0.0
+    presented to emergency room ,0.0
+    34 weeks of gestation ,0.0
+    worsening dyspnea ,-48.0
+    severe vomiting ,-48.0
+    poor oral intake ,-48.0
+    bronchial asthma diagnosed ,-168000.0
+    age 15 years ,-168000.0
+    experienced 2 episodes of near-fatal asthma ,-168000.0
+    misperception regarding effects of asthma medications during pregnancy ,-672.0
+    stopped taking asthma medication since becoming pregnant ,-672.0
+    increased asthma attack frequency ,-168.0
+    frequent use of rescue medication ,-168.0
+    denied smoking history ,0.0
+    denied alcohol consumption ,0.0
+    denied illicit drug usage ,0.0
+    outpatient labor surveillance ,-672.0
+    glucose tolerance testing ,-672.0
+    no abnormalities ,-672.0
+    clear consciousness ,0.0
+    agitated ,0.0
+    tachypnea ,0.0
+    inspiratory wheezing ,0.0
+    expiratory wheezing ,0.0
+    Kussmaul breathing ,0.0
+    pulse 138 beats/min ,0.0
+    respiratory rate 25 breaths/min ,0.0
+    blood pressure 126/78 mm Hg ,0.0
+    temperature 37°C ,0.0
+    height 1.65 m ,0.0
+    weight 72.2 kg ,0.0
+    arterial blood gas analysis ,0.0
+    mixed respiratory alkalosis ,0.0
+    metabolic acidosis ,0.0
+    no hypoxia ,0.0
+    supplemental oxygen ,0.0
+    high-dose short-acting beta-agonist ,0.0
+    ipratropium via nebulizer ,0.0
+    intravenous steroids ,0.0
+    condition deteriorated ,0.0
+    high respiratory rate ,0.0
+    accessory muscle use ,0.0
+    intubated ,2.0
+    admitted to ER ,0.0
+    prevented maternal fatigue ,0.0
+    deterioration of oxygenation ,0.0
+    postintubation ventilator settings ,2.0
+    pressure-control ventilation mode ,2.0
+    pressure level 18 cm H2O ,2.0
+    respiratory rate 15 breaths/min ,2.0
+    PEEP 5 cm H2O ,2.0
+    FiO2 80% ,2.0
+    Ti 1 s ,2.0
+    hydrated with 0.9% saline ,2.0
+    severe vomiting ,-48.0
+    fetal viability monitored ,0.0
+    cardiotocography ,0.0
+    blood tests ,0.0
+    elevated C-reactive protein ,0.0
+    leucocyte count 15.85 × 109/L ,0.0
+    normal renal function ,0.0
+    normal liver function ,0.0
+    normal creatinine kinase ,0.0
+    random capillary blood glucose 152 mg/dL ,0.0
+    normal glycosylated hemoglobin ,0.0
+    urinalysis ,0.0
+    2+ acetone ,0.0
+    no glycosuria ,0.0
+    no proteinuria ,0.0
+    admitted to ICU ,8.0
+    intubation ,2.0
+    initial management in ER ,0.0
+    adjusted ventilator settings ,8.0
+    pressure-support ventilation ,8.0
+    pressure level 16 cm H2O ,8.0
+    PEEP 8 cm H2O ,8.0
+    FiO2 50% ,8.0
+    administered inhaled short-acting beta-agonist ,8.0
+    inhaled corticosteroid ,8.0
+    intravenous magnesium sulfate ,8.0
+    breathless ,8.0
+    deep breathing ,8.0
+    labored breathing ,8.0
+    dynamic hyperinflation ,8.0
+    intrinsic end-expiratory pressure ,8.0
+    adjusted ventilator settings to lower tidal volumes ,8.0
+    tidal volumes 6–8 mL/kg ,8.0
+    ideal body weight 55.8 kg ,8.0
+    sedated with propofol ,8.0
+    rapid respiratory rates ,8.0
+    intermittent high tidal volume ,8.0
+    high minute ventilation ,8.0
+    partial sedation ,8.0
+    no response to high-dose propofol ,8.0
+    labored breathing ,8.0
+    chest radiography ,8.0
+    subcutaneous emphysema ,8.0
+    suspected pneumomediastinum ,8.0
+    follow-up arterial blood gas analysis ,29.0
+    decreased bicarbonate levels ,29.0
+    increased anion gap ,29.0
+    respiratory compensation ,29.0
+    worsening metabolic acidosis ,29.0
+    labored breathing ,29.0
+    deep breathing ,29.0
+    difficult to control asthma ,29.0
+    lactic acidosis unlikely ,29.0
+    normal serum lactate ,29.0
+    sepsis work-up ,29.0
+    no infection ,29.0
+    serum ketone levels 3.7 mmol/L ,29.0
+    pH 7.216 ,29.0
+    bicarbonate 11.6 mmol/L ,29.0
+    high anion gap metabolic acidosis ,29.0
+    diagnosed starvation ketoacidosis ,29.0
+    vomiting ,29.0
+    stress during third trimester ,29.0
+    hydrated with D5NS ,29.0
+    partially resolved ketoacidosis ,29.0
+    aggressive treatment for asthma attack ,29.0
+    concern for beta-agonist and corticosteroid effects ,29.0
+    high-dose propofol adverse effects ,29.0
+    emergency caesarean section ,29.0
+    general anesthesia ,29.0
+    betamethasone administered ,29.0
+    prevented fetal respiratory distress syndrome ,29.0
+    delivered 2.3 kg girl ,29.0
+    umbilical cord arterial pH 7.143 ,29.0
+    Apgar score 9 ,29.0
+    intensive care for newborn ,29.0
+    extubated ,49.0
+    post-delivery ,29.0
+    rapid resolution of metabolic derangement ,29.0
+    panendoscopy ,29.0
+    superficial gastritis ,29.0
+    mother discharged ,49.0
+    baby discharged ,49.0
+    favorable outcome ,49.0
+    ketoacidosis induced by short-term starvation ,29.0
+    near-fatal asthma attack ,29.0
+    nondiabetic ,0.0
+    pregnant ,0.0
+    third trimester ,0.0
+    placenta-derived hormones contribution ,29.0
+    fuel homeostasis during starvation ,29.0
+    stress during pregnancy ,29.0
+    pharmacological effects ,29.0
+    acidosis reversal via caesarean delivery ,29.0
+    favorable outcome ,49.0
+    life-threatening events ,0.0
+    acidosis ,0.0
+    asthma ,0.0
+    conflicting treatments ,0.0
+    emergency caesarean section delivery ,29.0
+    ketoacidosis and asthma resolved ,49.0
+    uncontrolled asthma ,29.0
+    high anion gap metabolic derangement ,29.0
+    GOLD MARK mnemonic ,29.0
+    glycols excluded ,29.0
+    5-oxoproline excluded ,29.0
+    lactate excluded ,29.0
+    methanol excluded ,29.0
+    aspirin excluded ,29.0
+    renal failure excluded ,29.0
+    rhabdomyolysis excluded ,29.0
+    ketoacidosis diagnosis ,29.0
+    previously healthy ,0.0
+    nonalcoholic ,0.0
+    nondiabetic ,0.0
+    no ketogenic diet ,0.0
+    no long-term fasting ,0.0
+    no previous ketoacidosis episodes ,0.0
+    normal blood glucose ,0.0
+    normal glycosylated hemoglobin ,0.0
+    metabolic alkalosis from vomiting ,-48.0
+    respiratory alkalosis ,0.0
+    short-term fasting ,-48.0
+    insulinopenia ,29.0
+    insulin resistance ,29.0
+    accelerated starvation ,29.0
+    third trimester ,0.0
+    lipid metabolism adaptation ,29.0
+    placenta-derived hormones ,29.0
+    cortisol ,29.0
+    glucagon ,29.0
+    gluconeogenesis ,29.0
+    glycogenolysis ,29.0
+    ketogenesis ,29.0
+    increased glucose counter-regulatory hormones ,29.0
+    pharmacological effects ,29.0
+    beta# 网络拓扑结构,
+## 网络结构图,
+![网络结构图](NetworkTopology.png),
+## 网络结构说明,
+网络结构中存在四个服务器，两个服务器位于内网，两个位于公网。其中，公网的服务器有两个：一个用于运行主程序（如网站服务），另一个用于代理服务器；内网的两台服务器，一台用于数据库，另一台用于缓存。,
+## 访问流程说明,
+用户通过访问代理服务器来获取服务。代理服务器作为入口，将请求分发到内网的主程序服务器。主程序在处理请求时，根据需要会访问缓存服务器或数据库服务器。这种结构确保了主程序服务器不直接暴露于公网，提高了安全性。同时，代理服务器还可能承担负载均衡和流量管理的职责。,
